@@ -1,0 +1,156 @@
+{
+  "name": "IbogaBase",
+  "url": "https://www.ibogabase.com",
+  "description": "Independent public-interest reference for Iboga and Ibogaine research, safety, policy, culture, conservation, media, clinics, and field developments.",
+  "dateModified": "2026-05-17",
+  "audience": [
+    "clinicians",
+    "researchers",
+    "journalists",
+    "policymakers",
+    "people evaluating claims",
+    "culture and stewardship readers"
+  ],
+  "editorialPosition": "Anti-hype, pro-evidence, pro-safety, pro-stewardship, and explicit about uncertainty.",
+  "boundaries": [
+    "No dosing instructions",
+    "No provider referrals",
+    "No self-treatment guidance",
+    "No individualized medical or legal advice",
+    "No clinic ranking for compensation"
+  ],
+  "primaryTopics": [
+    {
+      "name": "Iboga",
+      "url": "https://www.ibogabase.com/reference/iboga/",
+      "description": "A careful introduction to Iboga as a Central African plant and cultural subject, separate from extracted Ibogaine and biomedical research claims.",
+      "keywords": [
+        "iboga",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Ibogaine",
+      "url": "https://www.ibogabase.com/reference/ibogaine/",
+      "description": "A source-backed overview of Ibogaine research, clinical evidence, safety risks, legal status, media claims, and policy activity.",
+      "keywords": [
+        "ibogaine",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Noribogaine and Analogs",
+      "url": "https://www.ibogabase.com/reference/noribogaine-analogs/",
+      "description": "A plain-language distinction between Iboga, Ibogaine, Noribogaine, and related analogs, including investigational status and claim boundaries.",
+      "keywords": [
+        "noribogaine-analogs",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Ibogaine Safety",
+      "url": "https://www.ibogabase.com/reference/ibogaine-safety-qtc/",
+      "description": "Plain-English Ibogaine safety reference focused on QT/QTc risk, cardiac screening, medication interactions, exclusions, and emergency readiness.",
+      "keywords": [
+        "ibogaine-safety-qtc",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Evidence by Condition",
+      "url": "https://www.ibogabase.com/reference/evidence-by-condition/",
+      "description": "Evidence-grade summaries for Ibogaine-related claims by condition, including human studies, limitations, outcomes, and safety signals.",
+      "keywords": [
+        "evidence-by-condition",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Ibogaine and Opioid Use Disorder",
+      "url": "https://www.ibogabase.com/reference/opioid-use-disorder/",
+      "description": "A cautious guide to Ibogaine and opioid use disorder evidence, withdrawal interruption claims, relapse uncertainty, and safety limits.",
+      "keywords": [
+        "opioid-use-disorder",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Parkinson's, TBI, and Neurology",
+      "url": "https://www.ibogabase.com/reference/parkinsons-neurology/",
+      "description": "A cautious reference page for Ibogaine-related neurological claims, including Parkinson's disease, traumatic brain injury, mechanisms, and uncertainty.",
+      "keywords": [
+        "parkinsons-neurology",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Law and Policy",
+      "url": "https://www.ibogabase.com/reference/policy-law/",
+      "description": "A living policy reference for Ibogaine law, state activity, country status, clinical-trial funding, and agency actions.",
+      "keywords": [
+        "policy-law",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Culture and Stewardship",
+      "url": "https://www.ibogabase.com/reference/culture-stewardship/",
+      "description": "A culturally careful guide to Iboga stewardship, Gabon, Bwiti-linked context, conservation, sourcing ethics, reciprocity, and outsider limitations.",
+      "keywords": [
+        "culture-stewardship",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Podcasts and Media",
+      "url": "https://www.ibogabase.com/reference/podcasts-media/",
+      "description": "A directory-oriented reference for podcasts, interviews, documentaries, books, articles, videos, and media claims about Iboga and Ibogaine.",
+      "keywords": [
+        "podcasts-media",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Clinic Claims and Adverse Events",
+      "url": "https://www.ibogabase.com/reference/clinic-claims-adverse-events/",
+      "description": "A plain-language reference for reading Ibogaine clinic claims, success-rate statements, adverse events, safety standards, and conflicts of interest.",
+      "keywords": [
+        "clinic-claims-adverse-events",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    }
+  ],
+  "machineReadableSources": [
+    "https://www.ibogabase.com/data/public-search-index.json",
+    "https://www.ibogabase.com/data/source-index.json",
+    "https://www.ibogabase.com/data/evidence-pages.json",
+    "https://www.ibogabase.com/data/policy-tracker.json",
+    "https://www.ibogabase.com/data/clinic-observatory.json",
+    "https://www.ibogabase.com/data/weekly-brief.json",
+    "https://www.ibogabase.com/data/review-metadata.json"
+  ],
+  "sitemap": "https://www.ibogabase.com/sitemap.xml",
+  "llmsTxt": "https://www.ibogabase.com/llms.txt"
+}

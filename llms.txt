@@ -1,0 +1,37 @@
+# IbogaBase
+
+> Independent public-interest reference for Iboga and Ibogaine research, safety, policy, culture, conservation, media, clinic claims, and field developments.
+
+IbogaBase is designed for source-first discovery by clinicians, researchers, journalists, policymakers, people evaluating treatment claims, and readers who care about cultural stewardship. It is anti-hype, pro-evidence, pro-safety, pro-stewardship, and explicit about uncertainty.
+
+Important boundaries: IbogaBase does not provide dosing instructions, provider referrals, self-treatment guidance, individualized medical advice, individualized legal advice, or paid clinic rankings.
+
+## Core reference pages
+
+- [Iboga](https://www.ibogabase.com/reference/iboga/): A careful introduction to Iboga as a Central African plant and cultural subject, separate from extracted Ibogaine and biomedical research claims.
+- [Ibogaine](https://www.ibogabase.com/reference/ibogaine/): A source-backed overview of Ibogaine research, clinical evidence, safety risks, legal status, media claims, and policy activity.
+- [Noribogaine and Analogs](https://www.ibogabase.com/reference/noribogaine-analogs/): A plain-language distinction between Iboga, Ibogaine, Noribogaine, and related analogs, including investigational status and claim boundaries.
+- [Ibogaine Safety](https://www.ibogabase.com/reference/ibogaine-safety-qtc/): Plain-English Ibogaine safety reference focused on QT/QTc risk, cardiac screening, medication interactions, exclusions, and emergency readiness.
+- [Evidence by Condition](https://www.ibogabase.com/reference/evidence-by-condition/): Evidence-grade summaries for Ibogaine-related claims by condition, including human studies, limitations, outcomes, and safety signals.
+- [Ibogaine and Opioid Use Disorder](https://www.ibogabase.com/reference/opioid-use-disorder/): A cautious guide to Ibogaine and opioid use disorder evidence, withdrawal interruption claims, relapse uncertainty, and safety limits.
+- [Parkinson's, TBI, and Neurology](https://www.ibogabase.com/reference/parkinsons-neurology/): A cautious reference page for Ibogaine-related neurological claims, including Parkinson's disease, traumatic brain injury, mechanisms, and uncertainty.
+- [Law and Policy](https://www.ibogabase.com/reference/policy-law/): A living policy reference for Ibogaine law, state activity, country status, clinical-trial funding, and agency actions.
+- [Culture and Stewardship](https://www.ibogabase.com/reference/culture-stewardship/): A culturally careful guide to Iboga stewardship, Gabon, Bwiti-linked context, conservation, sourcing ethics, reciprocity, and outsider limitations.
+- [Podcasts and Media](https://www.ibogabase.com/reference/podcasts-media/): A directory-oriented reference for podcasts, interviews, documentaries, books, articles, videos, and media claims about Iboga and Ibogaine.
+- [Clinic Claims and Adverse Events](https://www.ibogabase.com/reference/clinic-claims-adverse-events/): A plain-language reference for reading Ibogaine clinic claims, success-rate statements, adverse events, safety standards, and conflicts of interest.
+
+## Machine-readable indexes
+
+- [AI index](https://www.ibogabase.com/ai-index.json): Site purpose, boundaries, audiences, topic URLs, and data endpoints.
+- [Public search index](https://www.ibogabase.com/data/public-search-index.json): Searchable public source and content records.
+- [Source index](https://www.ibogabase.com/data/source-index.json): Source catalog records and source labels.
+- [Evidence pages](https://www.ibogabase.com/data/evidence-pages.json): Evidence-grade condition summaries.
+- [Policy tracker](https://www.ibogabase.com/data/policy-tracker.json): Law and policy rows.
+- [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking schema and rows.
+- [Weekly brief](https://www.ibogabase.com/data/weekly-brief.json): What changed recently.
+- [Review metadata](https://www.ibogabase.com/data/review-metadata.json): Review status, last-reviewed fields, and correction metadata.
+- [Sitemap](https://www.ibogabase.com/sitemap.xml): Crawlable site URLs.
+
+## Suggested citation
+
+IbogaBase. "IbogaBase: Iboga and Ibogaine, Carefully Sourced." https://www.ibogabase.com/. Accessed YYYY-MM-DD.
