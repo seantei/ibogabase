@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "rules": [
+    "No clinic rankings.",
+    "No referral fees.",
+    "No treatment-volume incentives.",
+    "No outcome percentages without definitions, denominators, follow-up windows, and conflict labels.",
+    "Every clinic record is claim tracking, not endorsement."
+  ],
+  "fields": [
+    "name",
+    "location",
+    "sourceUrl",
+    "claimType",
+    "staffingClaims",
+    "safetyClaims",
+    "outcomeClaims",
+    "adverseEventSignals",
+    "regulatoryNotes",
+    "lastChecked",
+    "confidence"
+  ],
+  "starterRecords": [
+    {
+      "name": "Clinic records pending verification",
+      "location": "Multiple jurisdictions",
+      "claimType": "directory_schema_ready",
+      "summary": "Clinic pages should publish only after source-traced claims, no-endorsement labels, and legal/rules review.",
+      "lastChecked": "2026-05-17",
+      "confidence": "schema_ready_records_pending"
+    }
+  ]
+}

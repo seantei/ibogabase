@@ -1,0 +1,193 @@
+{
+  "lastReviewed": "2026-05-16",
+  "overall": 88,
+  "standard": "Unanimous-favorite quality requires source-backed depth, visible uncertainty, medical caution, cultural review, and regular updates.",
+  "sections": [
+    {
+      "name": "Start Here",
+      "score": 88,
+      "status": "reader decision tree plus search and Ask IbogaBase live",
+      "needed": [
+        "Plain-language Iboga / Ibogaine / Noribogaine explainer",
+        "Glossary",
+        "Reader pathways for patients, clinicians, journalists, policymakers, and cultural readers"
+      ]
+    },
+    {
+      "name": "Evidence",
+      "score": 84,
+      "status": "claim framework, condition templates, evidence matrix, and Parkinson's watchlist live",
+      "needed": [
+        "Evidence tables by condition",
+        "Clinical trial tracker",
+        "Mechanism and analog pages",
+        "Study design limitations"
+      ]
+    },
+    {
+      "name": "Safety",
+      "score": 82,
+      "status": "flagship section, checklist, and safety worker live",
+      "needed": [
+        "QT/QTc explainer",
+        "Drug interaction categories",
+        "Adverse event index",
+        "Medical-review workflow"
+      ]
+    },
+    {
+      "name": "Culture",
+      "score": 72,
+      "status": "stewardship, sourcing, outsider-limit lanes, and culture worker live",
+      "needed": [
+        "Gabon and Bwiti context",
+        "Conservation and benefit-sharing",
+        "Qualified cultural review notes",
+        "Language guide"
+      ]
+    },
+    {
+      "name": "Policy",
+      "score": 78,
+      "status": "primary-source starter tracker live for FDA, Oklahoma, Texas, and Tennessee",
+      "needed": [
+        "State-by-state tracker",
+        "Federal pathway explainer",
+        "Texas timeline",
+        "International overview"
+      ]
+    },
+    {
+      "name": "Media and Clinics",
+      "score": 70,
+      "status": "claim-check model and clinic observatory rules live; records need verification",
+      "needed": [
+        "Media claim log",
+        "Clinic observatory criteria",
+        "Conflict labels",
+        "No-endorsement policy"
+      ]
+    },
+    {
+      "name": "Journal",
+      "score": 72,
+      "status": "weekly what-changed field brief live",
+      "needed": [
+        "Weekly cadence",
+        "Monthly what-changed report",
+        "Research brief template",
+        "Claim-check template"
+      ]
+    }
+    ,
+    {
+      "name": "Editorial Board",
+      "score": 42,
+      "status": "review seats public, named reviewers pending",
+      "needed": [
+        "Named medical reviewer after consent",
+        "Named cardiology reviewer after consent",
+        "Named pharmacology reviewer after consent",
+        "Named Gabon/Bwiti cultural advisors after consent",
+        "Named legal/policy reviewer after consent"
+      ]
+    },
+    {
+      "name": "Correction Log",
+      "score": 70,
+      "status": "visible log and per-page review metadata live",
+      "needed": [
+        "Per-page review dates",
+        "Named reviewer fields",
+        "Correction entries linked to source changes",
+        "Archived previous wording for material corrections"
+      ]
+    },
+    {
+      "name": "Source Discipline",
+      "score": 82,
+      "status": "source-type lanes live",
+      "needed": [
+        "Apply source-type labels to every article",
+        "Add confidence and controversy fields to tracker records",
+        "Expose update history on every major claim"
+      ]
+    },
+    {
+      "name": "Uncertainty",
+      "score": 80,
+      "status": "what-we-do-not-know section live",
+      "needed": [
+        "Tie unknowns to specific source records",
+        "Add per-condition unanswered-question lists",
+        "Review uncertainty language with medical and cultural advisors"
+      ]
+    }
+    ,
+    {
+      "name": "Ethical Support",
+      "score": 76,
+      "status": "donation and revenue boundaries live",
+      "needed": [
+        "Publish public budget categories before collecting money",
+        "Create conflict-of-interest policy",
+        "Decide whether membership briefings should exist",
+        "Keep core safety, culture, evidence, and correction pages public"
+      ]
+    },
+    {
+      "name": "Listening Library",
+      "score": 72,
+      "status": "directory, worker, and podcast scan live",
+      "needed": [
+        "Promote verified podcast episodes into individual records",
+        "Add platform links, guests, hosts, dates, and summaries",
+        "Extract claims and evidence labels from each episode",
+        "Avoid transcript reposting and long copyrighted excerpts"
+      ]
+    },
+    {
+      "name": "Universal Catalog",
+      "score": 86,
+      "status": "176-record public search index and 175-record source index live",
+      "needed": [
+        "Promote candidates into verified records",
+        "Add more book and documentary records",
+        "Deduplicate podcast metadata",
+        "Add source summaries and claim labels to every high-value source"
+      ]
+    },
+    {
+      "name": "Hermes Worker Bench",
+      "score": 86,
+      "status": "expanded scheduled specialist bench live with readability and legal/rules reviewers",
+      "needed": [
+        "Watch tomorrow's scheduled runs",
+        "Keep workers as briefs, not auto-publication",
+        "Recruit named external reviewers"
+      ]
+    },
+    {
+      "name": "Search and Ask IbogaBase",
+      "score": 86,
+      "status": "faceted source search and citation-only local assistant live",
+      "needed": [
+        "Improve ranking as the corpus grows",
+        "Add source snippets and date sorting",
+        "Audit refusals after every chatbot change",
+        "Keep Ask IbogaBase tied to citations only"
+      ]
+    },
+    {
+      "name": "Site Readability and Legal Rules",
+      "score": 78,
+      "status": "dedicated readability reviewer, legal/rules reviewer, and automated quality report live",
+      "needed": [
+        "Review site-quality report after each major edit",
+        "Route high-severity findings into the correction log",
+        "Get qualified attorney review before public launch or revenue collection",
+        "Keep merch culturally restrained and conflict-labeled"
+      ]
+    }
+  ]
+}

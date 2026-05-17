@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "template": [
+    "Evidence level",
+    "Human studies",
+    "Sample sizes",
+    "Design quality",
+    "Outcomes",
+    "Limitations",
+    "Safety signals",
+    "What is not proven"
+  ],
+  "conditions": [
+    {
+      "id": "oud",
+      "condition": "Opioid use disorder",
+      "evidenceLevel": "early_human_and_observational",
+      "humanStudies": "Observational detoxification reports, follow-up studies, and registered withdrawal research.",
+      "designQuality": "Often uncontrolled, selection-biased, and setting-dependent; approved medications remain the comparator readers should understand.",
+      "outcomes": "Withdrawal interruption, craving, and relapse claims require separate measurement.",
+      "limitations": "Durability, relapse denominator data, and adverse-event denominator data remain incomplete.",
+      "safetySignals": "Cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions.",
+      "notProven": "Ibogaine is not proven to cure opioid addiction."
+    },
+    {
+      "id": "aud",
+      "condition": "Alcohol use disorder",
+      "evidenceLevel": "investigational",
+      "humanStudies": "Noribogaine development is entering early-phase U.S. study activity; ibogaine AUD claims need careful separation.",
+      "designQuality": "Phase I permission is safety-focused and does not establish efficacy.",
+      "outcomes": "Relapse, craving, safety, and tolerability need controlled data.",
+      "limitations": "Noribogaine should not be blurred with ibogaine, plant Iboga, or clinic claims.",
+      "safetySignals": "Alcohol withdrawal, liver health, medications, QT/QTc, and monitoring requirements.",
+      "notProven": "Noribogaine is not FDA-approved for alcohol use disorder."
+    },
+    {
+      "id": "tbi",
+      "condition": "Traumatic brain injury",
+      "evidenceLevel": "notable_open_label_human_signal",
+      "humanStudies": "Veteran cohort work drew attention and needs side-by-side design-limit explanation.",
+      "designQuality": "Open-label cohort data can generate hypotheses but cannot establish broad efficacy.",
+      "outcomes": "Function, disability, mood, PTSD symptoms, and cognitive measures should be separated.",
+      "limitations": "Small samples, treatment setting, concurrent supports, and selection effects.",
+      "safetySignals": "Screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up.",
+      "notProven": "Ibogaine is not proven as a TBI treatment."
+    },
+    {
+      "id": "ptsd",
+      "condition": "PTSD and trauma symptoms",
+      "evidenceLevel": "secondary_outcomes_and_observational",
+      "humanStudies": "PTSD-related signals often appear within veteran or substance-use populations rather than standalone trials.",
+      "designQuality": "Needs controlled studies with clear endpoints and adequate follow-up.",
+      "outcomes": "Symptom change, functioning, relapse, and narrative meaning should not be collapsed into one outcome.",
+      "limitations": "Confounding, expectation effects, integration/support differences, and psychiatric exclusions.",
+      "safetySignals": "Psychiatric destabilization, suicidality screening, medications, and acute monitoring.",
+      "notProven": "Ibogaine is not proven as a PTSD treatment."
+    },
+    {
+      "id": "parkinsons",
+      "condition": "Parkinson's disease",
+      "evidenceLevel": "case_report_watchlist",
+      "humanStudies": "A 2026 case report is hypothesis-generating and belongs on a watchlist.",
+      "designQuality": "A single case cannot establish efficacy, generalizability, or safety.",
+      "outcomes": "Motor and non-motor outcomes need structured follow-up and independent replication.",
+      "limitations": "One-patient evidence is highly uncertain.",
+      "safetySignals": "Age, cardiac status, neurological comorbidity, drug interactions, and medication changes.",
+      "notProven": "Ibogaine is not proven as a Parkinson's treatment."
+    }
+  ]
+}

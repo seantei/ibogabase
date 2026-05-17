@@ -1,0 +1,1266 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>IbogaBase | The Living Evidence Base for Iboga and Ibogaine</title>
+    <meta
+      name="description"
+      content="IbogaBase is a living, source-backed knowledge base for Iboga and Ibogaine research, safety, law, culture, policy, media, clinics, and stewardship."
+    />
+    <link rel="preconnect" href="https://commons.wikimedia.org" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" data-sticky>
+      <a class="brand" href="#top" aria-label="IbogaBase home">
+        <span class="brand-mark" aria-hidden="true">IB</span>
+        <span>
+          <strong>IbogaBase</strong>
+          <small>The Iboga Evidence Base</small>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#start-tree">Start</a>
+        <a href="#search">Search</a>
+        <a href="#ask">Ask</a>
+        <a href="#safety-flagship">Safety</a>
+        <a href="#evidence-pages">Evidence</a>
+        <a href="#field-brief">Brief</a>
+        <a href="#trackers">Trackers</a>
+        <a href="#culture">Culture</a>
+        <a href="#claim-checks">Claims</a>
+        <a href="#listening">Listening</a>
+        <a href="#editorial-board">Board</a>
+        <a href="#support">Support</a>
+        <a href="#legal-rules">Rules</a>
+        <a href="#review-log">Review Log</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Living knowledge base · reviewed May 10, 2026</p>
+          <h1>Iboga and Ibogaine, carefully sourced.</h1>
+          <p class="lede">
+            Start with the plant, the medicine, the evidence, the risks, the law,
+            and the cultures that have carried Iboga for generations. Every page
+            separates what is known, what is promising, what is risky, and what is
+            still only a claim.
+          </p>
+          <p class="positioning">
+            Not pro-Ibogaine. Not anti-Ibogaine. It is anti-hype, pro-evidence, pro-safety, and pro-stewardship.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button primary" href="#start-tree">Find your path</a>
+            <a class="button secondary" href="#search">Search sources</a>
+            <a class="button secondary" href="#safety-flagship">Check the risks</a>
+          </div>
+        </div>
+
+        <aside class="command-panel" aria-label="IbogaBase content navigator">
+          <div class="panel-topline">
+            <span>What do you need?</span>
+            <strong>Start here</strong>
+          </div>
+          <div class="review-lanes" aria-label="IbogaBase review lanes">
+            <a href="#start-tree"><span>New here</span><strong>Choose your reader path</strong></a>
+            <a href="#safety-flagship"><span>Risk check</span><strong>Cardiac and interaction concerns</strong></a>
+            <a href="#evidence-pages"><span>Research</span><strong>Evidence grades by condition</strong></a>
+            <a href="#culture"><span>Origins</span><strong>Gabon, Bwiti, and stewardship</strong></a>
+            <a href="#trackers"><span>Law and field</span><strong>Trials, policy, patents, clinics</strong></a>
+            <a href="#claim-checks"><span>Claims</span><strong>Common statements checked</strong></a>
+          </div>
+          <figure class="panel-figure">
+            <img
+              src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabernanthe%20iboga%20-%20Arbuste.jpg"
+              alt="Tabernanthe iboga shrub"
+            />
+          </figure>
+        </aside>
+      </section>
+
+      <section class="alert-band" aria-label="Medical scope warning">
+        <strong>Clinical boundary:</strong>
+        <span>
+          Ibogaine is federally Schedule I in the United States, carries serious cardiac
+          risk, and is not FDA-approved as a treatment. IbogaBase does not provide
+          dosing, provider referrals, or self-treatment instructions.
+        </span>
+      </section>
+
+      <section class="section search-section" id="search">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Search and Ask</p>
+            <h2>Find the source before trusting the claim.</h2>
+          </div>
+          <p>
+            Search covers the public source catalog, field briefs, policy rows,
+            evidence pages, review metadata, and clinic-claim schema. Ask IbogaBase is
+            citation-only: it answers from indexed records and refuses dosing, provider referral, self-treatment, and individualized medical or legal advice.
+          </p>
+        </div>
+        <div class="search-assistant-layout">
+          <article class="search-tool" aria-label="IbogaBase source search">
+            <div class="tool-heading">
+              <span>Source Search</span>
+              <strong data-search-count>building index</strong>
+            </div>
+            <label class="field-label" for="source-search">Search IbogaBase</label>
+            <div class="search-row">
+              <input id="source-search" type="search" placeholder="Try QT, Texas, Parkinson's, Hamilton Morris, Noribogaine..." data-source-search />
+              <select aria-label="Filter by source type" data-source-filter>
+                <option value="all">All source types</option>
+                <option value="laws_policy">Policy and law</option>
+                <option value="studies_papers">Studies and papers</option>
+                <option value="clinical_trials">Clinical trials</option>
+                <option value="podcasts_interviews">Podcasts and interviews</option>
+                <option value="evidence_pages">Evidence pages</option>
+                <option value="weekly_brief">What changed</option>
+                <option value="clinics">Clinic claims</option>
+                <option value="culture_stewardship">Culture and stewardship</option>
+              </select>
+            </div>
+            <div class="search-results" data-search-results aria-live="polite"></div>
+          </article>
+
+          <article class="ask-tool" id="ask" aria-label="Ask IbogaBase">
+            <div class="tool-heading">
+              <span>Citation-only assistant</span>
+              <strong>guardrailed</strong>
+            </div>
+            <label class="field-label" for="ask-ibogabase">Ask a source-backed question</label>
+            <textarea id="ask-ibogabase" rows="4" placeholder="Example: What changed in Texas policy? What does FDA's noribogaine action mean?" data-ask-input></textarea>
+            <button class="button primary" type="button" data-ask-button>Answer from sources</button>
+            <div class="ask-answer" data-ask-answer aria-live="polite">
+              Ask about evidence, safety, policy, culture, podcasts, or source trails. Do not use this for medical emergencies, dosing, provider selection, or legal decisions.
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="at-a-glance" aria-label="IbogaBase at a glance">
+        <article>
+          <span>Plant and tradition</span>
+          <p>Iboga is rooted in Central African botanical, cultural, and spiritual contexts.</p>
+        </article>
+        <article>
+          <span>Compounds under study</span>
+          <p>Ibogaine, Noribogaine, and related analogs are being studied for addiction, TBI, and other conditions.</p>
+        </article>
+        <article>
+          <span>Safety reality</span>
+          <p>Cardiac risk, interactions, and emergency readiness remain central topics.</p>
+        </article>
+        <article>
+          <span>Legal landscape</span>
+          <p>U.S. federal Schedule I status sits beside fast-moving state and research activity.</p>
+        </article>
+      </section>
+
+      <section class="section field-reference-section" id="field-reference">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Field Reference</p>
+            <h2>A true reference, not a movement site.</h2>
+          </div>
+          <p>
+            The ambition is the Wikipedia + PubMed + ProPublica hybrid of Iboga:
+            broad enough to orient the public, rigorous enough for clinicians and
+            researchers, and investigative enough to track claims, conflicts, safety,
+            sourcing, law, and corrections.
+          </p>
+        </div>
+        <div class="principle-grid" aria-label="IbogaBase editorial principles">
+          <article><h3>Deeply sourced</h3><p>Every major claim should trace to a source type, date, confidence level, and update history.</p></article>
+          <article><h3>Intellectually humble</h3><p>The site should say what is unknown, debated, confounded, commercial, anecdotal, or still speculative.</p></article>
+          <article><h3>Culturally respectful</h3><p>Iboga is not reduced to a drug for addiction, and Bwiti-linked knowledge is not used as decoration.</p></article>
+          <article><h3>Medically rigorous</h3><p>Safety, adverse events, exclusions, study quality, and limitations remain visible beside potential benefit.</p></article>
+        </div>
+      </section>
+
+      <section class="section start-tree-section" id="start-tree">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Start Here</p>
+            <h2>Begin with the question you actually have.</h2>
+          </div>
+          <p>
+            The homepage should not ask every reader to sort through the whole field.
+            Choose the path that matches your role, then move into the evidence,
+            safety, culture, law, or source trail behind it.
+          </p>
+        </div>
+        <div class="start-tree-grid" aria-label="Reader decision tree">
+          <a href="#evidence-pages"><span>I am a researcher</span><strong>Evidence grades, study limits, trial status, mechanisms</strong></a>
+          <a href="#trackers"><span>I am a policymaker</span><strong>Law, state activity, country status, public funding, agencies</strong></a>
+          <a href="#safety-flagship"><span>I am considering treatment</span><strong>Risks, boundaries, adverse events, no referrals or protocols</strong></a>
+          <a href="#claim-checks"><span>I am a journalist</span><strong>Claim checks, source trails, corrections, conflicts, plain language</strong></a>
+          <a href="#safety-flagship"><span>I am a clinician</span><strong>Safety literature, interactions, exclusions, research-setting standards</strong></a>
+          <a href="#culture"><span>I care about culture</span><strong>Gabon, Bwiti-linked stewardship, conservation, sourcing ethics</strong></a>
+        </div>
+      </section>
+
+      <section class="section map-section" id="overview">
+        <div class="section-heading">
+          <p class="eyebrow">Site Map</p>
+          <h2>Open the part of the field you need.</h2>
+          <p>
+            Begin with evidence, safety, culture, policy, media, clinics, data, or the
+            Journal. Each path distinguishes what is known, emerging, contested,
+            traditional, or still only a claim.
+          </p>
+        </div>
+
+        <div class="base-map" aria-label="IbogaBase topic map">
+          <a href="#evidence">
+            <span>01</span>
+            <strong>Evidence</strong>
+            <small>Studies, trials, mechanisms, analogs, outcomes</small>
+          </a>
+          <a href="#safety-flagship">
+            <span>02</span>
+            <strong>Safety</strong>
+            <small>Cardiac risk, interactions, adverse events, contraindications</small>
+          </a>
+          <a href="#culture">
+            <span>03</span>
+            <strong>Culture</strong>
+            <small>Bwiti context, Gabon, conservation, benefit sharing</small>
+          </a>
+          <a href="#policy">
+            <span>04</span>
+            <strong>Policy</strong>
+            <small>Federal law, states, FDA, trials, public funding</small>
+          </a>
+          <a href="#media">
+            <span>05</span>
+            <strong>Media</strong>
+            <small>YouTube, podcasts, X, documentaries, claim checks</small>
+          </a>
+          <a href="#clinics">
+            <span>06</span>
+            <strong>Clinics</strong>
+            <small>Openings, claims, red flags, quality questions</small>
+          </a>
+          <a href="#trackers">
+            <span>07</span>
+            <strong>Trackers</strong>
+            <small>Bibliography, trackers, source logs, corrections</small>
+          </a>
+          <a href="#journal">
+            <span>08</span>
+            <strong>Journal</strong>
+            <small>Research briefs, policy watch, cultural notes</small>
+          </a>
+        </div>
+      </section>
+
+      <section class="section updates-section" id="updates">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Latest Updates</p>
+            <h2>Every new item is reviewed before it is published.</h2>
+          </div>
+          <p>
+            This is the editorial intake model: primary sources first, news second,
+            commercial claims labeled, social posts never treated as fact until
+            confirmed. <span data-scan-summary></span>
+          </p>
+        </div>
+
+        <div class="update-tools" aria-label="Update filters">
+          <button class="filter active" type="button" data-filter="all">All</button>
+          <button class="filter" type="button" data-filter="research">Research</button>
+          <button class="filter" type="button" data-filter="policy">Policy</button>
+          <button class="filter" type="button" data-filter="culture">Culture</button>
+          <button class="filter" type="button" data-filter="safety">Safety</button>
+          <button class="filter" type="button" data-filter="commercial">Commercial</button>
+          <button class="filter" type="button" data-filter="media">Media</button>
+        </div>
+
+        <div class="update-grid">
+          <article class="update-card priority" data-category="policy research">
+            <div class="card-meta">
+              <span>FDA · Apr 24, 2026</span>
+              <b>Primary</b>
+            </div>
+            <h3>FDA allowed a U.S. early-phase Noribogaine study to proceed.</h3>
+            <p>
+              DemeRx NB can begin a phase I Noribogaine hydrochloride study for alcohol
+              use disorder, but FDA explicitly says this is not approval or proof of
+              safety or effectiveness.
+            </p>
+            <a href="https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order">Read source</a>
+          </article>
+
+          <article class="update-card priority" data-category="policy research">
+            <div class="card-meta">
+              <span>Texas · Dec 12, 2025</span>
+              <b>Primary</b>
+            </div>
+            <h3>Texas-funded IMPACT consortium announced a $50M Ibogaine trial effort.</h3>
+            <p>
+              UTMB Health and UTHealth Houston announced a two-year multicenter
+              research program for addiction, TBI, and behavioral health conditions.
+            </p>
+            <a href="https://www.utmb.edu/news/article/utmb-news/2025/12/12/utmb-health--in-collaboration-with-uthealth-houston--awarded--50-million-by-the-state-of-texas-to-lead-ibogaine-clinical-trials">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="policy">
+            <div class="card-meta">
+              <span>Texas · Jun 11, 2025</span>
+              <b>Law</b>
+            </div>
+            <h3>SB 2308 created state matching funds for Ibogaine research.</h3>
+            <p>
+              The law authorizes clinical drug trials through a public-university,
+              drug-company, and hospital partnership pathway.
+            </p>
+            <a href="https://gov.texas.gov/news/post/governor-abbott-signs-ibogaine-treatment-research-law-at-texas-capitol">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="research">
+            <div class="card-meta">
+              <span>Nature Medicine · 2024</span>
+              <b>Study</b>
+            </div>
+            <h3>Open-label veteran TBI study reported rapid improvement patterns.</h3>
+            <p>
+              The Stanford-linked MISTIC cohort is important and frequently cited, but
+              its design and treatment setting require careful interpretation.
+            </p>
+            <a href="https://www.nature.com/articles/s41591-023-02705-w">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="research">
+            <div class="card-meta">
+              <span>npj Mental Health Research · 2026</span>
+              <b>Study</b>
+            </div>
+            <h3>Qualitative analysis examined subjective healing narratives.</h3>
+            <p>
+              A 2026 analysis of the same 30-veteran cohort explored reported
+              psychological processes after magnesium-Ibogaine treatment.
+            </p>
+            <a href="https://www.nature.com/articles/s44184-026-00185-7">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="safety research">
+            <div class="card-meta">
+              <span>Clinical safety · ongoing</span>
+              <b>High risk</b>
+            </div>
+            <h3>Cardiac screening remains the site’s first safety topic.</h3>
+            <p>
+              QT/QTc prolongation, bradycardia, drug interactions, electrolyte issues,
+              and emergency readiness must be treated as central, not footnotes.
+            </p>
+            <a href="https://ibogaine.mindvox.com/wp-content/uploads/2020/08/Ibogaine-Assisted-Detoxification-Guidelines.pdf">Read GITA guidelines</a>
+          </article>
+
+          <article class="update-card" data-category="culture">
+            <div class="card-meta">
+              <span>ICEERS · 2026</span>
+              <b>Culture</b>
+            </div>
+            <h3>Community engagement material keeps conservation and Bwiti context central.</h3>
+            <p>
+              Gabonese and Bwiti-linked stewardship are tracked as core knowledge,
+              alongside conservation, reciprocity, and outsider limits.
+            </p>
+            <a href="https://www.iceers.org/wp-content/uploads/2026/03/ICEERS_IBOGA_Phase-3_-v2_-ENG.pdf">Read report</a>
+          </article>
+
+          <article class="update-card" data-category="culture">
+            <div class="card-meta">
+              <span>IMC · current</span>
+              <b>Stewardship</b>
+            </div>
+            <h3>Conservation work highlights demand, poaching, access, and reciprocity.</h3>
+            <p>
+              A credible site must track sustainability, fair trade, Nagoya Protocol
+              benefit-sharing, and whether Bwiti communities can access Iboga.
+            </p>
+            <a href="https://imc.fund/biocultures/iboga">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="commercial research">
+            <div class="card-meta">
+              <span>Company release · May 7, 2026</span>
+              <b>Verify</b>
+            </div>
+            <h3>Silo Pharma filed a provisional Ibogaine-based TBI patent.</h3>
+            <p>
+              Commercial releases are logged with conflict checks, forward-looking
+              language, and the need for independent confirmation.
+            </p>
+            <a href="https://www.globenewswire.com/news-release/2026/05/07/3289971/0/en/silo-pharma-files-provisional-patent-for-ibogaine-based-therapeutic-targeting-traumatic-brain-injury.html">Read source</a>
+          </article>
+
+          <article class="update-card" data-category="media">
+            <div class="card-meta">
+              <span>YouTube · X · podcasts</span>
+              <b>Watchlist</b>
+            </div>
+            <h3>Video and social claims are monitored, then traced to source.</h3>
+            <p>
+              High-impact interviews and posts are reduced to claims, then separated
+              from primary evidence, interpretation, promotion, and rumor.
+            </p>
+            <a href="#media">See media desk</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section field-brief-section" id="field-brief">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">What Changed</p>
+            <h2>A weekly field brief for people who need the current picture.</h2>
+          </div>
+          <p>
+            The brief turns raw news, laws, podcasts, company announcements, and
+            studies into source-labeled updates. Each item states what changed and,
+            just as important, what it does not mean.
+          </p>
+        </div>
+        <div class="brief-grid" data-weekly-brief></div>
+      </section>
+
+      <section class="section library-section" id="library">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Essential Library</p>
+            <h2>Start with the strongest sources.</h2>
+          </div>
+          <p>
+            These entries give readers a grounded first pass: what regulators have said,
+            what trials are registered, what researchers have published, and where the
+            cultural and policy questions begin.
+          </p>
+        </div>
+
+        <div class="library-grid">
+          <article class="library-card">
+            <span>FDA notice · Primary source</span>
+            <h3>Noribogaine study may begin in the U.S.</h3>
+            <p>
+              On April 24, 2026, FDA said DemeRx NB may begin a phase I
+              Noribogaine hydrochloride study for alcohol use disorder. FDA also
+              said this does not approve the drug or prove safety or efficacy.
+            </p>
+            <a href="https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order">FDA source</a>
+          </article>
+
+          <article class="library-card">
+            <span>Trial registry · Study design</span>
+            <h3>Oral Ibogaine is listed for opioid withdrawal research.</h3>
+            <p>
+              ClinicalTrials.gov records help readers check study design, sponsor,
+              measures, and status. A registry entry does not show that a treatment works.
+            </p>
+            <a href="https://clinicaltrials.gov/study/NCT05029401">Trial record</a>
+          </article>
+
+          <article class="library-card">
+            <span>Review article · Safety</span>
+            <h3>Researchers keep cardiac risk in the foreground.</h3>
+            <p>
+              A 2026 scoping review discusses possible therapeutic uses while stressing
+              toxicology, cardiac safety, and regulatory evaluation.
+            </p>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/41683522/">PubMed record</a>
+          </article>
+
+          <article class="library-card">
+            <span>Human study · Early evidence</span>
+            <h3>Veteran TBI study drew attention, with limits.</h3>
+            <p>
+              The magnesium-Ibogaine veteran research line is widely cited. Readers
+              need the sample size, open-label design, treatment setting, exclusions,
+              and safety context beside the findings.
+            </p>
+            <a href="https://www.nature.com/articles/s41591-023-02705-w">Study</a>
+          </article>
+
+          <article class="library-card">
+            <span>Policy · Public funding</span>
+            <h3>Texas put Ibogaine research into state policy.</h3>
+            <p>
+              Texas authorized a major public Ibogaine research effort and 2026
+              reporting says the state may proceed after failing to secure a qualifying
+              drug-company partner.
+            </p>
+            <a href="https://www.texastribune.org/2026/03/31/texas-ibogaine-research-clinical-trials-psychedelics/">Texas Tribune</a>
+          </article>
+
+          <article class="library-card">
+            <span>Culture · Stewardship</span>
+            <h3>Conservation and reciprocity are part of the story.</h3>
+            <p>
+              Iboga coverage needs Gabon, Bwiti-linked contexts, conservation pressure,
+              benefit-sharing, sourcing risk, and clear outsider limits.
+            </p>
+            <a href="https://chacruna.net/iboga_conservation/">Conservation reference</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="section evidence-section" id="evidence">
+        <div class="section-heading">
+          <p class="eyebrow">Evidence Base</p>
+          <h2>Read the evidence by strength, not excitement.</h2>
+          <p>
+            IbogaBase keeps separate lanes for law, human research, toxicology,
+            pharmacology, traditional knowledge, commercial announcements, and media
+            claims. A trial registry entry is not proof. A company release is not a
+            clinical result. A moving personal story is not the same as controlled
+            evidence.
+          </p>
+        </div>
+        <div class="evidence-layout">
+          <div class="evidence-scale">
+            <article>
+              <span class="grade established">Established</span>
+              <h3>Facts that should not be softened</h3>
+              <p>Ibogaine remains Schedule I federally in the U.S.; it is not FDA-approved; serious cardiac risk is repeatedly documented.</p>
+            </article>
+            <article>
+              <span class="grade emerging">Emerging</span>
+              <h3>Human findings worth following</h3>
+              <p>Observational cohorts, veteran TBI work, registered withdrawal studies, and Noribogaine development all matter, with design limits shown beside results.</p>
+            </article>
+            <article>
+              <span class="grade preclinical">Preclinical</span>
+              <h3>Mechanisms and analogs</h3>
+              <p>Receptor pharmacology, neuroplasticity hypotheses, metabolism, Noribogaine, 18-MC, Tabernanthalog, and other analogs are tracked without treating them as interchangeable.</p>
+            </article>
+            <article>
+              <span class="grade contested">Contested</span>
+              <h3>Claims that need discipline</h3>
+              <p>Miracle-cure language, clinic outcome numbers, stock-market hype, unsupported protocols, and viral clips are logged as claims until they trace to better evidence.</p>
+            </article>
+          </div>
+          <div class="research-table" role="table" aria-label="Research tracker preview">
+            <div role="row">
+              <strong role="columnheader">Track</strong>
+              <strong role="columnheader">What IbogaBase maintains</strong>
+            </div>
+            <div role="row">
+              <span>Trials</span>
+              <span>Registry status, sponsor, design, arms, measures, exclusions, location, and whether results are posted.</span>
+            </div>
+            <div role="row">
+              <span>Human studies</span>
+              <span>Sample size, population, treatment setting, follow-up, adverse events, conflicts, and what the design cannot prove.</span>
+            </div>
+            <div role="row">
+              <span>Reviews</span>
+              <span>Systematic and scoping reviews are used to map the field, not to inflate certainty beyond the underlying studies.</span>
+            </div>
+            <div role="row">
+              <span>Analogs</span>
+              <span>Noribogaine, 18-MC, non-hallucinogenic analogs, and synthesis work are tagged by compound so readers do not confuse one molecule for another.</span>
+            </div>
+            <div role="row">
+              <span>Traditional knowledge</span>
+              <span>Culture, ceremony, language, and place are handled as knowledge systems with attribution and stewardship, not as decorative background.</span>
+            </div>
+            <div role="row">
+              <span>Claims</span>
+              <span>What was said, by whom, source type, conflict, evidence trail, confidence, and correction status.</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section source-discipline-section" id="source-discipline">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Source Discipline</p>
+            <h2>Separate the kind of knowledge before judging the claim.</h2>
+          </div>
+          <p>
+            IbogaBase separates tradition, spirituality, observational reports, mechanistic science, human evidence, speculation, and commercial claims.
+            Blending those lanes is how many sites become propaganda, marketing, or
+            shallow content.
+          </p>
+        </div>
+        <div class="source-type-grid">
+          <article><span>Tradition</span><p>Historical, cultural, ceremonial, and community knowledge, handled with attribution and outsider limits.</p></article>
+          <article><span>Spirituality</span><p>Experiential and religious meaning, described respectfully without converting it into biomedical proof.</p></article>
+          <article><span>Observational reports</span><p>Case reports, cohorts, surveys, narratives, and clinic outcomes, labeled with confounders and selection bias.</p></article>
+          <article><span>Mechanistic science</span><p>Pharmacology, receptors, metabolism, animal data, and hypotheses, kept separate from human efficacy.</p></article>
+          <article><span>Human evidence</span><p>Trials, open-label studies, registries, follow-up, sample sizes, endpoints, adverse events, and design quality.</p></article>
+          <article><span>Speculation</span><p>Ideas, models, and plausible mechanisms that may be worth studying but are not established facts.</p></article>
+          <article><span>Commercial claims</span><p>Company releases, patent language, clinic marketing, investor narratives, and conflicts of interest.</p></article>
+        </div>
+      </section>
+
+      <section class="section claim-framework-section" id="claim-framework">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Claim Framework</p>
+            <h2>Every claim needs a label, not a vibe.</h2>
+          </div>
+          <p>
+            Each important statement should carry source type, confidence level,
+            evidence grade, controversy status, and update history. This makes the
+            site more useful than a list of articles.
+          </p>
+        </div>
+        <div class="claim-framework-table" role="table" aria-label="Claim evidence framework">
+          <div role="row">
+            <strong role="columnheader">Claim</strong>
+            <strong role="columnheader">Evidence</strong>
+            <strong role="columnheader">Confidence</strong>
+            <strong role="columnheader">Status</strong>
+          </div>
+          <div role="row">
+            <span>Ibogaine can interrupt opioid withdrawal for some people.</span>
+            <span>Observational and early clinical evidence, with serious safety constraints.</span>
+            <span>Moderate</span>
+            <span>Promising, not settled.</span>
+          </div>
+          <div role="row">
+            <span>Ibogaine cures addiction.</span>
+            <span>Unsupported overstatement; relapse, follow-up, and denominator problems remain.</span>
+            <span>Low</span>
+            <span>Rejected as miracle language.</span>
+          </div>
+          <div role="row">
+            <span>QT prolongation risk exists.</span>
+            <span>Safety literature, adverse-event reports, and research protocols keep cardiotoxicity central.</span>
+            <span>High</span>
+            <span>Established safety concern.</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section evidence-pages-section" id="evidence-pages">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Evidence-Grade Pages</p>
+            <h2>Every condition gets the same skeptical template.</h2>
+          </div>
+          <p>
+            Each page uses the same structure: evidence level, human studies, sample
+            sizes, design quality, outcomes, limitations, safety signals, and what is
+            not proven. That keeps promising findings from outrunning the evidence.
+          </p>
+        </div>
+        <div class="condition-grid" aria-label="Evidence-grade condition pages">
+          <article><span>OUD</span><h3>Opioid use disorder</h3><p>Withdrawal, cravings, relapse, observational literature, registered studies, and comparison with approved medications.</p></article>
+          <article><span>AUD</span><h3>Alcohol use disorder</h3><p>Noribogaine development, relapse outcomes, trial status, and the difference between IND permission and approval.</p></article>
+          <article><span>TBI</span><h3>Traumatic brain injury</h3><p>Veteran studies, open-label limits, psychiatric comorbidity, follow-up length, safety context, and controlled-trial needs.</p></article>
+          <article><span>PTSD</span><h3>PTSD and trauma symptoms</h3><p>Human findings are tracked beside study design, setting, concurrent supports, and what cannot be generalized.</p></article>
+          <article><span>Depression</span><h3>Depression and mood</h3><p>Outcome signals are separated from psychedelic-class headlines and compared with the actual Ibogaine evidence base.</p></article>
+          <article><span>Anxiety</span><h3>Anxiety symptoms</h3><p>Anxiety outcomes are tracked only when measured in a defined population, often alongside TBI, PTSD, or depression rather than as a standalone indication.</p></article>
+          <article><span>Parkinson's</span><h3>Parkinson's disease</h3><p>A 2026 peer-reviewed case report is exciting and hypothesis-generating, but one patient is not evidence of efficacy.</p></article>
+          <article><span>Withdrawal</span><h3>Withdrawal and cravings</h3><p>Acute withdrawal, post-acute symptoms, craving reports, risk windows, and adverse-event signals are separated.</p></article>
+        </div>
+        <div class="evidence-matrix" id="evidence-matrix" data-evidence-matrix aria-label="Condition evidence matrix"></div>
+      </section>
+
+      <section class="section field-news-section" id="field-news">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Why The Field Feels Alive</p>
+            <h2>There is real movement, and every item needs a sober label.</h2>
+          </div>
+          <p>
+            The news is exciting because serious institutions, regulators, funders,
+            clinicians, and researchers are paying attention. It stays trustworthy only
+            when every development is labeled by what it can and cannot prove.
+          </p>
+        </div>
+        <div class="news-synthesis-grid">
+          <article><span>Regulatory signal</span><h3>Noribogaine entered a new U.S. research window.</h3><p>FDA allowed a closely monitored phase I alcohol-use-disorder study to proceed. Important, but not approval or proof of effectiveness.</p><a href="https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order">FDA source</a></article>
+          <article><span>Public funding</span><h3>Texas made Ibogaine research a state-level issue.</h3><p>The $50M Texas effort makes trial design, oversight, public reporting, and political language worth tracking closely.</p><a href="https://www.utmb.edu/news/article/utmb-news/2025/12/12/utmb-health--in-collaboration-with-uthealth-houston--awarded--50-million-by-the-state-of-texas-to-lead-ibogaine-clinical-trials">UTMB source</a></article>
+          <article><span>Neurodegenerative watch</span><h3>Parkinson's is now a watchlist topic, not a claim of treatment.</h3><p>A 2026 case report used validated instruments and reported improvements in one patient. The right label is preliminary case evidence.</p><a href="https://ourarchive.otago.ac.nz/esploro/outputs/journalArticle/Ibogaine-for-the-treatment-of-Parkinsons/9926827043801891?institution=64OTAGO_INST">Case report</a></article>
+          <article><span>Mental health watch</span><h3>PTSD, depression, anxiety, and TBI signals need condition-level pages.</h3><p>Recent veteran studies are notable, but small open-label and secondary analyses cannot carry broad mental-health claims by themselves.</p><a href="https://www.nature.com/articles/s44184-026-00185-7">2026 study</a></article>
+        </div>
+      </section>
+
+      <section class="section compounds-section" id="compounds">
+        <div class="section-heading">
+          <p class="eyebrow">Separate The Terms</p>
+          <h2>Iboga, Ibogaine, Noribogaine, and analogs are not the same thing.</h2>
+          <p>
+            This distinction is central to credibility. Plant tradition, extracted
+            alkaloid, metabolite or derivative, and biotech analogs belong in related
+            but separate lanes.
+          </p>
+        </div>
+        <div class="compound-grid">
+          <article><h3>Iboga</h3><p>The plant, its Central African contexts, Gabon/Bwiti-linked stewardship, conservation, access, and cultural meaning.</p></article>
+          <article><h3>Ibogaine</h3><p>The psychoactive indole alkaloid studied for substance use and other conditions, with serious safety and legal constraints.</p></article>
+          <article><h3>Noribogaine</h3><p>A metabolite and development focus. FDA's April 2026 action allowed an early U.S. study to proceed; it was not approval or proof of safety or effectiveness.</p></article>
+          <article><h3>Analogs</h3><p>18-MC, Tabernanthalog, Ibogainalogs, and other derivatives are tracked by molecule, evidence type, sponsor, and clinical status.</p></article>
+        </div>
+      </section>
+
+      <section class="section unknowns-section" id="unknowns">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">What We Do Not Know</p>
+            <h2>Serious readers trust visible uncertainty.</h2>
+          </div>
+          <p>
+            The site should be aggressively honest about uncertainty. Unknowns are
+            not weaknesses; they are the map of what responsible research, policy,
+            and journalism still need to answer.
+          </p>
+        </div>
+        <div class="unknown-grid">
+          <article><h3>Long-term outcomes</h3><p>Durability, relapse patterns, and quality-of-life outcomes remain unclear across settings and populations.</p></article>
+          <article><h3>Relapse rates</h3><p>Published and clinic-reported rates vary, often without consistent definitions, follow-up windows, or denominator clarity.</p></article>
+          <article><h3>Mechanisms</h3><p>Pharmacology is complex and debated; plausible mechanisms should not be simplified into single-cause explanations.</p></article>
+          <article><h3>Screening standards</h3><p>International practices vary, and marketing language often omits what screening and monitoring actually include.</p></article>
+          <article><h3>Mortality denominator data</h3><p>Case reports matter, but the true denominator across underground, clinic, ceremonial, and research contexts is incomplete.</p></article>
+          <article><h3>Cultural authority</h3><p>Outsiders should not imply permission, initiation, lineage, or authority they do not have.</p></article>
+        </div>
+      </section>
+
+      <section class="section safety-section" id="safety">
+        <div id="safety-flagship"></div>
+        <div>
+          <p class="eyebrow">Safety Desk</p>
+          <h2>Safety is the first clinical topic, not the last paragraph.</h2>
+          <p>
+            This section is educational, not medical advice. It gives readers the
+            vocabulary to understand why Ibogaine risk assessment is serious: rhythm,
+            QT/QTc, medications, electrolytes, screening, monitoring, emergency
+            readiness, and transparent adverse-event reporting.
+          </p>
+        </div>
+        <div class="safety-grid">
+          <article><h3>QT/QTc and rhythm</h3><p>Plain-English explanation of QT interval, QTc correction, bradycardia, arrhythmia concern, electrolyte context, and why published studies keep returning to the heart.</p></article>
+          <article><h3>Medication interactions</h3><p>Conceptual map of drug classes that raise concern, including opioids, stimulants, alcohol, benzodiazepines, serotonergic drugs, QT-prolonging drugs, and CYP2D6 issues.</p></article>
+          <article><h3>Study exclusions</h3><p>Human research is summarized with exclusion criteria beside outcomes, so readers see who was not studied and why that matters.</p></article>
+          <article><h3>Adverse events</h3><p>Deaths, case reports, emergency transfers, and uncertain causality are tracked without sensationalizing or minimizing them.</p></article>
+          <article><h3>What this site will not publish</h3><p>No dosing instructions, self-treatment steps, provider referrals, clinic rankings, or protocol shortcuts.</p></article>
+          <article><h3>Review status</h3><p>Medical claims are flagged by source type and kept conservative until reviewed against primary literature, registries, and expert guidance.</p></article>
+        </div>
+        <div class="safety-topic-grid" aria-label="Safety topic checklist">
+          <span>QT/QTc</span>
+          <span>CYP2D6 metabolism</span>
+          <span>Polypharmacy</span>
+          <span>Psychiatric exclusions</span>
+          <span>Electrolyte risks</span>
+          <span>Stimulant risks</span>
+          <span>Serotonergic risks</span>
+          <span>Emergency readiness</span>
+          <span>Mortality literature</span>
+          <span>Causality limitations</span>
+        </div>
+        <div class="safety-standard">
+          <h3>What reputable research settings require</h3>
+          <p>
+            IbogaBase tracks whether a study or clinical claim describes medical screening,
+            ECG/QTc review, medication review, electrolyte assessment, informed consent,
+            continuous monitoring, emergency readiness, adverse-event reporting, and
+            follow-up. Missing details are treated as missing, not assumed.
+          </p>
+        </div>
+      </section>
+
+      <section class="section culture-section" id="culture">
+        <figure>
+          <img
+            src="https://commons.wikimedia.org/wiki/Special:FilePath/Tabernanthe%20iboga%20-%20Arbuste.jpg"
+            alt="Tabernanthe iboga shrub"
+          />
+        </figure>
+        <div>
+          <p class="eyebrow">Culture and Stewardship</p>
+          <h2>Honor Iboga without using culture as decoration.</h2>
+          <p>
+            Cultural coverage centers Gabon, Bwiti-linked traditions, language, land,
+            conservation, benefit-sharing, biopiracy, sourcing, and the tension between
+            global medical demand and local access. Iboga is not treated as raw material
+            for someone else's wellness story.
+          </p>
+          <ul class="plain-list">
+            <li>Terms are checked for accuracy, place, and context before they are repeated.</li>
+            <li>Conservation coverage includes poaching pressure, cultivation, access, and demand.</li>
+            <li>Nagoya Protocol and benefit-sharing literacy are treated as basic reader knowledge.</li>
+            <li>Commercial sourcing claims are examined for traceability, not accepted as virtue language.</li>
+            <li>Interviews should privilege cultural stewards and lived expertise over outsider summaries.</li>
+            <li>Iboga is not reduced to “drug for addiction,” and Bwiti is not used as aesthetic decoration.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section posture-section" id="posture">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Authorial Posture</p>
+            <h2>Earn trust as a steward, not a guru.</h2>
+          </div>
+          <p>
+            The site should not perform a shaman persona, chosen-messenger identity,
+            anti-pharma ideology, or evangelist certainty. Its voice should be patient
+            and humble: a curator, steward, investigator, and systems thinker, willing
+            to revise.
+          </p>
+        </div>
+      </section>
+
+      <section class="section policy-section" id="policy">
+        <div class="section-heading">
+          <p class="eyebrow">Policy and Law</p>
+          <h2>The politics are changing faster than the public understands.</h2>
+        </div>
+        <div class="policy-timeline">
+          <article>
+            <time>Federal U.S.</time>
+            <h3>Schedule I remains the baseline.</h3>
+            <p>21 CFR 1308.11 lists Ibogaine in Schedule I. Any U.S. research, access, or policy story has to start from that legal fact.</p>
+            <a href="https://www.law.cornell.edu/cfr/text/21/1308.11">Source</a>
+          </article>
+          <article>
+            <time>April 2026</time>
+            <h3>FDA allowed an early Noribogaine study to move forward.</h3>
+            <p>The agency described the action as permission for a closely monitored phase I study, not approval or evidence of safety and effectiveness.</p>
+            <a href="https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order">Source</a>
+          </article>
+          <article>
+            <time>Texas</time>
+            <h3>Public funding became a major field development.</h3>
+            <p>SB 2308 and the IMPACT consortium made Texas central to Ibogaine policy, public funding, and trial-watch coverage.</p>
+            <a href="https://gov.texas.gov/news/post/governor-abbott-signs-ibogaine-treatment-research-law-at-texas-capitol">Source</a>
+          </article>
+          <article>
+            <time>State watch</time>
+            <h3>Bill tracking needs bill text, not headlines alone.</h3>
+            <p>State proposals are logged by jurisdiction, bill number, status, text, fiscal note, hearing activity, and whether Ibogaine is named directly.</p>
+            <a href="#sources">Review method</a>
+          </article>
+          <article>
+            <time>International</time>
+            <h3>Access rules differ by country and can change quickly.</h3>
+            <p>Country pages should separate personal-use status, clinical practice, import rules, research permissions, and enforcement reality.</p>
+            <a href="#data">See trackers</a>
+          </article>
+          <article>
+            <time>Public agencies</time>
+            <h3>Agency language is tracked verbatim before interpretation.</h3>
+            <p>FDA, DEA, state agencies, universities, hospitals, and public funders are treated as primary-source lanes with dated citations.</p>
+            <a href="#updates">Latest updates</a>
+          </article>
+        </div>
+        <div class="policy-tracker-table" id="policy-tracker-table" data-policy-tracker aria-label="Primary-source policy tracker"></div>
+      </section>
+
+      <section class="section listening-section" id="listening">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Listening Library</p>
+            <h2>Every serious interview should become searchable.</h2>
+          </div>
+          <p>
+            IbogaBase can host a podcast and interview directory without becoming a
+            transcript-reposting site. Each record links to the original episode,
+            summarizes in original words, extracts key claims, and labels the evidence
+            behind those claims.
+          </p>
+        </div>
+        <div class="listening-grid" aria-label="Podcast and interview directory model">
+          <article><span>Episode record</span><h3>Host, guest, date, platform links</h3><p>Apple, Spotify, YouTube, RSS, show website, and archived source links are stored where available.</p></article>
+          <article><span>Iboga relevance</span><h3>Main topic or brief mention?</h3><p>Records distinguish deep Iboga/Ibogaine conversations from passing references in broader psychedelic episodes.</p></article>
+          <article><span>Claim extraction</span><h3>Statements become reviewable claims</h3><p>Each claim gets source type, confidence, evidence grade, controversy status, and follow-up sources.</p></article>
+          <article><span>Copyright boundary</span><h3>Link and analyze, do not replace</h3><p>The directory does not rehost audio, publish full transcripts, or copy long show notes. It adds original summary and analysis.</p></article>
+          <article><span>Hamilton Morris queue</span><h3>High-value expert interviews get priority</h3><p>The Hamilton Morris Iboga/Ibogaine interview set is seeded as a verification queue before publishing any definitive top-10 list.</p></article>
+          <article><span>Daily search</span><h3>Podcast discovery feeds the review queue</h3><p>Apple Podcasts metadata and media search queries now feed the source radar alongside news, laws, studies, blogs, clinics, and company releases.</p></article>
+        </div>
+      </section>
+
+      <section class="section catalog-section" id="catalog">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Universal Source Catalog</p>
+            <h2>Everything found gets a place in the map.</h2>
+          </div>
+          <p>
+            IbogaBase now maintains a source index for studies, trials, laws, podcasts,
+            interviews, books, documentaries, news, blogs, companies, clinics, and
+            cultural stewardship material. The catalog is not an endorsement list; it is
+            the intake map for review, summary, evidence grading, and correction.
+          </p>
+        </div>
+        <div class="catalog-grid" aria-label="Universal source catalog categories">
+          <article><span>Studies and papers</span><strong data-catalog-count="studies_papers">--</strong><p>Peer-reviewed papers, reviews, case reports, preprints, mechanisms, analogs.</p></article>
+          <article><span>Clinical trials</span><strong data-catalog-count="clinical_trials">--</strong><p>Registries, study records, trial status, sponsors, populations, endpoints.</p></article>
+          <article><span>Laws and policy</span><strong data-catalog-count="laws_policy">--</strong><p>Federal law, state bills, international status, public funding, agency language.</p></article>
+          <article><span>Podcasts and interviews</span><strong data-catalog-count="podcasts_interviews">--</strong><p>Episodes, guests, hosts, summaries, claim extraction, platform links.</p></article>
+          <article><span>Documentaries and films</span><strong data-catalog-count="documentaries_films">--</strong><p>Films, series episodes, panels, video references, documentary claims.</p></article>
+          <article><span>Books and bibliographies</span><strong data-catalog-count="books_bibliographies">--</strong><p>Books, chapters, memoirs, bibliographies, historical documents.</p></article>
+          <article><span>News and blogs</span><strong data-catalog-count="news_articles_blogs">--</strong><p>News stories, reputable blogs, newsletters, institutional explainers.</p></article>
+          <article><span>Companies and patents</span><strong data-catalog-count="companies_patents">--</strong><p>Commercial releases, patents, investor claims, conflicts, source trails.</p></article>
+          <article><span>Clinics</span><strong data-catalog-count="clinics">--</strong><p>Clinic claims, openings, closures, notices, outcomes, red flags.</p></article>
+          <article><span>Culture and stewardship</span><strong data-catalog-count="culture_stewardship">--</strong><p>Gabon, Bwiti-linked sources, conservation, reciprocity, sourcing, benefit sharing.</p></article>
+        </div>
+      </section>
+
+      <section class="section media-clinic" id="media">
+        <div>
+          <p class="eyebrow">Media Desk</p>
+          <h2>Claim tracking for videos, posts, podcasts, and documentaries.</h2>
+          <p>
+            Each record preserves the post or episode, guest, host, claim, source trail,
+            conflict, and confidence. Social content can start an investigation, but it
+            cannot settle one.
+          </p>
+          <div class="claim-list" aria-label="Media claim review examples">
+            <article><span>Personal stories</span><strong>Powerful, not automatically generalizable</strong><p>First-person accounts are preserved with care and never converted into population-level proof.</p></article>
+            <article><span>Expert interviews</span><strong>Credentials and claims are separated</strong><p>A guest can be credible while a specific statement still needs a source trail.</p></article>
+            <article><span>Viral posts</span><strong>High reach gets faster review</strong><p>Posts about deaths, breakthroughs, legal changes, or clinic claims are prioritized for verification.</p></article>
+          </div>
+        </div>
+        <div id="clinics">
+          <p class="eyebrow">Clinic Observatory</p>
+          <h2>Clinic openings, claims, notices, and red flags.</h2>
+          <p>
+            The observatory tracks clinics, retreats, study sites, closures, regulatory
+            notices, stated staffing, published outcomes, and red flags without becoming
+            a referral engine.
+          </p>
+          <div class="claim-list" aria-label="Clinic observatory scope">
+            <article><span>Openings and closures</span><strong>Logged with dates and source links</strong><p>Announcements, location changes, and closures are tracked as facts only when traceable.</p></article>
+            <article><span>Outcome claims</span><strong>Numbers need denominators</strong><p>Success rates are not repeated without definitions, sample size, follow-up window, and conflicts.</p></article>
+            <article><span>Red flags</span><strong>Safety claims get special scrutiny</strong><p>Emergency readiness, screening claims, staff credentials, adverse events, and regulatory notices are reviewed conservatively.</p></article>
+          </div>
+          <div class="observatory-note" data-clinic-observatory>
+            <h3>Clinic Observatory rules</h3>
+            <p>Clinic records are claim tracking, not referrals or rankings.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section claim-check-section" id="claim-checks">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Claim Checks</p>
+            <h2>Common statements get a verdict and a source trail.</h2>
+          </div>
+          <p>
+            The goal is not to shame curiosity. The goal is to keep a powerful story
+            from becoming medical misinformation, commercial hype, or cultural
+            extraction.
+          </p>
+        </div>
+        <div class="claim-check-grid">
+          <article><span>Verdict: overstated</span><h3>“Ibogaine cures addiction.”</h3><p>Evidence suggests possible effects on withdrawal, craving, and relapse for some people, but cure language outruns the evidence and hides risk.</p></article>
+          <article><span>Verdict: false</span><h3>“The FDA allowed Noribogaine, so it is approved.”</h3><p>FDA allowed an early phase study to proceed. That is not approval and does not establish safety or effectiveness.</p></article>
+          <article><span>Verdict: false</span><h3>“Natural means safe.”</h3><p>Iboga and Ibogaine can be natural and still carry serious cardiac and interaction risks.</p></article>
+          <article><span>Verdict: weak evidence</span><h3>“A clinic success rate proves efficacy.”</h3><p>Outcome claims need denominator, follow-up window, definition of success, adverse-event reporting, conflicts, and independent review.</p></article>
+        </div>
+      </section>
+
+      <section class="section comparisons-section" id="comparisons">
+        <div class="section-heading">
+          <p class="eyebrow">Comparison Pages</p>
+          <h2>Readers search in comparisons. The site should answer cleanly.</h2>
+        </div>
+        <div class="comparison-grid">
+          <article><h3>Ibogaine vs methadone, buprenorphine, and naltrexone</h3><p>Approved medications, evidence standards, access, retention, overdose risk, withdrawal, and where Ibogaine claims differ.</p></article>
+          <article><h3>Ibogaine vs ketamine</h3><p>Different pharmacology, clinical settings, legal status, risks, evidence bases, and common media confusion.</p></article>
+          <article><h3>Ibogaine vs psilocybin</h3><p>Different compounds, indications under study, safety profiles, trial designs, and policy pathways.</p></article>
+          <article><h3>Ibogaine vs 5-MeO-DMT</h3><p>Different source traditions, duration, risk profile, clinical evidence, and regulatory conversation.</p></article>
+          <article><h3>Ibogaine vs Noribogaine</h3><p>Parent compound, metabolite or derivative, development status, FDA language, and why readers should not blur them.</p></article>
+        </div>
+      </section>
+
+      <section class="section data-section" id="trackers">
+        <span id="data" class="anchor-alias"></span>
+        <div class="section-heading">
+          <p class="eyebrow">Living Trackers</p>
+          <h2>The field changes too quickly for static articles alone.</h2>
+          <p>
+            Living datasets make the site useful to researchers, journalists,
+            clinicians, funders, and policymakers. Each tracker records source type,
+            confidence, last checked date, and unresolved questions.
+          </p>
+        </div>
+        <div class="data-grid">
+          <article><h3>Clinical Trial Tracker</h3><p>Compound, condition, sponsor, registry, country, status, design, population, outcomes, and posted results.</p></article>
+          <article><h3>Policy Tracker</h3><p>Federal, state, international, pending bills, agency guidance, public funding, hearings, and bill text.</p></article>
+          <article><h3>Company and Patent Tracker</h3><p>Company releases, patents, compounds, claims, conflicts, financing language, and independent confirmation status.</p></article>
+          <article><h3>Clinic Claims Tracker</h3><p>Openings, closures, success-rate claims, staffing claims, adverse-event notices, and no-endorsement review.</p></article>
+          <article><h3>Podcast and Interview Tracker</h3><p>Podcast episodes, YouTube interviews, documentaries, panels, radio, guests, claims, summaries, and source trails.</p></article>
+          <article><h3>Adverse Event Tracker</h3><p>Case reports, deaths, emergency transfers, rhythm events, interaction concerns, and causality limits.</p></article>
+          <article><h3>Conservation and Sourcing Tracker</h3><p>Plant pressure, poaching risk, cultivation, benefit sharing, Gabonese context, and sourcing claims.</p></article>
+        </div>
+      </section>
+
+      <section class="section operating-section" id="sources">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Sources and Review</p>
+            <h2>How information gets collected and vetted.</h2>
+          </div>
+          <p>
+            IbogaBase tracks a wide field, but source types are not treated equally:
+            primary documents, peer-reviewed papers, registries, journalism, company
+            releases, social posts, and clinic claims each carry different weight.
+          </p>
+        </div>
+
+        <div class="operating-grid">
+          <article class="desk-panel">
+            <div class="panel-topline">
+              <span>Depth</span>
+              <strong data-editorial-field="overall">--%</strong>
+            </div>
+            <p>
+              Section depth is tracked internally so thin pages do not masquerade as
+              complete references.
+            </p>
+            <div class="completeness-list" data-completeness-list></div>
+          </article>
+
+          <article class="desk-panel queue-panel">
+            <div class="panel-topline">
+              <span>Current Intake</span>
+              <strong data-editorial-field="highPriority">-- high</strong>
+            </div>
+            <p>
+              New leads are traced back to primary sources before they become articles,
+              tables, or corrections.
+            </p>
+            <div class="queue-list" data-queue-list></div>
+          </article>
+
+          <article class="desk-panel worker-panel">
+            <div class="panel-topline">
+              <span>Source Weight</span>
+              <strong>no endorsements</strong>
+            </div>
+            <p>
+              Medical claims, clinic claims, social claims, and culturally sensitive
+              claims stay provisional until the source trail supports the wording.
+            </p>
+            <div class="source-rules">
+              <span><strong>Primary</strong> law, FDA, trial registries, published papers</span>
+              <span><strong>Context</strong> journalism, interviews, institutional updates</span>
+              <span><strong>Claims</strong> company releases, clinics, social posts, videos</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section board-section" id="editorial-board">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Editorial Board</p>
+            <h2>Credibility needs accountable review.</h2>
+          </div>
+          <p>
+            IbogaBase should publish reviewer names only after consent and role clarity.
+            Until then, the public board shows the exact review seats required before
+            the site claims authority. Names are added only after consent.
+          </p>
+        </div>
+        <div class="board-grid" aria-label="Editorial board review seats">
+          <article><span>Medical reviewer</span><h3>Addiction medicine</h3><p>Status: open. Reviews treatment claims, condition pages, and clinical wording.</p></article>
+          <article><span>Medical reviewer</span><h3>Cardiology</h3><p>Status: open. Reviews QT/QTc, rhythm, adverse-event, and emergency-readiness material.</p></article>
+          <article><span>Science reviewer</span><h3>Clinical pharmacology</h3><p>Status: open. Reviews Ibogaine, Noribogaine, metabolism, interactions, analogs, and mechanism claims.</p></article>
+          <article><span>Cultural advisor</span><h3>Gabon/Bwiti stewardship</h3><p>Status: open. Reviews terminology, outsider limits, sourcing ethics, conservation, and benefit-sharing language.</p></article>
+          <article><span>Policy reviewer</span><h3>Law and regulation</h3><p>Status: open. Reviews Schedule I language, state and country trackers, agency statements, and bill summaries.</p></article>
+          <article><span>Editorial lead</span><h3>Corrections and source standards</h3><p>Status: active. Maintains review log, source weighting, claim labels, and unresolved-question lists.</p></article>
+        </div>
+      </section>
+
+      <section class="section support-section" id="support">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Ethical Support</p>
+            <h2>Revenue should protect independence, not bend coverage.</h2>
+          </div>
+          <p>
+            IbogaBase can earn support ethically if money strengthens the public
+            reference and every conflict is visible. The site should not sell clinic
+            rankings, referral placement, miracle claims, protocols, or favorable
+            coverage.
+          </p>
+        </div>
+        <div class="support-grid">
+          <article><span>Best first step</span><h3>Reader donations</h3><p>Low-friction recurring donations with a public budget note: hosting, source access, reviewer honoraria, transcription, and research labor.</p></article>
+          <article><span>High trust</span><h3>Transparent membership</h3><p>Members can get briefings, research digests, and source-desk updates. Core safety, culture, correction, and evidence pages stay public.</p></article>
+          <article><span>Institutional</span><h3>Grants and fiscal sponsorship</h3><p>Best fit for cultural stewardship, conservation, public-interest research, and reviewer honoraria if funders have no editorial control.</p></article>
+          <article><span>Professional</span><h3>Paid evidence briefs</h3><p>Custom source packets for journalists, policymakers, or researchers, clearly separated from public editorial judgment.</p></article>
+          <article><span>Possible later</span><h3>Continuing education</h3><p>Clinician or journalist modules only after expert review, with no treatment instructions or clinic promotion.</p></article>
+          <article><span>Use caution</span><h3>Merch without cringe</h3><p>Merch is acceptable only when it is restrained, transparent, and culturally careful. It should fund the reference, not turn Iboga into a lifestyle logo.</p></article>
+          <article><span>Hard line</span><h3>No sacred imagery</h3><p>No sacred symbols, initiation imagery, or Bwiti-associated designs without explicit permission, context, and benefit-sharing.</p></article>
+          <article><span>Avoid</span><h3>Referral fees and pay-to-rank clinics</h3><p>Anything that makes IbogaBase financially dependent on treatment volume would damage trust immediately.</p></article>
+        </div>
+      </section>
+
+      <section class="section legal-rules-section" id="legal-rules">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Legal and Rules Desk</p>
+            <h2>Useful without crossing lines.</h2>
+          </div>
+          <p>
+            IbogaBase is not legal advice and is not medical advice. It is an
+            educational reference that links to original sources, summarizes in its
+            own words, labels uncertainty, and keeps commercial relationships visible.
+          </p>
+        </div>
+        <div class="rules-grid">
+          <article>
+            <span>Medical claims</span>
+            <h3>No treatment promises</h3>
+            <p>
+              Condition pages should separate early evidence, observational reports,
+              mechanisms, and speculation. IbogaBase does not provide dosing, provider
+              referrals, self-treatment instructions, or individualized medical guidance.
+            </p>
+          </article>
+          <article>
+            <span>Regulatory status</span>
+            <h3>IND is not approval</h3>
+            <p>
+              FDA-cleared study activity, including early-phase noribogaine research,
+              must be described as investigational. Permission for a study to proceed is
+              not FDA approval and not proof of safety or effectiveness.
+            </p>
+          </article>
+          <article>
+            <span>Copyright</span>
+            <h3>Link and summarize</h3>
+            <p>
+              The media library does not rehost audio, publish full transcripts, or copy
+              long show notes. Episodes, videos, books, and articles get links,
+              source labels, short original summaries, and claim records.
+            </p>
+          </article>
+          <article>
+            <span>Disclosures</span>
+            <h3>Money is labeled</h3>
+            <p>
+              Any paid relationships, sponsorships, affiliate links, and donated services
+              must be visible before money is collected. Funders do not buy coverage,
+              rankings, silence, or favorable claim language.
+            </p>
+          </article>
+          <article>
+            <span>Quality review</span>
+            <h3>Readable and usable</h3>
+            <p>
+              A dedicated Site Readability and UX Reviewer checks navigation, headings,
+              accessibility, broken anchors, mobile clarity, and confusing language.
+              Current automated report: <a href="data/site-quality-report.md">data/site-quality-report.md</a>.
+            </p>
+          </article>
+          <article>
+            <span>Rules review</span>
+            <h3>Compliance watch</h3>
+            <p>
+              A dedicated Legal and Rules Reviewer checks FDA/legal-status wording,
+              health-claim caution, copyright discipline, FTC-style disclosure needs,
+              privacy basics, merch boundaries, and no-referral safeguards.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section review-log-section" id="review-log">
+        <div class="section-heading inline-heading">
+          <div>
+            <p class="eyebrow">Correction and Review Log</p>
+            <h2>Trust grows when changes are visible.</h2>
+          </div>
+          <p>
+            Every important page should show when it was last reviewed, what changed,
+            why it changed, who reviewed it, and what still needs independent review.
+          </p>
+        </div>
+        <div class="review-log" role="table" aria-label="Correction and review log">
+          <div role="row">
+            <strong role="columnheader">Date</strong>
+            <strong role="columnheader">What changed</strong>
+            <strong role="columnheader">Why</strong>
+            <strong role="columnheader">Reviewed by</strong>
+          </div>
+          <div role="row">
+            <span>May 11, 2026</span>
+            <span>Homepage changed from encyclopedia preview to reader decision tree.</span>
+            <span>Improve navigation and reduce “site describing itself” language.</span>
+            <span>Editorial lead; external review pending.</span>
+          </div>
+          <div role="row">
+            <span>May 11, 2026</span>
+            <span>Safety, evidence, culture, policy, media, and tracker sections expanded.</span>
+            <span>Populate previously thin sections and make source standards visible.</span>
+            <span>Editorial lead; medical and cultural review pending.</span>
+          </div>
+          <div role="row">
+            <span>Next review</span>
+            <span>Add named reviewers, real claim records, adverse-event tracker rows, and condition pages.</span>
+            <span>Move from strong framework to publishable authority.</span>
+            <span>Board seats pending consent.</span>
+          </div>
+        </div>
+        <div class="review-metadata-grid" data-review-metadata></div>
+      </section>
+
+      <section class="section journal-section" id="journal">
+        <div>
+          <p class="eyebrow">IbogaBase Journal</p>
+          <h2>Short updates readers can trust.</h2>
+          <p>
+            Short, source-backed updates: research briefs, policy watch, safety notes,
+            cultural context, claim checks, media reviews, and monthly what-changed
+            reports.
+          </p>
+        </div>
+        <div class="journal-list">
+          <article class="journal-card">
+            <span>Field review</span>
+            <h3>May 2026: what changed in research, policy, and claims</h3>
+            <p>
+              FDA activity, Texas funding, new company releases, Nature-family studies,
+              and conservation reports all moved within the same field window.
+            </p>
+            <a href="content/journal/2026-05-10-field-scan.md">Read draft</a>
+          </article>
+          <article class="journal-card">
+            <span>Safety note</span>
+            <h3>Why Ibogaine articles should explain QT/QTc early</h3>
+            <p>
+              A short explainer for readers who keep seeing cardiac warnings but do not
+              yet understand the vocabulary behind them.
+            </p>
+            <a href="#safety">Read safety desk</a>
+          </article>
+          <article class="journal-card">
+            <span>Claim check</span>
+            <h3>How to read a clinic success-rate claim</h3>
+            <p>
+              The basic questions: success at what, measured when, in whom, compared
+              with what, reviewed by whom, and with what adverse-event reporting?
+            </p>
+            <a href="#media">See claim tracking</a>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Educational reference only; not medical advice and not legal advice. In an emergency, call local emergency services.
+        For substance use support in the U.S., call or text 988 or contact SAMHSA's
+        National Helpline at 1-800-662-HELP.
+      </p>
+      <button class="back-top" type="button" data-back-top>Back to top</button>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

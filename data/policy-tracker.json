@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "reviewStatus": "editorial_reviewed_primary_sources_for_starter_rows",
+  "disclaimer": "Educational policy tracking only. This is not legal advice, medical advice, treatment access guidance, or a substitute for checking current law with qualified counsel.",
+  "rows": [
+    {
+      "jurisdiction": "United States",
+      "action": "FDA noribogaine IND-related clinical research action",
+      "status": "early_phase_study_allowed_to_proceed",
+      "lastActionDate": "2026-04-24",
+      "primarySource": "FDA press announcement",
+      "primaryUrl": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+      "whatItPermits": "DemeRx NB may begin a phase I noribogaine hydrochloride study in a closely monitored U.S. clinical setting.",
+      "whatItDoesNotPermit": "Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway.",
+      "federalCaveat": "Ibogaine remains federally controlled; noribogaine research language should not be generalized to ibogaine treatment access.",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "jurisdiction": "Oklahoma",
+      "action": "HB 3834, Oklahoma Breakthrough Therapy Act",
+      "status": "approved_by_governor",
+      "lastActionDate": "2026-05-12",
+      "primarySource": "Oklahoma Legislature bill history",
+      "primaryUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3834&Session=2600",
+      "whatItPermits": "Creates a state framework related to ibogaine clinical trials and drug-development requirements.",
+      "whatItDoesNotPermit": "Does not make ibogaine FDA-approved and does not by itself authorize unsupervised treatment or provider referral.",
+      "federalCaveat": "Federal Schedule I status and FDA/DEA/IRB requirements remain central.",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "jurisdiction": "Texas",
+      "action": "SB 2308, ibogaine drug development clinical trials",
+      "status": "enrolled_law_effective_2025",
+      "lastActionDate": "2025-06-11",
+      "primarySource": "Texas Legislature enrolled bill text",
+      "primaryUrl": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02308F.htm",
+      "whatItPermits": "Creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials.",
+      "whatItDoesNotPermit": "Treatment-administration provisions apply only if FDA approves ibogaine to treat a medical condition.",
+      "federalCaveat": "Implementation may require federal waiver or authorization, and any clinical work must remain consistent with federal law.",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "jurisdiction": "Tennessee",
+      "action": "HB 2075 / SB 2149, Helping Open Pathways to Effective Treatment Act",
+      "status": "fiscal_note_reviewed_bill_status_needs_followup",
+      "lastActionDate": "2026-02-21",
+      "primarySource": "Tennessee General Assembly fiscal note",
+      "primaryUrl": "https://capitol.tn.gov/Bills/114/Fiscal/HB2075.pdf",
+      "whatItPermits": "Fiscal note describes proposed cohort applications to DMHSAS for ibogaine drug-development clinical trials and matching-fund conditions.",
+      "whatItDoesNotPermit": "The fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if FDA approves ibogaine to treat a medical condition.",
+      "federalCaveat": "The fiscal note states FDA classified ibogaine as Schedule I as of February 2026.",
+      "confidence": "primary_fiscal_note_needs_bill_status_followup",
+      "lastChecked": "2026-05-17"
+    }
+  ]
+}

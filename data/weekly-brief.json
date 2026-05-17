@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "title": "What changed in Iboga and Ibogaine: May 2026 field brief",
+  "status": "editorial_review_ready",
+  "summary": "Current field movement is concentrated in state policy, FDA-linked research language, public funding, podcast and media attention, and safety/culture scrutiny. IbogaBase treats this as a source map, not as evidence of treatment availability or clinical proof.",
+  "items": [
+    {
+      "lane": "Regulatory",
+      "headline": "FDA allowed an early-phase noribogaine study to proceed in the U.S.",
+      "whatChanged": "FDA announced that DemeRx NB may begin a closely monitored phase I noribogaine hydrochloride study for alcohol use disorder.",
+      "whatItDoesNotMean": "This is not drug approval, not a finding of safety or effectiveness, and not patient access guidance.",
+      "source": "FDA",
+      "sourceUrl": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "lane": "State policy",
+      "headline": "Oklahoma HB 3834 was approved by the governor.",
+      "whatChanged": "Oklahoma's bill page shows HB 3834, the Oklahoma Breakthrough Therapy Act for ibogaine clinical trials, approved by the governor on May 12, 2026.",
+      "whatItDoesNotMean": "It does not make ibogaine FDA-approved and does not erase federal Schedule I constraints.",
+      "source": "Oklahoma Legislature",
+      "sourceUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3834&Session=2600",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "lane": "State policy",
+      "headline": "Texas remains the central public-funding case study.",
+      "whatChanged": "Texas SB 2308 created a pathway for a selected consortium to conduct ibogaine drug development clinical trials and includes a subchapter that applies only if FDA approves ibogaine for a medical condition.",
+      "whatItDoesNotMean": "Texas law is not proof of efficacy and does not mean treatment is available outside federal law and research controls.",
+      "source": "Texas Legislature Online",
+      "sourceUrl": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02308F.htm",
+      "confidence": "high_primary_source",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "lane": "State policy",
+      "headline": "Tennessee HOPE Act materials describe proposed ibogaine drug-development trials.",
+      "whatChanged": "The Tennessee fiscal note for HB 2075 / SB 2149 describes the Helping Open Pathways to Effective Treatment Act and proposed cohort-based ibogaine drug-development trials.",
+      "whatItDoesNotMean": "The fiscal note is not clinical evidence and explicitly frames key activity around FDA approval and state/federal constraints.",
+      "source": "Tennessee General Assembly Fiscal Review Committee",
+      "sourceUrl": "https://capitol.tn.gov/Bills/114/Fiscal/HB2075.pdf",
+      "confidence": "primary_fiscal_note_needs_bill_status_followup",
+      "lastChecked": "2026-05-17"
+    },
+    {
+      "lane": "Media",
+      "headline": "Podcast and interview discovery is now a standing intake lane.",
+      "whatChanged": "The source catalog contains a growing podcast/interview directory and a dedicated Listening Library Curator role.",
+      "whatItDoesNotMean": "Interview statements are not treated as facts until converted into claim records and traced to supporting sources.",
+      "source": "IbogaBase source index",
+      "sourceUrl": "data/source-index.json",
+      "confidence": "internal_catalog",
+      "lastChecked": "2026-05-17"
+    }
+  ]
+}

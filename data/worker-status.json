@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-05-17T16:40:43.973Z",
+  "workers": [
+    {
+      "id": "research",
+      "label": "Research Sentinel",
+      "cadence": "daily",
+      "output": "data/workers/research-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:21:11.517Z"
+    },
+    {
+      "id": "policy",
+      "label": "Policy Tracker",
+      "cadence": "daily",
+      "output": "data/workers/policy-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:37:27.146Z"
+    },
+    {
+      "id": "safety",
+      "label": "Safety Reviewer",
+      "cadence": "daily",
+      "output": "data/workers/safety-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:26:02.695Z"
+    },
+    {
+      "id": "conditions",
+      "label": "Condition Evidence Editor",
+      "cadence": "daily",
+      "output": "data/workers/conditions-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:31:07.417Z"
+    },
+    {
+      "id": "culture",
+      "label": "Cultural Stewardship Editor",
+      "cadence": "daily",
+      "output": "data/workers/culture-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:46:12.678Z"
+    },
+    {
+      "id": "media",
+      "label": "Media and Social Analyst",
+      "cadence": "daily",
+      "output": "data/workers/media-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:51:09.983Z"
+    },
+    {
+      "id": "listening",
+      "label": "Listening Library Curator",
+      "cadence": "daily",
+      "output": "data/workers/listening-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T13:56:11.744Z"
+    },
+    {
+      "id": "catalog",
+      "label": "Universal Catalog Librarian",
+      "cadence": "daily",
+      "output": "data/workers/catalog-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T14:01:20.793Z"
+    },
+    {
+      "id": "workflow",
+      "label": "Editorial Workflow Architect",
+      "cadence": "weekly",
+      "output": "data/workers/workflow-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-11T14:21:04.927Z"
+    },
+    {
+      "id": "qa",
+      "label": "Quality Reviewer",
+      "cadence": "weekly",
+      "output": "data/workers/qa-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-11T14:36:08.260Z"
+    },
+    {
+      "id": "siteqa",
+      "label": "Site Readability and UX Reviewer",
+      "cadence": "daily",
+      "output": "data/workers/siteqa-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T14:46:19.292Z"
+    },
+    {
+      "id": "legal",
+      "label": "Legal and Rules Reviewer",
+      "cadence": "daily",
+      "output": "data/workers/legal-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T14:56:09.320Z"
+    },
+    {
+      "id": "stack",
+      "label": "Local Stack Guardian",
+      "cadence": "daily",
+      "output": "data/workers/stack-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-17T14:06:12.870Z"
+    },
+    {
+      "id": "support",
+      "label": "Ethical Support and Revenue Reviewer",
+      "cadence": "weekly",
+      "output": "data/workers/support-brief.md",
+      "status": "brief ready",
+      "modifiedAt": "2026-05-16T04:38:18.207Z"
+    }
+  ]
+}
