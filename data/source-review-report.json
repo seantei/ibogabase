@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T22:41:44.730Z",
+  "generatedAt": "2026-05-18T22:43:50.615Z",
   "scope": "Automated public catalog review. This checks public labels, placeholder leakage, source-detail fields, URL shape, and optional live link reachability. It is not medical, legal, cultural, or full editorial peer review.",
   "liveLinkCheck": false,
   "timeoutMs": 15000,
