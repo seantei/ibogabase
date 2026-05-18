@@ -1352,6 +1352,62 @@ figcaption {
   box-shadow: var(--shadow);
 }
 
+.culture-history-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 24px 0 0;
+}
+
+.culture-history-grid article {
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.72);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.culture-history-grid h3 {
+  font-size: 1rem;
+}
+
+.culture-history-grid p {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
+.culture-source-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 18px 0 0;
+}
+
+.culture-source-links span,
+.culture-source-links a {
+  min-height: 36px;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 11px;
+  border-radius: var(--radius);
+  font-size: 0.82rem;
+  font-weight: 850;
+}
+
+.culture-source-links span {
+  color: var(--green);
+  background: rgba(255, 253, 248, 0.76);
+  border: 1px solid var(--line);
+}
+
+.culture-source-links a {
+  color: var(--blue);
+  background: var(--white);
+  border: 1px solid var(--line);
+  text-decoration: none;
+}
+
 .plain-list {
   display: grid;
   gap: 10px;
@@ -1599,6 +1655,10 @@ figcaption {
     grid-template-columns: 1fr;
   }
 
+  .culture-history-grid {
+    grid-template-columns: 1fr;
+  }
+
   .base-map,
   .at-a-glance,
   .data-grid,
@@ -1704,6 +1764,11 @@ figcaption {
   .update-dial,
   .review-lanes {
     grid-template-columns: 1fr;
+  }
+
+  .culture-source-links {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .review-log div {
