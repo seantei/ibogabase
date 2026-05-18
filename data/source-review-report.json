@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-18T21:56:04.183Z",
+  "generatedAt": "2026-05-18T22:41:44.730Z",
   "scope": "Automated public catalog review. This checks public labels, placeholder leakage, source-detail fields, URL shape, and optional live link reachability. It is not medical, legal, cultural, or full editorial peer review.",
   "liveLinkCheck": false,
   "timeoutMs": 15000,
   "concurrency": 1,
-  "totalRecordsChecked": 200,
-  "passed": 200,
+  "totalRecordsChecked": 195,
+  "passed": 195,
   "needsEditorAttention": 0,
   "issueCounts": {},
   "records": [
@@ -2726,81 +2726,11 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "review-safety-desk",
-      "title": "Safety Desk review status",
-      "category": "Review log",
-      "url": "#safety-flagship",
-      "publicLabel": "Review log · Page review record",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "review-policy-tracker",
-      "title": "Policy Tracker review status",
-      "category": "Review log",
-      "url": "#policy-tracker-table",
-      "publicLabel": "Review log · Page review record",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "review-evidence-grade-pages",
-      "title": "Evidence-Grade Pages review status",
-      "category": "Review log",
-      "url": "#evidence-matrix",
-      "publicLabel": "Review log · Page review record",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "review-culture-and-stewardship",
-      "title": "Culture and Stewardship review status",
-      "category": "Review log",
-      "url": "#culture",
-      "publicLabel": "Review log · Page review record",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "review-ask-ibogabase",
-      "title": "Ask IbogaBase review status",
-      "category": "Review log",
-      "url": "#ask",
-      "publicLabel": "Review log · Page review record",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
       "id": "clinic-observatory-1",
-      "title": "Clinic records pending verification",
+      "title": "Clinic claim monitoring",
       "category": "Clinic claims",
       "url": "#clinics",
-      "publicLabel": "Clinic claims · Clinic-claim schema",
+      "publicLabel": "Clinic claims · Clinic-claim record",
       "link": {
         "checked": false,
         "ok": true,

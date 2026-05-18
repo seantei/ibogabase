@@ -12,7 +12,7 @@
       "primaryUrl": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
       "whatItPermits": "DemeRx NB may begin a phase I noribogaine hydrochloride study in a closely monitored U.S. clinical setting.",
       "whatItDoesNotPermit": "Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway.",
-      "federalCaveat": "Ibogaine remains federally controlled; noribogaine research language should not be generalized to ibogaine treatment access.",
+      "federalCaveat": "Ibogaine remains federally controlled; noribogaine research language is separate from ibogaine treatment access.",
       "confidence": "high_primary_source",
       "lastChecked": "2026-05-17"
     },
@@ -38,21 +38,21 @@
       "primaryUrl": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02308F.htm",
       "whatItPermits": "Creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials.",
       "whatItDoesNotPermit": "Treatment-administration provisions apply only if FDA approves ibogaine to treat a medical condition.",
-      "federalCaveat": "Implementation may require federal waiver or authorization, and any clinical work must remain consistent with federal law.",
+      "federalCaveat": "Implementation may require federal waiver or authorization; clinical work remains subject to federal law.",
       "confidence": "high_primary_source",
       "lastChecked": "2026-05-17"
     },
     {
       "jurisdiction": "Tennessee",
       "action": "HB 2075 / SB 2149, Helping Open Pathways to Effective Treatment Act",
-      "status": "fiscal_note_reviewed_bill_status_needs_followup",
+      "status": "fiscal_note_reviewed",
       "lastActionDate": "2026-02-21",
       "primarySource": "Tennessee General Assembly fiscal note",
       "primaryUrl": "https://capitol.tn.gov/Bills/114/Fiscal/HB2075.pdf",
       "whatItPermits": "Fiscal note describes proposed cohort applications to DMHSAS for ibogaine drug-development clinical trials and matching-fund conditions.",
       "whatItDoesNotPermit": "The fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if FDA approves ibogaine to treat a medical condition.",
       "federalCaveat": "The fiscal note states FDA classified ibogaine as Schedule I as of February 2026.",
-      "confidence": "primary_fiscal_note_needs_bill_status_followup",
+      "confidence": "primary_fiscal_note",
       "lastChecked": "2026-05-17"
     }
   ]

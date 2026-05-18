@@ -22,12 +22,12 @@
   ],
   "starterRecords": [
     {
-      "name": "Clinic records pending verification",
+      "name": "Clinic claim monitoring",
       "location": "Multiple jurisdictions",
-      "claimType": "directory_schema_ready",
-      "summary": "Clinic pages should publish only after source-traced claims, no-endorsement labels, and legal/rules review.",
+      "claimType": "no_endorsement_claim_tracking",
+      "summary": "Clinic entries track public claims, locations, safety statements, outcome language, and adverse-event signals. IbogaBase does not rank clinics or provide referrals.",
       "lastChecked": "2026-05-17",
-      "confidence": "schema_ready_records_pending"
+      "confidence": "claim_tracking_only"
     }
   ]
 }

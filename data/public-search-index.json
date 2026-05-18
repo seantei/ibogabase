@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T21:56:04.110Z",
-  "totalRecords": 200,
+  "generatedAt": "2026-05-18T22:41:44.655Z",
+  "totalRecords": 195,
   "categories": {
     "books_bibliographies": 8,
     "clinical_trials": 18,
@@ -12,14 +12,13 @@
     "laws_policy": 25,
     "news_articles_blogs": 39,
     "podcasts_interviews": 53,
-    "review_metadata": 5,
     "studies_papers": 14,
     "weekly_brief": 5
   },
   "guardrails": [
     "Search results are source leads, not medical or legal advice.",
-    "Ask IbogaBase may only answer from indexed records and must show citations.",
-    "Ask IbogaBase must refuse dosing, provider referral, individualized medical/legal advice, and treatment instructions."
+    "Ask IbogaBase answers from indexed records and shows citations.",
+    "Ask IbogaBase refuses dosing, provider referral, individualized medical/legal advice, and treatment instructions."
   ],
   "records": [
     {
@@ -3099,7 +3098,7 @@
       "sourceType": "journalism",
       "sourceName": "Psychedelic Alpha",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSi04ZE9sOEUzMmh5bDd3cFR3ZnBTTllTRUpmWkl4WWtpQWg4M1dKcG1yQ3pwR3N1TGtEeTUzNXNIa0Y5bHJnaW5qQTRSdXduRTBxaUY5UVJ1YjlaUVh0SUtfeDUxbnpLUTNFenN2Q0NkTFg2a0pQdE04c0ZOQi1XWFl5SWRyWU53UHZ6TTRieGVjNkU2RlhwVHNqdzBPbFVDQkt0OWdabmVsaXJ4Q283MnUyWkdTM3dVam9pR0NGOFgyNWJ3MFFlTXpBWlI?oc=5",
-      "summary": "Culture or stewardship source from Psychedelic Alpha. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Psychedelic Alpha. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -3115,8 +3114,8 @@
       "displayDate": "Jun 15, 2023",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "ibogaine’s surge in popularity could be a huge loss for the gabonese people unless we shift course - psychedelic alpha culture or stewardship source from psychedelic alpha. outsider summaries should be read with humility and source awareness. culture_stewardship journalism psychedelic alpha  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "ibogaine’s surge in popularity could be a huge loss for the gabonese people unless we shift course - psychedelic alpha culture or stewardship source from psychedelic alpha. outsider summaries require humility and source awareness. culture_stewardship journalism psychedelic alpha  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-QSBwb3dlcmZ1bC",
@@ -4582,7 +4581,7 @@
       "displayDate": "Mar 1, 2026",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture, bwiti, gabon, conservation.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
       "searchText": "iceers iboga community engagement initiative phase 3 report use for cultural context, conservation risk, illegal-poaching concerns, and stewardship framing. culture_stewardship cultural_stewardship source_radar  culture bwiti gabon conservation benefit_sharing cataloged source cultural stewardship"
     },
     {
@@ -4611,7 +4610,7 @@
       "displayDate": "current",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers conservation, bwiti, nagoya, fair trade.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
       "searchText": "indigenous medicine conservation fund iboga conservation overview use for conservation strategy, overharvest, access, reciprocity, and alternative-source framing. culture_stewardship cultural_stewardship source_radar  conservation bwiti nagoya fair_trade cataloged source cultural stewardship"
     },
     {
@@ -4621,7 +4620,7 @@
       "sourceType": "journalism",
       "sourceName": "Rolling Stone",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzc5Z09BY29FM01NNVh5RUE5YnVUM0Q5THllZnZOU2pVRGo3dGhRd1dRNDRWQ0pDMExndUdsaC12dWFtM1ZxSklMaXVjOEVZWjhzakZSVkxXcmJpLW1UZVZBZmZPMFNYTHh4QjRSR3FPMGRkblVrNTJtVC1uQUR3ZVB5Y0JpWHZwRjVrS0FYZGxlaWhiTG5TNjYwMi04WUdXRzYybEkwVWVkcGRlN0wtTk43cw?oc=5",
-      "summary": "Culture or stewardship source from Rolling Stone. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Rolling Stone. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4637,8 +4636,8 @@
       "displayDate": "Apr 22, 2026",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "how ibogaine became the darling of the psychedelic right - rolling stone culture or stewardship source from rolling stone. outsider summaries should be read with humility and source awareness. culture_stewardship journalism rolling stone  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "how ibogaine became the darling of the psychedelic right - rolling stone culture or stewardship source from rolling stone. outsider summaries require humility and source awareness. culture_stewardship journalism rolling stone  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-T2Ygc2hydWIsIG",
@@ -4647,7 +4646,7 @@
       "sourceType": "journalism",
       "sourceName": "Frontiers",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNsdzVma2MxdkZmZWZpMzFGU3JrTS03ZEZTb1d5Q2JtSW8tTGhJclhic2MwSVR1UnEzZnUwUFJjLXczSDZrcXhpZUY4WFNRc0hqUlNnN2xua1hFck1uU0REWXgybk9ZZDVWUjVFRmRsTDQ5dUV3X3hRS1JxUXI5QmkyT1BBZ1FROTBnRGFkTVVScXdRekh5OUdTUG5CT1U?oc=5",
-      "summary": "Culture or stewardship source from Frontiers. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Frontiers. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4663,8 +4662,8 @@
       "displayDate": "Sep 28, 2025",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "of shrub, cactus, vine and toad: psychedelic species of conservation concern - frontiers culture or stewardship source from frontiers. outsider summaries should be read with humility and source awareness. culture_stewardship journalism frontiers  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "of shrub, cactus, vine and toad: psychedelic species of conservation concern - frontiers culture or stewardship source from frontiers. outsider summaries require humility and source awareness. culture_stewardship journalism frontiers  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-R2Fib24gbG9uZ3",
@@ -4673,7 +4672,7 @@
       "sourceType": "journalism",
       "sourceName": "Phys.org",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VcGpBNVZrSFNtMGRiczN0STdETmluUEdQVEtyZ2MxOVB0SmpLcGItaEhzV0JKSnY2dHlIS01iaDgzUmZnelRyTXZ5SXZqX0t0NnZzX0tzUUxfZGFfWDMwRllrbVR3OHpWYk1yXzd3VElqZnNGekE4R0ktX2l6bmc?oc=5",
-      "summary": "Culture or stewardship source from Phys.org. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Phys.org. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4689,8 +4688,8 @@
       "displayDate": "May 10, 2025",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "gabon longs to cash in on sacred hallucinogenic remedy - phys.org culture or stewardship source from phys.org. outsider summaries should be read with humility and source awareness. culture_stewardship journalism phys.org  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "gabon longs to cash in on sacred hallucinogenic remedy - phys.org culture or stewardship source from phys.org. outsider summaries require humility and source awareness. culture_stewardship journalism phys.org  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-VGhlIHBzeWNob2",
@@ -4699,7 +4698,7 @@
       "sourceType": "journalism",
       "sourceName": "National Geographic",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmt4Z2wwVmRWSTFqa09iZWxFNXJOVWw0cFdUY3VjU1lCbmpxMXJsbXQzQmRWLWd0d1U0MUVSQllnUjkzVzNwUHk4aTRjYWNSbXA0eU9YcnZTckpjRlNMclhjZ0VuOEt5RHdMbXZLZ00xQUhJWjI3c2NzcVpGcmVQZnJCR2RkSVRfcVE1eXZsc0k4dmpzaDBPajFCRE44Zw?oc=5",
-      "summary": "Culture or stewardship source from National Geographic. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from National Geographic. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4715,8 +4714,8 @@
       "displayDate": "Mar 8, 2023",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "the psychoactive drug ibogaine could save lives—and everyone wants to cash in - national geographic culture or stewardship source from national geographic. outsider summaries should be read with humility and source awareness. culture_stewardship journalism national geographic  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "the psychoactive drug ibogaine could save lives—and everyone wants to cash in - national geographic culture or stewardship source from national geographic. outsider summaries require humility and source awareness. culture_stewardship journalism national geographic  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-SW5kaWdlbm91cy",
@@ -4725,7 +4724,7 @@
       "sourceType": "journalism",
       "sourceName": "Multidisciplinary Association for Psychedelic Studies – MAPS",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YU0U0RG9mOUdycG80QjlvQ0pWaUZtNnpOMk9LQW1kQnZWZVE2ZWtVckVUbi1CV0tOclcwNGZaY1FHNWZUYXVFVUgtLTlQMmV4bnM4WXpSaE8wUXNnNlBGYjhOeVgxUXdBVlY1NTBnUDNfTFVGb0Nr?oc=5",
-      "summary": "Culture or stewardship source from Multidisciplinary Association for Psychedelic Studies – MAPS. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Multidisciplinary Association for Psychedelic Studies – MAPS. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4741,8 +4740,8 @@
       "displayDate": "Feb 5, 2024",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "indigenous-led medicine conservation - multidisciplinary association for psychedelic studies – maps culture or stewardship source from multidisciplinary association for psychedelic studies – maps. outsider summaries should be read with humility and source awareness. culture_stewardship journalism multidisciplinary association for psychedelic studies – maps  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "indigenous-led medicine conservation - multidisciplinary association for psychedelic studies – maps culture or stewardship source from multidisciplinary association for psychedelic studies – maps. outsider summaries require humility and source awareness. culture_stewardship journalism multidisciplinary association for psychedelic studies – maps  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-RnJvbSBTYWNyZW",
@@ -4751,7 +4750,7 @@
       "sourceType": "journalism",
       "sourceName": "Trendsnafrica",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWphaEp3d2VhQlZtdUpWRGR0WjRVdDZoU0VHN1ZXa2lRN21Fa0t5Rlg5ZUVRZ1h5TDc1VkRmNTVQb0NoNDZBVXRET21Ydy1IWk5vRjM1SFdpc3lPZUw2bm5sY055WS0zbVFiS2g0a1N1Vm9ZeEZObkJRMkJ3Y0xMNEZFb19lc2ZRbm5LMmxSLUxlc0w3YnplNG1saXF0bGZ5OWd3UTZ2Q2V5aTVqb3IxcklKMVNJT1NqZ3hsVdIBxAFBVV95cUxOZVVlSTFiOUV5LUJ4N1NHenpFRzZmRzFyQ0QzZXNRaTBockU5b3NwOEo1clhhMUVZMzRsRTJTX2FDU3ZITkhqSVdULXFJbzB6MHU3SG9PalNDa3pCS0MwM0p2WWdkaHhtWmp5Ykc5TWY0WUp6d3loWVpEaVo1NDJzdDNEWFd3WDdrbUlfU1ZyREVlZWZhalIxNjMtOVluNzNXVFhJRFRfOU1EVlJlV2lPMGcxbjhwZ3F0R0dwNUJ2dF9ZVGpW?oc=5",
-      "summary": "Culture or stewardship source from Trendsnafrica. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Trendsnafrica. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4767,8 +4766,8 @@
       "displayDate": "May 11, 2025",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers culture.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "from sacred root to strategic asset: gabon races to protect and profit from iboga’s global rise - trendsnafrica culture or stewardship source from trendsnafrica. outsider summaries should be read with humility and source awareness. culture_stewardship journalism trendsnafrica  culture cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "from sacred root to strategic asset: gabon races to protect and profit from iboga’s global rise - trendsnafrica culture or stewardship source from trendsnafrica. outsider summaries require humility and source awareness. culture_stewardship journalism trendsnafrica  culture cataloged source primary-source record"
     },
     {
       "id": "latest_scan-R29kLCBHYWJvbi",
@@ -4777,7 +4776,7 @@
       "sourceType": "journalism",
       "sourceName": "Psychedelic Alpha",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTZhM0YwWi1PNGhDVWotVTZ6N3locFZ5NVBuRnMwcVlWWG1Ob3pUWWU5b1p2S2J2N0ZSSlRIeVdHNk81cURqRHFMS0k1b3VRRC1qZWl4NFl4OWRyN0RkQ05xdWlocnpLSWpzTEtvWHZ4dWF1MWFDUUVXZEVvMVY5b3BYS24wY1JkZ3ltd3p6SFdyZ3BzQVNfc3ljXzllc1NOaWVvN1l1a2lncTc1c01ZRUpVOTZGdHN2SFBLSEJPSEthSTlDZnc?oc=5",
-      "summary": "Culture or stewardship source from Psychedelic Alpha. Outsider summaries should be read with humility and source awareness.",
+      "summary": "Culture or stewardship source from Psychedelic Alpha. Outsider summaries require humility and source awareness.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4793,8 +4792,8 @@
       "displayDate": "May 1, 2026",
       "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
       "conversationContext": "Covers God, Gabon, and Government: W. Bryan Hubbard on Ibogaine, the Executive Order, and What Comes Next.",
-      "whyListed": "Useful for cultural, ecological, and stewardship context. Outsider summaries should not replace community voices.",
-      "searchText": "god, gabon, and government: w. bryan hubbard on ibogaine, the executive order, and what comes next - psychedelic alpha culture or stewardship source from psychedelic alpha. outsider summaries should be read with humility and source awareness. culture_stewardship journalism psychedelic alpha  media cataloged source primary-source record"
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "god, gabon, and government: w. bryan hubbard on ibogaine, the executive order, and what comes next - psychedelic alpha culture or stewardship source from psychedelic alpha. outsider summaries require humility and source awareness. culture_stewardship journalism psychedelic alpha  media cataloged source primary-source record"
     },
     {
       "id": "brief-1",
@@ -4943,7 +4942,7 @@
       "sourceType": "policy_tracker_row",
       "sourceName": "FDA press announcement",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
-      "summary": "early_phase_study_allowed_to_proceed. Permits: DemeRx NB may begin a phase I noribogaine hydrochloride study in a closely monitored U.S. clinical setting. Does not permit: Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway. Caveat: Ibogaine remains federally controlled; noribogaine research language should not be generalized to ibogaine treatment access.",
+      "summary": "Early Phase Study Allowed To Proceed. Allows: DemeRx NB may begin a phase I noribogaine hydrochloride study in a closely monitored U.S. clinical setting. Does not allow: Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway. Caveat: Ibogaine remains federally controlled; noribogaine research language is separate from ibogaine treatment access.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4962,7 +4961,7 @@
       "whatItIs": "Law, policy, agency, or public-affairs source.",
       "conversationContext": "Covers policy, united states, fda noribogaine ind-related clinical research action.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "united states: fda noribogaine ind-related clinical research action early_phase_study_allowed_to_proceed. permits: demerx nb may begin a phase i noribogaine hydrochloride study in a closely monitored u.s. clinical setting. does not permit: not fda approval, not proof of safety or effectiveness, and not a general treatment access pathway. caveat: ibogaine remains federally controlled; noribogaine research language should not be generalized to ibogaine treatment access. laws_policy policy_tracker_row fda press announcement  policy united states fda noribogaine ind-related clinical research action cataloged source primary-source record"
+      "searchText": "united states: fda noribogaine ind-related clinical research action early phase study allowed to proceed. allows: demerx nb may begin a phase i noribogaine hydrochloride study in a closely monitored u.s. clinical setting. does not allow: not fda approval, not proof of safety or effectiveness, and not a general treatment access pathway. caveat: ibogaine remains federally controlled; noribogaine research language is separate from ibogaine treatment access. laws_policy policy_tracker_row fda press announcement  policy united states fda noribogaine ind-related clinical research action cataloged source primary-source record"
     },
     {
       "id": "policy-2",
@@ -4971,7 +4970,7 @@
       "sourceType": "policy_tracker_row",
       "sourceName": "Oklahoma Legislature bill history",
       "url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3834&Session=2600",
-      "summary": "approved_by_governor. Permits: Creates a state framework related to ibogaine clinical trials and drug-development requirements. Does not permit: Does not make ibogaine FDA-approved and does not by itself authorize unsupervised treatment or provider referral. Caveat: Federal Schedule I status and FDA/DEA/IRB requirements remain central.",
+      "summary": "Approved By Governor. Allows: Creates a state framework related to ibogaine clinical trials and drug-development requirements. Does not allow: Does not make ibogaine FDA-approved and does not by itself authorize unsupervised treatment or provider referral. Caveat: Federal Schedule I status and FDA/DEA/IRB requirements remain central.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -4990,7 +4989,7 @@
       "whatItIs": "Law, policy, agency, or public-affairs source.",
       "conversationContext": "Covers policy, oklahoma, hb 3834, oklahoma breakthrough therapy act.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "oklahoma: hb 3834, oklahoma breakthrough therapy act approved_by_governor. permits: creates a state framework related to ibogaine clinical trials and drug-development requirements. does not permit: does not make ibogaine fda-approved and does not by itself authorize unsupervised treatment or provider referral. caveat: federal schedule i status and fda/dea/irb requirements remain central. laws_policy policy_tracker_row oklahoma legislature bill history  policy oklahoma hb 3834, oklahoma breakthrough therapy act cataloged source primary-source record"
+      "searchText": "oklahoma: hb 3834, oklahoma breakthrough therapy act approved by governor. allows: creates a state framework related to ibogaine clinical trials and drug-development requirements. does not allow: does not make ibogaine fda-approved and does not by itself authorize unsupervised treatment or provider referral. caveat: federal schedule i status and fda/dea/irb requirements remain central. laws_policy policy_tracker_row oklahoma legislature bill history  policy oklahoma hb 3834, oklahoma breakthrough therapy act cataloged source primary-source record"
     },
     {
       "id": "policy-3",
@@ -4999,7 +4998,7 @@
       "sourceType": "policy_tracker_row",
       "sourceName": "Texas Legislature enrolled bill text",
       "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02308F.htm",
-      "summary": "enrolled_law_effective_2025. Permits: Creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials. Does not permit: Treatment-administration provisions apply only if FDA approves ibogaine to treat a medical condition. Caveat: Implementation may require federal waiver or authorization, and any clinical work must remain consistent with federal law.",
+      "summary": "Enrolled Law Effective 2025. Allows: Creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials. Does not allow: Treatment-administration provisions apply only if FDA approves ibogaine to treat a medical condition. Caveat: Implementation may require federal waiver or authorization; clinical work remains subject to federal law.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -5018,7 +5017,7 @@
       "whatItIs": "Law, policy, agency, or public-affairs source.",
       "conversationContext": "Covers policy, texas, sb 2308, ibogaine drug development clinical trials.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "texas: sb 2308, ibogaine drug development clinical trials enrolled_law_effective_2025. permits: creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials. does not permit: treatment-administration provisions apply only if fda approves ibogaine to treat a medical condition. caveat: implementation may require federal waiver or authorization, and any clinical work must remain consistent with federal law. laws_policy policy_tracker_row texas legislature enrolled bill text  policy texas sb 2308, ibogaine drug development clinical trials cataloged source primary-source record"
+      "searchText": "texas: sb 2308, ibogaine drug development clinical trials enrolled law effective 2025. allows: creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials. does not allow: treatment-administration provisions apply only if fda approves ibogaine to treat a medical condition. caveat: implementation may require federal waiver or authorization; clinical work remains subject to federal law. laws_policy policy_tracker_row texas legislature enrolled bill text  policy texas sb 2308, ibogaine drug development clinical trials cataloged source primary-source record"
     },
     {
       "id": "policy-4",
@@ -5027,7 +5026,7 @@
       "sourceType": "policy_tracker_row",
       "sourceName": "Tennessee General Assembly fiscal note",
       "url": "https://capitol.tn.gov/Bills/114/Fiscal/HB2075.pdf",
-      "summary": "fiscal_note_reviewed_bill_status_needs_followup. Permits: Fiscal note describes proposed cohort applications to DMHSAS for ibogaine drug-development clinical trials and matching-fund conditions. Does not permit: The fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if FDA approves ibogaine to treat a medical condition. Caveat: The fiscal note states FDA classified ibogaine as Schedule I as of February 2026.",
+      "summary": "Fiscal Note Reviewed. Allows: Fiscal note describes proposed cohort applications to DMHSAS for ibogaine drug-development clinical trials and matching-fund conditions. Does not allow: The fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if FDA approves ibogaine to treat a medical condition. Caveat: The fiscal note states FDA classified ibogaine as Schedule I as of February 2026.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
@@ -5046,7 +5045,7 @@
       "whatItIs": "Law, policy, agency, or public-affairs source.",
       "conversationContext": "Covers policy, tennessee, hb 2075 / sb 2149, helping open pathways to effective treatment act.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "tennessee: hb 2075 / sb 2149, helping open pathways to effective treatment act fiscal_note_reviewed_bill_status_needs_followup. permits: fiscal note describes proposed cohort applications to dmhsas for ibogaine drug-development clinical trials and matching-fund conditions. does not permit: the fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if fda approves ibogaine to treat a medical condition. caveat: the fiscal note states fda classified ibogaine as schedule i as of february 2026. laws_policy policy_tracker_row tennessee general assembly fiscal note  policy tennessee hb 2075 / sb 2149, helping open pathways to effective treatment act cataloged source primary-source record"
+      "searchText": "tennessee: hb 2075 / sb 2149, helping open pathways to effective treatment act fiscal note reviewed. allows: fiscal note describes proposed cohort applications to dmhsas for ibogaine drug-development clinical trials and matching-fund conditions. does not allow: the fiscal note is not a final clinical-trial approval, does not prove efficacy, and states the legislation applies only if fda approves ibogaine to treat a medical condition. caveat: the fiscal note states fda classified ibogaine as schedule i as of february 2026. laws_policy policy_tracker_row tennessee general assembly fiscal note  policy tennessee hb 2075 / sb 2149, helping open pathways to effective treatment act cataloged source primary-source record"
     },
     {
       "id": "condition-oud",
@@ -5055,7 +5054,7 @@
       "sourceType": "condition_evidence_template",
       "sourceName": "IbogaBase evidence framework",
       "url": "#evidence-matrix",
-      "summary": "early_human_and_observational. Observational detoxification reports, follow-up studies, and registered withdrawal research. Durability, relapse denominator data, and adverse-event denominator data remain incomplete. Safety: Cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions. Not proven: Ibogaine is not proven to cure opioid addiction.",
+      "summary": "Evidence level: early human and observational. Human evidence: Observational detoxification reports, follow-up studies, and registered withdrawal research. Main limitation: Durability, relapse denominator data, and adverse-event denominator data remain incomplete. Safety: Cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions. Not proven: Ibogaine is not proven to cure opioid addiction.",
       "confidence": "Evidence framework",
       "status": "Evidence framework",
       "condition": "Opioid use disorder",
@@ -5075,7 +5074,7 @@
       "whatItIs": "IbogaBase evidence page.",
       "conversationContext": "Covers evidence, condition, oud.",
       "whyListed": "Useful for condition-specific summaries, limitations, and unknowns.",
-      "searchText": "opioid use disorder evidence page early_human_and_observational. observational detoxification reports, follow-up studies, and registered withdrawal research. durability, relapse denominator data, and adverse-event denominator data remain incomplete. safety: cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions. not proven: ibogaine is not proven to cure opioid addiction. evidence_pages condition_evidence_template ibogabase evidence framework opioid use disorder evidence condition oud evidence framework evidence framework"
+      "searchText": "opioid use disorder evidence page evidence level: early human and observational. human evidence: observational detoxification reports, follow-up studies, and registered withdrawal research. main limitation: durability, relapse denominator data, and adverse-event denominator data remain incomplete. safety: cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions. not proven: ibogaine is not proven to cure opioid addiction. evidence_pages condition_evidence_template ibogabase evidence framework opioid use disorder evidence condition oud evidence framework evidence framework"
     },
     {
       "id": "condition-aud",
@@ -5084,7 +5083,7 @@
       "sourceType": "condition_evidence_template",
       "sourceName": "IbogaBase evidence framework",
       "url": "#evidence-matrix",
-      "summary": "investigational. Noribogaine development is entering early-phase U.S. study activity; ibogaine AUD claims need careful separation. Noribogaine should not be blurred with ibogaine, plant Iboga, or clinic claims. Safety: Alcohol withdrawal, liver health, medications, QT/QTc, and monitoring requirements. Not proven: Noribogaine is not FDA-approved for alcohol use disorder.",
+      "summary": "Evidence level: investigational. Human evidence: Noribogaine development is entering early-phase U.S. study activity; ibogaine AUD claims require careful separation. Main limitation: Noribogaine, Ibogaine, plant Iboga, and clinic claims are separate subjects. Safety: Alcohol withdrawal, liver health, medications, QT/QTc, and monitoring requirements. Not proven: Noribogaine is not FDA-approved for alcohol use disorder.",
       "confidence": "Evidence framework",
       "status": "Evidence framework",
       "condition": "Alcohol use disorder",
@@ -5104,7 +5103,7 @@
       "whatItIs": "IbogaBase evidence page.",
       "conversationContext": "Covers evidence, condition, aud.",
       "whyListed": "Useful for condition-specific summaries, limitations, and unknowns.",
-      "searchText": "alcohol use disorder evidence page investigational. noribogaine development is entering early-phase u.s. study activity; ibogaine aud claims need careful separation. noribogaine should not be blurred with ibogaine, plant iboga, or clinic claims. safety: alcohol withdrawal, liver health, medications, qt/qtc, and monitoring requirements. not proven: noribogaine is not fda-approved for alcohol use disorder. evidence_pages condition_evidence_template ibogabase evidence framework alcohol use disorder evidence condition aud evidence framework evidence framework"
+      "searchText": "alcohol use disorder evidence page evidence level: investigational. human evidence: noribogaine development is entering early-phase u.s. study activity; ibogaine aud claims require careful separation. main limitation: noribogaine, ibogaine, plant iboga, and clinic claims are separate subjects. safety: alcohol withdrawal, liver health, medications, qt/qtc, and monitoring requirements. not proven: noribogaine is not fda-approved for alcohol use disorder. evidence_pages condition_evidence_template ibogabase evidence framework alcohol use disorder evidence condition aud evidence framework evidence framework"
     },
     {
       "id": "condition-tbi",
@@ -5113,7 +5112,7 @@
       "sourceType": "condition_evidence_template",
       "sourceName": "IbogaBase evidence framework",
       "url": "#evidence-matrix",
-      "summary": "notable_open_label_human_signal. Veteran cohort work drew attention and needs side-by-side design-limit explanation. Small samples, treatment setting, concurrent supports, and selection effects. Safety: Screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up. Not proven: Ibogaine is not proven as a TBI treatment.",
+      "summary": "Evidence level: notable open label human signal. Human evidence: Veteran cohort work drew attention and requires side-by-side design-limit explanation. Main limitation: Small samples, treatment setting, concurrent supports, and selection effects. Safety: Screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up. Not proven: Ibogaine is not proven as a TBI treatment.",
       "confidence": "Evidence framework",
       "status": "Evidence framework",
       "condition": "Traumatic brain injury",
@@ -5133,7 +5132,7 @@
       "whatItIs": "IbogaBase evidence page.",
       "conversationContext": "Covers evidence, condition, tbi.",
       "whyListed": "Useful for condition-specific summaries, limitations, and unknowns.",
-      "searchText": "traumatic brain injury evidence page notable_open_label_human_signal. veteran cohort work drew attention and needs side-by-side design-limit explanation. small samples, treatment setting, concurrent supports, and selection effects. safety: screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up. not proven: ibogaine is not proven as a tbi treatment. evidence_pages condition_evidence_template ibogabase evidence framework traumatic brain injury evidence condition tbi evidence framework evidence framework"
+      "searchText": "traumatic brain injury evidence page evidence level: notable open label human signal. human evidence: veteran cohort work drew attention and requires side-by-side design-limit explanation. main limitation: small samples, treatment setting, concurrent supports, and selection effects. safety: screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up. not proven: ibogaine is not proven as a tbi treatment. evidence_pages condition_evidence_template ibogabase evidence framework traumatic brain injury evidence condition tbi evidence framework evidence framework"
     },
     {
       "id": "condition-ptsd",
@@ -5142,7 +5141,7 @@
       "sourceType": "condition_evidence_template",
       "sourceName": "IbogaBase evidence framework",
       "url": "#evidence-matrix",
-      "summary": "secondary_outcomes_and_observational. PTSD-related signals often appear within veteran or substance-use populations rather than standalone trials. Confounding, expectation effects, integration/support differences, and psychiatric exclusions. Safety: Psychiatric destabilization, suicidality screening, medications, and acute monitoring. Not proven: Ibogaine is not proven as a PTSD treatment.",
+      "summary": "Evidence level: secondary outcomes and observational. Human evidence: PTSD-related signals often appear within veteran or substance-use populations rather than standalone trials. Main limitation: Confounding, expectation effects, integration/support differences, and psychiatric exclusions. Safety: Psychiatric destabilization, suicidality screening, medications, and acute monitoring. Not proven: Ibogaine is not proven as a PTSD treatment.",
       "confidence": "Evidence framework",
       "status": "Evidence framework",
       "condition": "PTSD and trauma symptoms",
@@ -5162,7 +5161,7 @@
       "whatItIs": "IbogaBase evidence page.",
       "conversationContext": "Covers evidence, condition, ptsd.",
       "whyListed": "Useful for condition-specific summaries, limitations, and unknowns.",
-      "searchText": "ptsd and trauma symptoms evidence page secondary_outcomes_and_observational. ptsd-related signals often appear within veteran or substance-use populations rather than standalone trials. confounding, expectation effects, integration/support differences, and psychiatric exclusions. safety: psychiatric destabilization, suicidality screening, medications, and acute monitoring. not proven: ibogaine is not proven as a ptsd treatment. evidence_pages condition_evidence_template ibogabase evidence framework ptsd and trauma symptoms evidence condition ptsd evidence framework evidence framework"
+      "searchText": "ptsd and trauma symptoms evidence page evidence level: secondary outcomes and observational. human evidence: ptsd-related signals often appear within veteran or substance-use populations rather than standalone trials. main limitation: confounding, expectation effects, integration/support differences, and psychiatric exclusions. safety: psychiatric destabilization, suicidality screening, medications, and acute monitoring. not proven: ibogaine is not proven as a ptsd treatment. evidence_pages condition_evidence_template ibogabase evidence framework ptsd and trauma symptoms evidence condition ptsd evidence framework evidence framework"
     },
     {
       "id": "condition-parkinsons",
@@ -5171,7 +5170,7 @@
       "sourceType": "condition_evidence_template",
       "sourceName": "IbogaBase evidence framework",
       "url": "#evidence-matrix",
-      "summary": "case_report_watchlist. A 2026 case report is hypothesis-generating and belongs on a watchlist. One-patient evidence is highly uncertain. Safety: Age, cardiac status, neurological comorbidity, drug interactions, and medication changes. Not proven: Ibogaine is not proven as a Parkinson's treatment.",
+      "summary": "Evidence level: case report watchlist. Human evidence: A 2026 case report is hypothesis-generating and belongs on a watchlist. Main limitation: One-patient evidence is highly uncertain. Safety: Age, cardiac status, neurological comorbidity, drug interactions, and medication changes. Not proven: Ibogaine is not proven as a Parkinson's treatment.",
       "confidence": "Case report",
       "status": "Evidence framework",
       "condition": "Parkinson's disease",
@@ -5191,157 +5190,17 @@
       "whatItIs": "IbogaBase evidence page.",
       "conversationContext": "Covers evidence, condition, parkinsons.",
       "whyListed": "Useful for condition-specific summaries, limitations, and unknowns.",
-      "searchText": "parkinson's disease evidence page case_report_watchlist. a 2026 case report is hypothesis-generating and belongs on a watchlist. one-patient evidence is highly uncertain. safety: age, cardiac status, neurological comorbidity, drug interactions, and medication changes. not proven: ibogaine is not proven as a parkinson's treatment. evidence_pages condition_evidence_template ibogabase evidence framework parkinson's disease evidence condition parkinsons evidence framework case report"
-    },
-    {
-      "id": "review-safety-desk",
-      "title": "Safety Desk review status",
-      "category": "review_metadata",
-      "sourceType": "page_review_status",
-      "sourceName": "IbogaBase review log",
-      "url": "#safety-flagship",
-      "summary": "editorial_reviewed_medical_review_pending. Last source check: 2026-05-17. Confidence: high_for_general_risk_framing. Open questions: Needs qualified cardiology and addiction-medicine review before public authority claims.",
-      "confidence": "Page review record",
-      "status": "Page review record",
-      "people": [],
-      "publishedAt": "2026-05-17",
-      "foundAt": "2026-05-17",
-      "sourceOrigin": "review_metadata",
-      "tags": [
-        "review",
-        "corrections",
-        "metadata"
-      ],
-      "displayCategory": "Review log",
-      "displaySourceType": "Page review record",
-      "displaySourceName": "IbogaBase review log",
-      "displayDate": "May 17, 2026",
-      "whatItIs": "IbogaBase review and correction record.",
-      "conversationContext": "Covers review, corrections, metadata.",
-      "whyListed": "Useful for seeing when pages changed and what still needs outside review.",
-      "searchText": "safety desk review status editorial_reviewed_medical_review_pending. last source check: 2026-05-17. confidence: high_for_general_risk_framing. open questions: needs qualified cardiology and addiction-medicine review before public authority claims. review_metadata page_review_status ibogabase review log  review corrections metadata page review record page review record"
-    },
-    {
-      "id": "review-policy-tracker",
-      "title": "Policy Tracker review status",
-      "category": "review_metadata",
-      "sourceType": "page_review_status",
-      "sourceName": "IbogaBase review log",
-      "url": "#policy-tracker-table",
-      "summary": "primary_sources_started_legal_review_pending. Last source check: 2026-05-17. Confidence: high_for_fda_oklahoma_texas_primary_rows_medium_for_tennessee_status. Open questions: Tennessee bill status needs follow-up beyond fiscal note.",
-      "confidence": "Primary-source record",
-      "status": "Page review record",
-      "people": [],
-      "publishedAt": "2026-05-17",
-      "foundAt": "2026-05-17",
-      "sourceOrigin": "review_metadata",
-      "tags": [
-        "review",
-        "corrections",
-        "metadata"
-      ],
-      "displayCategory": "Review log",
-      "displaySourceType": "Page review record",
-      "displaySourceName": "IbogaBase review log",
-      "displayDate": "May 17, 2026",
-      "whatItIs": "IbogaBase review and correction record.",
-      "conversationContext": "Covers review, corrections, metadata.",
-      "whyListed": "Useful for seeing when pages changed and what still needs outside review.",
-      "searchText": "policy tracker review status primary_sources_started_legal_review_pending. last source check: 2026-05-17. confidence: high_for_fda_oklahoma_texas_primary_rows_medium_for_tennessee_status. open questions: tennessee bill status needs follow-up beyond fiscal note. review_metadata page_review_status ibogabase review log  review corrections metadata page review record primary-source record"
-    },
-    {
-      "id": "review-evidence-grade-pages",
-      "title": "Evidence-Grade Pages review status",
-      "category": "review_metadata",
-      "sourceType": "page_review_status",
-      "sourceName": "IbogaBase review log",
-      "url": "#evidence-matrix",
-      "summary": "template_live_medical_review_pending. Last source check: 2026-05-17. Confidence: moderate_for_structure_low_to_moderate_by_condition. Open questions: Needs full study tables by condition.",
-      "confidence": "Page review record",
-      "status": "Page review record",
-      "people": [],
-      "publishedAt": "2026-05-17",
-      "foundAt": "2026-05-17",
-      "sourceOrigin": "review_metadata",
-      "tags": [
-        "review",
-        "corrections",
-        "metadata"
-      ],
-      "displayCategory": "Review log",
-      "displaySourceType": "Page review record",
-      "displaySourceName": "IbogaBase review log",
-      "displayDate": "May 17, 2026",
-      "whatItIs": "IbogaBase review and correction record.",
-      "conversationContext": "Covers review, corrections, metadata.",
-      "whyListed": "Useful for seeing when pages changed and what still needs outside review.",
-      "searchText": "evidence-grade pages review status template_live_medical_review_pending. last source check: 2026-05-17. confidence: moderate_for_structure_low_to_moderate_by_condition. open questions: needs full study tables by condition. review_metadata page_review_status ibogabase review log  review corrections metadata page review record page review record"
-    },
-    {
-      "id": "review-culture-and-stewardship",
-      "title": "Culture and Stewardship review status",
-      "category": "review_metadata",
-      "sourceType": "page_review_status",
-      "sourceName": "IbogaBase review log",
-      "url": "#culture",
-      "summary": "editorial_reviewed_cultural_review_pending. Last source check: 2026-05-17. Confidence: moderate_for_stewardship_framing. Open questions: Needs named Gabon/Bwiti-linked cultural review and direct voices with permission.",
-      "confidence": "Page review record",
-      "status": "Page review record",
-      "people": [],
-      "publishedAt": "2026-05-17",
-      "foundAt": "2026-05-17",
-      "sourceOrigin": "review_metadata",
-      "tags": [
-        "review",
-        "corrections",
-        "metadata"
-      ],
-      "displayCategory": "Review log",
-      "displaySourceType": "Page review record",
-      "displaySourceName": "IbogaBase review log",
-      "displayDate": "May 17, 2026",
-      "whatItIs": "IbogaBase review and correction record.",
-      "conversationContext": "Covers review, corrections, metadata.",
-      "whyListed": "Useful for seeing when pages changed and what still needs outside review.",
-      "searchText": "culture and stewardship review status editorial_reviewed_cultural_review_pending. last source check: 2026-05-17. confidence: moderate_for_stewardship_framing. open questions: needs named gabon/bwiti-linked cultural review and direct voices with permission. review_metadata page_review_status ibogabase review log  review corrections metadata page review record page review record"
-    },
-    {
-      "id": "review-ask-ibogabase",
-      "title": "Ask IbogaBase review status",
-      "category": "review_metadata",
-      "sourceType": "page_review_status",
-      "sourceName": "IbogaBase review log",
-      "url": "#ask",
-      "summary": "guardrailed_local_tool_human_review_pending. Last source check: 2026-05-17. Confidence: high_for_refusal_boundaries_medium_for_retrieval_quality. Open questions: Should remain citation-only and never answer dosing, provider-referral, or individualized medical/legal questions.",
-      "confidence": "Page review record",
-      "status": "Page review record",
-      "people": [],
-      "publishedAt": "2026-05-17",
-      "foundAt": "2026-05-17",
-      "sourceOrigin": "review_metadata",
-      "tags": [
-        "review",
-        "corrections",
-        "metadata"
-      ],
-      "displayCategory": "Review log",
-      "displaySourceType": "Page review record",
-      "displaySourceName": "IbogaBase review log",
-      "displayDate": "May 17, 2026",
-      "whatItIs": "IbogaBase review and correction record.",
-      "conversationContext": "Covers review, corrections, metadata.",
-      "whyListed": "Useful for seeing when pages changed and what still needs outside review.",
-      "searchText": "ask ibogabase review status guardrailed_local_tool_human_review_pending. last source check: 2026-05-17. confidence: high_for_refusal_boundaries_medium_for_retrieval_quality. open questions: should remain citation-only and never answer dosing, provider-referral, or individualized medical/legal questions. review_metadata page_review_status ibogabase review log  review corrections metadata page review record page review record"
+      "searchText": "parkinson's disease evidence page evidence level: case report watchlist. human evidence: a 2026 case report is hypothesis-generating and belongs on a watchlist. main limitation: one-patient evidence is highly uncertain. safety: age, cardiac status, neurological comorbidity, drug interactions, and medication changes. not proven: ibogaine is not proven as a parkinson's treatment. evidence_pages condition_evidence_template ibogabase evidence framework parkinson's disease evidence condition parkinsons evidence framework case report"
     },
     {
       "id": "clinic-observatory-1",
-      "title": "Clinic records pending verification",
+      "title": "Clinic claim monitoring",
       "category": "clinics",
       "sourceType": "clinic_observatory_schema",
       "sourceName": "IbogaBase Clinic Observatory",
       "url": "#clinics",
-      "summary": "Clinic pages should publish only after source-traced claims, no-endorsement labels, and legal/rules review.",
-      "confidence": "Clinic-claim schema",
+      "summary": "Clinic entries track public claims, locations, safety statements, outcome language, and adverse-event signals. IbogaBase does not rank clinics or provide referrals.",
+      "confidence": "Claim record",
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
@@ -5353,13 +5212,13 @@
         "no_referrals"
       ],
       "displayCategory": "Clinic claims",
-      "displaySourceType": "Clinic-claim schema",
+      "displaySourceType": "Clinic-claim record",
       "displaySourceName": "IbogaBase Clinic Observatory",
       "displayDate": "",
       "whatItIs": "Clinic-claim monitoring entry.",
       "conversationContext": "Covers clinics, claims, no referrals.",
       "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
-      "searchText": "clinic records pending verification clinic pages should publish only after source-traced claims, no-endorsement labels, and legal/rules review. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source clinic-claim schema"
+      "searchText": "clinic claim monitoring clinic entries track public claims, locations, safety statements, outcome language, and adverse-event signals. ibogabase does not rank clinics or provide referrals. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source claim record"
     }
   ]
 }
