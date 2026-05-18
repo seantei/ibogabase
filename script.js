@@ -265,10 +265,10 @@ function defaultRecordScore(record) {
 
 function renderResultDetails(record) {
   const rows = [
-    ["From", record.displaySourceName || record.sourceName || "Source catalog"],
-    ["What it is", record.whatItIs],
-    ["Context", record.conversationContext],
-    ["Why listed", record.whyListed],
+    ["Source", record.displaySourceName || record.sourceName || "Source catalog"],
+    ["Type", record.whatItIs],
+    ["Covers", record.conversationContext],
+    ["How to read it", record.whyListed],
     ["Date", record.displayDate],
   ].filter(([, value]) => value);
 

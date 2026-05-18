@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T21:46:44.974Z",
-  "scope": "Automated public catalog review. This checks public labels, placeholder leakage, URL shape, and live link reachability. It is not medical, legal, cultural, or full editorial peer review.",
+  "generatedAt": "2026-05-18T21:54:28.178Z",
+  "scope": "Automated public catalog review. This checks public labels, placeholder leakage, source-detail fields, URL shape, and optional live link reachability. It is not medical, legal, cultural, or full editorial peer review.",
   "liveLinkCheck": false,
   "timeoutMs": 15000,
   "concurrency": 1,
