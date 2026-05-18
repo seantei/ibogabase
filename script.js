@@ -14,6 +14,7 @@ const sourceSearch = document.querySelector("[data-source-search]");
 const sourceFilter = document.querySelector("[data-source-filter]");
 const searchResults = document.querySelector("[data-search-results]");
 const searchCount = document.querySelector("[data-search-count]");
+const sourceReviewStatus = document.querySelector("[data-source-review-status]");
 const askInput = document.querySelector("[data-ask-input]");
 const askButton = document.querySelector("[data-ask-button]");
 const askAnswer = document.querySelector("[data-ask-answer]");
@@ -260,13 +261,17 @@ function renderSearchResults() {
   matches.forEach((record) => {
     const item = document.createElement("article");
     item.className = "search-result";
+    const label = [
+      record.displayCategory || record.category,
+      record.displaySourceType || record.confidence || record.sourceType,
+    ].filter(Boolean).join(" · ");
     item.innerHTML = `
       <div>
-        <span>${escapeHtml(record.category)} · ${escapeHtml(record.confidence || "needs review")}</span>
+        <span>${escapeHtml(label)}</span>
         <h3>${escapeHtml(record.title)}</h3>
         <p>${escapeHtml(record.summary || "Source record awaiting summary.")}</p>
       </div>
-      <a href="${escapeHtml(record.url || "#sources")}">Open source</a>
+      <a href="${escapeHtml(record.url || "#sources")}" target="_blank" rel="noopener">Open source</a>
     `;
     searchResults.append(item);
   });
@@ -330,6 +335,18 @@ async function hydratePublicSearch() {
   } catch {
     if (searchCount) searchCount.textContent = "index pending";
     if (searchResults) searchResults.innerHTML = "<p>Search index will appear after the public catalog builder runs.</p>";
+  }
+
+  if (sourceReviewStatus) {
+    try {
+      const review = await loadJson("data/source-review-report.json");
+      const reviewedAt = review.generatedAt
+        ? new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric", year: "numeric" }).format(new Date(review.generatedAt))
+        : "recently";
+      sourceReviewStatus.textContent = `${review.totalRecordsChecked || publicSearchIndex.length} public catalog entries checked for clean labels and usable links on ${reviewedAt}.`;
+    } catch {
+      sourceReviewStatus.textContent = "Public catalog entries are checked before each publish for clean labels and usable links.";
+    }
   }
 }
 

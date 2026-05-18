@@ -764,6 +764,13 @@ figcaption {
   color: var(--green);
 }
 
+.tool-note {
+  margin: -8px 0 16px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
 .field-label {
   display: block;
   margin-bottom: 8px;
