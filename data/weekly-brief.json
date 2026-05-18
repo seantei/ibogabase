@@ -49,10 +49,10 @@
       "headline": "Podcast and interview discovery is now a standing intake lane.",
       "whatChanged": "The source catalog contains a growing podcast/interview directory and a dedicated Listening Library Curator role.",
       "whatItDoesNotMean": "Interview statements are not treated as facts until converted into claim records and traced to supporting sources.",
-      "source": "IbogaBase source index",
-      "sourceUrl": "data/source-index.json",
-      "confidence": "internal_catalog",
-      "lastChecked": "2026-05-17"
+      "source": "IbogaBase public catalog",
+      "sourceUrl": "data/public-search-index.json",
+      "confidence": "Catalog source",
+      "lastChecked": "2026-05-18"
     }
   ]
 }

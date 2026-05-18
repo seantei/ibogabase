@@ -942,7 +942,7 @@ figcaption {
 }
 
 .tracker-table.compact > div {
-  grid-template-columns: 0.56fr 0.52fr 1.1fr 0.78fr;
+  grid-template-columns: 0.56fr 0.5fr 1fr 1fr 0.78fr;
 }
 
 .tracker-table > div:first-child {
@@ -1498,6 +1498,18 @@ figcaption {
 .review-log {
   display: grid;
   overflow: hidden;
+}
+
+.quality-report-note {
+  max-width: 760px;
+  margin: -12px 0 24px;
+  color: var(--muted);
+}
+
+.quality-report-note a {
+  color: var(--blue);
+  font-weight: 820;
+  text-underline-offset: 4px;
 }
 
 .review-log div {

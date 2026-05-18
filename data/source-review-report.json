@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-18T22:43:50.615Z",
+  "generatedAt": "2026-05-18T23:24:40.292Z",
   "scope": "Automated public catalog review. This checks public labels, placeholder leakage, source-detail fields, URL shape, and optional live link reachability. It is not medical, legal, cultural, or full editorial peer review.",
   "liveLinkCheck": false,
   "timeoutMs": 15000,
   "concurrency": 1,
-  "totalRecordsChecked": 195,
-  "passed": 195,
+  "totalRecordsChecked": 196,
+  "passed": 196,
   "needsEditorAttention": 0,
   "issueCounts": {},
   "records": [
@@ -80,20 +80,6 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-VmV0ZXJhbnMgU2",
-      "title": "Veterans Say an Illegal Psychedelic Drug Is Helping Them. Now Mississippi Wants to Study Ibogaine. - Mississippi Free Press",
-      "category": "Studies and papers",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkNGcG1CRjZHa29vNTZ2Qi1yUHJmNzNxRzFXakFFRVY4TEIwNnp1WnNqSjB1M2s4cXJvRGo2R1JTYUpNcUQ3Uk00X2JxMHVuS2VSN3dQSGhSamwxb0RmZnRFQkpNWUhDRWR4c09KWjRfcUJCc2h1MVFHTWV4YXlvUDBWNk9fVGJESEtXRGJ4WHhWUllRMWpiRHFMcllNZk9ZdWliamIyTnE2TjMyY2MxVjlsN2YwNkszdHVoeC1GUlRqX1NSN2FEMmc4N0dxMU0?oc=5",
-      "publicLabel": "Studies and papers · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
       "id": "latest_scan-TGVnaXNsYXRpdm",
       "title": "Legislative updates in Mississippi, West Virginia, Oregon, and New Hampshire; Fast-tracked federal approval of Compass's synthetic psilocybin was vetoed; Federal bill proposes VA study psychedelics - The Microdose | Substack",
       "category": "Studies and papers",
@@ -123,10 +109,10 @@
     },
     {
       "id": "latest_scan-UmFyZSBidXQgcm",
-      "title": "Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias - Wiley Online Library",
-      "category": "Books and bibliographies",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52UHRLODh1eXBqaXpRYWpQc094TXgwemZxZU9VS2JHYWhzNVhPSDV0T1ZQNFYteVN4YTZtMnhIVml0TGJTWlE5WWh5c1ItTXR1VlVlYmF0Tjk0SEFmRHQ4UmJXbw?oc=5",
-      "publicLabel": "Books and bibliographies · Journalism",
+      "title": "Rare but relevant: Ibogaine and cardiovascular complications-prolonged QT interval and ventricular arrhythmias.",
+      "category": "Studies and papers",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41560340/",
+      "publicLabel": "Studies and papers · Peer-reviewed paper",
       "link": {
         "checked": false,
         "ok": true,
@@ -222,9 +208,9 @@
     {
       "id": "latest_scan-VVMgc3BlZWRzIH",
       "title": "US speeds up research into mind-altering drugs — including mysterious ‘ibogaine’ - Nature",
-      "category": "News and commentary",
+      "category": "Law and policy",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xTXBJVDQydmg2aHVIWVBwMmRoV1FrcFF2NFprMXZqaDdNMWN5RVRQZU1wdFFmdDFYalRXTW50dDlMdmJfVTNjS0ZCLTktNnRyNmt1ekdKeUEwV3duQTJ3?oc=5",
-      "publicLabel": "News and commentary · Journalism",
+      "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
         "ok": true,
@@ -318,10 +304,24 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-VGV4YXMgd2lsbC",
-      "title": "Texas will launch its own clinical trials into ibogaine psychedelic after failing to find a drug company to help - KSAT",
+      "id": "latest_scan-TG91aXNpYW5hIG",
+      "title": "Louisiana considers supporting clinical trials of ibogaine, MDMA, other psychedelics - Louisiana Illuminator",
       "category": "Clinical trials",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU19qUDVrNl9KTTYzdS14YzU4U2stLWhMRGtyZlRVQks3NzMzcW8ycmdYdndzblRodG8xMU8zY2hmcFNuMnpHOE83N1RicXhNNnN2bmJUNHFkSzB4M2tKcXVtaVZEd1NHMXlUVE96dlBuMEx1RktDenItUjRoTEpJOGpaM1B6SU8wejVMaEg0ci1FVWdsV2JMU3BuR1ZhdDN2WVRZN2lUeTF3MVU3Qi0wQkZfakRyNHVMcG9ES1Brd09WVUNhWGpCWjZobG0tQ19xcFNucXdMWTFXX1RkWlIySlVRZXJ5SXlLQ05JOQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rNnhqZkFPTXljNmxpNzdvd3IzVU42M21MRlFUemc3Uk9PenYzMEZqU1hjVEFfenBDWnBFS2J0c2tEOHZLeHk5MW9Jek5XZWNqa0I3WmpFX25MdnE0SHM2YncxemlTdTk3RjRFVnBDbUM0UHNqWUxoaFRkOHl1UQ?oc=5",
+      "publicLabel": "Clinical trials · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
+      "id": "latest_scan-VGV4YXMgd2lsbC",
+      "title": "Texas will fully fund clinical trials into the medical effects of ibogaine - KXAN Austin",
+      "category": "Clinical trials",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTBpdmNyZHJMSENHeWYwNlNhSTJVUVhuS05RNmdzRS1Hd0hxZDRXVWoxX1RwNmc1bDJWTHNvbjd4Q1ZOdFduWU91Ym4td0x0emlHeF9wZFhIWG9VbE84TGFBbDE5RW5kd3ctZkczMWtBNTlFdEJFY0RKN0lIckZpYnNQUWU0UDd4SVd5OXJON0QtaXlMZktZSkJOWFhua2xFcnFib3h3a0xjVnfSAbABQVVfeXFMTXJxZ3VnbGRCVU5JX0p5a0pRUDFQRExZSV9jUVQyUm0zbVZOSVpzN09rLVBTM2RoRTg1M05mZEs4VHM3aTItWWFka091c0p3bkFSY1NkSEdPSG5XaEVaQkZoQnc2V2w3NEpwbEhMOW16Tkp6d0RBYWIzNHFwT3JSWUZ0TXp6Zk1UVjNjdU5ET3hMcHhIMllNQjZhM2pQU0U1NVkySmRROHRkM2V3LW5KVjg?oc=5",
       "publicLabel": "Clinical trials · Journalism",
       "link": {
         "checked": false,
@@ -360,6 +360,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-VE4gY2xlYXJzIH",
+      "title": "TN clears way for clinical trials of ibogaine, same drug classification as LSD - WCYB",
+      "category": "Clinical trials",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc1VlTHR0Qk04TEluNmpHSjRKS0FtdnBNNURMRklpd0FQUUFvZEdSTUdGNnFhdkltLURCU2RWWTNTR3VoS3VYOHY3aXBGOTU1VWpwSkM5YnpmRnJkbmFlLUNxbDBoVE5XSlZQa2tUQUc2UFhVUnkxcG05d0xWWkc2bmlTcTY1cjVnOWpjX3pSM2xhQ1l4Q09EYXItc011bHVmeUVIZE9CTDN5QQ?oc=5",
+      "publicLabel": "Clinical trials · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-WmFjaGFyeSBGZW",
       "title": "Zachary Federico Testimony in Maryland: Funding for Clinical Trials of Ibogaine - American Legislative Exchange Council",
       "category": "Clinical trials",
@@ -379,34 +393,6 @@
       "category": "Clinical trials",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IWkRkNmtqekoyRzdndHNCME50NTBJNE05eFlxNTlTaVdmVm1JLWY5ZFoyZjJOTWNwRnlXQ2pJMEEzVWk4bWdMa29rZlBJMm5yOGgtMDdFdENvS0NsSGdyeko2S0tTWU1hRndWZWJrOGRRd19hYkE5RE5CaDFmQQ?oc=5",
       "publicLabel": "Clinical trials · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-U2VuYXRlIFB1Ym",
-      "title": "Senate Public Health Committee advances bill to allow Ibogaine trials - Magnolia Tribune",
-      "category": "Clinical trials",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlplZ0Y2NC1sM2ZyN2YyLVFBV0Y2X1prcENjbnBtb0FUSXdMc1F6WXpmN0xRSDZ5eWpnMlJtaE9mejdrTHNXQ3BkRmxOb3NGczU0d0tTWUh6eVVSZEJUUVpIT1Q1RDhHZW40UWE2RlU2czZaTDIxbVp2bjY2WTU2VFprX1BlWk5FclhHdVdJUGZWR242QVlLb2l1R21GcDd1alBKbWRpb2hoUl9tTXc?oc=5",
-      "publicLabel": "Clinical trials · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-T2tsYWhvbWEgU2",
-      "title": "Oklahoma Senate Advances Research-Focused Ibogaine Bill - Filter",
-      "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbUt4WjhqRmxfbFpsanlac1lxajhBZElOWmY1d1RqejMxNmpzS3dJQU9lYlZnOEExS1U5RUdibjJvQklKb1cyVWdoQ2RJa2xoVE5QS2E2TnM?oc=5",
-      "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
         "ok": true,
@@ -556,38 +542,10 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-T2tsYWhvbWEgTG",
-      "title": "Oklahoma Lawmakers Pass Ibogaine Bill, Sending Psychedelic Reform To Governor’s Desk - Marijuana Moment",
-      "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE5xdlRiemJDNmdrMEJFZWJXc3M3V0Iwd09UTWRyWnRvb0pPdzF0WEdPdEhlWW5pT0t6SE85aWpTUzlnOGJyT0FxSTNWdlpVZ1huS0ZERzhVd3FkamJTZ3JRSTU1VUFIb0ZPb0RGbmdrLVJnbDJSVmNWblhfTGU0eU50RGcyamQ1aFRWQXplX0dvVXIyQ2FxZVl3N2xlZ3JjNEwxcnBEU1lXVkc0QXBhS2hkTTNQZw?oc=5",
-      "publicLabel": "Law and policy · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
       "id": "latest_scan-RkRBIFBzeWNoaW",
       "title": "FDA Psychiatry Roundup: April 2026 - Medscape",
       "category": "Law and policy",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHU0NFd0cFBLeTJNanNVQ2JfdVh1ckZrLXhFWEJoUWJTWXBaNXpmNHg4LWhVbUUyVWFKOEMtanRaMnEtMnhLUFBKOVpRUFNkT21LbVExNUxBWVFqSmtuOGlITm5tZlRJb2IwZ1EzRjEwMFhiSWtFbjVNZk42bmR3aGdlRWJrd3lNYjZR?oc=5",
-      "publicLabel": "Law and policy · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-VHJ1bXAgZWFzZW",
-      "title": "Trump eased restrictions on research for ibogaine. Here's what to know about the psychedelic drug - MSN",
-      "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNV3R3UTZoUEhxZ3NXeVhjYTY2YW5HbTJLV3BXdW5Ca19MbEttaDZpMUJkaHlVV2liR21qb19QbTllZ1VMMHRyRWRWNE1ybFd5azZsaXQzdUlGSE1ZWkZXeWY0WUFzY1ozRldqWVh5X0dPYVhyU1Y1aVBreVZYUzV4dkxIQlhsZW1jY0FrTm9BeWFXMkxENWVoR1Rtb01hcTc5dEtDRThQR2JZb1RvdmdaMll4RTZjZmRsc2VMQzhubWtqR1lHaVJhYnVTSG51Rm81WVY5OHF1ckZudW1ZUXBKWTBwbmR6VzA2cURCaWxPRDNId3pZc1dfS1BQYlI1bVlzcEFlVWQyMUVKamdGTFZTSWE3UHh1WnV5b3BlT3d2Qjl4SUhSZldRMlF6V0szV0pJcE54VmZyRENSOFV0UzVGY01IQUszdk12OGtsQlYwaGcxT3FsODRSWlI5QVVlUWVTY1dJcS15Nm5pS0x1VjVFaUdXM1B2UVlYdUprS1VNVjdUT3FXZHBZQU1JS2ZvVFZvX0NqYlMzazB1ZlVROHVRS0JEZF9PNWlFaXRaVDZGWmdGQXB5VVZFaTAtVVAyWXVYTjdieWotSWE2MXBGa2dz?oc=5",
       "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
@@ -626,6 +584,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-VHJ1bXAgZWFzZW",
+      "title": "Trump eased restrictions on research for ibogaine. Here's what to know about the psychedelic drug - MSN",
+      "category": "Law and policy",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOUXJ5NFpsWlFKcmVTcVdRSmpWQXd2cDhlQ2Npc3pxbm1qaEs2M2hJNHlNb2gtd1k4Nlc5RDE0WkQ2MEZ3ZHFwV0taYmcwVldQd0RFMC05bjgtNEtYSDVyYlJZNVlTeUt2UDRKbkVTeVFQN0otZlM5ZkZjdTIxcVh5bmZfd09NVzZubDd2UzBHS1JQSFpoSWpHVUgtYWdQaFBuS3I0cWRBU0FGaU5Eb25NY094UkFndm02eDg3ckVDM1dkN0tDWUJUNHJHVnN5bUJ5b29STFlEY3k0ZUlzWE51dm1KT2VlTUEydDllZF8tVHlVRmVtTDZKOTVqWko3QmhjS3VEbi1nazJXUnhLWlF0V0V1RHVqUnpwZl9xWVBaeVVwT3dZYzNsT0xCRlJYYW1NdVJVa3J6Y1JJclJOZkJOemE0bHBFZFhCUW9PUmF5X2EtTTJYZk9KdXh6ZFNvTkgxalZUTTVhaG90N1VpYWc3S3hmRFdWMXFnMWc4TkZwYXlzcHVhNkhZdWgwYjNoTkYwOUgzdHZ3QUxSM25Wdk4tRUdFMzFIbWJ3TEVSVEh6SkxOR3lWVXhscQ?oc=5",
+      "publicLabel": "Law and policy · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-RmVkZXJhbCBJYm",
       "title": "Federal Ibogaine Research Announcement Comes Weeks After Texas Leaders Tout $50 Million Investment - The Texan",
       "category": "Law and policy",
@@ -640,10 +612,10 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-T2hpbyBsYXdtYW",
-      "title": "Ohio lawmakers consider joining other states to test psychedelic-assisted treatments - Mahoning Matters",
+      "id": "latest_scan-SW4gcmFjZSB0by",
+      "title": "In race to develop psychedelic drug, Texas officials trip at starting line - San Antonio Express-News",
       "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ibnlldTMxQURlTzlfNmFUY05aUVBmbnZZSTlrdW9yVHJiWkFIM3dpLTVoSE5IWnhXN1RuNXhlU3VEZWc4enVSQzBOOUVyUjVzekttRi13MGZnd3JnT1RIUm04VEJqX3g5ME0xMXFoamNoZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnRhbHo5SWQ4NU0xYUFNWmMwMkk3S0pTU0NQSm93bjYtOWtWd290MjhOaGlZTkRxaEhTaENGWXFOWXlIVUdUQ19oRkxiNUFiLXZ6TkgxWEZ1ZkZoVjNaeDBkakxIZjJTdGotVnBfUHdhR21rVDQzZk9jLU1GaF9yN2tQeHNGQXowOS14VEJNWFNDN2dHNWpWN0R5cUJlbENDcmlYRkR3ZjhYTVgz?oc=5",
       "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
@@ -654,10 +626,10 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-SW4gcmFjZSB0by",
-      "title": "In race to develop psychedelic drug, Texas officials trip at starting line - San Antonio Express-News",
+      "id": "latest_scan-T2hpbyBsYXdtYW",
+      "title": "Ohio lawmakers consider joining other states to test psychedelic-assisted treatments - Mahoning Matters",
       "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnRhbHo5SWQ4NU0xYUFNWmMwMkk3S0pTU0NQSm93bjYtOWtWd290MjhOaGlZTkRxaEhTaENGWXFOWXlIVUdUQ19oRkxiNUFiLXZ6TkgxWEZ1ZkZoVjNaeDBkakxIZjJTdGotVnBfUHdhR21rVDQzZk9jLU1GaF9yN2tQeHNGQXowOS14VEJNWFNDN2dHNWpWN0R5cUJlbENDcmlYRkR3ZjhYTVgz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ibnlldTMxQURlTzlfNmFUY05aUVBmbnZZSTlrdW9yVHJiWkFIM3dpLTVoSE5IWnhXN1RuNXhlU3VEZWc4enVSQzBOOUVyUjVzekttRi13MGZnd3JnT1RIUm04VEJqX3g5ME0xMXFoamNoZw?oc=5",
       "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
@@ -724,10 +696,10 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-RXhlY3V0aXZlIG",
-      "title": "Executive order opens door to psychedelic research, including ibogaine - Spectrum News",
+      "id": "latest_scan-T2tsYWhvbWEgU2",
+      "title": "Oklahoma Senate Advances Research-Focused Ibogaine Bill - Filter",
       "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk52RWNOanVyNXY5SUx1ZGIzdnBXUlZyUmtiN2Z1YUtlNXRFMEFTLVViNHRab3h6c19CR3BuZHNXUzBhbFI0dUNIa0dIYXFJd1ZWX0V0SDZLSjhMRW1TSFh3ZlIxcGhRR0xmT2I3YjhRUGp2RmtpXy1BVHlSczN1OXBSaDVMdVVnYmpKS3VlQkk0V3k3MXZVTnM4cmJ6S29CbEowZ1p5WUNXX011U1dseWtn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbUt4WjhqRmxfbFpsanlac1lxajhBZElOWmY1d1RqejMxNmpzS3dJQU9lYlZnOEExS1U5RUdibjJvQklKb1cyVWdoQ2RJa2xoVE5QS2E2TnM?oc=5",
       "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
@@ -752,39 +724,25 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-RXhlY3V0aXZlIG",
+      "title": "Executive order opens door to psychedelic research, including ibogaine - Spectrum News",
+      "category": "Law and policy",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk52RWNOanVyNXY5SUx1ZGIzdnBXUlZyUmtiN2Z1YUtlNXRFMEFTLVViNHRab3h6c19CR3BuZHNXUzBhbFI0dUNIa0dIYXFJd1ZWX0V0SDZLSjhMRW1TSFh3ZlIxcGhRR0xmT2I3YjhRUGp2RmtpXy1BVHlSczN1OXBSaDVMdVVnYmpKS3VlQkk0V3k3MXZVTnM4cmJ6S29CbEowZ1p5WUNXX011U1dseWtn?oc=5",
+      "publicLabel": "Law and policy · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-VHJ1bXAgb3JkZX",
       "title": "Trump orders more access to psychedelics like LSD, psilocybin and ibogaine - The Washington Post",
       "category": "News and commentary",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmFsY0NaTUUzeTdKT1dQeWtELXdIcURPMTZQWGJ4WmlfQm14QnF5eGdXYzhZTExtUm9hTUZVWUJTalEtR1JZdndOZkVnM0duRV9jRnZVd3ZXd3lCYkh5dWtVUmtKejZlVUhxSDdFeXRKLXJuWXlrd1JlMTBIVk1yNTRLcVF3S0g3Qi05a0lhNFBjS3pk?oc=5",
       "publicLabel": "News and commentary · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-TWlzc2lzc2lwcG",
-      "title": "Mississippi prepares for ibogaine research as federal order could accelerate plans - WLOX",
-      "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjVPR012RHJ3MUZabjBYcjJ2ekQwMmV5UkQ3aHQtVWJUcWdidzg2MUxkSTFrV2RVbTJtbXh3eGtlQlhVazcxcGJyODRtdWdVZm1WODRaMC02T215d3BLeWJXQmRtbk9BbVd4MTI1RXRSeER6cnE2MmRzU1ZGNTlMREs0NWpLOWV2V19kT3loMVBhWi1ZR3RZRDJoSmgzWTc0UVBXQi1CMGdocU4tQm9JbHFtWWY?oc=5",
-      "publicLabel": "Law and policy · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-U2VuYXRlIHBhc3",
-      "title": "Senate passes legislation to fund ibogaine research - Mississippi Today",
-      "category": "Law and policy",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbktzQm9pd3pVMlBHWVpjajV5SmhIOG1Cb29nVVBvRzBuZzd1M3l1TDRXcFlrNW13MjNmb2h2QUU0cTctYjNYTUZOUVdFQ0t3d1kzWFJxa2oyM2pjOXp6SjV0UkdoWUg0LTRpMWp0ZWxIN1E1NjNXUlFtLUJ5Ul9kSWtPaw?oc=5",
-      "publicLabel": "Law and policy · Journalism",
       "link": {
         "checked": false,
         "ok": true,
@@ -1732,6 +1690,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-SW5kdWN0aW9uIG",
+      "title": "Induction of insulin secretion by an aqueous extract of Tabernanhte iboga Baill. (Apocynaceae) in rat pancreatic islets of Langerhans - ScienceDirect.com",
+      "category": "Books and bibliographies",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UREkzaW5NM0JybVlQc29wQzBWV2V4NFJNaXdpX3diSjBNdWlhc25nWnlNbG9uQm53MlRRQWJkcDB2Q3g5LVVCVUdVaWJiUVg4MDZ5LTFGRmtCYmhIYnFkZG5ZZDA3OFBnZ3RqMzFUT1pfSVRvd0M5M2xNNA?oc=5",
+      "publicLabel": "Books and bibliographies · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "archive-0001",
       "title": "News Articles on Eboga & Ibogaine",
       "category": "News and commentary",
@@ -1816,6 +1788,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-VHJ1bXAgU2lnbn",
+      "title": "Trump Signs Order to Speed Review of Psychedelics, Including the Controversial Drug Ibogaine - VINnews",
+      "category": "News and commentary",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQk1FZXpkYmhTTGNZcDdYTUpzZTJWQkN0dU1hZC0zci1tWThMWHV1dnR1ZmY5eWN3RHFjVTNZWlNCTFlXRnk2d2RZaDNEOXM3eVNVSDlsRXI5R0xWTjhlaW5ma0R6WTdxT3dISG1aMHRFYTRXRlpNWGpuR2Z5T2h4RFE2amFWMXg4N1lKbjl0dEdGdE1KM1BhbHg3LVdZdVZKQlJPUVZzYmZjVlRhRkxNekMxY3FlUElWUGxCU3k4cUk?oc=5",
+      "publicLabel": "News and commentary · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-UHN5Y2hvYWN0aX",
       "title": "Psychoactive drug ibogaine effectively treats traumatic brain injury in special ops military vets - Stanford Medicine",
       "category": "News and commentary",
@@ -1834,20 +1820,6 @@
       "title": "With Rick Perry’s backing and $50 million from the state, Texas set to become a leader in psychedelics research - The Texas Tribune",
       "category": "News and commentary",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW0wYU9ReUxrYS1aWlpkZE5xSUMzaENMT25PSktXRERBcGRhdjlHdjRnTGw0aWdpbTBRUU5zT0FNb2VmMDJrMTRxUDNnVWl5eU9iM1lqTjE3dUxnajB4SFVJNGlMc19OWlh5WVF6WERuRG82R3dZeXlvT01PemxXZWNrR2N3MkpfSHFZSWVGbkk2WUdYeWUwb3oxX1JxUzRVY1l0bmJrNXR5c2M?oc=5",
-      "publicLabel": "News and commentary · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-VGhlIEdyaXBwaW",
-      "title": "The Gripping Story Behind Netflix's In Waves and War - Time Magazine",
-      "category": "News and commentary",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kak5uRndBbDhjWFI1bmdqRF9Rb3B3YmR2NlBTcTM3MmpvS2ZhTndEVXNmSnBZbDdJeVJVSlRSM3BJUmsycWZxblAzQ0VsOFlpa1JBaFdWMUtHZjhHRmVuZEhud29hVXktMVZ0TTFidw?oc=5",
       "publicLabel": "News and commentary · Journalism",
       "link": {
         "checked": false,
@@ -2180,20 +2152,6 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
-      "id": "latest_scan-RXhwbG9yaW5nIH",
-      "title": "Exploring the treatment potential of the psychedelic ibogaine. - Psychology Today",
-      "category": "News and commentary",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVl2TlBWbzQyRUNUOGlCTzQ5M3YzdUpndGRGVHRlbmlLSldMcEpLWFNGbWdmTGI0YVdJaXdBbjZHbDR0TDFjcmFUMXV3cWk1VjI5Slk4YXlHcWQ3NDcxQzRROUtySXB6SzJnQzFSMlo5dTdPQzkxOU5RcVJsLXpUVjhodDR3UGxkanMtdzNCaUJPWk5ZOFhwQ2lNVkxkUG44YnBId29RUFhxdWFGTGdVeTNLNHU2SjBGZVA5NHhn0gHDAUFVX3lxTE1PaHJGZUdoaXpYcGFnNkRlZkxJa29DdWlPcFBzaGxfV0kzMEVjU0ZCbkNJUzhTSTN5d1dLYk5XN2NvbzkyQ3JnTTNWeU1seDAwZTk4R29hckF0emx5VHJBcHJpdVJQYnVTTVlZRm9OaWhBTUxQeWlVTVl6Ykl3U3BMVHJzYjZoa3o1aFRKUWlHcUZ4V1pvOV8ycVdxeDRJRGVnVmJXQUw2ekE0NVR6eVJKUUhlYVpUMjFTSjMwc2lOYlhubw?oc=5",
-      "publicLabel": "News and commentary · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
       "id": "latest_scan-VmV0ZXJhbjogRX",
       "title": "Veteran: Executive Order a Win for Ibogaine, But More Research Needed - Military.com",
       "category": "News and commentary",
@@ -2334,6 +2292,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-QWZnaGFuaXN0YW",
+      "title": "Afghanistan and Iraq War veteran hopes to heal with Ibogaine - thewarhorse.org",
+      "category": "Clinic claims",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1bF9JSEVPVkJHT0IzeXdfZTAzNmUwaTBaN1BGcVA2ZHI4d3JWbUJuS0J6dmZiVXB2dmNKd0ZwNWJMOXVCb21JdmdZVTNUNDN5eWo2cWpKWEQtZ1NVOGlnNFQzcw?oc=5",
+      "publicLabel": "Clinic claims · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-QW4gaW4tZGVwdG",
       "title": "An in-depth look at the bipartisan push for an ibogaine research pilot program in Colorado | Denver7 360 - Denver7",
       "category": "Clinic claims",
@@ -2362,6 +2334,20 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "latest_scan-VGhlIEdyaXBwaW",
+      "title": "The Gripping Story Behind Netflix's In Waves and War - Time Magazine",
+      "category": "Clinic claims",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kak5uRndBbDhjWFI1bmdqRF9Rb3B3YmR2NlBTcTM3MmpvS2ZhTndEVXNmSnBZbDdJeVJVSlRSM3BJUmsycWZxblAzQ0VsOFlpa1JBaFdWMUtHZjhHRmVuZEhud29hVXktMVZ0TTFidw?oc=5",
+      "publicLabel": "Clinic claims · Journalism",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "latest_scan-T2Zmc2hvcmUgSW",
       "title": "Offshore Ibogaine Clinics In Mexico, Portugal, and Brazil - lucid.news",
       "category": "Clinic claims",
@@ -2380,20 +2366,6 @@
       "title": "I Tried Ibogaine, the Psychedelic Anti-Addiction Drug - VICE",
       "category": "Clinic claims",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qNkswc3ZfU3M4MFp5QkRFcWYwWWpTYTd1RmluNXRSeU9fc2N0akpsUmVyTVJ1UUFENjNRNERlbXFMaGFrMXJwc1NrZlpjQnJVZjRONmdETks3WEFlMFhvQUlnSFRVRnVPdG4xbXp1b0tQUWRlM0Z5bERhNk85anc?oc=5",
-      "publicLabel": "Clinic claims · Journalism",
-      "link": {
-        "checked": false,
-        "ok": true,
-        "status": "not_checked"
-      },
-      "issues": [],
-      "verdict": "passes_public_catalog_checks"
-    },
-    {
-      "id": "latest_scan-VGhlIHBzeWNoZW",
-      "title": "The psychedelic ibogaine can treat addiction. The race is on to cash in - The Guardian",
-      "category": "Clinic claims",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTNTTDhNdjJoaVdWZ0JiMWI1SnA1U3VLWlAtNzlIRldRZ3RscFlJaTJVbkJsZHdEdVRHN2I0QXlCeDhEX0ZLNk15Um9CZUNaTFRVeEhsdXotYUlOaG1GNGVTTXJIUEduQVVDNVhlVzhSa1B5akE1dVFXYTJraDJNMFA2LWtDblpxSlR6SFpsZjhId2dlZzF1YzZoZw?oc=5",
       "publicLabel": "Clinic claims · Journalism",
       "link": {
         "checked": false,
@@ -2589,7 +2561,7 @@
       "id": "brief-5",
       "title": "Podcast and interview discovery is now a standing intake lane.",
       "category": "Weekly brief",
-      "url": "data/source-index.json",
+      "url": "data/public-search-index.json",
       "publicLabel": "Weekly brief · Media",
       "link": {
         "checked": false,
@@ -2712,8 +2684,50 @@
       "verdict": "passes_public_catalog_checks"
     },
     {
+      "id": "condition-depression",
+      "title": "Depression and mood symptoms evidence page",
+      "category": "Evidence pages",
+      "url": "#evidence-matrix",
+      "publicLabel": "Evidence pages · Evidence framework",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
+      "id": "condition-anxiety",
+      "title": "Anxiety symptoms evidence page",
+      "category": "Evidence pages",
+      "url": "#evidence-matrix",
+      "publicLabel": "Evidence pages · Evidence framework",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
       "id": "condition-parkinsons",
       "title": "Parkinson's disease evidence page",
+      "category": "Evidence pages",
+      "url": "#evidence-matrix",
+      "publicLabel": "Evidence pages · Evidence framework",
+      "link": {
+        "checked": false,
+        "ok": true,
+        "status": "not_checked"
+      },
+      "issues": [],
+      "verdict": "passes_public_catalog_checks"
+    },
+    {
+      "id": "condition-withdrawal_craving",
+      "title": "Withdrawal and cravings evidence page",
       "category": "Evidence pages",
       "url": "#evidence-matrix",
       "publicLabel": "Evidence pages · Evidence framework",

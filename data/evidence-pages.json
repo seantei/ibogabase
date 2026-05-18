@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "generatedAt": "2026-05-18T00:00:00.000Z",
   "template": [
     "Evidence level",
     "Human studies",
@@ -8,63 +8,113 @@
     "Outcomes",
     "Limitations",
     "Safety signals",
-    "What is not proven"
+    "What is not proven",
+    "Best next source"
   ],
   "conditions": [
     {
       "id": "oud",
       "condition": "Opioid use disorder",
       "evidenceLevel": "early_human_and_observational",
-      "humanStudies": "Observational detoxification reports, follow-up studies, and registered withdrawal research.",
+      "humanStudies": "Observational detoxification reports, follow-up studies, and registered oral Ibogaine withdrawal research.",
+      "sampleSizes": "Published studies and registries vary from small cohorts to planned early-phase trial stages; each source needs its own denominator.",
       "designQuality": "Often uncontrolled, selection-biased, and setting-dependent; approved medications remain the essential comparator.",
-      "outcomes": "Withdrawal interruption, craving, and relapse claims require separate measurement.",
-      "limitations": "Durability, relapse denominator data, and adverse-event denominator data remain incomplete.",
-      "safetySignals": "Cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, and medication interactions.",
-      "notProven": "Ibogaine is not proven to cure opioid addiction."
+      "outcomes": "Withdrawal interruption, craving, relapse, retention, adverse events, and functional recovery require separate measurement.",
+      "limitations": "Durability, relapse denominator data, missing follow-up, concurrent supports, and adverse-event denominator data remain incomplete.",
+      "safetySignals": "Cardiac risk, concurrent substances, withdrawal physiology, electrolyte issues, psychiatric status, and medication interactions.",
+      "notProven": "Ibogaine is not proven to cure opioid addiction.",
+      "bestNextSource": "ClinicalTrials.gov NCT05029401 and peer-reviewed OUD detoxification outcome papers."
     },
     {
       "id": "aud",
       "condition": "Alcohol use disorder",
       "evidenceLevel": "investigational",
-      "humanStudies": "Noribogaine development is entering early-phase U.S. study activity; ibogaine AUD claims require careful separation.",
+      "humanStudies": "FDA allowed an early phase U.S. Noribogaine hydrochloride study to proceed after an IND submission in April 2026.",
+      "sampleSizes": "Phase I details should be read from the posted protocol or registry when available.",
       "designQuality": "Phase I permission is safety-focused and does not establish efficacy.",
-      "outcomes": "Relapse, craving, safety, and tolerability need controlled data.",
-      "limitations": "Noribogaine, Ibogaine, plant Iboga, and clinic claims are separate subjects.",
-      "safetySignals": "Alcohol withdrawal, liver health, medications, QT/QTc, and monitoring requirements.",
-      "notProven": "Noribogaine is not FDA-approved for alcohol use disorder."
+      "outcomes": "Relapse, craving, safety, tolerability, pharmacokinetics, and retention need controlled data.",
+      "limitations": "Noribogaine, Ibogaine, plant Iboga, alcohol-withdrawal risk, and clinic claims are separate subjects.",
+      "safetySignals": "Alcohol withdrawal, liver health, medications, QT/QTc, electrolytes, and monitoring requirements.",
+      "notProven": "Noribogaine is not FDA-approved for alcohol use disorder.",
+      "bestNextSource": "FDA April 24, 2026 announcement and the eventual trial registry entry."
     },
     {
       "id": "tbi",
       "condition": "Traumatic brain injury",
       "evidenceLevel": "notable_open_label_human_signal",
-      "humanStudies": "Veteran cohort work drew attention and requires side-by-side design-limit explanation.",
-      "designQuality": "Open-label cohort data can generate hypotheses but cannot establish broad efficacy.",
-      "outcomes": "Function, disability, mood, PTSD symptoms, and cognitive measures are separate outcomes.",
-      "limitations": "Small samples, treatment setting, concurrent supports, and selection effects.",
+      "humanStudies": "A 30-person veteran prospective observational study and later neurophysiology work drew attention and require side-by-side design-limit explanation.",
+      "sampleSizes": "The best-known Nature Medicine report involved 30 male special operations veterans.",
+      "designQuality": "Open-label observational data can generate hypotheses but cannot establish broad efficacy.",
+      "outcomes": "Disability, cognition, PTSD symptoms, depression, anxiety, sleep, and quality of life are separate outcomes.",
+      "limitations": "Small sample, male veteran population, Mexico treatment setting, concurrent supports, selection effects, and short follow-up.",
       "safetySignals": "Screening, cardiac monitoring, magnesium context, psychiatric history, and follow-up.",
-      "notProven": "Ibogaine is not proven as a TBI treatment."
+      "notProven": "Ibogaine is not proven as a general TBI treatment.",
+      "bestNextSource": "Nature Medicine 2024 magnesium-Ibogaine veteran study and Nature Mental Health 2025 follow-up."
     },
     {
       "id": "ptsd",
       "condition": "PTSD and trauma symptoms",
       "evidenceLevel": "secondary_outcomes_and_observational",
-      "humanStudies": "PTSD-related signals often appear within veteran or substance-use populations rather than standalone trials.",
-      "designQuality": "Controlled studies with clear endpoints and adequate follow-up are still limited.",
-      "outcomes": "Symptom change, functioning, relapse, and narrative meaning are not the same outcome.",
-      "limitations": "Confounding, expectation effects, integration/support differences, and psychiatric exclusions.",
-      "safetySignals": "Psychiatric destabilization, suicidality screening, medications, and acute monitoring.",
-      "notProven": "Ibogaine is not proven as a PTSD treatment."
+      "humanStudies": "PTSD-related signals often appear within veteran or substance-use populations rather than standalone PTSD trials.",
+      "sampleSizes": "Currently tied mainly to small observational cohorts and secondary analyses.",
+      "designQuality": "Controlled studies with clear PTSD endpoints and adequate follow-up remain limited.",
+      "outcomes": "PTSD symptom scales, sleep, functioning, substance use, depression, and narrative meaning are not the same outcome.",
+      "limitations": "Confounding, expectation effects, integration/support differences, psychiatric exclusions, and concurrent interventions.",
+      "safetySignals": "Psychiatric destabilization, suicidality screening, medications, acute monitoring, and post-session support.",
+      "notProven": "Ibogaine is not proven as a PTSD treatment.",
+      "bestNextSource": "Veteran TBI studies and updated psychiatric scoping reviews."
+    },
+    {
+      "id": "depression",
+      "condition": "Depression and mood symptoms",
+      "evidenceLevel": "secondary_outcomes_and_small_reports",
+      "humanStudies": "Mood improvements appear in some Ibogaine-related observational and veteran studies, usually as secondary outcomes.",
+      "sampleSizes": "Small cohorts and case-level reports dominate the public literature.",
+      "designQuality": "Depression-specific controlled Ibogaine evidence remains limited.",
+      "outcomes": "Depression scale changes, quality of life, suicidality, sleep, and substance-use outcomes must be separated.",
+      "limitations": "Expectation effects, concurrent treatment, post-acute recovery, integration, and regression to the mean can affect mood measures.",
+      "safetySignals": "Suicidality, bipolar disorder, psychosis risk, serotonergic medications, sleep disruption, and cardiac risk.",
+      "notProven": "Ibogaine is not proven as a depression treatment.",
+      "bestNextSource": "2026 psychiatric scoping review and condition-specific controlled trials if they appear."
+    },
+    {
+      "id": "anxiety",
+      "condition": "Anxiety symptoms",
+      "evidenceLevel": "secondary_outcomes",
+      "humanStudies": "Anxiety outcomes are usually measured within TBI, PTSD, or substance-use populations rather than as a standalone indication.",
+      "sampleSizes": "Currently small and setting-dependent.",
+      "designQuality": "Anxiety-specific controlled evidence remains sparse.",
+      "outcomes": "Acute anxiety, generalized anxiety, trauma-linked anxiety, panic symptoms, sleep, and functioning need separate labels.",
+      "limitations": "Anxiety can change with withdrawal relief, sleep, expectation, setting, or integration support.",
+      "safetySignals": "Acute distress, panic, psychiatric destabilization, benzodiazepines, serotonergic drugs, and cardiac monitoring.",
+      "notProven": "Ibogaine is not proven as an anxiety treatment.",
+      "bestNextSource": "TBI and psychiatric studies that report anxiety scales."
     },
     {
       "id": "parkinsons",
       "condition": "Parkinson's disease",
       "evidenceLevel": "case_report_watchlist",
-      "humanStudies": "A 2026 case report is hypothesis-generating and belongs on a watchlist.",
+      "humanStudies": "A 2026 peer-reviewed case report describes one patient treated with low-dose Ibogaine hydrochloride over 80 days using validated Parkinson's instruments.",
+      "sampleSizes": "One published case report in the current public watchlist.",
       "designQuality": "A single case cannot establish efficacy, generalizability, or safety.",
-      "outcomes": "Motor and non-motor outcomes need structured follow-up and independent replication.",
-      "limitations": "One-patient evidence is highly uncertain.",
-      "safetySignals": "Age, cardiac status, neurological comorbidity, drug interactions, and medication changes.",
-      "notProven": "Ibogaine is not proven as a Parkinson's treatment."
+      "outcomes": "Motor symptoms, quality of life, fatigue, mood, sleep, freezing of gait, and adverse events need structured follow-up.",
+      "limitations": "One-patient evidence is highly uncertain and vulnerable to placebo, expectation, medication changes, and disease variability.",
+      "safetySignals": "Age, cardiac status, neurological comorbidity, drug interactions, sleep worsening, and medication changes.",
+      "notProven": "Ibogaine is not proven as a Parkinson's treatment.",
+      "bestNextSource": "Journal of Psychedelic Studies 2026 case report via University of Otago."
+    },
+    {
+      "id": "withdrawal_craving",
+      "condition": "Withdrawal and cravings",
+      "evidenceLevel": "early_human_signal_by_context",
+      "humanStudies": "Withdrawal and craving findings appear in OUD studies, observational detoxification reports, and substance-use reviews.",
+      "sampleSizes": "Varies by source; each claim needs substance type, timing, and follow-up window.",
+      "designQuality": "Acute symptom change is easier to observe than durable relapse prevention.",
+      "outcomes": "Withdrawal severity, cravings, time to relapse, treatment retention, and post-acute symptoms must not be merged.",
+      "limitations": "Concurrent medications, setting, expectation, follow-up loss, and substance-specific withdrawal risks can change interpretation.",
+      "safetySignals": "Withdrawal physiology, dehydration, electrolytes, cardiac risk, benzodiazepines, alcohol, stimulants, opioids, and polysubstance use.",
+      "notProven": "Craving reduction or withdrawal relief is not the same as a cure.",
+      "bestNextSource": "OUD papers, clinical trial registries, and adverse-event literature."
     }
   ]
 }

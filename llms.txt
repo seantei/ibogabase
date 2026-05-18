@@ -24,7 +24,6 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 
 - [AI index](https://www.ibogabase.com/ai-index.json): Site purpose, boundaries, audiences, topic URLs, and data endpoints.
 - [Public search index](https://www.ibogabase.com/data/public-search-index.json): Searchable public source and content records.
-- [Source index](https://www.ibogabase.com/data/source-index.json): Source catalog records and source labels.
 - [Evidence pages](https://www.ibogabase.com/data/evidence-pages.json): Evidence-grade condition summaries.
 - [Policy tracker](https://www.ibogabase.com/data/policy-tracker.json): Law and policy rows.
 - [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking rules and sample rows.

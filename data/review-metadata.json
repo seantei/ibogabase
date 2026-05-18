@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-17T06:00:00.000Z",
+  "generatedAt": "2026-05-18T00:00:00.000Z",
   "pages": [
     {
       "page": "Safety Desk",
       "anchor": "#safety-flagship",
-      "lastUpdated": "2026-05-17",
-      "lastSourceCheck": "2026-05-17",
+      "lastUpdated": "2026-05-18",
+      "lastSourceCheck": "2026-05-18",
       "reviewStatus": "editorial_reviewed_medical_review_pending",
       "confidence": "high_for_general_risk_framing",
       "openQuestions": "Needs qualified cardiology and addiction-medicine review before public authority claims."
@@ -13,8 +13,8 @@
     {
       "page": "Policy Tracker",
       "anchor": "#policy-tracker-table",
-      "lastUpdated": "2026-05-17",
-      "lastSourceCheck": "2026-05-17",
+      "lastUpdated": "2026-05-18",
+      "lastSourceCheck": "2026-05-18",
       "reviewStatus": "primary_sources_started_legal_review_pending",
       "confidence": "high_for_fda_oklahoma_texas_primary_rows_medium_for_tennessee_status",
       "openQuestions": "Tennessee bill status needs follow-up beyond fiscal note."
@@ -22,8 +22,8 @@
     {
       "page": "Evidence-Grade Pages",
       "anchor": "#evidence-matrix",
-      "lastUpdated": "2026-05-17",
-      "lastSourceCheck": "2026-05-17",
+      "lastUpdated": "2026-05-18",
+      "lastSourceCheck": "2026-05-18",
       "reviewStatus": "template_live_medical_review_pending",
       "confidence": "moderate_for_structure_low_to_moderate_by_condition",
       "openQuestions": "Needs full study tables by condition."
@@ -31,17 +31,17 @@
     {
       "page": "Culture and Stewardship",
       "anchor": "#culture",
-      "lastUpdated": "2026-05-17",
-      "lastSourceCheck": "2026-05-17",
+      "lastUpdated": "2026-05-18",
+      "lastSourceCheck": "2026-05-18",
       "reviewStatus": "editorial_reviewed_cultural_review_pending",
-      "confidence": "moderate_for_stewardship_framing",
-      "openQuestions": "Needs named Gabon/Bwiti-linked cultural review and direct voices with permission."
+      "confidence": "high_for_public_history_and_stewardship_boundaries_medium_until_named_cultural_review",
+      "openQuestions": "Named Gabon/Bwiti-linked cultural review and direct voices should be added only with consent."
     },
     {
       "page": "Ask IbogaBase",
       "anchor": "#ask",
-      "lastUpdated": "2026-05-17",
-      "lastSourceCheck": "2026-05-17",
+      "lastUpdated": "2026-05-18",
+      "lastSourceCheck": "2026-05-18",
       "reviewStatus": "guardrailed_local_tool_human_review_pending",
       "confidence": "high_for_refusal_boundaries_medium_for_retrieval_quality",
       "openQuestions": "Should remain citation-only and never answer dosing, provider-referral, or individualized medical/legal questions."

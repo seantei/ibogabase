@@ -69,22 +69,20 @@ async function hydrateScanStatus() {
   if (!scanFields.length) return;
 
   try {
-    const response = await fetch("data/latest-scan.json", { cache: "no-store" });
-    if (!response.ok) return;
-    const scan = await response.json();
-    const scannedAt = scan.scannedAt
+    const index = await loadJson("data/public-search-index.json");
+    const generatedAt = index.generatedAt
       ? new Intl.DateTimeFormat(undefined, {
           month: "short",
           day: "numeric",
           hour: "numeric",
           minute: "2-digit",
-        }).format(new Date(scan.scannedAt))
+        }).format(new Date(index.generatedAt))
       : "Ready";
 
     const values = {
-      scannedAt,
-      resultCount: scan.resultCount ?? "--",
-      newCandidateCount: scan.newCandidateCount ?? "--",
+      scannedAt: generatedAt,
+      resultCount: index.totalRecords ?? "--",
+      newCandidateCount: Object.keys(index.categories || {}).length || "--",
     };
 
     scanFields.forEach((field) => {
@@ -92,15 +90,11 @@ async function hydrateScanStatus() {
     });
 
     if (scanSummary) {
-      scanSummary.textContent = `Latest local scan found ${scan.resultCount ?? 0} items and ${scan.newCandidateCount ?? 0} review candidates.`;
-    }
-
-    if (scanNote && scan.errors?.length) {
-      scanNote.textContent = `Scanner ran with ${scan.errors.length} source issue${scan.errors.length === 1 ? "" : "s"}; review the log before publishing.`;
+      scanSummary.textContent = `The public catalog currently includes ${index.totalRecords ?? 0} searchable records across ${Object.keys(index.categories || {}).length || 0} source categories.`;
     }
   } catch {
     if (scanNote) {
-      scanNote.textContent = "Scanner output will appear here after the local update scanner runs.";
+      scanNote.textContent = "Public source status is temporarily unavailable.";
     }
   }
 }
@@ -140,23 +134,24 @@ function renderCompleteness(completeness) {
   });
 }
 
-function renderQueue(queue) {
+function renderQueue(records) {
   if (!queueList) return;
 
-  const items = (queue.queue || []).slice(0, 6);
+  const items = (records || []).slice(0, 6);
   queueList.innerHTML = "";
   if (!items.length) {
-    queueList.innerHTML = "<p>No review items are waiting right now.</p>";
+    queueList.innerHTML = "<p>Public catalog records are being refreshed.</p>";
     return;
   }
 
   items.forEach((item) => {
     const row = document.createElement("a");
     row.href = item.url || "#updates";
-    row.className = `queue-item priority-${item.priority || "normal"}`;
+    row.className = "queue-item priority-normal";
     row.innerHTML = `
-      <span>${item.lane || "source-desk"} · ${item.priority || "normal"}</span>
+      <span>${item.displayCategory || item.category || "Source"} · ${item.displaySourceType || item.confidence || "Cataloged"}</span>
       <strong>${item.title || "Untitled item"}</strong>
+      ${item.summary ? `<small>${escapeHtml(item.summary)}</small>` : ""}
     `;
     queueList.append(row);
   });
@@ -184,26 +179,25 @@ async function hydrateEditorialSystem() {
   if (!editorialFields.length && !completenessList && !queueList && !workerList) return;
 
   try {
-    const [completeness, queue, roster, status] = await Promise.all([
+    const [completeness, index, roster] = await Promise.all([
       loadJson("data/site-completeness.json"),
-      loadJson("data/editorial-queue.json"),
+      loadJson("data/public-search-index.json"),
       loadJson("data/workers/roster.json"),
-      loadJson("data/worker-status.json").catch(() => ({ workers: [] })),
     ]);
 
     setEditorialFields({
       overall: `${completeness.overall ?? "--"}%`,
-      queueTotal: queue.totalCandidates ?? "--",
-      highPriority: `${queue.highPriority ?? 0} high`,
+      queueTotal: index.totalRecords ?? "--",
+      highPriority: `${index.totalRecords ?? "--"} records`,
     });
     renderCompleteness(completeness);
-    renderQueue(queue);
-    renderWorkers(roster, status);
+    renderQueue(index.records || []);
+    renderWorkers(roster, { workers: [] });
   } catch {
     setEditorialFields({
-      overall: "Building",
+      overall: "Current",
       queueTotal: "--",
-      highPriority: "review",
+      highPriority: "catalog",
     });
   }
 }
@@ -214,14 +208,14 @@ async function hydrateSourceIndex() {
   if (!catalogCounts.length) return;
 
   try {
-    const index = await loadJson("data/source-index.json");
+    const index = await loadJson("data/public-search-index.json");
     catalogCounts.forEach((field) => {
-      const category = index.categories?.[field.dataset.catalogCount];
-      if (category) field.textContent = String(category.count ?? "--");
+      const count = index.categories?.[field.dataset.catalogCount];
+      if (count !== undefined) field.textContent = String(count);
     });
   } catch {
     catalogCounts.forEach((field) => {
-      field.textContent = "review";
+      field.textContent = "--";
     });
   }
 }
@@ -380,7 +374,7 @@ async function hydratePublicSearch() {
     renderSearchResults();
   } catch {
     if (searchCount) searchCount.textContent = "index pending";
-    if (searchResults) searchResults.innerHTML = "<p>Search index will appear after the public catalog builder runs.</p>";
+    if (searchResults) searchResults.innerHTML = "<p>Public search is temporarily unavailable.</p>";
   }
 
   if (sourceReviewStatus) {
@@ -424,7 +418,7 @@ async function hydrateWeeklyBrief() {
       weeklyBrief.append(card);
     });
   } catch {
-    weeklyBrief.innerHTML = "<p>The weekly brief will appear after the field scanner and editor run.</p>";
+    weeklyBrief.innerHTML = "<p>The weekly brief is temporarily unavailable.</p>";
   }
 }
 
@@ -455,7 +449,7 @@ async function hydratePolicyTracker() {
       </div>
     `;
   } catch {
-    policyTracker.innerHTML = "<p>Policy rows will appear after primary-source review.</p>";
+    policyTracker.innerHTML = "<p>Policy rows are temporarily unavailable.</p>";
   }
 }
 
@@ -475,21 +469,23 @@ async function hydrateEvidenceMatrix() {
         <div role="row">
           <strong role="columnheader">Condition</strong>
           <strong role="columnheader">Evidence level</strong>
-          <strong role="columnheader">Main limitation</strong>
+          <strong role="columnheader">Human evidence</strong>
+          <strong role="columnheader">Limits and safety</strong>
           <strong role="columnheader">Not proven</strong>
         </div>
         ${(evidence.conditions || []).map((condition) => `
           <div role="row">
             <span><b>${escapeHtml(condition.condition)}</b></span>
             <span>${escapeHtml(condition.evidenceLevel)}</span>
-            <span>${escapeHtml(condition.limitations)}</span>
-            <span>${escapeHtml(condition.notProven)}</span>
+            <span>${escapeHtml(condition.humanStudies)}<small>${escapeHtml(condition.sampleSizes || "")}</small></span>
+            <span>${escapeHtml(condition.limitations)}<small>${escapeHtml(condition.safetySignals)}</small></span>
+            <span>${escapeHtml(condition.notProven)}<small>${escapeHtml(condition.bestNextSource || "")}</small></span>
           </div>
         `).join("")}
       </div>
     `;
   } catch {
-    evidenceMatrix.innerHTML = "<p>Evidence matrix will appear after condition records are built.</p>";
+    evidenceMatrix.innerHTML = "<p>The evidence matrix is temporarily unavailable.</p>";
   }
 }
 
@@ -513,7 +509,7 @@ async function hydrateReviewMetadata() {
       reviewMetadata.append(card);
     });
   } catch {
-    reviewMetadata.innerHTML = "<p>Per-page review metadata will appear after review records are generated.</p>";
+    reviewMetadata.innerHTML = "<p>Review metadata is temporarily unavailable.</p>";
   }
 }
 
@@ -531,7 +527,7 @@ async function hydrateClinicObservatory() {
       </ul>
     `;
   } catch {
-    clinicObservatory.innerHTML = "<p>Clinic observatory rules will appear after the tracker is generated.</p>";
+    clinicObservatory.innerHTML = "<p>Clinic observatory rules are temporarily unavailable.</p>";
   }
 }
 
