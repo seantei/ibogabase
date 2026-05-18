@@ -229,15 +229,55 @@ async function hydrateSourceIndex() {
 hydrateSourceIndex();
 
 function scoreRecord(record, query) {
-  if (!query) return 1;
+  if (!query) return defaultRecordScore(record);
   const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
   return terms.reduce((score, term) => {
     if (record.title?.toLowerCase().includes(term)) score += 5;
     if (record.category?.toLowerCase().includes(term)) score += 3;
     if (record.sourceName?.toLowerCase().includes(term)) score += 2;
+    if (record.displaySourceName?.toLowerCase().includes(term)) score += 2;
     if (record.searchText?.includes(term)) score += 1;
     return score;
   }, 0);
+}
+
+function defaultRecordScore(record) {
+  const categoryPriority = {
+    weekly_brief: 95,
+    studies_papers: 90,
+    laws_policy: 86,
+    clinical_trials: 82,
+    culture_stewardship: 78,
+    evidence_pages: 74,
+    news_articles_blogs: 70,
+    podcasts_interviews: 62,
+    documentaries_films: 58,
+    companies_patents: 54,
+    clinics: 45,
+    review_metadata: 35,
+  };
+
+  const sourceBoost = record.sourceOrigin === "source_radar" ? 6 : 0;
+  const freshnessPenalty = record.sourceOrigin === "latest_scan" ? -8 : 0;
+  const namedSourceBoost = record.sourceName && !["source_radar", "manual_seed", "latest_scan"].includes(record.sourceName) ? 2 : 0;
+  return (categoryPriority[record.category] || 50) + sourceBoost + namedSourceBoost + freshnessPenalty;
+}
+
+function renderResultDetails(record) {
+  const rows = [
+    ["From", record.displaySourceName || record.sourceName || "Source catalog"],
+    ["What it is", record.whatItIs],
+    ["Context", record.conversationContext],
+    ["Why listed", record.whyListed],
+    ["Date", record.displayDate],
+  ].filter(([, value]) => value);
+
+  return rows.map(([label, value]) => `
+    <div>
+      <dt>${escapeHtml(label)}</dt>
+      <dd>${escapeHtml(value)}</dd>
+    </div>
+  `).join("");
 }
 
 function renderSearchResults() {
@@ -266,12 +306,18 @@ function renderSearchResults() {
       record.displaySourceType || record.confidence || record.sourceType,
     ].filter(Boolean).join(" · ");
     item.innerHTML = `
-      <div>
-        <span>${escapeHtml(label)}</span>
+      <div class="result-copy">
+        <span class="result-kicker">${escapeHtml(label)}</span>
         <h3>${escapeHtml(record.title)}</h3>
         <p>${escapeHtml(record.summary || "Source record awaiting summary.")}</p>
+        <dl class="result-details">
+          ${renderResultDetails(record)}
+        </dl>
       </div>
-      <a href="${escapeHtml(record.url || "#sources")}" target="_blank" rel="noopener">Open source</a>
+      <div class="result-actions">
+        <span>${escapeHtml(record.status || "Cataloged source")}</span>
+        <a href="${escapeHtml(record.url || "#sources")}" target="_blank" rel="noopener">Open source</a>
+      </div>
     `;
     searchResults.append(item);
   });
@@ -343,9 +389,10 @@ async function hydratePublicSearch() {
       const reviewedAt = review.generatedAt
         ? new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric", year: "numeric" }).format(new Date(review.generatedAt))
         : "recently";
-      sourceReviewStatus.textContent = `${review.totalRecordsChecked || publicSearchIndex.length} public catalog entries checked for clean labels and usable links on ${reviewedAt}.`;
+      const linkPhrase = review.liveLinkCheck ? "live links" : "link format";
+      sourceReviewStatus.textContent = `${review.totalRecordsChecked || publicSearchIndex.length} public catalog entries checked for clean labels, source details, and ${linkPhrase} on ${reviewedAt}.`;
     } catch {
-      sourceReviewStatus.textContent = "Public catalog entries are checked before each publish for clean labels and usable links.";
+      sourceReviewStatus.textContent = "Public catalog entries are checked before each publish for clean labels, source details, and link format.";
     }
   }
 }

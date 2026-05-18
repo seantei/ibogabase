@@ -817,14 +817,15 @@ figcaption {
 
 .search-result {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) max-content;
+  grid-template-columns: minmax(0, 1fr) minmax(118px, max-content);
   gap: 16px;
-  align-items: center;
+  align-items: start;
   padding: 16px;
   box-shadow: none;
 }
 
-.search-result span,
+.result-kicker,
+.result-actions span,
 .answer-boundary,
 .tracker-note {
   color: var(--muted);
@@ -843,6 +844,42 @@ figcaption {
 .search-result p {
   margin-top: 6px;
   color: var(--muted);
+}
+
+.result-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 14px;
+  margin: 14px 0 0;
+}
+
+.result-details div {
+  min-width: 0;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.result-details dt {
+  margin: 0 0 3px;
+  color: var(--green);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.result-details dd {
+  margin: 0;
+  color: var(--ink-2);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.result-actions {
+  display: grid;
+  justify-items: end;
+  gap: 10px;
+  text-align: right;
 }
 
 .search-result a,
@@ -1689,6 +1726,15 @@ figcaption {
   .search-result,
   .tracker-table > div,
   .tracker-table.compact > div {
+    grid-template-columns: 1fr;
+  }
+
+  .result-actions {
+    justify-items: start;
+    text-align: left;
+  }
+
+  .result-details {
     grid-template-columns: 1fr;
   }
 
