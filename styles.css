@@ -406,6 +406,46 @@ figcaption {
   flex: 0 0 auto;
 }
 
+.department-strip {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  background: var(--white);
+  border-bottom: 1px solid var(--line);
+}
+
+.department-strip a {
+  display: grid;
+  min-height: 148px;
+  align-content: space-between;
+  padding: 22px 24px;
+  color: var(--ink);
+  border-right: 1px solid var(--line);
+  text-decoration: none;
+}
+
+.department-strip a:last-child {
+  border-right: 0;
+}
+
+.department-strip a:hover {
+  background: rgba(244, 240, 231, 0.7);
+}
+
+.department-strip span {
+  color: var(--ochre);
+  font-size: 0.74rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.department-strip strong {
+  display: block;
+  color: var(--ink-2);
+  font-size: 0.98rem;
+  line-height: 1.4;
+}
+
 .field-atlas-section {
   background:
     linear-gradient(135deg, rgba(23, 63, 53, 0.08), transparent 36%),
@@ -919,6 +959,31 @@ figcaption {
   border: 1px solid var(--line-strong);
   border-radius: var(--radius);
   font: inherit;
+}
+
+.quick-searches {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.quick-searches button {
+  min-height: 34px;
+  padding: 0 11px;
+  color: var(--green);
+  background: rgba(244, 240, 231, 0.72);
+  border: 1px solid rgba(23, 63, 53, 0.2);
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.84rem;
+  font-weight: 780;
+}
+
+.quick-searches button:hover {
+  color: var(--white);
+  background: var(--green);
 }
 
 .ask-tool textarea {
@@ -1806,6 +1871,7 @@ figcaption {
 
   .base-map,
   .at-a-glance,
+  .department-strip,
   .data-grid,
   .reference-index-grid,
   .start-tree-grid,
@@ -1855,6 +1921,7 @@ figcaption {
 
   .site-header,
   .alert-band,
+  .department-strip,
   .footer {
     align-items: flex-start;
     flex-direction: column;
@@ -1896,6 +1963,7 @@ figcaption {
   .base-map,
   .atlas-board,
   .at-a-glance,
+  .department-strip,
   .update-grid,
   .library-grid,
   .reference-index-grid,
@@ -1921,6 +1989,17 @@ figcaption {
   .update-dial,
   .review-lanes {
     grid-template-columns: 1fr;
+  }
+
+  .department-strip a {
+    width: 100%;
+    min-height: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .department-strip a:last-child {
+    border-bottom: 0;
   }
 
   .review-lanes {

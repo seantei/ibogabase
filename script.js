@@ -12,6 +12,7 @@ const workerList = document.querySelector("[data-worker-list]");
 const catalogCounts = document.querySelectorAll("[data-catalog-count]");
 const sourceSearch = document.querySelector("[data-source-search]");
 const sourceFilter = document.querySelector("[data-source-filter]");
+const quickSearchButtons = document.querySelectorAll("[data-search-query]");
 const searchResults = document.querySelector("[data-search-results]");
 const searchCount = document.querySelector("[data-search-count]");
 const sourceReviewStatus = document.querySelector("[data-source-review-status]");
@@ -393,6 +394,14 @@ async function hydratePublicSearch() {
 
 sourceSearch?.addEventListener("input", renderSearchResults);
 sourceFilter?.addEventListener("change", renderSearchResults);
+quickSearchButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    if (sourceSearch) sourceSearch.value = button.dataset.searchQuery || "";
+    if (sourceFilter && button.dataset.searchFilter) sourceFilter.value = button.dataset.searchFilter;
+    renderSearchResults();
+    searchResults?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+});
 askButton?.addEventListener("click", answerFromSources);
 askInput?.addEventListener("keydown", (event) => {
   if ((event.metaKey || event.ctrlKey) && event.key === "Enter") answerFromSources();
