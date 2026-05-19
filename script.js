@@ -36,6 +36,12 @@ function escapeHtml(value = "") {
     .replaceAll("'", "&#039;");
 }
 
+function plainLabel(value = "") {
+  return String(value || "")
+    .replaceAll("_", " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
 function updateHeader() {
   header?.classList.toggle("is-scrolled", window.scrollY > 12);
 }
@@ -437,20 +443,56 @@ async function hydratePolicyTracker() {
   if (!policyTracker) return;
 
   try {
-    const tracker = await loadJson("data/policy-tracker.json");
+    const [tracker, coverage] = await Promise.all([
+      loadJson("data/policy-tracker.json"),
+      loadJson("data/us-state-policy-coverage.json").catch(() => null),
+    ]);
+    const coverageRows = coverage?.coverage || [];
+    const trackedStates = coverageRows.filter((row) => row.trackedRecordCount > 0);
+    const coverageSummary = coverage ? `
+      <div class="policy-coverage-summary">
+        <div>
+          <span>U.S. state coverage</span>
+          <strong>${escapeHtml(coverage.counts?.statesAndDc ?? coverageRows.length)} jurisdictions checked</strong>
+          <p>${escapeHtml(coverage.counts?.statesWithTrackedActivity ?? trackedStates.length)} have state-specific Iboga/Ibogaine policy records in the tracker. ${escapeHtml(coverage.counts?.statesWithoutStateSpecificRecord ?? 0)} have no state-specific tracker record as of ${escapeHtml((coverage.generatedAt || "").slice(0, 10))}.</p>
+        </div>
+        <div>
+          <span>Important limit</span>
+          <strong>Untracked does not mean impossible or absent.</strong>
+          <p>The table marks what IbogaBase has traced to sources; it is not legal advice and does not replace current legal review.</p>
+        </div>
+      </div>
+      <details class="state-coverage-details">
+        <summary>Show all 50 states and DC</summary>
+        <div class="state-coverage-grid">
+          ${coverageRows.map((row) => `
+            <article class="${row.trackedRecordCount > 0 ? "has-activity" : ""}">
+              <h3>${escapeHtml(row.jurisdiction)}</h3>
+              <p>${row.trackedRecordCount > 0
+                ? `${escapeHtml(row.trackedRecordCount)} tracked record${row.trackedRecordCount === 1 ? "" : "s"}`
+                : "No state-specific tracker record"}</p>
+              ${row.rows?.length ? `<small>${escapeHtml(row.rows.map((item) => item.action).join("; "))}</small>` : "<small>Monitored by state name, Ibogaine, Iboga, bill, law, and clinical-trial queries.</small>"}
+            </article>
+          `).join("")}
+        </div>
+      </details>
+    ` : "";
     policyTracker.innerHTML = `
       <div class="tracker-note">${escapeHtml(tracker.disclaimer)}</div>
+      ${coverageSummary}
       <div class="tracker-table" role="table">
         <div role="row">
           <strong role="columnheader">Jurisdiction</strong>
           <strong role="columnheader">Status</strong>
+          <strong role="columnheader">What it permits or tracks</strong>
           <strong role="columnheader">What it does not mean</strong>
           <strong role="columnheader">Source</strong>
         </div>
         ${(tracker.rows || []).map((row) => `
           <div role="row">
             <span><b>${escapeHtml(row.jurisdiction)}</b><small>${escapeHtml(row.action)}</small></span>
-            <span>${escapeHtml(row.status)}<small>Checked ${escapeHtml(row.lastChecked)}</small></span>
+            <span>${escapeHtml(plainLabel(row.status))}<small>Checked ${escapeHtml(row.lastChecked)}</small></span>
+            <span>${escapeHtml(row.whatItPermits)}</span>
             <span>${escapeHtml(row.whatItDoesNotPermit)}</span>
             <span><a href="${escapeHtml(row.primaryUrl)}">${escapeHtml(row.primarySource)}</a><small>${escapeHtml(row.confidence)}</small></span>
           </div>

@@ -1,0 +1,1023 @@
+{
+  "generatedAt": "2026-05-19T06:39:21.379Z",
+  "reviewStatus": "all_states_and_dc_represented_in_policy_coverage",
+  "coverageStandard": "Every U.S. state and DC receives either a tracked state-specific policy record or an explicit no-state-specific-record marker. This is legal information tracking, not legal advice.",
+  "counts": {
+    "statesAndDc": 51,
+    "statesWithTrackedActivity": 13,
+    "statesWithoutStateSpecificRecord": 38,
+    "totalStateSpecificPolicyRows": 15,
+    "federalRows": 2
+  },
+  "coverage": [
+    {
+      "jurisdiction": "Alabama",
+      "abbreviation": "AL",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Alabama ibogaine bill",
+        "Alabama iboga bill",
+        "Alabama ibogaine law",
+        "Alabama ibogaine clinical trial",
+        "Alabama psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Alaska",
+      "abbreviation": "AK",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Alaska ibogaine bill",
+        "Alaska iboga bill",
+        "Alaska ibogaine law",
+        "Alaska ibogaine clinical trial",
+        "Alaska psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Arizona",
+      "abbreviation": "AZ",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Arizona ibogaine bill",
+        "Arizona iboga bill",
+        "Arizona ibogaine law",
+        "Arizona ibogaine clinical trial",
+        "Arizona psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 2871, appropriation for Ibogaine clinical research study",
+          "status": "2025_bill_dead_or_not_carried_forward_in_tracker",
+          "statusCategory": "inactive_or_unclear",
+          "lastActionDate": "2025-03-01",
+          "primarySource": "Arizona House bill summary",
+          "primaryUrl": "https://www.azleg.gov/legtext/57leg/1R/summary/H.HB2871_022425_CAUCUSCOW.DOCX.htm",
+          "whatItPermits": "The proposal would have appropriated state funds for a certified clinical research study on Ibogaine for neurological diseases.",
+          "whatItDoesNotPermit": "This tracker does not treat the proposal as current access or an enacted 2026 program without a newer official status source.",
+          "confidence": "primary_bill_summary_status_needs_periodic_recheck",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Arkansas",
+      "abbreviation": "AR",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Arkansas ibogaine bill",
+        "Arkansas iboga bill",
+        "Arkansas ibogaine law",
+        "Arkansas ibogaine clinical trial",
+        "Arkansas psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "California",
+      "abbreviation": "CA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "California ibogaine bill",
+        "California iboga bill",
+        "California ibogaine law",
+        "California ibogaine clinical trial",
+        "California psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Colorado",
+      "abbreviation": "CO",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Colorado ibogaine bill",
+        "Colorado iboga bill",
+        "Colorado ibogaine law",
+        "Colorado ibogaine clinical trial",
+        "Colorado psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB26-1325, Natural Medicine / Ibogaine research pilot program",
+          "status": "passed_legislature_awaiting_enactment_check",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2026-05-13",
+          "primarySource": "Colorado General Assembly bill page",
+          "primaryUrl": "https://leg.colorado.gov/bills/HB26-1325",
+          "whatItPermits": "Creates an Ibogaine research pilot program lane, allows up to five pilot sites, includes possible rulemaking around administration/manufacturing/use, and adds benefit-sharing language tied to Indigenous communities.",
+          "whatItDoesNotPermit": "Does not make unsupervised Ibogaine use lawful and should not be read as FDA approval, proof of efficacy, or a provider referral pathway.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Connecticut",
+      "abbreviation": "CT",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Connecticut ibogaine bill",
+        "Connecticut iboga bill",
+        "Connecticut ibogaine law",
+        "Connecticut ibogaine clinical trial",
+        "Connecticut psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Delaware",
+      "abbreviation": "DE",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Delaware ibogaine bill",
+        "Delaware iboga bill",
+        "Delaware ibogaine law",
+        "Delaware ibogaine clinical trial",
+        "Delaware psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "District of Columbia",
+      "abbreviation": "DC",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "District of Columbia ibogaine bill",
+        "District of Columbia iboga bill",
+        "District of Columbia ibogaine law",
+        "District of Columbia ibogaine clinical trial",
+        "District of Columbia psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Florida",
+      "abbreviation": "FL",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Florida ibogaine bill",
+        "Florida iboga bill",
+        "Florida ibogaine law",
+        "Florida ibogaine clinical trial",
+        "Florida psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Georgia",
+      "abbreviation": "GA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Georgia ibogaine bill",
+        "Georgia iboga bill",
+        "Georgia ibogaine law",
+        "Georgia ibogaine clinical trial",
+        "Georgia psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Hawaii",
+      "abbreviation": "HI",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Hawaii ibogaine bill",
+        "Hawaii iboga bill",
+        "Hawaii ibogaine law",
+        "Hawaii ibogaine clinical trial",
+        "Hawaii psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Idaho",
+      "abbreviation": "ID",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Idaho ibogaine bill",
+        "Idaho iboga bill",
+        "Idaho ibogaine law",
+        "Idaho ibogaine clinical trial",
+        "Idaho psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Illinois",
+      "abbreviation": "IL",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Illinois ibogaine bill",
+        "Illinois iboga bill",
+        "Illinois ibogaine law",
+        "Illinois ibogaine clinical trial",
+        "Illinois psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Indiana",
+      "abbreviation": "IN",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Indiana ibogaine bill",
+        "Indiana iboga bill",
+        "Indiana ibogaine law",
+        "Indiana ibogaine clinical trial",
+        "Indiana psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Iowa",
+      "abbreviation": "IA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Iowa ibogaine bill",
+        "Iowa iboga bill",
+        "Iowa ibogaine law",
+        "Iowa ibogaine clinical trial",
+        "Iowa psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Kansas",
+      "abbreviation": "KS",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Kansas ibogaine bill",
+        "Kansas iboga bill",
+        "Kansas ibogaine law",
+        "Kansas ibogaine clinical trial",
+        "Kansas psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Kentucky",
+      "abbreviation": "KY",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Kentucky ibogaine bill",
+        "Kentucky iboga bill",
+        "Kentucky ibogaine law",
+        "Kentucky ibogaine clinical trial",
+        "Kentucky psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "SB 77, Ibogaine research in the Commonwealth",
+          "status": "enacted_after_veto_override_acts_ch_158",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2026-04-14",
+          "primarySource": "Kentucky Legislature bill record",
+          "primaryUrl": "https://apps.legislature.ky.gov/record/26rs/sb77.html",
+          "whatItPermits": "Establishes a state framework for Ibogaine research and intellectual-property development through a public-private partnership approach.",
+          "whatItDoesNotPermit": "The enacted framework does not create general treatment access or FDA approval.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Louisiana",
+      "abbreviation": "LA",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Louisiana ibogaine bill",
+        "Louisiana iboga bill",
+        "Louisiana ibogaine law",
+        "Louisiana ibogaine clinical trial",
+        "Louisiana psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "SB 43, psychedelic-assisted therapy / clinical research language",
+          "status": "passed_house_returned_for_senate_action_check",
+          "statusCategory": "active_pending",
+          "lastActionDate": "2026-05-07",
+          "primarySource": "Louisiana Legislature bill page",
+          "primaryUrl": "https://legis.la.gov/Legis/BillInfo.aspx?i=249751",
+          "whatItPermits": "The bill record describes psychedelic-assisted therapy legislation and has included Ibogaine-related clinical-study discussion in public tracking.",
+          "whatItDoesNotPermit": "Do not treat this as final law or treatment access until final enrollment/signature status is confirmed.",
+          "confidence": "primary_bill_status_ibogaine_text_needs_final_review",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Maine",
+      "abbreviation": "ME",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Maine ibogaine bill",
+        "Maine iboga bill",
+        "Maine ibogaine law",
+        "Maine ibogaine clinical trial",
+        "Maine psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Maryland",
+      "abbreviation": "MD",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Maryland ibogaine bill",
+        "Maryland iboga bill",
+        "Maryland ibogaine law",
+        "Maryland ibogaine clinical trial",
+        "Maryland psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "SB 527 / HB 1477, Ibogaine Clinical Research Grant Program",
+          "status": "introduced_with_hearing_activity",
+          "statusCategory": "active_pending",
+          "lastActionDate": "2026-02-24",
+          "primarySource": "Maryland General Assembly bill text",
+          "primaryUrl": "https://www.mgaleg.maryland.gov/2026RS/bills/sb/sb0527F.pdf",
+          "whatItPermits": "Would establish an Ibogaine Clinical Research Grant Program and include it as an authorized use of Opioid Restitution Fund money.",
+          "whatItDoesNotPermit": "Introduced/hearing activity is not enactment and does not authorize treatment access.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Massachusetts",
+      "abbreviation": "MA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Massachusetts ibogaine bill",
+        "Massachusetts iboga bill",
+        "Massachusetts ibogaine law",
+        "Massachusetts ibogaine clinical trial",
+        "Massachusetts psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Michigan",
+      "abbreviation": "MI",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Michigan ibogaine bill",
+        "Michigan iboga bill",
+        "Michigan ibogaine law",
+        "Michigan ibogaine clinical trial",
+        "Michigan psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Minnesota",
+      "abbreviation": "MN",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Minnesota ibogaine bill",
+        "Minnesota iboga bill",
+        "Minnesota ibogaine law",
+        "Minnesota ibogaine clinical trial",
+        "Minnesota psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Mississippi",
+      "abbreviation": "MS",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Mississippi ibogaine bill",
+        "Mississippi iboga bill",
+        "Mississippi ibogaine law",
+        "Mississippi ibogaine clinical trial",
+        "Mississippi psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 314, Ibogaine Drug Development Clinical Trial Act",
+          "status": "approved_by_governor_effective_2026_07_01",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2026-03-26",
+          "primarySource": "Mississippi Legislature bill text as sent to governor",
+          "primaryUrl": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0314SG.htm",
+          "whatItPermits": "Creates a state framework for an Ibogaine drug-development clinical trial consortium and coordination with a lead consortium in another state.",
+          "whatItDoesNotPermit": "Does not provide routine clinical access; treatment-administration provisions depend on FDA approval or lawful federal authorization.",
+          "confidence": "primary_bill_text_status_checked_against_bill_tracking",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Missouri",
+      "abbreviation": "MO",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Missouri ibogaine bill",
+        "Missouri iboga bill",
+        "Missouri ibogaine law",
+        "Missouri ibogaine clinical trial",
+        "Missouri psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Montana",
+      "abbreviation": "MT",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Montana ibogaine bill",
+        "Montana iboga bill",
+        "Montana ibogaine law",
+        "Montana ibogaine clinical trial",
+        "Montana psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Nebraska",
+      "abbreviation": "NE",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Nebraska ibogaine bill",
+        "Nebraska iboga bill",
+        "Nebraska ibogaine law",
+        "Nebraska ibogaine clinical trial",
+        "Nebraska psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Nevada",
+      "abbreviation": "NV",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Nevada ibogaine bill",
+        "Nevada iboga bill",
+        "Nevada ibogaine law",
+        "Nevada ibogaine clinical trial",
+        "Nevada psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "New Hampshire",
+      "abbreviation": "NH",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "New Hampshire ibogaine bill",
+        "New Hampshire iboga bill",
+        "New Hampshire ibogaine law",
+        "New Hampshire ibogaine clinical trial",
+        "New Hampshire psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "New Jersey",
+      "abbreviation": "NJ",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "New Jersey ibogaine bill",
+        "New Jersey iboga bill",
+        "New Jersey ibogaine law",
+        "New Jersey ibogaine clinical trial",
+        "New Jersey psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "New Mexico",
+      "abbreviation": "NM",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "New Mexico ibogaine bill",
+        "New Mexico iboga bill",
+        "New Mexico ibogaine law",
+        "New Mexico ibogaine clinical trial",
+        "New Mexico psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "New York",
+      "abbreviation": "NY",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "New York ibogaine bill",
+        "New York iboga bill",
+        "New York ibogaine law",
+        "New York ibogaine clinical trial",
+        "New York psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "North Carolina",
+      "abbreviation": "NC",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "North Carolina ibogaine bill",
+        "North Carolina iboga bill",
+        "North Carolina ibogaine law",
+        "North Carolina ibogaine clinical trial",
+        "North Carolina psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "North Dakota",
+      "abbreviation": "ND",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "North Dakota ibogaine bill",
+        "North Dakota iboga bill",
+        "North Dakota ibogaine law",
+        "North Dakota ibogaine clinical trial",
+        "North Dakota psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Ohio",
+      "abbreviation": "OH",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Ohio ibogaine bill",
+        "Ohio iboga bill",
+        "Ohio ibogaine law",
+        "Ohio ibogaine clinical trial",
+        "Ohio psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "Ibogaine Treatment Study Committee",
+          "status": "study_committee_current_report_due_2027_12_31",
+          "statusCategory": "study_committee",
+          "lastActionDate": "2026-05-06",
+          "primarySource": "Ohio Legislative Service Commission board record",
+          "primaryUrl": "https://www.lsc.ohio.gov/publications/boards-and-commissions/ibogaine-treatment-study-committee",
+          "whatItPermits": "Creates and maintains a temporary study committee to evaluate Ibogaine treatment issues and make legislative recommendations.",
+          "whatItDoesNotPermit": "A study committee is not legalization, treatment access, a clinical trial authorization, or FDA approval.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Oklahoma",
+      "abbreviation": "OK",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 2,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Oklahoma ibogaine bill",
+        "Oklahoma iboga bill",
+        "Oklahoma ibogaine law",
+        "Oklahoma ibogaine clinical trial",
+        "Oklahoma psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 3834, Oklahoma Breakthrough Therapy Act",
+          "status": "approved_by_governor",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2026-05-12",
+          "primarySource": "Oklahoma Legislature bill history",
+          "primaryUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3834&Session=2600",
+          "whatItPermits": "Creates a state framework related to Ibogaine clinical trials and drug-development requirements.",
+          "whatItDoesNotPermit": "Does not make Ibogaine FDA-approved and does not by itself authorize unsupervised treatment or provider referral.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        },
+        {
+          "action": "HB 4293, Veterans Mental Health Innovation Act",
+          "status": "introduced_referred_to_rules",
+          "statusCategory": "active_pending",
+          "lastActionDate": "2026-02-10",
+          "primarySource": "Oklahoma Legislature bill history",
+          "primaryUrl": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB4293&Session=2600&Tab=0",
+          "whatItPermits": "Would authorize scientific research and clinical trials related to Ibogaine with registration and immunity language.",
+          "whatItDoesNotPermit": "Introduced/referred language is not enactment and does not create general treatment access.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Oregon",
+      "abbreviation": "OR",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Oregon ibogaine bill",
+        "Oregon iboga bill",
+        "Oregon ibogaine law",
+        "Oregon ibogaine clinical trial",
+        "Oregon psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 4110, physician-supervised Ibogaine proposal",
+          "status": "in_house_committee",
+          "statusCategory": "active_pending",
+          "lastActionDate": "2026-02-10",
+          "primarySource": "Oregon Legislative Information System",
+          "primaryUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4110",
+          "whatItPermits": "Would allow an attending physician to provide Ibogaine to a patient for specified disorders and exempt specified use from controlled-substance definition if enacted.",
+          "whatItDoesNotPermit": "As an in-committee bill, it does not create current legal access or override federal law.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Pennsylvania",
+      "abbreviation": "PA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Pennsylvania ibogaine bill",
+        "Pennsylvania iboga bill",
+        "Pennsylvania ibogaine law",
+        "Pennsylvania ibogaine clinical trial",
+        "Pennsylvania psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Rhode Island",
+      "abbreviation": "RI",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Rhode Island ibogaine bill",
+        "Rhode Island iboga bill",
+        "Rhode Island ibogaine law",
+        "Rhode Island ibogaine clinical trial",
+        "Rhode Island psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "South Carolina",
+      "abbreviation": "SC",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "South Carolina ibogaine bill",
+        "South Carolina iboga bill",
+        "South Carolina ibogaine law",
+        "South Carolina ibogaine clinical trial",
+        "South Carolina psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "South Dakota",
+      "abbreviation": "SD",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "South Dakota ibogaine bill",
+        "South Dakota iboga bill",
+        "South Dakota ibogaine law",
+        "South Dakota ibogaine clinical trial",
+        "South Dakota psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Tennessee",
+      "abbreviation": "TN",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Tennessee ibogaine bill",
+        "Tennessee iboga bill",
+        "Tennessee ibogaine law",
+        "Tennessee ibogaine clinical trial",
+        "Tennessee psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 2075 / SB 2149, HOPE Treatment Act",
+          "status": "passed_both_chambers_senate_concurred_house_amendment",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2026-04-23",
+          "primarySource": "Tennessee General Assembly bill information",
+          "primaryUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2149",
+          "whatItPermits": "Authorizes Tennessee research institutions to participate in federally authorized clinical trials involving Ibogaine under specified safety and compliance conditions.",
+          "whatItDoesNotPermit": "Does not authorize routine clinical treatment, non-research possession, or self-directed access.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Texas",
+      "abbreviation": "TX",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 2,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Texas ibogaine bill",
+        "Texas iboga bill",
+        "Texas ibogaine law",
+        "Texas ibogaine clinical trial",
+        "Texas psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "SB 2308, Ibogaine drug development clinical trials",
+          "status": "enrolled_law_effective_2025",
+          "statusCategory": "passed_or_enacted",
+          "lastActionDate": "2025-06-11",
+          "primarySource": "Texas Legislature enrolled bill text",
+          "primaryUrl": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02308F.htm",
+          "whatItPermits": "Creates a pathway for a selected consortium and interagency contract for Ibogaine drug development clinical trials.",
+          "whatItDoesNotPermit": "Treatment-administration provisions apply only if FDA approves Ibogaine to treat a medical condition.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        },
+        {
+          "action": "State-funded IMPACT Ibogaine clinical trials program",
+          "status": "state_research_program_announced_after_partner_search",
+          "statusCategory": "implementation_watch",
+          "lastActionDate": "2026-03-31",
+          "primarySource": "Texas Tribune reporting with state-program context",
+          "primaryUrl": "https://www.texastribune.org/2026/03/31/texas-ibogaine-research-clinical-trials-psychedelics/",
+          "whatItPermits": "Tracks Texas' move toward state-run or state-funded clinical trials after difficulty finding a drug-company partner.",
+          "whatItDoesNotPermit": "Reporting about implementation does not mean treatment access, FDA approval, or proof that trials are already enrolling.",
+          "confidence": "journalism_context_needs_primary_agency_followup",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Utah",
+      "abbreviation": "UT",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Utah ibogaine bill",
+        "Utah iboga bill",
+        "Utah ibogaine law",
+        "Utah ibogaine clinical trial",
+        "Utah psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Vermont",
+      "abbreviation": "VT",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Vermont ibogaine bill",
+        "Vermont iboga bill",
+        "Vermont ibogaine law",
+        "Vermont ibogaine clinical trial",
+        "Vermont psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "H.859, psychedelic therapy and Ibogaine clinical drug development trials",
+          "status": "introduced",
+          "statusCategory": "active_pending",
+          "lastActionDate": "2026-02-01",
+          "primarySource": "Vermont Legislature bill text",
+          "primaryUrl": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0859/H-0859%20As%20Introduced.pdf",
+          "whatItPermits": "Would establish a Psychedelic Therapy Advisory Board and require the Department of Health to contract with a Vermont entity for Ibogaine clinical drug-development trials.",
+          "whatItDoesNotPermit": "Introduced bill language is not enactment and does not authorize treatment access.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Virginia",
+      "abbreviation": "VA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Virginia ibogaine bill",
+        "Virginia iboga bill",
+        "Virginia ibogaine law",
+        "Virginia ibogaine clinical trial",
+        "Virginia psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Washington",
+      "abbreviation": "WA",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Washington ibogaine bill",
+        "Washington iboga bill",
+        "Washington ibogaine law",
+        "Washington ibogaine clinical trial",
+        "Washington psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "West Virginia",
+      "abbreviation": "WV",
+      "activityStatus": "tracked_state_specific_activity",
+      "trackedRecordCount": 1,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "West Virginia ibogaine bill",
+        "West Virginia iboga bill",
+        "West Virginia ibogaine law",
+        "West Virginia ibogaine clinical trial",
+        "West Virginia psychedelic research ibogaine"
+      ],
+      "note": "State-specific activity is tracked below. Read the linked primary sources before drawing legal conclusions.",
+      "rows": [
+        {
+          "action": "HB 4626, grant program for FDA drug-development trials with Ibogaine",
+          "status": "vetoed",
+          "statusCategory": "vetoed_or_failed",
+          "lastActionDate": "2026-04-01",
+          "primarySource": "West Virginia Legislature bill history",
+          "primaryUrl": "https://www.wvlegislature.gov/Bill_Status/bills_history.cfm?input=4626&sessiontype=RS&year=2026",
+          "whatItPermits": "Would have established a grant program to fund FDA drug-development trials with Ibogaine.",
+          "whatItDoesNotPermit": "Because it was vetoed, it should not be treated as current law or active access.",
+          "confidence": "high_primary_source",
+          "lastChecked": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Wisconsin",
+      "abbreviation": "WI",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Wisconsin ibogaine bill",
+        "Wisconsin iboga bill",
+        "Wisconsin ibogaine law",
+        "Wisconsin ibogaine clinical trial",
+        "Wisconsin psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    },
+    {
+      "jurisdiction": "Wyoming",
+      "abbreviation": "WY",
+      "activityStatus": "no_state_specific_record_in_tracker",
+      "trackedRecordCount": 0,
+      "lastChecked": "2026-05-19",
+      "monitoringQueries": [
+        "Wyoming ibogaine bill",
+        "Wyoming iboga bill",
+        "Wyoming ibogaine law",
+        "Wyoming ibogaine clinical trial",
+        "Wyoming psychedelic research ibogaine"
+      ],
+      "note": "No state-specific Iboga or Ibogaine policy record is currently in the IbogaBase tracker. This is not proof that no law, bill, agency action, or local rule exists.",
+      "rows": []
+    }
+  ]
+}

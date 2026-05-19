@@ -607,6 +607,14 @@ figcaption {
   font-size: 1.05rem;
 }
 
+.section-note {
+  max-width: 820px;
+  margin: -10px 0 28px;
+  color: var(--muted);
+  font-size: 1.02rem;
+  line-height: 1.55;
+}
+
 .inline-heading {
   grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.7fr);
   align-items: end;
@@ -1119,6 +1127,10 @@ figcaption {
 .review-metadata-grid,
 .tracker-table,
 .tracker-table *,
+.policy-coverage-summary,
+.policy-coverage-summary *,
+.state-coverage-grid,
+.state-coverage-grid *,
 .brief-grid *,
 .review-metadata-grid * {
   min-width: 0;
@@ -1133,7 +1145,7 @@ figcaption {
 
 .tracker-table > div {
   display: grid;
-  grid-template-columns: 0.65fr 0.7fr 1.1fr 0.7fr;
+  grid-template-columns: 0.62fr 0.62fr 1fr 1fr 0.72fr;
   gap: 14px;
   padding: 15px 18px;
   border-bottom: 1px solid var(--line);
@@ -1164,6 +1176,79 @@ figcaption {
 
 .tracker-note {
   margin-top: 10px;
+}
+
+.policy-coverage-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.policy-coverage-summary > div,
+.state-coverage-details {
+  padding: 16px;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.policy-coverage-summary span,
+.state-coverage-details summary {
+  color: var(--ochre);
+  font-size: 0.76rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.policy-coverage-summary strong {
+  display: block;
+  margin-top: 5px;
+  font-size: 1.08rem;
+}
+
+.policy-coverage-summary p,
+.state-coverage-grid p,
+.state-coverage-grid small {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.state-coverage-details {
+  margin-top: 12px;
+}
+
+.state-coverage-details summary {
+  cursor: pointer;
+}
+
+.state-coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.state-coverage-grid article {
+  min-height: auto;
+  padding: 12px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: none;
+}
+
+.state-coverage-grid article.has-activity {
+  border-color: rgba(15, 74, 60, 0.42);
+  background: rgba(15, 74, 60, 0.06);
+}
+
+.state-coverage-grid h3 {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 0.92rem;
+  line-height: 1.25;
 }
 
 .matrix-heading {
@@ -1855,15 +1940,16 @@ figcaption {
 
   .hero,
   .inline-heading,
-  .operating-grid,
-  .search-assistant-layout,
-  .evidence-layout,
-  .safety-section,
-  .culture-section,
-  .media-clinic,
-  .journal-section {
-    grid-template-columns: 1fr;
-  }
+	  .operating-grid,
+	  .search-assistant-layout,
+	  .evidence-layout,
+	  .safety-section,
+	  .culture-section,
+	  .media-clinic,
+	  .journal-section,
+	  .policy-coverage-summary {
+	    grid-template-columns: 1fr;
+	  }
 
   .culture-history-grid {
     grid-template-columns: 1fr;
@@ -1966,11 +2052,12 @@ figcaption {
   .department-strip,
   .update-grid,
   .library-grid,
-  .reference-index-grid,
-  .policy-timeline,
-  .data-grid,
-  .start-tree-grid,
-  .principle-grid,
+	  .reference-index-grid,
+	  .policy-timeline,
+	  .state-coverage-grid,
+	  .data-grid,
+	  .start-tree-grid,
+	  .principle-grid,
   .source-type-grid,
   .unknown-grid,
   .condition-grid,
