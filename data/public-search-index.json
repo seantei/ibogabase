@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-19T06:09:45.144Z",
-  "totalRecords": 206,
+  "generatedAt": "2026-05-19T06:23:37.621Z",
+  "totalRecords": 213,
   "categories": {
     "books_bibliographies": 9,
     "clinical_trials": 22,
-    "clinics": 9,
+    "clinics": 12,
     "companies_patents": 9,
     "culture_stewardship": 11,
     "documentaries_films": 2,
     "evidence_pages": 8,
     "laws_policy": 24,
     "news_articles_blogs": 36,
-    "podcasts_interviews": 55,
+    "podcasts_interviews": 56,
     "reference_pages": 2,
-    "studies_papers": 14,
+    "studies_papers": 17,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -22,6 +22,121 @@
     "Ask IbogaBase must refuse dosing, provider referral, self-treatment, individualized medical/legal advice, and treatment instructions."
   ],
   "records": [
+    {
+      "id": "ambio-research-nature-medicine-2024",
+      "title": "Magnesium-ibogaine therapy in veterans with traumatic brain injuries",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_observational_study",
+      "sourceName": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-023-02705-w",
+      "summary": "Prospective open-label observational study of 30 male special-operations veterans who independently received magnesium-ibogaine treatment at Ambio Life Sciences in Mexico, with Stanford assessments before and after. The paper reports large short-term improvements and no unexpected serious adverse events, while stating that controlled clinical trials are needed.",
+      "confidence": "Peer-reviewed source",
+      "status": "Cataloged source",
+      "people": [
+        "Kirsten N. Cherian",
+        "Jackob N. Keynan",
+        "Nolan R. Williams",
+        "Jose Inzunza",
+        "Trevor Millar",
+        "Jonathan Dickinson"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "tbi",
+        "veterans",
+        "ptsd",
+        "depression",
+        "anxiety",
+        "magnesium_ibogaine",
+        "stanford",
+        "conflict_of_interest"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer Reviewed Observational Study",
+      "displaySourceName": "Nature Medicine",
+      "displayDate": "",
+      "whatItIs": "Peer Reviewed Observational Study",
+      "conversationContext": "Covers ambio, ambio life sciences, tbi, veterans.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "magnesium-ibogaine therapy in veterans with traumatic brain injuries prospective open-label observational study of 30 male special-operations veterans who independently received magnesium-ibogaine treatment at ambio life sciences in mexico, with stanford assessments before and after. the paper reports large short-term improvements and no unexpected serious adverse events, while stating that controlled clinical trials are needed. studies_papers peer_reviewed_observational_study nature medicine  ambio ambio_life_sciences tbi veterans ptsd depression anxiety magnesium_ibogaine stanford conflict_of_interest cataloged source peer-reviewed source"
+    },
+    {
+      "id": "ambio-research-nature-mental-health-2025",
+      "title": "Magnesium-ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_observational_study",
+      "sourceName": "Nature Mental Health",
+      "url": "https://www.nature.com/articles/s44220-025-00463-x",
+      "summary": "Follow-up Nature Mental Health article on EEG and neural-complexity measures in the same broad magnesium-ibogaine veteran TBI research lane. It reports neurophysiological changes after treatment and states that controlled trials are needed to confirm findings.",
+      "confidence": "Peer-reviewed source",
+      "status": "Cataloged source",
+      "people": [
+        "Jennifer I. Lissemore",
+        "Anna Chaiken",
+        "Nolan R. Williams"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "tbi",
+        "veterans",
+        "eeg",
+        "neurophysiology",
+        "magnesium_ibogaine",
+        "stanford"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer Reviewed Observational Study",
+      "displaySourceName": "Nature Mental Health",
+      "displayDate": "",
+      "whatItIs": "Peer Reviewed Observational Study",
+      "conversationContext": "Covers ambio, ambio life sciences, tbi, veterans.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "magnesium-ibogaine therapy effects on cortical oscillations and neural complexity in veterans with traumatic brain injury follow-up nature mental health article on eeg and neural-complexity measures in the same broad magnesium-ibogaine veteran tbi research lane. it reports neurophysiological changes after treatment and states that controlled trials are needed to confirm findings. studies_papers peer_reviewed_observational_study nature mental health  ambio ambio_life_sciences tbi veterans eeg neurophysiology magnesium_ibogaine stanford cataloged source peer-reviewed source"
+    },
+    {
+      "id": "ambio-research-frontiers-ms-2026",
+      "title": "Case report: Significant lesion reduction and neural structural changes following ibogaine treatments for multiple sclerosis",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_case_report",
+      "sourceName": "Frontiers in Immunology",
+      "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1535782/full",
+      "summary": "Two-patient case report involving Ambio-affiliated authors and Ambio treatment records. Treat as preliminary case-report evidence with prominent conflict-of-interest and funder-involvement labels, not proof of efficacy.",
+      "confidence": "Case report",
+      "status": "Cataloged source",
+      "people": [
+        "David Qixiang Chen",
+        "José Adalberto Inzunza Domínguez",
+        "Jonathan E. Dickinson"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "multiple_sclerosis",
+        "neurodegenerative",
+        "case_report",
+        "conflict_of_interest",
+        "clinic_claims"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer-reviewed case report",
+      "displaySourceName": "Frontiers in Immunology",
+      "displayDate": "",
+      "whatItIs": "Peer-reviewed case report",
+      "conversationContext": "Covers ambio, ambio life sciences, multiple sclerosis, neurodegenerative.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "case report: significant lesion reduction and neural structural changes following ibogaine treatments for multiple sclerosis two-patient case report involving ambio-affiliated authors and ambio treatment records. treat as preliminary case-report evidence with prominent conflict-of-interest and funder-involvement labels, not proof of efficacy. studies_papers peer_reviewed_case_report frontiers in immunology  ambio ambio_life_sciences multiple_sclerosis neurodegenerative case_report conflict_of_interest clinic_claims cataloged source case report"
+    },
     {
       "id": "source_radar-SWJvZ2FpbmUgZm",
       "title": "Ibogaine for the treatment of Parkinson's disease: a case report",
@@ -34,7 +149,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -64,7 +179,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -93,7 +208,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -114,32 +229,32 @@
     },
     {
       "id": "source_radar-TWFnbmVzaXVtLW",
-      "title": "Magnesium-ibogaine therapy in veterans with traumatic brain injuries",
+      "title": "Magnesium-ibogaine therapy effects on cortical oscillations and neural complexity",
       "category": "studies_papers",
       "sourceType": "peer_reviewed_study",
       "sourceName": "source_radar",
-      "url": "https://www.nature.com/articles/s41591-023-02705-w",
-      "summary": "High-impact study; always state sample size, open-label design, Mexico treatment setting, exclusion criteria, and conflicts.",
+      "url": "https://www.nature.com/articles/s44220-025-00463-x",
+      "summary": "Track as follow-on analysis from the veteran TBI research line.",
       "confidence": "Peer-reviewed source",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2024",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "publishedAt": "2025",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
-        "ptsd",
+        "eeg",
         "veterans",
-        "open_label"
+        "mechanism"
       ],
       "displayCategory": "Studies and papers",
       "displaySourceType": "Peer-reviewed paper",
       "displaySourceName": "Nature",
-      "displayDate": "2024",
+      "displayDate": "2025",
       "whatItIs": "Peer-reviewed paper",
-      "conversationContext": "Covers tbi, ptsd, veterans, open label.",
+      "conversationContext": "Covers tbi, eeg, veterans, mechanism.",
       "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "magnesium-ibogaine therapy in veterans with traumatic brain injuries high-impact study; always state sample size, open-label design, mexico treatment setting, exclusion criteria, and conflicts. studies_papers peer_reviewed_study source_radar  tbi ptsd veterans open_label cataloged source peer-reviewed source"
+      "searchText": "magnesium-ibogaine therapy effects on cortical oscillations and neural complexity track as follow-on analysis from the veteran tbi research line. studies_papers peer_reviewed_study source_radar  tbi eeg veterans mechanism cataloged source peer-reviewed source"
     },
     {
       "id": "source_radar-RWZmaWNpZW50IG",
@@ -153,7 +268,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -493,7 +608,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -522,7 +637,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -551,7 +666,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -580,7 +695,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1076,7 +1191,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -1106,7 +1221,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1135,7 +1250,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -1683,7 +1798,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1712,7 +1827,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1742,7 +1857,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1773,7 +1888,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -1804,7 +1919,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1833,7 +1948,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1867,7 +1982,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1884,6 +1999,41 @@
       "conversationContext": "Main topics: safety, ethics, neuroregeneration. People named in the record: Jonathan Dickinson, Kenneth Tupper.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
       "searchText": "ibogaine: safety, ethics, and emerging neuroregenerative science - a conversation with jonathan dickinson covers safety, ethics, neuroregeneration. this is a media source, not medical evidence. podcasts_interviews podcast_interview intonicated  ibogaine safety ethics neuroregeneration podcast cataloged source media metadata"
+    },
+    {
+      "id": "ambio-news-cpr-2025",
+      "title": "Psychedelic offers new hope for treating addiction",
+      "category": "podcasts_interviews",
+      "sourceType": "journalism_interview",
+      "sourceName": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2025/07/28/psychedelic-ibogaine-addiction-treatment-interview/",
+      "summary": "CPR News interview with Jonathan Dickinson, identified as founder of Ambio Life Sciences. Useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported.",
+      "confidence": "Journalism",
+      "status": "Cataloged source",
+      "people": [
+        "Andrea Dukakis",
+        "Jonathan Dickinson"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "jonathan_dickinson",
+        "colorado",
+        "addiction",
+        "public_discussion",
+        "clinic_claims"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Journalism Interview",
+      "displaySourceName": "Colorado Public Radio",
+      "displayDate": "",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Main topics: ambio, ambio life sciences, jonathan dickinson, colorado. People named in the record: Andrea Dukakis, Jonathan Dickinson.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "psychedelic offers new hope for treating addiction cpr news interview with jonathan dickinson, identified as founder of ambio life sciences. useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported. podcasts_interviews journalism_interview colorado public radio  ambio ambio_life_sciences jonathan_dickinson colorado addiction public_discussion clinic_claims cataloged source journalism"
     },
     {
       "id": "latest_scan-T25lIERvc2UgVG",
@@ -3095,7 +3245,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3127,7 +3277,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3416,7 +3566,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -4277,7 +4427,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -4476,6 +4626,75 @@
       "searchText": "texas launching ibogaine research program after failing to find drug company partner - kvue company, patent, or biotech-field source from kvue. commercial claims need independent verification. companies_patents journalism kvue  media cataloged source primary-source record"
     },
     {
+      "id": "ambio-news-globenewswire-neurodegenerative-2025",
+      "title": "Ambio Life Sciences launches clinical ibogaine program for patients with neurodegenerative conditions",
+      "category": "clinics",
+      "sourceType": "company_release",
+      "sourceName": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/06/09/3095856/0/en/Ambio-Life-Sciences-Launches-World-s-First-Clinical-Ibogaine-Program-for-Patients-With-Neurodegenerative-Conditions.html",
+      "summary": "Company-distributed press release about an Ambio neurodegenerative-conditions program. Use as a commercial/company claim record, not independent evidence of safety, efficacy, or access.",
+      "confidence": "Company release",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "neurodegenerative",
+        "parkinsons",
+        "multiple_sclerosis",
+        "clinic_claims",
+        "company_release"
+      ],
+      "displayCategory": "Clinic claims",
+      "displaySourceType": "Company release",
+      "displaySourceName": "GlobeNewswire",
+      "displayDate": "",
+      "whatItIs": "Clinic-claim monitoring entry.",
+      "conversationContext": "Covers ambio, ambio life sciences, neurodegenerative, parkinsons.",
+      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
+      "searchText": "ambio life sciences launches clinical ibogaine program for patients with neurodegenerative conditions company-distributed press release about an ambio neurodegenerative-conditions program. use as a commercial/company claim record, not independent evidence of safety, efficacy, or access. clinics company_release globenewswire  ambio ambio_life_sciences neurodegenerative parkinsons multiple_sclerosis clinic_claims company_release cataloged source company release"
+    },
+    {
+      "id": "ambio-primary-company-site",
+      "title": "Ambio Life Sciences public clinic and research claims",
+      "category": "clinics",
+      "sourceType": "clinic_company_primary_source",
+      "sourceName": "Ambio Life Sciences",
+      "url": "https://www.ambio.life/",
+      "summary": "Primary company site for Ambio Life Sciences. Use to track Ambio's own claims about locations, programs, safety, research, sourcing, and leadership; do not treat as independent verification or a recommendation.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Jonathan Dickinson",
+        "Trevor Millar",
+        "José Inzunza"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-05-19T06:23:37.560Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "clinic_claims",
+        "mexico",
+        "malta",
+        "research",
+        "nagoya",
+        "no_referral"
+      ],
+      "displayCategory": "Clinic claims",
+      "displaySourceType": "Clinic Company Primary Source",
+      "displaySourceName": "Ambio Life Sciences",
+      "displayDate": "",
+      "whatItIs": "Clinic-claim monitoring entry.",
+      "conversationContext": "Covers ambio, ambio life sciences, clinic claims, mexico.",
+      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
+      "searchText": "ambio life sciences public clinic and research claims primary company site for ambio life sciences. use to track ambio's own claims about locations, programs, safety, research, sourcing, and leadership; do not treat as independent verification or a recommendation. clinics clinic_company_primary_source ambio life sciences  ambio ambio_life_sciences clinic_claims mexico malta research nagoya no_referral cataloged source primary-source record"
+    },
+    {
       "id": "source_radar-R2xvYmFsIElib2",
       "title": "Global Ibogaine Therapy Alliance clinical guidelines",
       "category": "clinics",
@@ -4487,7 +4706,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -4697,7 +4916,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -4727,7 +4946,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-05-19T05:15:47.529Z",
+      "foundAt": "2026-05-19T06:23:37.560Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -5439,6 +5658,34 @@
       "searchText": "clinic claim monitoring clinic entries track public claims, locations, safety statements, outcome language, and adverse-event signals. ibogabase does not rank clinics or provide referrals. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source claim record"
     },
     {
+      "id": "clinic-observatory-2",
+      "title": "Ambio Life Sciences",
+      "category": "clinics",
+      "sourceType": "clinic_observatory_schema",
+      "sourceName": "IbogaBase Clinic Observatory",
+      "url": "#clinics",
+      "summary": "Ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. This is not a referral, ranking, endorsement, or provider recommendation.",
+      "confidence": "Peer-reviewed source",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "",
+      "sourceOrigin": "clinic_observatory",
+      "tags": [
+        "clinics",
+        "claims",
+        "no_referrals"
+      ],
+      "displayCategory": "Clinic claims",
+      "displaySourceType": "Clinic-claim record",
+      "displaySourceName": "IbogaBase Clinic Observatory",
+      "displayDate": "",
+      "whatItIs": "Clinic-claim monitoring entry.",
+      "conversationContext": "Covers clinics, claims, no referrals.",
+      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
+      "searchText": "ambio life sciences ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. this is not a referral, ranking, endorsement, or provider recommendation. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source peer-reviewed source"
+    },
+    {
       "id": "site-topic-bwiti-history",
       "title": "Bwiti history and public cultural context",
       "category": "culture_stewardship",
@@ -5461,7 +5708,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T06:09:45.144Z",
+      "foundAt": "2026-05-19T06:23:37.621Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -5493,7 +5740,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T06:09:45.144Z",
+      "foundAt": "2026-05-19T06:23:37.621Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -5525,7 +5772,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-19T06:09:45.144Z",
+      "foundAt": "2026-05-19T06:23:37.621Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",

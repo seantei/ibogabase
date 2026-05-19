@@ -28,6 +28,20 @@
       "summary": "Clinic entries track public claims, locations, safety statements, outcome language, and adverse-event signals. IbogaBase does not rank clinics or provide referrals.",
       "lastChecked": "2026-05-17",
       "confidence": "claim_tracking_only"
+    },
+    {
+      "name": "Ambio Life Sciences",
+      "location": "Mexico and Malta, based on public company claims",
+      "sourceUrl": "https://www.ambio.life/",
+      "claimType": "clinic_company_claim_tracking",
+      "staffingClaims": "Company site names clinical and leadership staff; peer-reviewed papers list Ambio-affiliated authors.",
+      "safetyClaims": "Nature Medicine paper and company materials describe screening, ECG, medication review, monitoring, and magnesium coadministration in specific research/treatment contexts.",
+      "outcomeClaims": "Published observational and case-report literature involving Ambio-affiliated authors reports short-term outcomes; controlled efficacy trials remain needed.",
+      "adverseEventSignals": "Track alongside published safety statements, conflict disclosures, and broader ibogaine cardiac-risk literature.",
+      "regulatoryNotes": "Ibogaine remains Schedule I in the United States and is not FDA-approved as a treatment.",
+      "summary": "Ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. This is not a referral, ranking, endorsement, or provider recommendation.",
+      "lastChecked": "2026-05-19",
+      "confidence": "claim_tracking_with_peer_reviewed_mentions"
     }
   ]
 }
