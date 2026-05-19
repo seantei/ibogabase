@@ -127,6 +127,60 @@
       "owner": "Donations, memberships, grants, sponsorship boundaries, conflicts of interest, reader trust",
       "output": "data/workers/support-brief.md",
       "canPublish": false
+    },
+    {
+      "id": "uat-curious",
+      "profile": "readabilityqa",
+      "label": "UAT Curious Reader",
+      "cadence": "daily",
+      "owner": "First-visit comprehension, start path clarity, plain-English navigation, search confidence, and no internal-process wording",
+      "output": "data/workers/uat-curious-brief.md",
+      "canPublish": false
+    },
+    {
+      "id": "uat-scholar",
+      "profile": "researchops",
+      "label": "UAT Academic Scholar",
+      "cadence": "weekly",
+      "owner": "Source-type separation, citation usefulness, study-quality labels, sample sizes, limitations, and claim/evidence boundaries",
+      "output": "data/workers/uat-scholar-brief.md",
+      "canPublish": false
+    },
+    {
+      "id": "uat-physician",
+      "profile": "safetyreviewer",
+      "label": "UAT Physician Reviewer",
+      "cadence": "weekly",
+      "owner": "Safety-first reading path, legal/clinical boundaries, cardiac risk prominence, interaction risk, exclusions, and no treatment-direction drift",
+      "output": "data/workers/uat-physician-brief.md",
+      "canPublish": false
+    },
+    {
+      "id": "uat-cultural",
+      "profile": "culturesteward",
+      "label": "UAT Bwiti-Informed Cultural Reviewer",
+      "cadence": "weekly",
+      "owner": "Public cultural-history clarity, outsider-limit humility, stewardship, conservation, reciprocity, and no sacred/private material exposure",
+      "output": "data/workers/uat-cultural-brief.md",
+      "canPublish": false
+    },
+    {
+      "id": "uat-journalist",
+      "profile": "intelscout",
+      "label": "UAT Journalist and Policymaker",
+      "cadence": "weekly",
+      "owner": "What-changed clarity, policy tracker usability, primary-source context, and distinction between law, politics, company news, and clinical evidence",
+      "output": "data/workers/uat-journalist-brief.md",
+      "canPublish": false
+    },
+    {
+      "id": "uat-treatment-reader",
+      "profile": "legalrules",
+      "label": "UAT Treatment-Considering Reader",
+      "cadence": "weekly",
+      "owner": "Risk comprehension, uncertainty, no clinic referrals, no rankings, no dosing/protocol help, and no false reassurance",
+      "output": "data/workers/uat-treatment-reader-brief.md",
+      "canPublish": false
     }
   ]
 }
