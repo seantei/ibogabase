@@ -110,17 +110,25 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  gap: 20px;
+  gap: 10px;
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .nav a {
+  min-height: 34px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 10px;
+  border: 1px solid transparent;
+  border-radius: 999px;
   text-decoration: none;
 }
 
 .nav a:hover {
   color: var(--ink);
+  background: rgba(255, 253, 248, 0.8);
+  border-color: var(--line);
 }
 
 .hero {
@@ -162,9 +170,9 @@ h3 {
 }
 
 h1 {
-  max-width: 12ch;
+  max-width: 14ch;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 6.8rem;
+  font-size: 6.15rem;
   font-weight: 520;
 }
 
@@ -185,6 +193,26 @@ h3 {
   margin: 24px 0 0;
   color: #35433f;
   font-size: 1.22rem;
+}
+
+.hero-route-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 22px;
+}
+
+.hero-route-strip span {
+  display: inline-flex;
+  min-height: 34px;
+  align-items: center;
+  padding: 0 11px;
+  color: var(--ink-2);
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 780;
 }
 
 .scope-note {
@@ -376,6 +404,111 @@ figcaption {
 
 .alert-band strong {
   flex: 0 0 auto;
+}
+
+.field-atlas-section {
+  background:
+    linear-gradient(135deg, rgba(23, 63, 53, 0.08), transparent 36%),
+    var(--white);
+}
+
+.atlas-board {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.atlas-card {
+  position: relative;
+  display: grid;
+  min-height: 210px;
+  align-content: space-between;
+  padding: 20px;
+  color: var(--ink);
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-top: 5px solid var(--green);
+  border-radius: var(--radius);
+  box-shadow: 0 14px 42px rgba(17, 28, 25, 0.07);
+  text-decoration: none;
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.atlas-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--line-strong);
+  box-shadow: 0 20px 54px rgba(17, 28, 25, 0.12);
+}
+
+.atlas-card span {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.atlas-card strong {
+  display: block;
+  max-width: 24ch;
+  margin-top: 28px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.55rem;
+  font-weight: 520;
+  line-height: 1.08;
+}
+
+.atlas-card small {
+  display: block;
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.atlas-card.plant,
+.atlas-card.risk,
+.atlas-card.evidence,
+.atlas-card.law {
+  grid-column: span 3;
+}
+
+.atlas-card.molecule,
+.atlas-card.claims,
+.atlas-card.media,
+.atlas-card.review {
+  grid-column: span 3;
+}
+
+.atlas-card.plant {
+  border-top-color: var(--green);
+}
+
+.atlas-card.molecule {
+  border-top-color: var(--blue);
+}
+
+.atlas-card.risk {
+  border-top-color: var(--clay);
+}
+
+.atlas-card.evidence {
+  border-top-color: var(--ochre);
+}
+
+.atlas-card.law {
+  border-top-color: var(--rose);
+}
+
+.atlas-card.claims {
+  border-top-color: var(--gold);
+}
+
+.atlas-card.media {
+  border-top-color: var(--green-2);
+}
+
+.atlas-card.review {
+  border-top-color: var(--ink-2);
 }
 
 .at-a-glance {
@@ -1702,6 +1835,17 @@ figcaption {
   .policy-timeline {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .atlas-card.plant,
+  .atlas-card.risk,
+  .atlas-card.evidence,
+  .atlas-card.law,
+  .atlas-card.molecule,
+  .atlas-card.claims,
+  .atlas-card.media,
+  .atlas-card.review {
+    grid-column: span 6;
+  }
 }
 
 @media (max-width: 720px) {
@@ -1737,11 +1881,11 @@ figcaption {
   .command-panel,
   .lede {
     width: 100%;
-    max-width: 350px;
+    max-width: none;
   }
 
   h1 {
-    max-width: 8.5ch;
+    max-width: 13ch;
     font-size: 2.7rem;
   }
 
@@ -1750,6 +1894,7 @@ figcaption {
   }
 
   .base-map,
+  .atlas-board,
   .at-a-glance,
   .update-grid,
   .library-grid,
@@ -1776,6 +1921,30 @@ figcaption {
   .update-dial,
   .review-lanes {
     grid-template-columns: 1fr;
+  }
+
+  .review-lanes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .review-lanes a {
+    min-height: 74px;
+    padding: 12px;
+  }
+
+  .panel-figure img {
+    aspect-ratio: 16 / 5;
+  }
+
+  .atlas-card.plant,
+  .atlas-card.risk,
+  .atlas-card.evidence,
+  .atlas-card.law,
+  .atlas-card.molecule,
+  .atlas-card.claims,
+  .atlas-card.media,
+  .atlas-card.review {
+    grid-column: 1;
   }
 
   .culture-source-links {
@@ -1830,7 +1999,7 @@ figcaption {
     display: grid;
     grid-template-columns: repeat(3, max-content);
     width: 100%;
-    max-width: 350px;
+    max-width: none;
     justify-content: flex-start;
     gap: 12px 18px;
     font-size: 0.92rem;
@@ -1838,7 +2007,7 @@ figcaption {
 
   .button {
     width: 100%;
-    max-width: 350px;
+    max-width: none;
     flex: 1 1 100%;
   }
 
