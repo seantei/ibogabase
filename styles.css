@@ -675,6 +675,7 @@ figcaption {
 .ask-tool,
 .search-result,
 .brief-grid article,
+.live-source-item,
 .review-metadata-grid article,
 .tracker-table,
 .evidence-matrix,
@@ -820,6 +821,7 @@ figcaption {
 .catalog-grid article,
 .rules-grid article,
 .brief-grid article,
+.live-source-item,
 .review-metadata-grid article,
 .compound-grid article,
 .claim-check-grid article,
@@ -1116,6 +1118,7 @@ figcaption {
 }
 
 .brief-grid article,
+.live-source-item,
 .review-metadata-grid article,
 .observatory-note {
   min-height: auto;
@@ -1124,14 +1127,17 @@ figcaption {
 }
 
 .brief-grid,
+.live-source-list,
 .review-metadata-grid,
 .tracker-table,
 .tracker-table *,
+.live-source-list *,
 .policy-coverage-summary,
 .policy-coverage-summary *,
 .state-coverage-grid,
 .state-coverage-grid *,
 .brief-grid *,
+.live-source-list *,
 .review-metadata-grid * {
   min-width: 0;
   overflow-wrap: anywhere;
@@ -1267,6 +1273,84 @@ figcaption {
   margin: 10px 0 0;
   padding-left: 20px;
   color: var(--muted);
+}
+
+.live-source-panel {
+  margin: 26px 0 32px;
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.82);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 18px 48px rgba(17, 28, 25, 0.07);
+}
+
+.live-source-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(240px, 0.5fr);
+  gap: 18px;
+  align-items: end;
+  margin-bottom: 14px;
+}
+
+.live-source-heading h3,
+.live-source-heading p {
+  margin: 0;
+}
+
+.live-source-heading h3 {
+  max-width: 840px;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.live-source-heading > p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.live-source-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.live-source-item {
+  display: grid;
+  gap: 12px;
+  align-content: space-between;
+  background: var(--white);
+  border: 1px solid var(--line);
+  box-shadow: none;
+}
+
+.live-source-item span {
+  color: var(--ochre);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.live-source-item h4 {
+  margin: 7px 0 0;
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.28;
+}
+
+.live-source-item p,
+.live-source-item small {
+  display: block;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.4;
+}
+
+.live-source-item a {
+  color: var(--blue);
+  font-weight: 820;
+  text-underline-offset: 4px;
 }
 
 .operating-grid {
@@ -1947,6 +2031,7 @@ figcaption {
 	  .culture-section,
 	  .media-clinic,
 	  .journal-section,
+	  .live-source-heading,
 	  .policy-coverage-summary {
 	    grid-template-columns: 1fr;
 	  }
@@ -1969,6 +2054,7 @@ figcaption {
   .listening-grid,
   .catalog-grid,
   .brief-grid,
+  .live-source-list,
   .review-metadata-grid,
   .compound-grid,
   .claim-check-grid,
@@ -1984,7 +2070,8 @@ figcaption {
 
   .update-grid,
   .library-grid,
-  .policy-timeline {
+  .policy-timeline,
+  .live-source-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -2054,6 +2141,7 @@ figcaption {
   .library-grid,
 	  .reference-index-grid,
 	  .policy-timeline,
+	  .live-source-list,
 	  .state-coverage-grid,
 	  .data-grid,
 	  .start-tree-grid,

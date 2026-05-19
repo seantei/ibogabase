@@ -20,6 +20,8 @@ const askInput = document.querySelector("[data-ask-input]");
 const askButton = document.querySelector("[data-ask-button]");
 const askAnswer = document.querySelector("[data-ask-answer]");
 const weeklyBrief = document.querySelector("[data-weekly-brief]");
+const liveSourceFeed = document.querySelector("[data-live-source-feed]");
+const liveSourceStatus = document.querySelector("[data-live-source-status]");
 const policyTracker = document.querySelector("[data-policy-tracker]");
 const evidenceMatrix = document.querySelector("[data-evidence-matrix]");
 const reviewMetadata = document.querySelector("[data-review-metadata]");
@@ -40,6 +42,17 @@ function plainLabel(value = "") {
   return String(value || "")
     .replaceAll("_", " ")
     .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+function displayDateTime(value = "") {
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return "";
+  return new Intl.DateTimeFormat(undefined, {
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(parsed);
 }
 
 function updateHeader() {
@@ -438,6 +451,44 @@ async function hydrateWeeklyBrief() {
 }
 
 hydrateWeeklyBrief();
+
+async function hydrateLiveSourceFeed() {
+  if (!liveSourceFeed) return;
+
+  try {
+    const feed = await loadJson("data/live-source-feed.json");
+    const records = (feed.records || []).slice(0, 12);
+    if (liveSourceStatus) {
+      const generated = displayDateTime(feed.generatedAt);
+      liveSourceStatus.textContent = `${feed.totalRecords || records.length} recent source leads detected${generated ? ` · updated ${generated}` : ""}. Fast discovery, not verification.`;
+    }
+
+    liveSourceFeed.innerHTML = "";
+    if (!records.length) {
+      liveSourceFeed.innerHTML = "<p>New source leads will appear here after the next scan.</p>";
+      return;
+    }
+
+    records.forEach((record) => {
+      const item = document.createElement("article");
+      item.className = "live-source-item";
+      item.innerHTML = `
+        <div>
+          <span>${escapeHtml(record.kind)} · ${escapeHtml(record.status)}</span>
+          <h4>${escapeHtml(record.title)}</h4>
+          <p>${escapeHtml(record.publicNote)}</p>
+          <small>${escapeHtml(record.sourceName)}${record.publishedAt ? ` · ${escapeHtml(displayDateTime(record.publishedAt))}` : ""}</small>
+        </div>
+        <a href="${escapeHtml(record.url)}" target="_blank" rel="noopener">Open source</a>
+      `;
+      liveSourceFeed.append(item);
+    });
+  } catch {
+    if (liveSourceStatus) liveSourceStatus.textContent = "The live source feed is temporarily unavailable.";
+  }
+}
+
+hydrateLiveSourceFeed();
 
 async function hydratePolicyTracker() {
   if (!policyTracker) return;
