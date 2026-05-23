@@ -57,7 +57,7 @@
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body class="reference-body">
-    <header class="site-header">
+    <header class="site-header" data-sticky data-site-header>
       <a class="brand" href="/" aria-label="IbogaBase home">
         <span class="brand-mark" aria-hidden="true">IB</span>
         <span>
@@ -65,14 +65,49 @@
           <small>The Iboga Evidence Base</small>
         </span>
       </a>
-      <nav class="nav" aria-label="Reference navigation">
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span class="sr-only">Open menu</span>
+      </button>
+
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation" data-primary-nav>
         <a href="/">Home</a>
-        <a href="/#search">Search</a>
-        <a href="/#safety-flagship">Safety</a>
-        <a href="/#evidence-pages">Evidence</a>
-        <a href="/#trackers">Trackers</a>
+        <div class="nav-group">
+          <button type="button" class="nav-dropdown-trigger" aria-expanded="false">Field Atlas</button>
+          <div class="nav-dropdown" aria-label="Field Atlas links">
+            <a href="/reference/iboga/">Plant &amp; Place</a>
+            <a href="/reference/ibogaine/">Molecules</a>
+            <a href="/reference/ibogaine-safety-qtc/">Risk</a>
+            <a href="/reference/evidence-by-condition/">Evidence</a>
+            <a href="/reference/policy-law/">Law &amp; Policy</a>
+            <a href="/#claim-checks">Claims</a>
+            <a href="/reference/podcasts-media/">Media</a>
+            <a href="/#review-log">Review</a>
+          </div>
+        </div>
+        <a href="/reference/evidence-by-condition/">Evidence</a>
+        <a href="/reference/ibogaine-safety-qtc/">Safety</a>
+        <a href="/reference/policy-law/">Policy</a>
+        <a href="/reference/culture-stewardship/">Culture</a>
+        <a href="/reference/podcasts-media/">Media &amp; Library</a>
+        <a href="/#claim-checks">Claim Checks</a>
+        <a href="/#reference-index">Reference Index</a>
+        <a href="/site-map/">Site Map</a>
+        <a href="/#updates">Updates</a>
+        <a class="nav-search" href="/#search">Search</a>
+        <a class="start-here-button" href="/#start-tree">Start Here</a>
       </nav>
     </header>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span>/</span>
+      <a href="/#reference-index">Reference</a>
+      <span>/</span>
+      <span aria-current="page">Podcasts and Media</span>
+    </nav>
     <main class="reference-page">
       <p class="eyebrow">Listening library and claims</p>
       <h1>Podcasts and Media</h1>
@@ -139,5 +174,6 @@
       <p>Educational reference only; not medical advice and not legal advice. Last updated 2026-05-18.</p>
       <a class="back-top" href="/">Return to IbogaBase</a>
     </footer>
+    <script src="/script.js"></script>
   </body>
 </html>
