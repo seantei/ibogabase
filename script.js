@@ -1,4 +1,6 @@
 const header = document.querySelector("[data-sticky]");
+const navToggle = document.querySelector("[data-nav-toggle]");
+const primaryNav = document.querySelector("[data-primary-nav]");
 const backTop = document.querySelector("[data-back-top]");
 const filterButtons = document.querySelectorAll("[data-filter]");
 const updateCards = document.querySelectorAll("[data-category]");
@@ -11,6 +13,7 @@ const queueList = document.querySelector("[data-queue-list]");
 const workerList = document.querySelector("[data-worker-list]");
 const catalogCounts = document.querySelectorAll("[data-catalog-count]");
 const sourceSearch = document.querySelector("[data-source-search]");
+const heroSearch = document.querySelector("[data-hero-search]");
 const sourceFilter = document.querySelector("[data-source-filter]");
 const quickSearchButtons = document.querySelectorAll("[data-search-query]");
 const searchResults = document.querySelector("[data-search-results]");
@@ -28,6 +31,33 @@ const reviewMetadata = document.querySelector("[data-review-metadata]");
 const clinicObservatory = document.querySelector("[data-clinic-observatory]");
 
 let publicSearchIndex = [];
+
+navToggle?.addEventListener("click", () => {
+  const open = !primaryNav?.classList.contains("is-open");
+  primaryNav?.classList.toggle("is-open", open);
+  navToggle.setAttribute("aria-expanded", String(open));
+});
+
+primaryNav?.addEventListener("click", (event) => {
+  const target = event.target;
+  if (target instanceof HTMLButtonElement && target.classList.contains("nav-dropdown-trigger")) {
+    const group = target.closest(".nav-group");
+    const open = !group?.classList.contains("is-open");
+    group?.classList.toggle("is-open", open);
+    target.setAttribute("aria-expanded", String(open));
+    if (open) primaryNav.scrollTop = 0;
+    return;
+  }
+  if (!(target instanceof HTMLAnchorElement)) return;
+  primaryNav.classList.remove("is-open");
+  navToggle?.setAttribute("aria-expanded", "false");
+});
+
+heroSearch?.form?.addEventListener("submit", () => {
+  if (!sourceSearch || !heroSearch.value.trim()) return;
+  sourceSearch.value = heroSearch.value.trim();
+  renderSearchResults();
+});
 
 function escapeHtml(value = "") {
   return String(value)

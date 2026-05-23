@@ -75,45 +75,75 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <header class="site-header" data-sticky>
-      <a class="brand" href="#top" aria-label="IbogaBase home">
+    <header class="site-header" data-sticky data-site-header>
+      <a class="brand" href="/" aria-label="IbogaBase home">
         <span class="brand-mark" aria-hidden="true">IB</span>
         <span>
           <strong>IbogaBase</strong>
           <small>The Iboga Evidence Base</small>
         </span>
       </a>
-      <nav class="nav" aria-label="Primary navigation">
-        <a href="#search">Search</a>
-        <a href="#clinical-research">Clinical</a>
-        <a href="#policy">Policy</a>
-        <a href="#listening">Media</a>
-        <a href="#history">History</a>
-        <a href="#culture">Culture</a>
-        <a href="#safety-flagship">Safety</a>
-        <a href="#trackers">Trackers</a>
-        <a href="#review-log">Review</a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span class="sr-only">Open menu</span>
+      </button>
+
+      <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation" data-primary-nav>
+        <a href="/">Home</a>
+        <div class="nav-group">
+          <button type="button" class="nav-dropdown-trigger" aria-expanded="false">
+            Field Atlas
+          </button>
+          <div class="nav-dropdown" aria-label="Field Atlas links">
+            <a href="/reference/iboga/">Plant &amp; Place</a>
+            <a href="/reference/ibogaine/">Molecules</a>
+            <a href="/reference/ibogaine-safety-qtc/">Risk</a>
+            <a href="/reference/evidence-by-condition/">Evidence</a>
+            <a href="/reference/policy-law/">Law &amp; Policy</a>
+            <a href="/#claim-checks">Claims</a>
+            <a href="/reference/podcasts-media/">Media</a>
+            <a href="/#review-log">Review</a>
+          </div>
+        </div>
+        <a href="/reference/evidence-by-condition/">Evidence</a>
+        <a href="/reference/ibogaine-safety-qtc/">Safety</a>
+        <a href="/reference/policy-law/">Policy</a>
+        <a href="/reference/culture-stewardship/">Culture</a>
+        <a href="/reference/podcasts-media/">Media &amp; Library</a>
+        <a href="/#claim-checks">Claim Checks</a>
+        <a href="/#reference-index">Reference Index</a>
+        <a href="/site-map/">Site Map</a>
+        <a href="/#updates">Updates</a>
+        <a class="nav-search" href="/#search">Search</a>
+        <a class="start-here-button" href="/#start-tree">Start Here</a>
       </nav>
     </header>
 
     <main id="top">
-      <section class="hero">
+      <section class="hero home-hero">
         <div class="hero-copy">
           <p class="eyebrow">Living knowledge base · reviewed May 18, 2026</p>
-          <h1>Understand Iboga and Ibogaine in context.</h1>
-          <p class="lede">
-            A source-backed field guide to clinical research, policy updates,
-            podcasts and documentaries, history, cultural context, safety, and
-            claim checks. Every page separates what is known, what is promising,
-            what is risky, and what is still only a claim.
+          <h1>Iboga and Ibogaine, clearly sourced.</h1>
+          <p class="lede hero-deck">
+            A living reference for the plant, the molecules, the evidence, the
+            risks, the law, the media record, and the cultures that have carried
+            Iboga for generations.
           </p>
-          <div class="hero-route-strip" aria-label="IbogaBase scope">
-            <span>Clinical research</span>
-            <span>Policy updates</span>
-            <span>Media library</span>
-            <span>History</span>
-            <span>Cultural context</span>
-          </div>
+
+          <form class="hero-search" action="#search" role="search">
+            <label class="sr-only" for="hero-search-input">Search IbogaBase</label>
+            <input
+              id="hero-search-input"
+              type="search"
+              placeholder="Search safety, policy, Parkinson's, podcasts, Bwiti, FDA..."
+              data-hero-search
+            />
+            <button type="submit">Search</button>
+          </form>
+
           <p class="scope-note">
             IbogaBase sources information: studies, laws, news, media, cultural
             context, safety literature, and claim notes. It does not source or sell
@@ -121,23 +151,23 @@
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#start-tree">Find your path</a>
+            <a class="button secondary" href="#field-atlas">Explore the atlas</a>
             <a class="button secondary" href="#search">Search sources</a>
-            <a class="button secondary" href="#safety-flagship">Check the risks</a>
           </div>
         </div>
 
-        <aside class="command-panel" aria-label="IbogaBase content navigator">
+        <aside class="command-panel start-panel" aria-label="Start Here">
           <div class="panel-topline">
-            <span>Pick your doorway</span>
+            <span>Choose your doorway</span>
             <strong>Start here</strong>
           </div>
-          <div class="review-lanes" aria-label="IbogaBase review lanes">
-            <a href="#search"><span>Search</span><strong>Find anything fast</strong></a>
-            <a href="#clinical-research"><span>Clinical</span><strong>Research by condition</strong></a>
-            <a href="#policy"><span>Policy</span><strong>Law and agency updates</strong></a>
-            <a href="#listening"><span>Media</span><strong>Podcasts and films</strong></a>
-            <a href="#history"><span>History</span><strong>Origins and timelines</strong></a>
-            <a href="#culture"><span>Culture</span><strong>Bwiti-linked context</strong></a>
+          <div class="review-lanes audience-grid" aria-label="Reader paths">
+            <a href="#evidence-pages"><span>Researcher</span><strong>Evidence grades and study limits</strong></a>
+            <a href="#trackers"><span>Policymaker</span><strong>Law, agencies, and state activity</strong></a>
+            <a href="#safety-flagship"><span>Clinician</span><strong>Safety, exclusions, and adverse events</strong></a>
+            <a href="#claim-checks"><span>Journalist</span><strong>Claims, source trails, and conflicts</strong></a>
+            <a href="#culture"><span>Cultural Interest</span><strong>Gabon, Bwiti-linked context, stewardship</strong></a>
+            <a href="#search"><span>General Reader</span><strong>Search the full source catalog</strong></a>
           </div>
           <figure class="panel-figure">
             <img
