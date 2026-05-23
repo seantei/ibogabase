@@ -1,6 +1,6 @@
 # IbogaBase Site Quality Report
 
-Generated: 2026-05-23T22:40:55.884Z
+Generated: 2026-05-23T22:56:23.197Z
 Verdict: pass
 
 Scope: whole-site readability, navigation, accessibility, legal/medical boundaries, copyright discipline, ethical support, and Hermes reviewer coverage.
