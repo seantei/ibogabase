@@ -1,6 +1,11 @@
 const header = document.querySelector("[data-sticky]");
 const navToggle = document.querySelector("[data-nav-toggle]");
 const primaryNav = document.querySelector("[data-primary-nav]");
+const mobileSearchToggle = document.querySelector("[data-mobile-search-toggle]");
+const mobileSearchPanel = document.querySelector("[data-mobile-search-panel]");
+const mobileSearchInput = document.querySelector("[data-mobile-search-input]");
+const headerSearch = document.querySelector("[data-header-search]");
+const headerSearchInput = document.querySelector("[data-header-search-input]");
 const backTop = document.querySelector("[data-back-top]");
 const filterButtons = document.querySelectorAll("[data-filter]");
 const updateCards = document.querySelectorAll("[data-category]");
@@ -18,7 +23,9 @@ const sourceFilter = document.querySelector("[data-source-filter]");
 const quickSearchButtons = document.querySelectorAll("[data-search-query]");
 const searchResults = document.querySelector("[data-search-results]");
 const searchCount = document.querySelector("[data-search-count]");
+const searchCountPlain = document.querySelector("[data-search-count-plain]");
 const sourceReviewStatus = document.querySelector("[data-source-review-status]");
+const assistantGated = document.querySelector("[data-assistant-gated]");
 const askInput = document.querySelector("[data-ask-input]");
 const askButton = document.querySelector("[data-ask-button]");
 const askAnswer = document.querySelector("[data-ask-answer]");
@@ -31,6 +38,11 @@ const reviewMetadata = document.querySelector("[data-review-metadata]");
 const clinicObservatory = document.querySelector("[data-clinic-observatory]");
 
 let publicSearchIndex = [];
+const assistantEnabled = document.documentElement.dataset.enableAssistant === "true";
+
+if (assistantGated && assistantEnabled) {
+  assistantGated.hidden = false;
+}
 
 navToggle?.addEventListener("click", () => {
   const open = !primaryNav?.classList.contains("is-open");
@@ -53,10 +65,33 @@ primaryNav?.addEventListener("click", (event) => {
   navToggle?.setAttribute("aria-expanded", "false");
 });
 
-heroSearch?.form?.addEventListener("submit", () => {
-  if (!sourceSearch || !heroSearch.value.trim()) return;
-  sourceSearch.value = heroSearch.value.trim();
+mobileSearchToggle?.addEventListener("click", () => {
+  if (!mobileSearchPanel) return;
+  const open = mobileSearchPanel.hidden;
+  mobileSearchPanel.hidden = !open;
+  mobileSearchToggle.setAttribute("aria-expanded", String(open));
+  if (open) mobileSearchInput?.focus();
+});
+
+function sendQueryToSourceSearch(query) {
+  const value = query.trim();
+  if (!sourceSearch || !value) return;
+  sourceSearch.value = value;
   renderSearchResults();
+}
+
+heroSearch?.form?.addEventListener("submit", () => {
+  sendQueryToSourceSearch(heroSearch.value);
+});
+
+headerSearch?.addEventListener("submit", () => {
+  if (headerSearchInput) sendQueryToSourceSearch(headerSearchInput.value);
+});
+
+mobileSearchPanel?.querySelector("form")?.addEventListener("submit", () => {
+  if (mobileSearchInput) sendQueryToSourceSearch(mobileSearchInput.value);
+  mobileSearchPanel.hidden = true;
+  mobileSearchToggle?.setAttribute("aria-expanded", "false");
 });
 
 function escapeHtml(value = "") {
@@ -72,6 +107,52 @@ function plainLabel(value = "") {
   return String(value || "")
     .replaceAll("_", " ")
     .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+function chipMarkup(kind = "primary", label = "", size = "sm") {
+  const labels = {
+    primary: "Primary",
+    study: "Study",
+    trial: "Trial",
+    review: "Review",
+    law: "Law",
+    media: "Media",
+    claim: "Claim",
+    culture: "Culture",
+    steward: "Stewardship",
+    high: "High confidence",
+    moderate: "Moderate",
+    low: "Low",
+    established: "Established",
+    promising: "Promising",
+    contested: "Contested",
+    overstated: "Overstated",
+    false: "False",
+    weak: "Weak evidence",
+  };
+  const safeKind = labels[kind] ? kind : "primary";
+  const safeSize = size === "lg" ? "lg" : "sm";
+  return `<span class="chip chip-${safeKind} chip-${safeSize}">${escapeHtml(label || labels[safeKind])}</span>`;
+}
+
+function sourceKindForRecord(record = {}) {
+  const category = record.category || "";
+  const sourceType = record.sourceType || "";
+  if (category.includes("law") || category.includes("policy")) return "law";
+  if (category.includes("trial")) return "trial";
+  if (category.includes("study") || sourceType.includes("study")) return "study";
+  if (category.includes("podcast") || category.includes("media") || category.includes("film")) return "media";
+  if (category.includes("culture")) return "culture";
+  if (category.includes("clinic") || category.includes("compan")) return "claim";
+  if (category.includes("weekly")) return "review";
+  return "primary";
+}
+
+function confidenceKind(value = "") {
+  const normalized = String(value).toLowerCase();
+  if (normalized.includes("high") || normalized.includes("peer-reviewed") || normalized.includes("primary")) return "high";
+  if (normalized.includes("low") || normalized.includes("weak") || normalized.includes("pending")) return "low";
+  return "moderate";
 }
 
 function displayDateTime(value = "") {
@@ -351,6 +432,7 @@ function renderSearchResults() {
     ].filter(Boolean).join(" · ");
     item.innerHTML = `
       <div class="result-copy">
+        <div class="chip-row">${chipMarkup(sourceKindForRecord(record))}${chipMarkup(confidenceKind(record.confidence))}</div>
         <span class="result-kicker">${escapeHtml(label)}</span>
         <h3>${escapeHtml(record.title)}</h3>
         <p>${escapeHtml(record.summary || "Source record awaiting summary.")}</p>
@@ -421,6 +503,7 @@ async function hydratePublicSearch() {
     const index = await loadJson("data/public-search-index.json");
     publicSearchIndex = index.records || [];
     if (searchCount) searchCount.textContent = `${index.totalRecords || publicSearchIndex.length} records`;
+    if (searchCountPlain) searchCountPlain.textContent = String(index.totalRecords || publicSearchIndex.length);
     renderSearchResults();
   } catch {
     if (searchCount) searchCount.textContent = "index pending";
@@ -449,6 +532,11 @@ quickSearchButtons.forEach((button) => {
     if (sourceFilter && button.dataset.searchFilter) sourceFilter.value = button.dataset.searchFilter;
     renderSearchResults();
     searchResults?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+});
+document.querySelectorAll("[data-suggested-search]").forEach((link) => {
+  link.addEventListener("click", () => {
+    sendQueryToSourceSearch(link.dataset.suggestedSearch || "");
   });
 });
 askButton?.addEventListener("click", answerFromSources);
