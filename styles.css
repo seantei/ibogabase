@@ -526,6 +526,39 @@ figcaption {
   flex: 0 0 auto;
 }
 
+.home-toc {
+  position: sticky;
+  top: 69px;
+  z-index: 30;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 10px 40px;
+  background: rgba(255, 253, 248, 0.94);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(12px);
+}
+
+.home-toc a {
+  flex: 0 0 auto;
+  min-height: 34px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 12px;
+  color: var(--ink-2);
+  background: rgba(244, 240, 231, 0.76);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.86rem;
+  font-weight: 760;
+}
+
+.home-toc a:hover {
+  color: var(--green);
+  background: var(--white);
+}
+
 .department-strip {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -669,6 +702,44 @@ figcaption {
 
 .atlas-card.review {
   border-top-color: var(--ink-2);
+}
+
+.standards-preview-section {
+  background: #f6f3ec;
+}
+
+.standards-preview-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.standards-preview-grid article {
+  min-height: 210px;
+  padding: 22px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.standards-preview-grid span {
+  display: block;
+  margin-bottom: 28px;
+  color: var(--ochre);
+  font-size: 0.76rem;
+  font-weight: 880;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.standards-preview-grid h3 {
+  font-size: 1.12rem;
+  line-height: 1.35;
+}
+
+.standards-link {
+  width: fit-content;
+  margin-top: 18px;
 }
 
 .at-a-glance {
@@ -929,6 +1000,10 @@ figcaption {
 .principle-grid,
 .source-type-grid,
 .unknown-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.compact-source-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
