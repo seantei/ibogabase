@@ -2304,11 +2304,13 @@ figcaption {
   .base-map,
   .at-a-glance,
   .department-strip,
+  .standards-preview-grid,
   .data-grid,
   .reference-index-grid,
   .start-tree-grid,
   .principle-grid,
   .source-type-grid,
+  .compact-source-grid,
   .unknown-grid,
   .condition-grid,
   .news-synthesis-grid,
@@ -2365,6 +2367,7 @@ figcaption {
   .hero,
   .section,
   .alert-band,
+  .home-toc,
   .footer {
     padding-left: 20px;
     padding-right: 20px;
@@ -2398,6 +2401,7 @@ figcaption {
   .atlas-board,
   .at-a-glance,
   .department-strip,
+  .standards-preview-grid,
   .update-grid,
   .library-grid,
 	  .reference-index-grid,
@@ -2409,6 +2413,7 @@ figcaption {
 	  .start-tree-grid,
 	  .principle-grid,
   .source-type-grid,
+  .compact-source-grid,
   .unknown-grid,
   .condition-grid,
   .news-synthesis-grid,
