@@ -613,7 +613,7 @@ async function hydrateLiveSourceFeed() {
 
     liveSourceFeed.innerHTML = "";
     if (!records.length) {
-      liveSourceFeed.innerHTML = "<p>New source leads will appear here after the next scan.</p>";
+      liveSourceFeed.innerHTML = "<p>No current source leads are listed in this view.</p>";
       return;
     }
 
