@@ -555,7 +555,7 @@ async function hydrateWeeklyBrief() {
     (brief.items || []).forEach((item) => {
       const card = document.createElement("article");
       card.innerHTML = `
-        <span>${escapeHtml(item.lane)} · ${escapeHtml(item.confidence)}</span>
+        <div class="chip-row">${chipMarkup(sourceKindForRecord({ category: item.lane }))}${chipMarkup(confidenceKind(item.confidence))}</div>
         <h3>${escapeHtml(item.headline)}</h3>
         <p><strong>What changed:</strong> ${escapeHtml(item.whatChanged)}</p>
         <p><strong>What it does not mean:</strong> ${escapeHtml(item.whatItDoesNotMean)}</p>
@@ -592,7 +592,7 @@ async function hydrateLiveSourceFeed() {
       item.className = "live-source-item";
       item.innerHTML = `
         <div>
-          <span>${escapeHtml(record.kind)} · ${escapeHtml(record.status)}</span>
+          <div class="chip-row">${chipMarkup(sourceKindForRecord({ category: record.kind }))}${chipMarkup(confidenceKind(record.status))}</div>
           <h4>${escapeHtml(record.title)}</h4>
           <p>${escapeHtml(record.publicNote)}</p>
           <small>${escapeHtml(record.sourceName)}${record.publishedAt ? ` · ${escapeHtml(displayDateTime(record.publishedAt))}` : ""}</small>
