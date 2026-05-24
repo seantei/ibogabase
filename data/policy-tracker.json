@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:57:58.571Z",
+  "generatedAt": "2026-05-24T00:13:25.756Z",
   "reviewStatus": "expanded_state_policy_tracker_primary_sources_prioritized",
   "disclaimer": "Educational policy tracking only. This is not legal advice, medical advice, treatment access guidance, or a substitute for checking current law with qualified counsel.",
   "rows": [
@@ -14,7 +14,7 @@
       "whatItDoesNotPermit": "Does not authorize medical treatment, prescribing, clinic access, or state-level exceptions that override federal law.",
       "federalCaveat": "This remains the starting point for every U.S. state policy row unless and until federal law changes.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "federal_baseline"
     },
     {
@@ -28,7 +28,7 @@
       "whatItDoesNotPermit": "Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway.",
       "federalCaveat": "Noribogaine research language is separate from Ibogaine treatment access.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "federal_research"
     },
     {
@@ -42,7 +42,7 @@
       "whatItDoesNotPermit": "This tracker does not treat the proposal as current access or an enacted 2026 program without a newer official status source.",
       "federalCaveat": "Federal Schedule I and FDA/DEA/IRB requirements would remain controlling.",
       "confidence": "primary_bill_summary_status_needs_periodic_recheck",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "inactive_or_unclear"
     },
     {
@@ -56,7 +56,7 @@
       "whatItDoesNotPermit": "Does not make unsupervised Ibogaine use lawful and should not be read as FDA approval, proof of efficacy, or a provider referral pathway.",
       "federalCaveat": "Any research or clinical activity remains constrained by federal law and applicable approvals.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -70,7 +70,7 @@
       "whatItDoesNotPermit": "The enacted framework does not create general treatment access or FDA approval.",
       "federalCaveat": "Federal Schedule I status and FDA approval requirements remain central.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -84,7 +84,7 @@
       "whatItDoesNotPermit": "Do not treat this as final law or treatment access until final enrollment/signature status is confirmed.",
       "federalCaveat": "Federal law, FDA authorization, and state implementation details remain controlling.",
       "confidence": "primary_bill_status_ibogaine_text_needs_final_review",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "active_pending"
     },
     {
@@ -98,7 +98,7 @@
       "whatItDoesNotPermit": "Introduced/hearing activity is not enactment and does not authorize treatment access.",
       "federalCaveat": "Any funded research would still need applicable federal authorization.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "active_pending"
     },
     {
@@ -112,7 +112,7 @@
       "whatItDoesNotPermit": "Does not provide routine clinical access; treatment-administration provisions depend on FDA approval or lawful federal authorization.",
       "federalCaveat": "Federal waiver, authorization, IND, and FDA approval language remains central.",
       "confidence": "primary_bill_text_status_checked_against_bill_tracking",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -126,7 +126,7 @@
       "whatItDoesNotPermit": "A study committee is not legalization, treatment access, a clinical trial authorization, or FDA approval.",
       "federalCaveat": "Federal Schedule I status remains unchanged.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "study_committee"
     },
     {
@@ -140,7 +140,7 @@
       "whatItDoesNotPermit": "Does not make Ibogaine FDA-approved and does not by itself authorize unsupervised treatment or provider referral.",
       "federalCaveat": "Federal Schedule I status and FDA/DEA/IRB requirements remain central.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -154,7 +154,7 @@
       "whatItDoesNotPermit": "Introduced/referred language is not enactment and does not create general treatment access.",
       "federalCaveat": "Federal authorization and controlled-substance constraints remain central.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "active_pending"
     },
     {
@@ -168,7 +168,7 @@
       "whatItDoesNotPermit": "As an in-committee bill, it does not create current legal access or override federal law.",
       "federalCaveat": "DEA/FDA constraints and federal Schedule I status remain unresolved.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "active_pending"
     },
     {
@@ -182,7 +182,7 @@
       "whatItDoesNotPermit": "Does not authorize routine clinical treatment, non-research possession, or self-directed access.",
       "federalCaveat": "Clinical work must comply with a valid FDA IND or other federal authorization when required.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -196,7 +196,7 @@
       "whatItDoesNotPermit": "Treatment-administration provisions apply only if FDA approves Ibogaine to treat a medical condition.",
       "federalCaveat": "Implementation may require federal waiver or authorization; clinical work remains subject to federal law.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "passed_or_enacted"
     },
     {
@@ -210,7 +210,7 @@
       "whatItDoesNotPermit": "Reporting about implementation does not mean treatment access, FDA approval, or proof that trials are already enrolling.",
       "federalCaveat": "Federal law and trial authorization remain central.",
       "confidence": "journalism_context_needs_primary_agency_followup",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "implementation_watch"
     },
     {
@@ -224,7 +224,7 @@
       "whatItDoesNotPermit": "Introduced bill language is not enactment and does not authorize treatment access.",
       "federalCaveat": "Federal authorization remains required for clinical drug-development work.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "active_pending"
     },
     {
@@ -238,7 +238,7 @@
       "whatItDoesNotPermit": "Because it was vetoed, it should not be treated as current law or active access.",
       "federalCaveat": "Federal Schedule I and FDA approval constraints remain unchanged.",
       "confidence": "high_primary_source",
-      "lastChecked": "2026-05-23",
+      "lastChecked": "2026-05-24",
       "statusCategory": "vetoed_or_failed"
     }
   ]
