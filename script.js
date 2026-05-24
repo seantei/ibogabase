@@ -38,6 +38,8 @@ const reviewMetadata = document.querySelector("[data-review-metadata]");
 const clinicObservatory = document.querySelector("[data-clinic-observatory]");
 
 let publicSearchIndex = [];
+let publicSearchReady = false;
+let publicSearchPromise = null;
 const assistantEnabled = document.documentElement.dataset.enableAssistant === "true";
 
 if (assistantGated && assistantEnabled) {
@@ -73,25 +75,35 @@ mobileSearchToggle?.addEventListener("click", () => {
   if (open) mobileSearchInput?.focus();
 });
 
-function sendQueryToSourceSearch(query) {
+async function sendQueryToSourceSearch(query) {
   const value = query.trim();
   if (!sourceSearch || !value) return;
   sourceSearch.value = value;
+  await ensurePublicSearch();
   renderSearchResults();
+  searchResults?.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
 
-heroSearch?.form?.addEventListener("submit", () => {
+heroSearch?.form?.addEventListener("submit", (event) => {
+  event.preventDefault();
   sendQueryToSourceSearch(heroSearch.value);
 });
 
-headerSearch?.addEventListener("submit", () => {
+headerSearch?.addEventListener("submit", (event) => {
+  event.preventDefault();
   if (headerSearchInput) sendQueryToSourceSearch(headerSearchInput.value);
 });
 
-mobileSearchPanel?.querySelector("form")?.addEventListener("submit", () => {
+mobileSearchPanel?.querySelector("form")?.addEventListener("submit", (event) => {
+  event.preventDefault();
   if (mobileSearchInput) sendQueryToSourceSearch(mobileSearchInput.value);
   mobileSearchPanel.hidden = true;
   mobileSearchToggle?.setAttribute("aria-expanded", "false");
+});
+
+sourceSearch?.form?.addEventListener("submit", (event) => {
+  event.preventDefault();
+  sendQueryToSourceSearch(sourceSearch.value);
 });
 
 function escapeHtml(value = "") {
@@ -409,6 +421,12 @@ function renderSearchResults() {
   if (!searchResults) return;
 
   const query = sourceSearch?.value.trim() || "";
+  if (!publicSearchReady) {
+    searchResults.innerHTML = query
+      ? "<p>Loading source index...</p>"
+      : "";
+    return;
+  }
   const category = sourceFilter?.value || "all";
   const matches = publicSearchIndex
     .map((record) => ({ record, score: scoreRecord(record, query) }))
@@ -453,7 +471,7 @@ function isUnsafeAsk(question) {
   return /\b(dose|dosage|how much|take ibogaine|provider|clinic near me|recommend a clinic|where can i get|buy iboga|buy ibogaine|self[- ]?treat|protocol|legal advice|am i allowed|can i legally|prescribe|emergency)\b/i.test(question);
 }
 
-function answerFromSources() {
+async function answerFromSources() {
   if (!askAnswer || !askInput) return;
   const question = askInput.value.trim();
 
@@ -469,6 +487,8 @@ function answerFromSources() {
     `;
     return;
   }
+
+  await ensurePublicSearch();
 
   const matches = publicSearchIndex
     .map((record) => ({ record, score: scoreRecord(record, question) }))
@@ -496,40 +516,52 @@ function answerFromSources() {
   `;
 }
 
-async function hydratePublicSearch() {
-  if (!sourceSearch && !askInput) return;
+async function ensurePublicSearch() {
+  if (publicSearchReady) return;
+  if (publicSearchPromise) return publicSearchPromise;
 
-  try {
-    const index = await loadJson("data/public-search-index.json");
-    publicSearchIndex = index.records || [];
-    if (searchCount) searchCount.textContent = `${index.totalRecords || publicSearchIndex.length} records`;
-    if (searchCountPlain) searchCountPlain.textContent = String(index.totalRecords || publicSearchIndex.length);
-    renderSearchResults();
-  } catch {
-    if (searchCount) searchCount.textContent = "index pending";
-    if (searchResults) searchResults.innerHTML = "<p>Public search is temporarily unavailable.</p>";
-  }
-
-  if (sourceReviewStatus) {
+  publicSearchPromise = (async () => {
     try {
-      const review = await loadJson("data/source-review-report.json");
-      const reviewedAt = review.generatedAt
-        ? new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric", year: "numeric" }).format(new Date(review.generatedAt))
-        : "recently";
-      const linkPhrase = review.liveLinkCheck ? "live links" : "link format";
-      sourceReviewStatus.textContent = `${review.totalRecordsChecked || publicSearchIndex.length} public catalog entries checked for clean labels, source details, and ${linkPhrase} on ${reviewedAt}.`;
+      const index = await loadJson("data/public-search-index.json");
+      publicSearchIndex = index.records || [];
+      publicSearchReady = true;
+      if (searchCount) searchCount.textContent = `${index.totalRecords || publicSearchIndex.length} records`;
+      if (searchCountPlain) searchCountPlain.textContent = String(index.totalRecords || publicSearchIndex.length);
     } catch {
-      sourceReviewStatus.textContent = "Public catalog entries are checked before each publish for clean labels, source details, and link format.";
+      if (searchCount) searchCount.textContent = "index pending";
+      if (searchResults) searchResults.innerHTML = "<p>Public search is temporarily unavailable.</p>";
     }
-  }
+
+    if (sourceReviewStatus) {
+      try {
+        const review = await loadJson("data/source-review-report.json");
+        const reviewedAt = review.generatedAt
+          ? new Intl.DateTimeFormat(undefined, { month: "short", day: "numeric", year: "numeric" }).format(new Date(review.generatedAt))
+          : "recently";
+        const linkPhrase = review.liveLinkCheck ? "live links" : "link format";
+        sourceReviewStatus.textContent = `${review.totalRecordsChecked || publicSearchIndex.length} public catalog entries checked for clean labels, source details, and ${linkPhrase} on ${reviewedAt}.`;
+      } catch {
+        sourceReviewStatus.textContent = "Public catalog entries are checked before each publish for clean labels, source details, and link format.";
+      }
+    }
+  })();
+
+  return publicSearchPromise;
 }
 
-sourceSearch?.addEventListener("input", renderSearchResults);
-sourceFilter?.addEventListener("change", renderSearchResults);
+sourceSearch?.addEventListener("input", async () => {
+  if (sourceSearch.value.trim()) await ensurePublicSearch();
+  renderSearchResults();
+});
+sourceFilter?.addEventListener("change", async () => {
+  await ensurePublicSearch();
+  renderSearchResults();
+});
 quickSearchButtons.forEach((button) => {
-  button.addEventListener("click", () => {
+  button.addEventListener("click", async () => {
     if (sourceSearch) sourceSearch.value = button.dataset.searchQuery || "";
     if (sourceFilter && button.dataset.searchFilter) sourceFilter.value = button.dataset.searchFilter;
+    await ensurePublicSearch();
     renderSearchResults();
     searchResults?.scrollIntoView({ behavior: "smooth", block: "nearest" });
   });
@@ -543,8 +575,6 @@ askButton?.addEventListener("click", answerFromSources);
 askInput?.addEventListener("keydown", (event) => {
   if ((event.metaKey || event.ctrlKey) && event.key === "Enter") answerFromSources();
 });
-
-hydratePublicSearch();
 
 async function hydrateWeeklyBrief() {
   if (!weeklyBrief) return;
