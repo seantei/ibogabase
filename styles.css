@@ -2512,13 +2512,15 @@ figcaption {
   margin-top: 18px;
 }
 
-.answer-grid {
+.answer-grid,
+.reader-path-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
 }
 
-.answer-card {
+.answer-card,
+.reader-path-card {
   display: grid;
   min-height: 168px;
   align-content: start;
@@ -2531,12 +2533,15 @@ figcaption {
 }
 
 .answer-card:hover,
-.answer-card:focus-visible {
+.answer-card:focus-visible,
+.reader-path-card:hover,
+.reader-path-card:focus-visible {
   border-color: var(--ink);
   outline: 0;
 }
 
-.answer-card span {
+.answer-card span,
+.reader-path-card span {
   color: var(--verify);
   font-family: var(--font-mono);
   font-size: 0.68rem;
@@ -2545,14 +2550,16 @@ figcaption {
   text-transform: uppercase;
 }
 
-.answer-card strong {
+.answer-card strong,
+.reader-path-card strong {
   font-family: var(--font-serif);
   font-size: 1.18rem;
   font-weight: 600;
   line-height: 1.1;
 }
 
-.answer-card p {
+.answer-card p,
+.reader-path-card p {
   margin: 0;
   color: var(--ink-2);
   font-size: 0.84rem;
@@ -2894,6 +2901,123 @@ figcaption {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.source-overview {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.source-total {
+  display: grid;
+  gap: 4px;
+}
+
+.source-total span,
+.source-stats-grid span {
+  color: var(--ink-3);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.source-total strong {
+  color: var(--accent-deep);
+  font-family: var(--font-serif);
+  font-size: clamp(3rem, 6vw, 5rem);
+  line-height: 1;
+}
+
+.export-links,
+.reference-link-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.export-links a,
+.reference-link-list a {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 12px;
+  border: 1px solid var(--rule);
+  color: var(--accent-deep);
+  background: var(--paper);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.source-stats-grid,
+.clinician-grid,
+.rubric-grid,
+.quick-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 22px;
+}
+
+.source-stats-grid article,
+.clinician-grid article,
+.rubric-grid article,
+.quick-grid article {
+  min-height: 150px;
+  padding: 20px;
+  border: 1px solid var(--rule);
+  background: var(--paper-2);
+}
+
+.source-stats-grid strong {
+  display: block;
+  margin-top: 18px;
+  color: var(--accent-deep);
+  font-family: var(--font-serif);
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.source-summary-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.source-summary-columns p {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink-2);
+}
+
+.source-summary-columns span,
+.source-meta-line {
+  color: var(--ink-3);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.clinician-grid,
+.quick-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.rubric-grid article {
+  display: grid;
+  align-content: start;
+  gap: 12px;
+}
+
 .mobile-bottom-nav {
   display: none;
 }
@@ -2940,12 +3064,17 @@ figcaption {
 
   .base-map,
   .answer-grid,
+  .reader-path-grid,
   .lane-grid,
   .verdict-grid,
   .safety-desk-grid,
   .culture-summary-section,
   .tracker-grid,
   .site-index-grid,
+  .source-stats-grid,
+  .clinician-grid,
+  .rubric-grid,
+  .quick-grid,
   .at-a-glance,
   .department-strip,
   .standards-preview-grid,
@@ -3121,12 +3250,18 @@ figcaption {
 
   .base-map,
   .answer-grid,
+  .reader-path-grid,
   .lane-grid,
   .verdict-grid,
   .safety-desk-grid,
   .culture-summary-section,
   .tracker-grid,
   .site-index-grid,
+  .source-stats-grid,
+  .source-summary-columns,
+  .clinician-grid,
+  .rubric-grid,
+  .quick-grid,
   .atlas-board,
   .at-a-glance,
   .department-strip,
