@@ -2443,6 +2443,12 @@ figcaption {
   border-bottom: 1px solid var(--rule);
 }
 
+.answer-section {
+  padding: 30px 40px 44px;
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper-2);
+}
+
 .front-door-section {
   min-height: 0;
   display: grid;
@@ -2504,6 +2510,53 @@ figcaption {
 .front-search-results {
   width: min(100%, 1040px);
   margin-top: 18px;
+}
+
+.answer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.answer-card {
+  display: grid;
+  min-height: 168px;
+  align-content: start;
+  gap: 10px;
+  padding: 18px;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.answer-card:hover,
+.answer-card:focus-visible {
+  border-color: var(--ink);
+  outline: 0;
+}
+
+.answer-card span {
+  color: var(--verify);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.answer-card strong {
+  font-family: var(--font-serif);
+  font-size: 1.18rem;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.answer-card p {
+  margin: 0;
+  color: var(--ink-2);
+  font-size: 0.84rem;
+  line-height: 1.42;
 }
 
 .lane-grid,
@@ -2789,6 +2842,12 @@ figcaption {
   grid-template-columns: minmax(0, 1fr) minmax(280px, 0.48fr);
 }
 
+.culture-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
 .stewardship-box {
   border-top: 3px solid var(--culture);
   background: var(--paper-3);
@@ -2880,6 +2939,7 @@ figcaption {
   }
 
   .base-map,
+  .answer-grid,
   .lane-grid,
   .verdict-grid,
   .safety-desk-grid,
@@ -2969,8 +3029,12 @@ figcaption {
     padding: 40px 20px;
   }
 
+  .answer-section {
+    padding: 28px 20px 36px;
+  }
+
   .front-door-section {
-    min-height: calc(100vh - 176px);
+    min-height: auto;
   }
 
   .front-door-section h1 {
@@ -3056,6 +3120,7 @@ figcaption {
   }
 
   .base-map,
+  .answer-grid,
   .lane-grid,
   .verdict-grid,
   .safety-desk-grid,
