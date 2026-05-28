@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T07:22:12.656Z",
-  "totalRecords": 273,
+  "generatedAt": "2026-05-28T07:37:47.410Z",
+  "totalRecords": 274,
   "categories": {
     "books_bibliographies": 8,
     "clinical_trials": 18,
@@ -9,12 +9,12 @@
     "culture_stewardship": 9,
     "documentaries_films": 2,
     "evidence_pages": 8,
-    "laws_policy": 37,
-    "news_articles_blogs": 41,
-    "podcasts_interviews": 52,
+    "laws_policy": 38,
+    "news_articles_blogs": 42,
+    "podcasts_interviews": 50,
     "reference_pages": 2,
     "state_policy_coverage": 51,
-    "studies_papers": 18,
+    "studies_papers": 19,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -42,7 +42,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -81,7 +81,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -118,7 +118,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -150,7 +150,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -180,7 +180,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -209,7 +209,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -240,7 +240,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -269,7 +269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -297,7 +297,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 17 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -323,7 +323,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -338,6 +338,32 @@
       "searchText": "legislative updates in mississippi, west virginia, oregon, and new hampshire; fast-tracked federal approval of compass's synthetic psilocybin was vetoed; federal bill proposes va study psychedelics - the microdose | substack research source from the microdose | substack. study design, sample size, limitations, and safety signals matter. studies_papers journalism the microdose | substack  companies cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-U3R1ZHkgSWRlbn",
+      "title": "Study Identifies Compounds Similar to Ibogaine That May Improve Treatment of Opioid Addiction - Association of American Universities (AAU)",
+      "category": "studies_papers",
+      "sourceType": "journalism",
+      "sourceName": "Association of American Universities (AAU)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1Y4NTJpYmV6aElFMG1Fa2NVMzJydDVtdmZlNnRKcVlwWldMQXZlVjBNMXpycUlxaldYMERUZHhkR25Ha2VNcmZiSGxFekR3bkF4Wmx4dDVVS0kwT0tnMk95ZkVFMnZUejJSNkdfcDFHVEpiWjhjMXNCWVN5aVBXczBJbVZkd3lrQy0zUElHeTNyWEVUSFNIell0SkdSd3F3M2IyelRjMGM1RGlLeXdQQmhiVQ?oc=5",
+      "summary": "Research source from Association of American Universities (AAU). Study design, sample size, limitations, and safety signals matter.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "safety"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Association of American Universities (AAU)",
+      "displayDate": "Jun 13, 2023",
+      "whatItIs": "Journalism",
+      "conversationContext": "Covers safety.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "study identifies compounds similar to ibogaine that may improve treatment of opioid addiction - association of american universities (aau) research source from association of american universities (aau). study design, sample size, limitations, and safety signals matter. studies_papers journalism association of american universities (aau)  safety cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-UHJvdGVjdGl2ZS",
       "title": "Protective effect of the aqueous extract of Tabernaemontana stapfiana (Apocynaceae) stem bark against monosodium glutamate-induced neurotoxicity in Swiss albino mice.",
       "category": "studies_papers",
@@ -349,7 +375,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -375,7 +401,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -401,7 +427,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 22",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -427,7 +453,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2017-12-15",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -453,7 +479,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 12",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -479,7 +505,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 8",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -505,7 +531,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -531,7 +557,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Apr 6",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -557,7 +583,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Apr",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -583,7 +609,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -609,7 +635,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 14 Mar 2024 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -635,7 +661,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -664,7 +690,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -693,7 +719,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -722,7 +748,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -750,7 +776,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 18 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -776,7 +802,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -802,7 +828,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 02 Mar 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -828,7 +854,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -854,7 +880,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -880,7 +906,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -906,7 +932,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Apr 15",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -932,7 +958,7 @@
       "status": "Recruiting",
       "people": [],
       "publishedAt": "2025-10-22",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -958,7 +984,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -984,7 +1010,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1010,7 +1036,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2024-06-19",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1036,7 +1062,7 @@
       "status": "Unknown",
       "people": [],
       "publishedAt": "2022-07-18",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1062,7 +1088,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2019-06-27",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1088,7 +1114,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -1118,7 +1144,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1147,7 +1173,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -1175,7 +1201,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 21 May 2026 14:22:36 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1201,7 +1227,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1227,7 +1253,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 25 May 2026 17:23:39 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1242,32 +1268,6 @@
       "searchText": "state lawmakers push to fund ibogaine research for veterans, opioid addiction - wzmq 19 news law or policy source from wzmq 19 news. read the exact source before drawing legal conclusions. laws_policy journalism wzmq 19 news  research cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-SG93IFJlcHVibG",
-      "title": "How Republicans came to embrace psychedelic drugs - The Washington Post",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlNIM3VPX1NXNnE1UGVfZ0xWaWxxN1pSclRZZDdxc0lIcUYwckk5ZUQ1d2dka2daWFBUUlJrVS1lWTdBTXlfTlV0a0xHd0g4dkNuWE1ERWtmQkFZM3BoOGdYQ3JmNk9VWFdQSWJvMElQWlM2SzVWUm5lS29yb2dsN1lRcVFWUHVjbXZfeEVydnB5eWh2OTlZTmln?oc=5",
-      "summary": "Law or policy source from The Washington Post. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "policy"
-      ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Washington Post",
-      "displayDate": "May 4, 2026",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers policy.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "how republicans came to embrace psychedelic drugs - the washington post law or policy source from the washington post. read the exact source before drawing legal conclusions. laws_policy journalism the washington post  policy cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-VHJ1bXDigJlzIG",
       "title": "Trump’s executive order on psychedelics is the right move. But is my field ready for it? - statnews.com",
       "category": "laws_policy",
@@ -1279,7 +1279,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 06 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -1294,30 +1294,30 @@
       "searchText": "trump’s executive order on psychedelics is the right move. but is my field ready for it? - statnews.com law or policy source from statnews.com. read the exact source before drawing legal conclusions. laws_policy journalism statnews.com  policy cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-SWJvZ2FpbmUgaX",
-      "title": "Ibogaine is a banned hallucinogenic drug. Scientists believe it can help veterans overcome PTSD - BBC",
-      "category": "news_articles_blogs",
+      "id": "latest_scan-SG93IFJlcHVibG",
+      "title": "How Republicans came to embrace psychedelic drugs - The Washington Post",
+      "category": "laws_policy",
       "sourceType": "journalism",
-      "sourceName": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU191SVo5NTJsZ0U1WEtMNEhTaWRwOVlBSFJPTzN5akdrcDkwUmZwbEVIUG84aGZ4VldtMTl4QUd2bmFmbXRHRVRwdW84ZFFUeXFQQndSX0tzTF9qNERiWGNUSE9nOVpvNk51U3hUODY4WG9HaWVlampxM2stTDNhZWduWGt3am1KclFwRzZSa2VTV05FT0ZYVTZKM1A2VFJaNlE?oc=5",
-      "summary": "News or commentary from BBC. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "sourceName": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlNIM3VPX1NXNnE1UGVfZ0xWaWxxN1pSclRZZDdxc0lIcUYwckk5ZUQ1d2dka2daWFBUUlJrVS1lWTdBTXlfTlV0a0xHd0g4dkNuWE1ERWtmQkFZM3BoOGdYQ3JmNk9VWFdQSWJvMElQWlM2SzVWUm5lS29yb2dsN1lRcVFWUHVjbXZfeEVydnB5eWh2OTlZTmln?oc=5",
+      "summary": "Law or policy source from The Washington Post. Read the exact source before drawing legal conclusions.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
-        "conditions"
+        "policy"
       ],
-      "displayCategory": "News and commentary",
+      "displayCategory": "Law and policy",
       "displaySourceType": "Journalism",
-      "displaySourceName": "BBC",
-      "displayDate": "May 15, 2026",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers conditions.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "ibogaine is a banned hallucinogenic drug. scientists believe it can help veterans overcome ptsd - bbc news or commentary from bbc. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism bbc  conditions cataloged source primary-source record"
+      "displaySourceName": "The Washington Post",
+      "displayDate": "May 4, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers policy.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "how republicans came to embrace psychedelic drugs - the washington post law or policy source from the washington post. read the exact source before drawing legal conclusions. laws_policy journalism the washington post  policy cataloged source primary-source record"
     },
     {
       "id": "latest_scan-VHJ1bXAgc2lnbn",
@@ -1331,7 +1331,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -1346,6 +1346,32 @@
       "searchText": "trump signs order to accelerate access to psychedelic drug treatments - the japan times news or commentary from the japan times. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the japan times  blogs cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-SWJvZ2FpbmUgaX",
+      "title": "Ibogaine is a banned hallucinogenic drug. Scientists believe it can help veterans overcome PTSD - BBC",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU191SVo5NTJsZ0U1WEtMNEhTaWRwOVlBSFJPTzN5akdrcDkwUmZwbEVIUG84aGZ4VldtMTl4QUd2bmFmbXRHRVRwdW84ZFFUeXFQQndSX0tzTF9qNERiWGNUSE9nOVpvNk51U3hUODY4WG9HaWVlampxM2stTDNhZWduWGt3am1KclFwRzZSa2VTV05FT0ZYVTZKM1A2VFJaNlE?oc=5",
+      "summary": "News or commentary from BBC. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Fri, 15 May 2026 07:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "conditions"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "BBC",
+      "displayDate": "May 15, 2026",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers conditions.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "ibogaine is a banned hallucinogenic drug. scientists believe it can help veterans overcome ptsd - bbc news or commentary from bbc. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism bbc  conditions cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-QSBOZXcgRXhlY3",
       "title": "A New Executive Order on Psychedelics: Q&amp;A with I. Glenn Cohen and Mason Marks - Petrie-Flom Center",
       "category": "laws_policy",
@@ -1357,7 +1383,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -1373,29 +1399,29 @@
     },
     {
       "id": "latest_scan-TWlzc2lzc2lwcG",
-      "title": "Mississippi Senate panel advances bill for Ibogaine clinical trials - Tippah News",
-      "category": "podcasts_interviews",
+      "title": "Mississippi prepares for ibogaine research as federal order could accelerate plans - WLBT",
+      "category": "laws_policy",
       "sourceType": "journalism",
-      "sourceName": "Tippah News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlh5M1FDR296SmtyNG9EWTk2dUQwRGVoeW0zZDN0Nnl0QlA5UnNaWEVYemVLQnV5dnRyUXMwNEl0RGZOX2JfZUhHejVUYVd0bjlJZGpnanVHa3k2cFAxVHdjRi1VQkxYMHk0eDU2cTlLdUl5LVJ4VFJJM0lBNGo3aDhOT3VWNlhKMTI2TDBNZjJqOFVIOW90N3FaQlZHVnVGdlJKSVRXY2pSSWV4?oc=5",
-      "summary": "Covers Mississippi Senate panel advances bill for Ibogaine clinical trials. This is a media source, not medical evidence.",
+      "sourceName": "WLBT",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXN3Z2ZaOEZwX0w1YlVRV1FiQkdjV2pjSkhhSDlQNGlDLXBfZnZnSVVtb0gwbURhWTBUQlFYck5sZEpXeC03NjQ5c2FIcWZfZldNLVFHLXhfLUpYN0JtZkhDOEl2ZkZoTTNKMVM2ajlYTjdpTlZzQ3FacDFaclhvdmExUnNoTTVRYnQ4QW9TRWdiRlppZ1lxbEtXVUM1cUIyUEhSYzZ5bzQyY3Az0gHAAUFVX3lxTE1fbkd5THNwd1cxUVRSM3lNcWNjSnNNVnR0Q29yUERUbmdhdXlaLTNEN3NzM1otc2htb3N5V0RIUEFlTmxCODkzVkhpRENvRDhfNlAyVjh0WDNiNnktdDZwbnpnYTNTenRzRGZ6Y1dMQVFnak1sQkNJdTZTSmNWcFFBSEsxNDVjVy12THRiSFljT3Z0WmVnUmFRYldNZTNHY2xJMkZyRUktQXlnUUo0eFNlbUg5ci1SQkNqcFYtWm5Fcg?oc=5",
+      "summary": "Law or policy source from WLBT. Read the exact source before drawing legal conclusions.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "Sat, 28 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
-        "media"
+        "law"
       ],
-      "displayCategory": "Podcasts and interviews",
+      "displayCategory": "Law and policy",
       "displaySourceType": "Journalism",
-      "displaySourceName": "Tippah News",
-      "displayDate": "Feb 28, 2026",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Mississippi Senate panel advances bill for Ibogaine clinical trials.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "mississippi senate panel advances bill for ibogaine clinical trials - tippah news covers mississippi senate panel advances bill for ibogaine clinical trials. this is a media source, not medical evidence. podcasts_interviews journalism tippah news  media cataloged source primary-source record"
+      "displaySourceName": "WLBT",
+      "displayDate": "Apr 22, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers law.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "mississippi prepares for ibogaine research as federal order could accelerate plans - wlbt law or policy source from wlbt. read the exact source before drawing legal conclusions. laws_policy journalism wlbt  law cataloged source primary-source record"
     },
     {
       "id": "latest_scan-SHV4bGV5IEhlYW",
@@ -1409,7 +1435,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -1435,7 +1461,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1461,7 +1487,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 21 May 2026 16:28:12 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1487,7 +1513,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1513,7 +1539,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1539,7 +1565,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 11 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1565,7 +1591,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1591,7 +1617,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 26 May 2026 00:57:49 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1617,7 +1643,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 22 May 2026 14:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1643,7 +1669,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -1669,7 +1695,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1695,7 +1721,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -1721,7 +1747,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1750,7 +1776,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1780,7 +1806,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1811,7 +1837,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -1842,7 +1868,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1871,7 +1897,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1905,7 +1931,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -1938,7 +1964,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -1970,7 +1996,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -1996,7 +2022,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-23T19:57:44Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2022,7 +2048,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2048,7 +2074,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-24T12:46:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2074,7 +2100,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2100,7 +2126,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024-10-23T08:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2126,7 +2152,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-07T07:30:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2152,7 +2178,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-03T10:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2178,7 +2204,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 10 Feb 2025 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -2204,7 +2230,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-20T17:04:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2230,7 +2256,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-15T10:30:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2256,7 +2282,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -2282,7 +2308,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024-06-18T11:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2308,7 +2334,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-04-16T17:14:44Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2334,7 +2360,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-15T00:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2360,7 +2386,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11T16:35:50Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2386,7 +2412,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-05T17:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2412,7 +2438,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-29T10:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2438,7 +2464,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-21T04:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2464,7 +2490,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-30T00:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2490,7 +2516,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-06T17:40:56Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2516,7 +2542,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-12-12T18:38:57Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2542,7 +2568,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24T18:00:16Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2568,7 +2594,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024-10-02T20:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2583,32 +2609,6 @@
       "searchText": "110 | discussing ibogaine w trevor millar covers 110 | discussing ibogaine w trevor millar. this is a media source, not medical evidence. podcasts_interviews podcast_interview the operator with rob o’neill  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-IzEg4oCUIEJ3aX",
-      "title": "#1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "The Iboga Leadership Summit Podcast",
-      "url": "https://podcasts.apple.com/us/podcast/1-bwiti-iboga-and-gabon-its-happening-now-with/id1873572601?i=1000747466873&uo=4",
-      "summary": "Covers #1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2026-01-31T01:38:12Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "The Iboga Leadership Summit Podcast",
-      "displayDate": "Jan 31, 2026",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: #1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "#1 — bwiti, iboga and gabon: it's happening now with patrick moughenda mikala covers #1 — bwiti, iboga and gabon: it's happening now with patrick moughenda mikala. this is a media source, not medical evidence. podcasts_interviews podcast_interview the iboga leadership summit podcast  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-IzMgLSBJYm9nYS",
       "title": "#3 - Iboga or Ayahuasca",
       "category": "podcasts_interviews",
@@ -2620,7 +2620,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-09T22:10:30Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2635,32 +2635,6 @@
       "searchText": "#3 - iboga or ayahuasca covers #3. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-RVAwMjogQWxsIE",
-      "title": "EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Plant-Allied Recovery Podcast",
-      "url": "https://podcasts.apple.com/us/podcast/ep02-all-about-iboga-with-bwiti-initiated-medicine/id1715862854?i=1000634268632&uo=4",
-      "summary": "Covers EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2023-05-19T12:01:30Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Plant-Allied Recovery Podcast",
-      "displayDate": "May 19, 2023",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "ep02: all about iboga, with bwiti initiated medicine woman, pamela covers ep02: all about iboga, with bwiti initiated medicine woman, pamela. this is a media source, not medical evidence. podcasts_interviews podcast_interview plant-allied recovery podcast  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-IzkgLSBJcyBJYm",
       "title": "#9 - Is Iboga Right For Me? | Readiness, Risks, and the Truth About Iboga",
       "category": "podcasts_interviews",
@@ -2672,7 +2646,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-03T16:52:37Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2687,82 +2661,56 @@
       "searchText": "#9 - is iboga right for me? | readiness, risks, and the truth about iboga covers #9. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-IzIgLSBQcmVwYX",
-      "title": "#2 - Preparation and Choosing a Provider",
+      "id": "latest_scan-IzEg4oCUIEJ3aX",
+      "title": "#1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
-      "sourceName": "Get To The Root Iboga",
-      "url": "https://podcasts.apple.com/us/podcast/2-preparation-and-choosing-a-provider/id1861195577?i=1000743562564&uo=4",
-      "summary": "Covers #2. This is a media source, not medical evidence.",
+      "sourceName": "The Iboga Leadership Summit Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/1-bwiti-iboga-and-gabon-its-happening-now-with/id1873572601?i=1000747466873&uo=4",
+      "summary": "Covers #1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2026-01-02T22:02:50Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "publishedAt": "2026-01-31T01:38:12Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Get To The Root Iboga",
-      "displayDate": "Jan 2, 2026",
+      "displaySourceName": "The Iboga Leadership Summit Podcast",
+      "displayDate": "Jan 31, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: #2.",
+      "conversationContext": "Topic from title: #1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "#2 - preparation and choosing a provider covers #2. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
+      "searchText": "#1 — bwiti, iboga and gabon: it's happening now with patrick moughenda mikala covers #1 — bwiti, iboga and gabon: it's happening now with patrick moughenda mikala. this is a media source, not medical evidence. podcasts_interviews podcast_interview the iboga leadership summit podcast  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-IzUgLSBJYm9nYS",
-      "title": "#5 - Iboga Leadership Summit w/ Ryan \"Ghenigho\" Rich",
+      "id": "latest_scan-RVAwMjogQWxsIE",
+      "title": "EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
-      "sourceName": "Get To The Root Iboga",
-      "url": "https://podcasts.apple.com/us/podcast/5-iboga-leadership-summit-w-ryan-ghenigho-rich/id1861195577?i=1000747576589&uo=4",
-      "summary": "Covers #5. This is a media source, not medical evidence.",
+      "sourceName": "Plant-Allied Recovery Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/ep02-all-about-iboga-with-bwiti-initiated-medicine/id1715862854?i=1000634268632&uo=4",
+      "summary": "Covers EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2026-02-01T16:18:24Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "publishedAt": "2023-05-19T12:01:30Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Get To The Root Iboga",
-      "displayDate": "Feb 1, 2026",
+      "displaySourceName": "Plant-Allied Recovery Podcast",
+      "displayDate": "May 19, 2023",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: #5.",
+      "conversationContext": "Topic from title: EP02: All About Iboga, with Bwiti Initiated Medicine Woman, Pamela.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "#5 - iboga leadership summit w/ ryan \"ghenigho\" rich covers #5. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
-    },
-    {
-      "id": "latest_scan-MTE5IHwgSWJvZ2",
-      "title": "119 | Ibogaine & Iboga Treatment: Safety, Ethics, and A New Approach to Addiction w/ Juliana Mulligan",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Modern Psychedelics",
-      "url": "https://podcasts.apple.com/us/podcast/119-ibogaine-iboga-treatment-safety-ethics-and-a/id1553826157?i=1000698239348&uo=4",
-      "summary": "Covers 119 | Ibogaine & Iboga Treatment: Safety, Ethics, and A New Approach to Addiction w/ Juliana Mulligan. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2025-03-07T09:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Modern Psychedelics",
-      "displayDate": "Mar 7, 2025",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: 119 | Ibogaine & Iboga Treatment: Safety, Ethics, and A New Approach to Addiction w/ Juliana Mulligan.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "119 | ibogaine & iboga treatment: safety, ethics, and a new approach to addiction w/ juliana mulligan covers 119 | ibogaine & iboga treatment: safety, ethics, and a new approach to addiction w/ juliana mulligan. this is a media source, not medical evidence. podcasts_interviews podcast_interview modern psychedelics  media cataloged source media metadata"
+      "searchText": "ep02: all about iboga, with bwiti initiated medicine woman, pamela covers ep02: all about iboga, with bwiti initiated medicine woman, pamela. this is a media source, not medical evidence. podcasts_interviews podcast_interview plant-allied recovery podcast  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-IzMg4oCUIEhlYW",
@@ -2776,7 +2724,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2802,7 +2750,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-26T21:54:54Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2828,7 +2776,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-31T17:01:15Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2854,7 +2802,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03-08T02:30:36Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2869,32 +2817,6 @@
       "searchText": "#7 - be your own witness covers #7. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-IzEgLSBCYXNpYy",
-      "title": "#1 - Basic Questions about Iboga",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Get To The Root Iboga",
-      "url": "https://podcasts.apple.com/us/podcast/1-basic-questions-about-iboga/id1861195577?i=1000741169814&uo=4",
-      "summary": "Covers #1. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2025-12-13T23:32:58Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Get To The Root Iboga",
-      "displayDate": "Dec 13, 2025",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: #1.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "#1 - basic questions about iboga covers #1. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-QWZyaWNhbiBQc3",
       "title": "African Psychoactive Plants: Dreams, Ancestors, and Healing - Jean-Francois Sobiecki",
       "category": "podcasts_interviews",
@@ -2906,7 +2828,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-19T09:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2932,7 +2854,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024-11-19T08:47:59Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2947,6 +2869,32 @@
       "searchText": "this plant is making people go crazy! iboga covers this plant is making people go crazy! iboga. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga wellness  media cataloged source media metadata"
     },
     {
+      "id": "latest_scan-IzEgLSBCYXNpYy",
+      "title": "#1 - Basic Questions about Iboga",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Get To The Root Iboga",
+      "url": "https://podcasts.apple.com/us/podcast/1-basic-questions-about-iboga/id1861195577?i=1000741169814&uo=4",
+      "summary": "Covers #1. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-12-13T23:32:58Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Get To The Root Iboga",
+      "displayDate": "Dec 13, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #1.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#1 - basic questions about iboga covers #1. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-TWV0YSBNeXN0ZX",
       "title": "Meta Mysteries| The Real Experiences Of Iboga w/ Jonathan of Iboga Talk",
       "category": "podcasts_interviews",
@@ -2958,7 +2906,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-30T05:05:07Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2984,7 +2932,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T16:38:43Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -2999,6 +2947,32 @@
       "searchText": "#6 - trust yourself in motherhood/fatherhood covers #6. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
     },
     {
+      "id": "latest_scan-UHNpbG9jeWJpbi",
+      "title": "Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "url": "https://podcasts.apple.com/us/podcast/psilocybin-therapy-for-depression-trauma-cancer-support/id1825996943?i=1000717309181&uo=4",
+      "summary": "Covers Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-07-15T08:00:00Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "displayDate": "Jul 15, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "psilocybin therapy for depression, trauma, cancer support and life clarity: healing with magic mushrooms covers psilocybin therapy for depression, trauma, cancer support and life clarity: healing with magic mushrooms. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-Izcg4oCUIEh5cG",
       "title": "#7 — Hyperdimensional Healing, Ibogaine and Parkinson's Disease with Tobias Erny",
       "category": "podcasts_interviews",
@@ -3010,7 +2984,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03-09T13:56:05Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3036,7 +3010,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-22T10:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3051,30 +3025,30 @@
       "searchText": "the heart of iboga: ancient healing, modern maladies—ptsd, tbi, & addiction w/ tricia eastman covers the heart of iboga: ancient healing, modern maladies—ptsd, tbi, & addiction w/ tricia eastman. this is a media source, not medical evidence. podcasts_interviews podcast_interview the life stylist  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-UHNpbG9jeWJpbi",
-      "title": "Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms",
+      "id": "latest_scan-IzIgLSBQcmVwYX",
+      "title": "#2 - Preparation and Choosing a Provider",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
-      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
-      "url": "https://podcasts.apple.com/us/podcast/psilocybin-therapy-for-depression-trauma-cancer-support/id1825996943?i=1000717309181&uo=4",
-      "summary": "Covers Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms. This is a media source, not medical evidence.",
+      "sourceName": "Get To The Root Iboga",
+      "url": "https://podcasts.apple.com/us/podcast/2-preparation-and-choosing-a-provider/id1861195577?i=1000743562564&uo=4",
+      "summary": "Covers #2. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2025-07-15T08:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "publishedAt": "2026-01-02T22:02:50Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
-      "displayDate": "Jul 15, 2025",
+      "displaySourceName": "Get To The Root Iboga",
+      "displayDate": "Jan 2, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Psilocybin Therapy for Depression, Trauma, Cancer Support and Life Clarity: Healing with Magic Mushrooms.",
+      "conversationContext": "Topic from title: #2.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "psilocybin therapy for depression, trauma, cancer support and life clarity: healing with magic mushrooms covers psilocybin therapy for depression, trauma, cancer support and life clarity: healing with magic mushrooms. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
+      "searchText": "#2 - preparation and choosing a provider covers #2. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-TGFuYSBQcmliaW",
@@ -3088,7 +3062,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-15T08:00:00Z",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3101,6 +3075,32 @@
       "conversationContext": "Topic from title: Lana Pribic.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
       "searchText": "lana pribic - getting to the root: iboga, kanna, and africa's primordial medicines covers lana pribic. this is a media source, not medical evidence. podcasts_interviews podcast_interview the psychedelic podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SWJvZ2FpbmUgIk",
+      "title": "Ibogaine \"Iboga\": Healing PTSD, Addiction, and the Soul with Clayton Smith | Gateways to Awakening",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Gateways to Awakening",
+      "url": "https://podcasts.apple.com/us/podcast/ibogaine-iboga-healing-ptsd-addiction-and-the/id1529629262?i=1000722675796&uo=4",
+      "summary": "Covers Ibogaine \"Iboga\": Healing PTSD, Addiction, and the Soul with Clayton Smith | Gateways to Awakening. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-08-19T16:07:00Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Gateways to Awakening",
+      "displayDate": "Aug 19, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine \"Iboga\": Healing PTSD, Addiction, and the Soul with Clayton Smith | Gateways to Awakening.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine \"iboga\": healing ptsd, addiction, and the soul with clayton smith | gateways to awakening covers ibogaine \"iboga\": healing ptsd, addiction, and the soul with clayton smith | gateways to awakening. this is a media source, not medical evidence. podcasts_interviews podcast_interview gateways to awakening  media cataloged source media metadata"
     },
     {
       "id": "documentary-wiki-0001",
@@ -3116,7 +3116,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3148,7 +3148,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3177,7 +3177,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 15 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -3203,7 +3203,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3229,7 +3229,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 07 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3255,7 +3255,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 20 Sep 2024 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3281,7 +3281,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3307,7 +3307,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3333,7 +3333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 05 Feb 2025 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -3359,7 +3359,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -3388,7 +3388,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 24 May 2026 12:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3414,7 +3414,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 20 May 2026 23:40:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3440,7 +3440,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 27 May 2026 00:12:06 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3466,7 +3466,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3492,7 +3492,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3507,58 +3507,6 @@
       "searchText": "colorado man's federal drug sentence comes months before expected state approval of ibogaine use - cbs news news or commentary from cbs news. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism cbs news  media cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-SW1wYWN0OiBJYm",
-      "title": "Impact: Iboga trafficking - Interpol",
-      "category": "news_articles_blogs",
-      "sourceType": "journalism",
-      "sourceName": "Interpol",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklHTTJkNU9fTlBnWTdxQTU0WGxydzloVjduTXZQcnhDb0FLVnU4MGJnRjQtbThCaXNCXzk5RzA3c1dLanpkQnFqNXJ3UWtaU0drVEQ2aXdfajJOODllOTJjU0czOUctRjFfdFlsTnJmaFJNS0Y5M1ZQaDluLWVZMXcya0hWcHlnYUtFVjMwbi1KQVZhTUpaaWV5aC05OHNabWVZR2prZmdFM0RUckp3MlRB?oc=5",
-      "summary": "News or commentary from Interpol. Use it to understand public discussion and timing; verify important claims against primary sources.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Mon, 22 Dec 2025 12:12:25 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "News and commentary",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "Interpol",
-      "displayDate": "Dec 22, 2025",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers Impact: Iboga trafficking.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "impact: iboga trafficking - interpol news or commentary from interpol. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism interpol  media cataloged source primary-source record"
-    },
-    {
-      "id": "latest_scan-VHJ1bXDigJlzIH",
-      "title": "Trump’s psychedelics executive order and how Texas inspired (and may benefit from) it - The Microdose | Substack",
-      "category": "news_articles_blogs",
-      "sourceType": "journalism",
-      "sourceName": "The Microdose | Substack",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsanJJZk9QOXZMd0xsZUJqUXpvN2l6V0d4em8yeHVMMUIyc2tHeU41MDlGdElyem1FXzdtTzY2UTJqUHNUNUxNd3h2Y1dkcU4tOUg5TUl3ZnpJdll4TVBaRFhrYjNPZDVhMU5GdnJrWVhIWkptQTJzaE5pNA?oc=5",
-      "summary": "News or commentary from The Microdose | Substack. Use it to understand public discussion and timing; verify important claims against primary sources.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "News and commentary",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Microdose | Substack",
-      "displayDate": "Apr 24, 2026",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers Trump’s psychedelics executive order and how Texas inspired (and may benefit from) it.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "trump’s psychedelics executive order and how texas inspired (and may benefit from) it - the microdose | substack news or commentary from the microdose | substack. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the microdose | substack  media cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-VGhlIEdyaXBwaW",
       "title": "The Gripping Story Behind Netflix's In Waves and War - Time Magazine",
       "category": "news_articles_blogs",
@@ -3570,7 +3518,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3596,7 +3544,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3622,7 +3570,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 11 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3637,6 +3585,58 @@
       "searchText": "with rick perry’s backing and $50 million from the state, texas set to become a leader in psychedelics research - the texas tribune news or commentary from the texas tribune. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the texas tribune  media cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-SW1wYWN0OiBJYm",
+      "title": "Impact: Iboga trafficking - Interpol",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "Interpol",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklHTTJkNU9fTlBnWTdxQTU0WGxydzloVjduTXZQcnhDb0FLVnU4MGJnRjQtbThCaXNCXzk5RzA3c1dLanpkQnFqNXJ3UWtaU0drVEQ2aXdfajJOODllOTJjU0czOUctRjFfdFlsTnJmaFJNS0Y5M1ZQaDluLWVZMXcya0hWcHlnYUtFVjMwbi1KQVZhTUpaaWV5aC05OHNabWVZR2prZmdFM0RUckp3MlRB?oc=5",
+      "summary": "News or commentary from Interpol. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Mon, 22 Dec 2025 12:12:25 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Interpol",
+      "displayDate": "Dec 22, 2025",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers Impact: Iboga trafficking.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "impact: iboga trafficking - interpol news or commentary from interpol. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism interpol  media cataloged source primary-source record"
+    },
+    {
+      "id": "latest_scan-UM6xKyBQc3ljaG",
+      "title": "Pα+ Psychedelic Bulletin #185: Joe Rogan on Ibogaine; Wisconsin Medicaid to Cover IV Ketamine for Depression; Inside the Plan to Make Lykos MAPS Again - Psychedelic Alpha",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "Psychedelic Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPakZJTF9DTzNhRGdWLVdEZDA2cTZmUjNmMG9IWEExOUs1VUFYYm5zSlcxUnpBOGlfRG9sX2pmeENnaTBFVnJUaEJ6V2hUU2Fxazk2TXRXbndhSy1XNWpIOEg2eG9WTlgxYTZIUi0xUWpEdlMxSU9nQS1ma2FaM3hxRnhjSl9lVUVVQlBDNXNvcXFpd0tIT05TSzZTRngxdS1ERUk0NV93VjE3YmFjaVpScnNjWnZteVFVcWJNV0V0LUdydk1aTExhT0ZuQUJPWG1CLUlKNEozRUdLSVRzWlRaOFdrU2FLYklhZUxTQmd1ZTMxbGQweTRlWG9WVXBOWlIxRV8wckVBeF8zY0puakluUC01QQ?oc=5",
+      "summary": "News or commentary from Psychedelic Alpha. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Sat, 11 Jan 2025 08:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Psychedelic Alpha",
+      "displayDate": "Jan 11, 2025",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers Pα+ Psychedelic Bulletin #185: Joe Rogan on Ibogaine; Wisconsin Medicaid to Cover IV Ketamine for Depression; Inside the Plan to Make Lykos MAPS Again.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "pα+ psychedelic bulletin #185: joe rogan on ibogaine; wisconsin medicaid to cover iv ketamine for depression; inside the plan to make lykos maps again - psychedelic alpha news or commentary from psychedelic alpha. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism psychedelic alpha  media cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-TGl2ZSBmcm9tIF",
       "title": "Live from Psychedelic Science 2025 - The Microdose | Substack",
       "category": "news_articles_blogs",
@@ -3648,7 +3648,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 20 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3674,7 +3674,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3700,7 +3700,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3726,7 +3726,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 09 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3752,7 +3752,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 02 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3778,7 +3778,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 15 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3804,7 +3804,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3830,7 +3830,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3856,7 +3856,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3882,7 +3882,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3908,7 +3908,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 11 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3923,6 +3923,32 @@
       "searchText": "texas is funding research into the psychedelic ibogaine. here's what to know - dallas news news or commentary from dallas news. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism dallas news  media cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-MjAyNTogVGhlIF",
+      "title": "2025: The Year of Ibogaine Therapy - lucid.news",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "lucid.news",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZelRmVDl3dXhsVXhiUWNhMkY3Z1d5LTdnd1JjeVRIT3JXRFdzdUFERWY2ZFVtSDd0aExBV0dEOEdaVXZMOGNFLWNSX1hLRWlkc2tnUFpPODJkYVNiaUE?oc=5",
+      "summary": "News or commentary from lucid.news. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Tue, 05 Aug 2025 07:00:00 GMT",
+      "foundAt": "2026-05-28T07:37:20.374Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "lucid.news",
+      "displayDate": "Aug 5, 2025",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers 2025: The Year of Ibogaine Therapy.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "2025: the year of ibogaine therapy - lucid.news news or commentary from lucid.news. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism lucid.news  media cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-QWNjZWxlcmF0ZW",
       "title": "Accelerated recovery using magnesium ibogaine: characterizing the subjective experience of its rapid healing from neuropsychiatric disorders - Nature",
       "category": "news_articles_blogs",
@@ -3934,7 +3960,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 31 Jan 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -3960,7 +3986,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 05 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -3986,7 +4012,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4012,7 +4038,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4038,7 +4064,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 22 Sep 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4064,7 +4090,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -4090,7 +4116,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 09 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -4116,7 +4142,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -4142,7 +4168,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -4168,7 +4194,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -4194,7 +4220,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 15 Mar 2024 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -4220,7 +4246,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 05 Mar 2024 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -4246,7 +4272,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -4272,7 +4298,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 14 May 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -4298,7 +4324,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -4324,7 +4350,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -4350,7 +4376,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -4378,7 +4404,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4404,7 +4430,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4430,7 +4456,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 14 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4456,7 +4482,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 05 Apr 2021 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4482,7 +4508,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4508,7 +4534,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4534,7 +4560,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4560,7 +4586,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -4586,7 +4612,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -4622,7 +4648,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -4655,7 +4681,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -4683,7 +4709,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4709,7 +4735,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 25 Mar 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4735,7 +4761,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4761,7 +4787,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 14 Mar 2024 04:14:33 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4787,7 +4813,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 06 Aug 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4813,7 +4839,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 25 Nov 2022 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "clinics"
@@ -4839,7 +4865,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 09 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -4865,7 +4891,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -4895,7 +4921,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-05-28T07:22:12.387Z",
+      "foundAt": "2026-05-28T07:37:47.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -4924,7 +4950,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -4950,7 +4976,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -4976,7 +5002,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 08 Mar 2023 08:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -5002,7 +5028,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 11 May 2025 07:00:00 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -5028,7 +5054,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 01 May 2026 12:47:41 GMT",
-      "foundAt": "2026-05-28T07:21:40.975Z",
+      "foundAt": "2026-05-28T07:37:20.374Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7580,7 +7606,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.656Z",
+      "foundAt": "2026-05-28T07:37:47.410Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -7612,7 +7638,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.656Z",
+      "foundAt": "2026-05-28T07:37:47.410Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -7644,7 +7670,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-05-28T07:22:12.656Z",
+      "foundAt": "2026-05-28T07:37:47.410Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
