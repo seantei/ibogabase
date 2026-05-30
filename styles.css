@@ -304,9 +304,19 @@ img {
 
 h1,
 h2,
-h3,
-p {
-  overflow-wrap: anywhere;
+h3 {
+  overflow-wrap: normal;
+  text-wrap: balance;
+  word-break: normal;
+  hyphens: none;
+}
+
+p,
+li,
+dd,
+td,
+figcaption {
+  overflow-wrap: break-word;
 }
 
 h1,
@@ -1502,7 +1512,7 @@ figcaption {
 .live-source-list *,
 .review-metadata-grid * {
   min-width: 0;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 
 .tracker-table {
@@ -2322,8 +2332,9 @@ figcaption {
 }
 
 .reference-page h1 {
-  max-width: 11ch;
-  font-size: clamp(3.3rem, 10vw, 6.4rem);
+  max-width: 18ch;
+  font-size: clamp(3.1rem, 7vw, 5.4rem);
+  line-height: 1.02;
 }
 
 .reference-page h2 {
