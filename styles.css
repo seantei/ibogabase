@@ -467,7 +467,7 @@ h3 {
 }
 
 .chip-sm {
-  padding: 2px 7px;
+  padding: 3px 7px;
   font-size: 0.625rem;
 }
 
@@ -3054,6 +3054,31 @@ figcaption {
   font-size: 0.7rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
+}
+
+.label-guide {
+  margin: 18px 0 16px;
+  padding: 14px 16px;
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--accent-deep);
+  background: var(--paper);
+}
+
+.label-guide strong {
+  display: block;
+  color: var(--accent-deep);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.label-guide p {
+  max-width: 78ch;
+  margin: 7px 0 0;
+  color: var(--ink-2);
+  font-size: 0.86rem;
+  line-height: 1.45;
 }
 
 .clinician-grid,

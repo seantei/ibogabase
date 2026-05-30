@@ -147,16 +147,42 @@ function chipMarkup(kind = "primary", label = "", size = "sm") {
   return `<span class="chip chip-${safeKind} chip-${safeSize}">${escapeHtml(label || labels[safeKind])}</span>`;
 }
 
+function sourceChipMarkup(record = {}) {
+  const kind = sourceKindForRecord(record);
+  const labels = {
+    primary: "Source type: Primary",
+    study: "Source type: Study",
+    trial: "Source type: Trial",
+    review: "Source type: Review",
+    law: "Source type: Law",
+    media: "Source type: Media",
+    claim: "Source type: Claim",
+    culture: "Source type: Culture",
+    steward: "Source type: Stewardship",
+  };
+  return chipMarkup(kind, labels[kind] || "Source type: Primary");
+}
+
+function confidenceChipMarkup(value = "") {
+  const kind = confidenceKind(value);
+  const labels = {
+    high: "Confidence: High",
+    moderate: "Confidence: Moderate",
+    low: "Confidence: Low",
+  };
+  return chipMarkup(kind, labels[kind] || "Confidence: Moderate");
+}
+
 function sourceKindForRecord(record = {}) {
   const category = record.category || "";
   const sourceType = record.sourceType || "";
   if (category.includes("law") || category.includes("policy")) return "law";
   if (category.includes("trial")) return "trial";
   if (category.includes("study") || sourceType.includes("study")) return "study";
-  if (category.includes("podcast") || category.includes("media") || category.includes("film")) return "media";
+  if (category.includes("podcast") || category.includes("media") || category.includes("film") || category.includes("documentar") || category.includes("news") || category.includes("article") || category.includes("blog") || category.includes("book")) return "media";
   if (category.includes("culture")) return "culture";
   if (category.includes("clinic") || category.includes("compan")) return "claim";
-  if (category.includes("weekly")) return "review";
+  if (category.includes("weekly") || category.includes("reference") || category.includes("evidence_page")) return "review";
   return "primary";
 }
 
@@ -450,7 +476,7 @@ function renderSearchResults() {
     ].filter(Boolean).join(" · ");
     item.innerHTML = `
       <div class="result-copy">
-        <div class="chip-row">${chipMarkup(sourceKindForRecord(record))}${chipMarkup(confidenceKind(record.confidence))}</div>
+        <div class="chip-row">${sourceChipMarkup(record)}${confidenceChipMarkup(record.confidence)}</div>
         <span class="result-kicker">${escapeHtml(label)}</span>
         <h3>${escapeHtml(record.title)}</h3>
         <p>${escapeHtml(record.summary || "Source record awaiting summary.")}</p>
@@ -585,7 +611,7 @@ async function hydrateWeeklyBrief() {
     (brief.items || []).forEach((item) => {
       const card = document.createElement("article");
       card.innerHTML = `
-        <div class="chip-row">${chipMarkup(sourceKindForRecord({ category: item.lane }))}${chipMarkup(confidenceKind(item.confidence))}</div>
+        <div class="chip-row">${sourceChipMarkup({ category: item.lane })}${confidenceChipMarkup(item.confidence)}</div>
         <h3>${escapeHtml(item.headline)}</h3>
         <p><strong>What changed:</strong> ${escapeHtml(item.whatChanged)}</p>
         <p><strong>What it does not mean:</strong> ${escapeHtml(item.whatItDoesNotMean)}</p>
@@ -622,7 +648,7 @@ async function hydrateLiveSourceFeed() {
       item.className = "live-source-item";
       item.innerHTML = `
         <div>
-          <div class="chip-row">${chipMarkup(sourceKindForRecord({ category: record.kind }))}${chipMarkup(confidenceKind(record.status))}</div>
+          <div class="chip-row">${sourceChipMarkup({ category: record.kind })}${confidenceChipMarkup(record.status)}</div>
           <h4>${escapeHtml(record.title)}</h4>
           <p>${escapeHtml(record.publicNote)}</p>
           <small>${escapeHtml(record.sourceName)}${record.publishedAt ? ` · ${escapeHtml(displayDateTime(record.publishedAt))}` : ""}</small>
