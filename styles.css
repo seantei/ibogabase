@@ -2866,6 +2866,44 @@ figcaption {
   gap: 16px;
 }
 
+.culture-rich-card ul {
+  margin: 18px 0 0;
+  padding-left: 1.25rem;
+}
+
+.culture-rich-card li + li {
+  margin-top: 12px;
+}
+
+.culture-source-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.culture-source-list a {
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  padding: 11px 13px;
+  border: 1px solid var(--rule);
+  color: var(--accent-deep);
+  background: var(--paper);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.culture-source-list a:hover,
+.culture-source-list a:focus-visible {
+  border-color: var(--ink);
+  outline: 0;
+}
+
 .stewardship-box {
   border-top: 3px solid var(--culture);
   background: var(--paper-3);
@@ -3273,6 +3311,7 @@ figcaption {
   .clinician-grid,
   .rubric-grid,
   .quick-grid,
+  .culture-source-list,
   .atlas-board,
   .at-a-glance,
   .department-strip,
