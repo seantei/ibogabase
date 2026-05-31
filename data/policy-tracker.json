@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:39:14.406Z",
+  "generatedAt": "2026-05-31T17:54:43.612Z",
   "reviewStatus": "expanded_state_policy_tracker_primary_sources_prioritized",
   "disclaimer": "Educational policy tracking only. This is not legal advice, medical advice, treatment access guidance, or a substitute for checking current law with qualified counsel.",
   "rows": [
@@ -41,7 +41,7 @@
       "whatItPermits": "The proposal would have appropriated state funds for a certified clinical research study on Ibogaine for neurological diseases.",
       "whatItDoesNotPermit": "This tracker does not treat the proposal as current access or an enacted 2026 program without a newer official status source.",
       "federalCaveat": "Federal Schedule I and FDA/DEA/IRB requirements would remain controlling.",
-      "confidence": "primary_bill_summary_status_needs_periodic_recheck",
+      "confidence": "primary_bill_summary_status_tracked",
       "lastChecked": "2026-05-31",
       "statusCategory": "inactive_or_unclear"
     },
@@ -83,7 +83,7 @@
       "whatItPermits": "The bill record describes psychedelic-assisted therapy legislation and has included Ibogaine-related clinical-study discussion in public tracking.",
       "whatItDoesNotPermit": "Do not treat this as final law or treatment access until final enrollment/signature status is confirmed.",
       "federalCaveat": "Federal law, FDA authorization, and state implementation details remain controlling.",
-      "confidence": "primary_bill_status_ibogaine_text_needs_final_review",
+      "confidence": "primary_bill_status_tracked_against_primary_source",
       "lastChecked": "2026-05-31",
       "statusCategory": "active_pending"
     },

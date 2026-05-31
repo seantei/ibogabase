@@ -66,7 +66,7 @@
           "primaryUrl": "https://www.azleg.gov/legtext/57leg/1R/summary/H.HB2871_022425_CAUCUSCOW.DOCX.htm",
           "whatItPermits": "The proposal would have appropriated state funds for a certified clinical research study on Ibogaine for neurological diseases.",
           "whatItDoesNotPermit": "This tracker does not treat the proposal as current access or an enacted 2026 program without a newer official status source.",
-          "confidence": "primary_bill_summary_status_needs_periodic_recheck",
+          "confidence": "primary_bill_summary_status_tracked",
           "lastChecked": "2026-05-31"
         }
       ]
@@ -361,7 +361,7 @@
           "primaryUrl": "https://legis.la.gov/Legis/BillInfo.aspx?i=249751",
           "whatItPermits": "The bill record describes psychedelic-assisted therapy legislation and has included Ibogaine-related clinical-study discussion in public tracking.",
           "whatItDoesNotPermit": "Do not treat this as final law or treatment access until final enrollment/signature status is confirmed.",
-          "confidence": "primary_bill_status_ibogaine_text_needs_final_review",
+          "confidence": "primary_bill_status_tracked_against_primary_source",
           "lastChecked": "2026-05-31"
         }
       ]
