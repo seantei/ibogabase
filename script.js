@@ -279,8 +279,11 @@ async function hydrateScanStatus() {
 hydrateScanStatus();
 
 async function loadJson(path) {
-  const response = await fetch(path, { cache: "no-store" });
-  if (!response.ok) throw new Error(`Could not load ${path}`);
+  // Resolve data paths from the site root so loading works on subdirectory
+  // pages (e.g. /search/, /sources/), not just the homepage.
+  const url = /^(https?:)?\//.test(path) ? path : `/${path}`;
+  const response = await fetch(url, { cache: "no-store" });
+  if (!response.ok) throw new Error(`Could not load ${url}`);
   return response.json();
 }
 
