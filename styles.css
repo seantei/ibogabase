@@ -495,11 +495,11 @@ h3 {
 .chip-overstated,
 .chip-weak,
 .chip-moderate {
-  color: var(--verify);
+  color: var(--verify-strong);
 }
 
 .chip-claim {
-  color: var(--verify);
+  color: var(--verify-strong);
 }
 
 .chip-culture,

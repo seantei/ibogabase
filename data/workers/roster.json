@@ -1,186 +1,125 @@
 {
   "lastReviewed": "2026-05-16",
-  "architecture": "One main Sean Hermes operator with scheduled specialist worker roles. Scheduled jobs use the authenticated Sean Hermes runtime by default and role-play each specialist; workers prepare review notes and queues, not direct publication.",
   "workers": [
     {
       "id": "research",
-      "profile": "researchops",
       "label": "Research Sentinel",
       "cadence": "daily",
-      "owner": "Evidence, studies, trials, mechanisms, analogs",
-      "output": "data/workers/research-brief.md",
-      "canPublish": false
+      "owner": "Evidence, studies, trials, mechanisms, analogs"
     },
     {
       "id": "policy",
-      "profile": "intelscout",
       "label": "Policy Tracker",
       "cadence": "daily",
-      "owner": "FDA, DEA, HHS, states, Texas, international law",
-      "output": "data/workers/policy-brief.md",
-      "canPublish": false
+      "owner": "FDA, DEA, HHS, states, Texas, international law"
     },
     {
       "id": "safety",
-      "profile": "safetyreviewer",
       "label": "Safety Reviewer",
       "cadence": "daily",
-      "owner": "QT/QTc, CYP2D6, polypharmacy, psychiatric exclusions, adverse events, emergency readiness",
-      "output": "data/workers/safety-brief.md",
-      "canPublish": false
+      "owner": "QT/QTc, CYP2D6, polypharmacy, psychiatric exclusions, adverse events, emergency readiness"
     },
     {
       "id": "conditions",
-      "profile": "conditioneditor",
       "label": "Condition Evidence Editor",
       "cadence": "daily",
-      "owner": "OUD, AUD, TBI, PTSD, depression, anxiety, Parkinson's, neurodegenerative and mental-health claims",
-      "output": "data/workers/conditions-brief.md",
-      "canPublish": false
+      "owner": "OUD, AUD, TBI, PTSD, depression, anxiety, Parkinson's, neurodegenerative and mental-health claims"
     },
     {
       "id": "culture",
-      "profile": "culturesteward",
       "label": "Cultural Stewardship Editor",
       "cadence": "daily",
-      "owner": "Gabon, Bwiti-linked stewardship, conservation, reciprocity, benefit-sharing, sourcing ethics",
-      "output": "data/workers/culture-brief.md",
-      "canPublish": false
+      "owner": "Gabon, Bwiti-linked stewardship, conservation, reciprocity, benefit-sharing, sourcing ethics"
     },
     {
       "id": "media",
-      "profile": "mediaops",
       "label": "Media and Social Analyst",
       "cadence": "daily",
-      "owner": "YouTube, X, podcasts, documentaries, viral claims",
-      "output": "data/workers/media-brief.md",
-      "canPublish": false
+      "owner": "YouTube, X, podcasts, documentaries, viral claims"
     },
     {
       "id": "listening",
-      "profile": "listeningops",
       "label": "Listening Library Curator",
       "cadence": "daily",
-      "owner": "Podcast, interview, video, radio, documentary, panel, and long-form media directory",
-      "output": "data/workers/listening-brief.md",
-      "canPublish": false
+      "owner": "Podcast, interview, video, radio, documentary, panel, and long-form media directory"
     },
     {
       "id": "catalog",
-      "profile": "cataloglibrarian",
       "label": "Universal Catalog Librarian",
       "cadence": "daily",
-      "owner": "Every podcast, book, article, news story, documentary, law, trial, clinic, company, and cultural source record",
-      "output": "data/workers/catalog-brief.md",
-      "canPublish": false
+      "owner": "Every podcast, book, article, news story, documentary, law, trial, clinic, company, and cultural source record"
     },
     {
       "id": "workflow",
-      "profile": "workflowarchitect",
       "label": "Editorial Workflow Architect",
       "cadence": "weekly",
-      "owner": "Publication process, source desk, approval gates, backlog",
-      "output": "data/workers/workflow-brief.md",
-      "canPublish": false
+      "owner": "Publication process, source desk, approval gates, backlog"
     },
     {
       "id": "qa",
-      "profile": "skillqa",
       "label": "Quality Reviewer",
       "cadence": "weekly",
-      "owner": "Site quality, review gates, factual humility, no dosing/referral drift",
-      "output": "data/workers/qa-brief.md",
-      "canPublish": false
+      "owner": "Site quality, review gates, factual humility, no dosing/referral drift"
     },
     {
       "id": "siteqa",
-      "profile": "readabilityqa",
       "label": "Site Readability and UX Reviewer",
       "cadence": "daily",
-      "owner": "Whole-site readability, navigation clarity, broken anchors, accessibility, confusing headings, mobile/desktop usability, and reader trust friction",
-      "output": "data/workers/siteqa-brief.md",
-      "canPublish": false
+      "owner": "Whole-site readability, navigation clarity, broken anchors, accessibility, confusing headings, mobile/desktop usability, and reader trust friction"
     },
     {
       "id": "legal",
-      "profile": "legalrules",
       "label": "Legal and Rules Reviewer",
       "cadence": "daily",
-      "owner": "Medical-claim boundaries, FDA/legal status wording, FTC disclosure rules, copyright/fair-use discipline, privacy, sponsorship, donations, merch, and no-referral safeguards",
-      "output": "data/workers/legal-brief.md",
-      "canPublish": false
+      "owner": "Medical-claim boundaries, FDA/legal status wording, FTC disclosure rules, copyright/fair-use discipline, privacy, sponsorship, donations, merch, and no-referral safeguards"
     },
     {
       "id": "stack",
-      "profile": "stackguardian",
       "label": "Local Stack Guardian",
       "cadence": "daily",
-      "owner": "Local server, scanner health, scheduled jobs, data freshness",
-      "output": "data/workers/stack-brief.md",
-      "canPublish": false
+      "owner": "Local server, scanner health, scheduled jobs, data freshness"
     },
     {
       "id": "support",
-      "profile": "revenueops",
       "label": "Ethical Support and Revenue Reviewer",
       "cadence": "weekly",
-      "owner": "Donations, memberships, grants, sponsorship boundaries, conflicts of interest, reader trust",
-      "output": "data/workers/support-brief.md",
-      "canPublish": false
+      "owner": "Donations, memberships, grants, sponsorship boundaries, conflicts of interest, reader trust"
     },
     {
       "id": "uat-curious",
-      "profile": "readabilityqa",
       "label": "UAT Curious Reader",
       "cadence": "daily",
-      "owner": "First-visit comprehension, start path clarity, plain-English navigation, search confidence, and no internal-process wording",
-      "output": "data/workers/uat-curious-brief.md",
-      "canPublish": false
+      "owner": "First-visit comprehension, start path clarity, plain-English navigation, search confidence, and no internal-process wording"
     },
     {
       "id": "uat-scholar",
-      "profile": "researchops",
       "label": "UAT Academic Scholar",
       "cadence": "weekly",
-      "owner": "Source-type separation, citation usefulness, study-quality labels, sample sizes, limitations, and claim/evidence boundaries",
-      "output": "data/workers/uat-scholar-brief.md",
-      "canPublish": false
+      "owner": "Source-type separation, citation usefulness, study-quality labels, sample sizes, limitations, and claim/evidence boundaries"
     },
     {
       "id": "uat-physician",
-      "profile": "safetyreviewer",
       "label": "UAT Physician Reviewer",
       "cadence": "weekly",
-      "owner": "Safety-first reading path, legal/clinical boundaries, cardiac risk prominence, interaction risk, exclusions, and no treatment-direction drift",
-      "output": "data/workers/uat-physician-brief.md",
-      "canPublish": false
+      "owner": "Safety-first reading path, legal/clinical boundaries, cardiac risk prominence, interaction risk, exclusions, and no treatment-direction drift"
     },
     {
       "id": "uat-cultural",
-      "profile": "culturesteward",
       "label": "UAT Bwiti-Informed Cultural Reviewer",
       "cadence": "weekly",
-      "owner": "Public cultural-history clarity, outsider-limit humility, stewardship, conservation, reciprocity, and no sacred/private material exposure",
-      "output": "data/workers/uat-cultural-brief.md",
-      "canPublish": false
+      "owner": "Public cultural-history clarity, outsider-limit humility, stewardship, conservation, reciprocity, and no sacred/private material exposure"
     },
     {
       "id": "uat-journalist",
-      "profile": "intelscout",
       "label": "UAT Journalist and Policymaker",
       "cadence": "weekly",
-      "owner": "What-changed clarity, policy tracker usability, primary-source context, and distinction between law, politics, company news, and clinical evidence",
-      "output": "data/workers/uat-journalist-brief.md",
-      "canPublish": false
+      "owner": "What-changed clarity, policy tracker usability, primary-source context, and distinction between law, politics, company news, and clinical evidence"
     },
     {
       "id": "uat-treatment-reader",
-      "profile": "legalrules",
       "label": "UAT Treatment-Considering Reader",
       "cadence": "weekly",
-      "owner": "Risk comprehension, uncertainty, no clinic referrals, no rankings, no dosing/protocol help, and no false reassurance",
-      "output": "data/workers/uat-treatment-reader-brief.md",
-      "canPublish": false
+      "owner": "Risk comprehension, uncertainty, no clinic referrals, no rankings, no dosing/protocol help, and no false reassurance"
     }
   ]
 }
