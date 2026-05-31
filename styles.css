@@ -3615,3 +3615,32 @@ figcaption {
     min-height: 48px;
   }
 }
+
+/* Browse / search controls (Sources page and /search/) */
+.source-browse-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3);
+  margin: var(--space-3) 0 var(--space-4);
+}
+
+.source-browse-controls select {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  padding: 6px 10px;
+  border: 1px solid var(--line-strong);
+  background: var(--paper-2);
+  color: var(--ink);
+}
+
+.result-count {
+  color: var(--ink-3);
+  font-size: 0.85rem;
+}
+
+.result-more-note {
+  margin-top: var(--space-3);
+  color: var(--ink-3);
+  font-size: 0.85rem;
+}

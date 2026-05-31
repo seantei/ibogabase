@@ -211,6 +211,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.ibogabase.com/search/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.ibogabase.com/site-map/</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,7 +224,7 @@
   </url>
   <url>
     <loc>https://www.ibogabase.com/sources/</loc>
-    <lastmod>2026-05-30</lastmod>
+    <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

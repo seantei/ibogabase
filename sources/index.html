@@ -68,6 +68,21 @@
     <div class="source-total"><span>Sources indexed</span><strong>346</strong></div>
     <div class="export-links"><a href="/data/public-search-index.json">JSON</a><a href="/data/source-catalog.csv">CSV</a><a href="/data/source-catalog.bib">BibTeX</a><a href="/data/source-type-counts.json">Counts</a></div>
   </section>
+  <section class="reference-card" id="browse">
+    <h2>Browse the catalog</h2>
+    <p>Search every indexed source or filter by type. Each result links to the original — the catalog is a finding aid, so open the source before relying on a claim.</p>
+    <form class="front-search" role="search">
+      <label class="sr-only" for="source-search">Search the source catalog</label>
+      <input id="source-search" type="search" placeholder="Search title, source, or topic..." data-source-search />
+      <button type="submit">Search</button>
+    </form>
+    <div class="source-browse-controls">
+      <label class="sr-only" for="source-filter">Filter by source type</label>
+      <select id="source-filter" data-source-filter><option value="all">All source types</option></select>
+      <span class="result-count" data-result-count></span>
+    </div>
+    <div class="front-search-results" data-search-results data-browse-all="true" data-limit="50" aria-live="polite"></div>
+  </section>
   <section class="source-stats-grid"><article>
       <span>Podcasts and interviews</span>
       <strong>66</strong>

@@ -24,6 +24,7 @@ const quickSearchButtons = document.querySelectorAll("[data-search-query]");
 const searchResults = document.querySelector("[data-search-results]");
 const searchCount = document.querySelector("[data-search-count]");
 const searchCountPlain = document.querySelector("[data-search-count-plain]");
+const resultCount = document.querySelector("[data-result-count]");
 const sourceReviewStatus = document.querySelector("[data-source-review-status]");
 const assistantGated = document.querySelector("[data-assistant-gated]");
 const askInput = document.querySelector("[data-ask-input]");
@@ -77,7 +78,14 @@ mobileSearchToggle?.addEventListener("click", () => {
 
 async function sendQueryToSourceSearch(query) {
   const value = query.trim();
-  if (!sourceSearch || !value) return;
+  if (!value) return;
+  // Pages without an in-page search surface (every page except the homepage,
+  // /search/, and /sources/) route to the dedicated search page instead of
+  // silently doing nothing.
+  if (!sourceSearch || !searchResults) {
+    window.location.assign(`/search/?q=${encodeURIComponent(value)}`);
+    return;
+  }
   sourceSearch.value = value;
   await ensurePublicSearch();
   renderSearchResults();
@@ -447,23 +455,51 @@ function renderSearchResults() {
   if (!searchResults) return;
 
   const query = sourceSearch?.value.trim() || "";
+  const browseAll = searchResults.dataset.browseAll === "true";
+  const limit = Number(searchResults.dataset.limit) || 10;
+
   if (!publicSearchReady) {
-    searchResults.innerHTML = query
+    searchResults.innerHTML = (query || browseAll)
       ? "<p>Loading source index...</p>"
       : "";
     return;
   }
+
   const category = sourceFilter?.value || "all";
-  const matches = publicSearchIndex
-    .map((record) => ({ record, score: scoreRecord(record, query) }))
-    .filter(({ record, score }) => score > 0 && (category === "all" || record.category === category))
-    .sort((a, b) => b.score - a.score || a.record.title.localeCompare(b.record.title))
-    .slice(0, 10)
-    .map(({ record }) => record);
+  const inCategory = (record) => category === "all" || record.category === category;
+
+  let ranked;
+  if (query) {
+    ranked = publicSearchIndex
+      .map((record) => ({ record, score: scoreRecord(record, query) }))
+      .filter(({ record, score }) => score > 0 && inCategory(record))
+      .sort((a, b) => b.score - a.score || (a.record.title || "").localeCompare(b.record.title || ""))
+      .map(({ record }) => record);
+  } else if (browseAll) {
+    ranked = publicSearchIndex
+      .filter(inCategory)
+      .slice()
+      .sort((a, b) => (a.title || "").localeCompare(b.title || ""));
+  } else {
+    // Homepage with no query: show nothing.
+    searchResults.innerHTML = "";
+    if (resultCount) resultCount.textContent = "";
+    return;
+  }
+
+  const total = ranked.length;
+  const matches = ranked.slice(0, limit);
+  if (resultCount) {
+    resultCount.textContent = total
+      ? `${total} ${total === 1 ? "result" : "results"}${category === "all" ? "" : " in this type"}`
+      : "No results";
+  }
 
   searchResults.innerHTML = "";
   if (!matches.length) {
-    searchResults.innerHTML = "<p>No matching source records yet. Try a broader term or choose all source types.</p>";
+    searchResults.innerHTML = query
+      ? "<p>No matching source records yet. Try a broader term or choose all source types.</p>"
+      : "<p>No source records in this type yet.</p>";
     return;
   }
 
@@ -491,6 +527,13 @@ function renderSearchResults() {
     `;
     searchResults.append(item);
   });
+
+  if (total > matches.length) {
+    const note = document.createElement("p");
+    note.className = "result-more-note";
+    note.textContent = `Showing ${matches.length} of ${total}. Refine your search or pick a source type to narrow results.`;
+    searchResults.append(note);
+  }
 }
 
 function isUnsafeAsk(question) {
@@ -597,6 +640,41 @@ document.querySelectorAll("[data-suggested-search]").forEach((link) => {
     sendQueryToSourceSearch(link.dataset.suggestedSearch || "");
   });
 });
+
+// Populate the source-type filter from the loaded index (browse/search pages).
+function populateSourceFilter() {
+  if (!sourceFilter || sourceFilter.dataset.populated === "true" || sourceFilter.options.length > 1) return;
+  const seen = new Map();
+  publicSearchIndex.forEach((record) => {
+    if (record.category && !seen.has(record.category)) {
+      seen.set(record.category, record.displayCategory || record.category);
+    }
+  });
+  [...seen.entries()]
+    .sort((a, b) => a[1].localeCompare(b[1]))
+    .forEach(([value, label]) => {
+      const option = document.createElement("option");
+      option.value = value;
+      option.textContent = label;
+      sourceFilter.append(option);
+    });
+  sourceFilter.dataset.populated = "true";
+}
+
+// Hydrate the dedicated /search/ page (from ?q=) and browse views like /sources/
+// (data-browse-all). The homepage has the same elements but neither trigger, so
+// its behavior is unchanged.
+if (searchResults && sourceSearch) {
+  const initialQuery = new URLSearchParams(window.location.search).get("q");
+  const browseAll = searchResults.dataset.browseAll === "true";
+  if (initialQuery || browseAll) {
+    if (initialQuery) sourceSearch.value = initialQuery;
+    ensurePublicSearch().then(() => {
+      populateSourceFilter();
+      renderSearchResults();
+    });
+  }
+}
 askButton?.addEventListener("click", answerFromSources);
 askInput?.addEventListener("keydown", (event) => {
   if ((event.metaKey || event.ctrlKey) && event.key === "Enter") answerFromSources();
