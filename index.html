@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-enable-assistant="true">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -77,6 +77,16 @@
         <p class="audience-line">I'm a <a href="/evidence/">researcher</a> · <a href="/safety/">clinician</a> · <a href="/claims/">journalist</a> · <a href="/policy/">policymaker</a> · <a href="/culture/">cultural reader</a> · <a href="/index/">general reader</a></p>
         <p class="stamp-row"><span>Last full review · 2026-05-18</span><span>346 sources indexed</span><span>4 claim checks</span><span>2 corrections logged</span></p>
         <div class="front-search-results" data-search-results aria-live="polite"></div>
+        <div class="ask-ibogabase" data-assistant-gated hidden id="ask">
+          <h2>Ask IbogaBase</h2>
+          <p class="ask-boundary-note">Answers come only from this site&rsquo;s indexed public sources and always show their citations. No dosing, no referrals, no medical or legal advice &mdash; those questions are refused.</p>
+          <div class="ask-controls">
+            <label class="sr-only" for="ask-input">Ask a question about the indexed sources</label>
+            <input id="ask-input" type="text" placeholder="What changed in Oklahoma? What is the QT concern?" data-ask-input />
+            <button type="button" data-ask-button>Ask</button>
+          </div>
+          <div class="ask-answer" data-ask-answer aria-live="polite"></div>
+        </div>
       </section>
 
       <div class="answer-section" id="answers">

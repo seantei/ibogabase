@@ -540,7 +540,13 @@ function renderSearchResults() {
 }
 
 function isUnsafeAsk(question) {
-  return /\b(dose|dosage|how much|take ibogaine|provider|clinic near me|recommend a clinic|where can i get|buy iboga|buy ibogaine|self[- ]?treat|protocol|legal advice|am i allowed|can i legally|prescribe|emergency)\b/i.test(question);
+  // Normalize against simple obfuscation: leetspeak digits and letters spaced
+  // out with separators ("d o s e", "d0se"), then test both forms.
+  const leet = question.toLowerCase().replace(/0/g, "o").replace(/1/g, "i").replace(/3/g, "e").replace(/4/g, "a").replace(/5/g, "s").replace(/7/g, "t");
+  const collapsed = leet.replace(/[^a-z]+/g, "");
+  const unsafe = /\b(dose|doses|dosage|dosing|how much|what amount|therapeutic amount|how many grams?|mg|mg\/kg|milligrams?|flood|microdos\w*|taper|washout|wean|regimen|protocol|how to take|take ibogaine|self[- ]?treat\w*|at home|on my own|by myself|buy|purchase|order|supplier|vendor|ship|where (can i|to) (get|find|buy)|provider|referral|clinic near me|treatment cent(er|re)|retreat|recommend (a |the )?(clinic|provider|cent(er|re)|retreat|place)|which clinic|best clinic|prescribe|prescription|my medications?|i('m| am) taking|should i take|am i allowed|can i legally|legal advice|emergency|overdose|antidote)\b/i;
+  const unsafeCollapsed = /(dose|dosage|dosing|howmuch|howmanygrams|mgkg|milligram|floodd?ose|microdos|selftreat|athome|buyiboga|buyibogaine|whereto(get|buy)|wherecani(get|buy)|bestclinic|whichclinic|recommendaclinic|treatmentcenter|overdose)/;
+  return unsafe.test(leet) || unsafeCollapsed.test(collapsed);
 }
 
 async function answerFromSources() {
