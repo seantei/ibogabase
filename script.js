@@ -650,6 +650,69 @@ document.querySelectorAll("[data-suggested-search]").forEach((link) => {
   });
 });
 
+// Media library: client-side search + type filter over the static record list.
+function hydrateMediaLibrary() {
+  const search = document.querySelector("[data-media-search]");
+  const filter = document.querySelector("[data-media-filter]");
+  const count = document.querySelector("[data-media-count]");
+  const empty = document.querySelector("[data-media-empty]");
+  const rows = Array.from(document.querySelectorAll(".media-library-row"));
+  if (!rows.length || (!search && !filter)) return;
+
+  const typeOf = (row) => {
+    const meta = (row.querySelector(".source-meta-line")?.textContent || "").toLowerCase();
+    const chips = (row.querySelector(".chip-row")?.textContent || "").toLowerCase();
+    const t = `${meta} ${chips}`;
+    if (/podcast|interview/.test(t)) return { slug: "podcasts", label: "Podcasts & interviews" };
+    if (/documentary|film/.test(t)) return { slug: "documentaries", label: "Documentaries & films" };
+    if (/bibliograph/.test(t)) return { slug: "books", label: "Books" };
+    if (/news|commentary|journalism|article|blog/.test(t)) return { slug: "news", label: "News & commentary" };
+    return { slug: "other", label: "Other media" };
+  };
+
+  const typeCounts = new Map();
+  rows.forEach((row) => {
+    const { slug, label } = typeOf(row);
+    row.dataset.mediaType = slug;
+    row.dataset.mediaText = row.textContent.toLowerCase().replace(/\s+/g, " ");
+    if (!typeCounts.has(slug)) typeCounts.set(slug, { label, n: 0 });
+    typeCounts.get(slug).n += 1;
+  });
+
+  if (filter && filter.options.length <= 1) {
+    [...typeCounts.entries()]
+      .sort((a, b) => b[1].n - a[1].n)
+      .forEach(([slug, { label, n }]) => {
+        const opt = document.createElement("option");
+        opt.value = slug;
+        opt.textContent = `${label} (${n})`;
+        filter.append(opt);
+      });
+  }
+
+  const apply = () => {
+    const q = (search?.value || "").trim().toLowerCase();
+    const terms = q.split(/\s+/).filter(Boolean);
+    const type = filter?.value || "all";
+    let shown = 0;
+    rows.forEach((row) => {
+      const matchType = type === "all" || row.dataset.mediaType === type;
+      const matchText = !terms.length || terms.every((t) => row.dataset.mediaText.includes(t));
+      const show = matchType && matchText;
+      row.hidden = !show;
+      if (show) shown += 1;
+    });
+    if (count) count.textContent = `${shown} of ${rows.length}`;
+    if (empty) empty.hidden = shown !== 0;
+  };
+
+  search?.addEventListener("input", apply);
+  filter?.addEventListener("change", apply);
+  apply();
+}
+
+hydrateMediaLibrary();
+
 // Populate the source-type filter from the loaded index (browse/search pages).
 function populateSourceFilter() {
   if (!sourceFilter || sourceFilter.dataset.populated === "true" || sourceFilter.options.length > 1) return;
