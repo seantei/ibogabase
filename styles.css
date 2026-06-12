@@ -3781,3 +3781,49 @@ figcaption {
   font-size: 0.9rem;
   color: var(--ibogaine);
 }
+
+/* Breadcrumb trail */
+.breadcrumb {
+  margin-bottom: var(--space-4);
+}
+
+.breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.breadcrumb li {
+  display: flex;
+  align-items: center;
+  gap: 6px 8px;
+  color: var(--ink-3);
+}
+
+.breadcrumb li:not(:first-child)::before {
+  content: "\203A";
+  color: var(--ink-4);
+}
+
+.breadcrumb a {
+  color: var(--ink-3);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.breadcrumb a:hover {
+  color: var(--ibogaine);
+  border-bottom-color: currentColor;
+}
+
+.breadcrumb li[aria-current="page"] {
+  color: var(--ink);
+}
