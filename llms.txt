@@ -28,6 +28,7 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 - [Policy tracker](https://www.ibogabase.com/data/policy-tracker.json): Law and policy rows.
 - [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking rules and sample rows.
 - [Weekly brief](https://www.ibogabase.com/data/weekly-brief.json): What changed recently.
+- [Review metadata](https://www.ibogabase.com/data/review-metadata.json): Review status, last-reviewed fields, and correction metadata.
 - [Sitemap](https://www.ibogabase.com/sitemap.xml): Crawlable site URLs.
 
 ## Suggested citation

@@ -147,7 +147,8 @@
     "https://www.ibogabase.com/data/evidence-pages.json",
     "https://www.ibogabase.com/data/policy-tracker.json",
     "https://www.ibogabase.com/data/clinic-observatory.json",
-    "https://www.ibogabase.com/data/weekly-brief.json"
+    "https://www.ibogabase.com/data/weekly-brief.json",
+    "https://www.ibogabase.com/data/review-metadata.json"
   ],
   "sitemap": "https://www.ibogabase.com/sitemap.xml",
   "llmsTxt": "https://www.ibogabase.com/llms.txt"

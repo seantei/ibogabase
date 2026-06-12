@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-12T05:54:40.556Z",
-  "totalRecords": 378,
+  "generatedAt": "2026-06-12T06:08:35.129Z",
+  "totalRecords": 388,
   "categories": {
-    "books_bibliographies": 10,
+    "books_bibliographies": 12,
     "clinical_trials": 15,
     "clinics": 19,
-    "companies_patents": 12,
-    "culture_stewardship": 9,
+    "companies_patents": 13,
+    "culture_stewardship": 12,
     "documentaries_films": 2,
     "evidence_pages": 8,
     "laws_policy": 54,
-    "news_articles_blogs": 66,
+    "news_articles_blogs": 67,
     "podcasts_interviews": 87,
-    "reference_pages": 2,
+    "reference_pages": 4,
     "state_policy_coverage": 51,
-    "studies_papers": 38,
+    "studies_papers": 39,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -23,6 +23,42 @@
     "Ask IbogaBase must refuse dosing, provider referral, self-treatment, individualized medical/legal advice, and treatment instructions."
   ],
   "records": [
+    {
+      "id": "culture-origin-samorini-mythology-2024",
+      "title": "Studies on the iboga cults. III. Iboga and Bwiti mythology",
+      "category": "studies_papers",
+      "sourceType": "cultural_source",
+      "sourceName": "Antrocom Journal of Anthropology",
+      "url": "https://antrocom.net/archives/2024/volume-20-number-2/studies-on-the-iboga-cults-iii-iboga-and-bwiti-mythology/",
+      "summary": "Anthropology article on mythological origins of Iboga and Bwiti, including distinction among Mitsogho and Fang contexts and multiple versions of the Banzioku story. Use to avoid flattening public origin narratives into a single universal version.",
+      "confidence": "Cultural source",
+      "status": "Cataloged source",
+      "people": [
+        "Giorgio Samorini"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "iboga",
+        "bwiti",
+        "bwete",
+        "mythology",
+        "origin_story",
+        "banzioku",
+        "fang",
+        "mitsogho",
+        "gabon"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Cultural source",
+      "displaySourceName": "Antrocom Journal of Anthropology",
+      "displayDate": "",
+      "whatItIs": "Cultural source",
+      "conversationContext": "Covers bwiti, bwete, mythology, origin story.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "studies on the iboga cults. iii. iboga and bwiti mythology anthropology article on mythological origins of iboga and bwiti, including distinction among mitsogho and fang contexts and multiple versions of the banzioku story. use to avoid flattening public origin narratives into a single universal version. studies_papers cultural_source antrocom journal of anthropology  iboga bwiti bwete mythology origin_story banzioku fang mitsogho gabon cataloged source cultural source"
+    },
     {
       "id": "ambio-research-nature-medicine-2024",
       "title": "Magnesium-ibogaine therapy in veterans with traumatic brain injuries",
@@ -42,7 +78,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -81,7 +117,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -118,7 +154,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -150,7 +186,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -180,7 +216,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -209,7 +245,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -240,7 +276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -269,7 +305,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -297,7 +333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1157,7 +1193,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1186,7 +1222,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1215,7 +1251,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -1608,7 +1644,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -1638,7 +1674,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1667,7 +1703,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -2891,7 +2927,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -2920,7 +2956,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -2950,7 +2986,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -2981,7 +3017,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3012,7 +3048,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3041,7 +3077,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3075,7 +3111,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3108,7 +3144,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -5144,7 +5180,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -5176,7 +5212,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -5218,6 +5254,76 @@
       "conversationContext": "Covers Former Gov. Rick Perry pushes for legalizing ibogaine to aid veterans at SXSW.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
       "searchText": "former gov. rick perry pushes for legalizing ibogaine to aid veterans at sxsw - spectrumlocalnews.com news or commentary from spectrumlocalnews.com. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism spectrumlocalnews.com  media cataloged source primary-source record"
+    },
+    {
+      "id": "history-lotsof-purdue-archive",
+      "title": "Howard Lotsof correspondence and other materials",
+      "category": "books_bibliographies",
+      "sourceType": "historical_archive",
+      "sourceName": "Purdue University Archives and Special Collections",
+      "url": "https://archives.lib.purdue.edu/repositories/2/resources/125",
+      "summary": "Institutional archive record describing Lotsof's 1962 Ibogaine experience, later advocacy, foundation work, and patent history. Use as a history source, not clinical efficacy evidence.",
+      "confidence": "Historical archive",
+      "status": "Cataloged source",
+      "people": [
+        "Howard Lotsof"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "howard_lotsof",
+        "history",
+        "1962",
+        "heroin",
+        "ibogaine",
+        "dora_weiner_foundation",
+        "patent"
+      ],
+      "displayCategory": "Books and bibliographies",
+      "displaySourceType": "Historical archive",
+      "displaySourceName": "Purdue University Archives and Special Collections",
+      "displayDate": "",
+      "whatItIs": "Historical archive",
+      "conversationContext": "Covers howard lotsof, history, 1962, heroin.",
+      "whyListed": "Useful as background. Do not rely on it as standalone proof of a claim.",
+      "searchText": "howard lotsof correspondence and other materials institutional archive record describing lotsof's 1962 ibogaine experience, later advocacy, foundation work, and patent history. use as a history source, not clinical efficacy evidence. books_bibliographies historical_archive purdue university archives and special collections  howard_lotsof history 1962 heroin ibogaine dora_weiner_foundation patent cataloged source historical archive"
+    },
+    {
+      "id": "history-thompson-muskie-1972",
+      "title": "Fear and Loathing on the Campaign Trail '72",
+      "category": "books_bibliographies",
+      "sourceType": "literary_political_source",
+      "sourceName": "Hunter S. Thompson / Rolling Stone book record",
+      "url": "https://en.wikipedia.org/wiki/Fear_and_Loathing_on_the_Campaign_Trail_%2772",
+      "summary": "Reference record for Thompson's 1972 campaign coverage and the Muskie Ibogaine rumor. Use as political-media history and rumor context, not evidence that Muskie used Ibogaine.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Hunter S. Thompson",
+        "Edmund Muskie"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "hunter_s_thompson",
+        "ed_muskie",
+        "edmund_muskie",
+        "1972",
+        "ibogaine",
+        "political_history",
+        "rumor",
+        "rolling_stone"
+      ],
+      "displayCategory": "Books and bibliographies",
+      "displaySourceType": "Literary and political source",
+      "displaySourceName": "Hunter S. Thompson / Rolling Stone book record",
+      "displayDate": "",
+      "whatItIs": "Literary and political source",
+      "conversationContext": "Covers hunter s thompson, ed muskie, edmund muskie, 1972.",
+      "whyListed": "Useful as background. Do not rely on it as standalone proof of a claim.",
+      "searchText": "fear and loathing on the campaign trail '72 reference record for thompson's 1972 campaign coverage and the muskie ibogaine rumor. use as political-media history and rumor context, not evidence that muskie used ibogaine. books_bibliographies literary_political_source hunter s. thompson / rolling stone book record  hunter_s_thompson ed_muskie edmund_muskie 1972 ibogaine political_history rumor rolling_stone cataloged source primary-source record"
     },
     {
       "id": "source_radar_archive-VHJ1bXAgdGFrZX",
@@ -5465,7 +5571,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -5481,6 +5587,41 @@
       "conversationContext": "Covers news archive, history, articles.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
       "searchText": "news articles on eboga & ibogaine news or commentary from myeboga document archive. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs article_archive myeboga document archive  news_archive history ibogaine articles cataloged source article archive"
+    },
+    {
+      "id": "history-lotsof-maps-memorial",
+      "title": "In Memoriam: Howard Lotsof",
+      "category": "news_articles_blogs",
+      "sourceType": "memorial_article",
+      "sourceName": "MAPS Bulletin",
+      "url": "https://maps.org/news/bulletin/in-memoriam-howard-lotsof/",
+      "summary": "Memorial article describing Lotsof's 1962 observation and lifelong advocacy. Useful as history and community context; confirm clinical claims with stronger evidence sources.",
+      "confidence": "Memorial article",
+      "status": "Cataloged source",
+      "people": [
+        "Howard Lotsof",
+        "Kenneth Alper",
+        "Dimitri Mugianis"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "howard_lotsof",
+        "history",
+        "1962",
+        "ibogaine",
+        "heroin",
+        "advocacy"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Memorial article",
+      "displaySourceName": "MAPS Bulletin",
+      "displayDate": "",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers howard lotsof, history, 1962, heroin.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "in memoriam: howard lotsof memorial article describing lotsof's 1962 observation and lifelong advocacy. useful as history and community context; confirm clinical claims with stronger evidence sources. news_articles_blogs memorial_article maps bulletin  howard_lotsof history 1962 ibogaine heroin advocacy cataloged source memorial article"
     },
     {
       "id": "source_radar_archive-QWNjZWxlcmF0ZW",
@@ -6887,6 +7028,39 @@
       "searchText": "trump to sign executive order on psychedelic drug used abroad to treat ptsd - cbs news news or commentary from cbs news. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism cbs news  conditions cataloged source primary-source record"
     },
     {
+      "id": "history-lotsof-us4499096a",
+      "title": "US4499096A: Rapid method for interrupting the narcotic addiction syndrome",
+      "category": "companies_patents",
+      "sourceType": "patent_record",
+      "sourceName": "Google Patents",
+      "url": "https://patents.google.com/patent/US4499096A/en",
+      "summary": "Patent record for Lotsof's Ibogaine-related method claim. Useful for documenting advocacy and intellectual-property history; a patent is not proof of clinical efficacy or safety.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Howard Lotsof"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "howard_lotsof",
+        "patent",
+        "ibogaine",
+        "opioid_use_disorder",
+        "heroin",
+        "modern_history"
+      ],
+      "displayCategory": "Companies and patents",
+      "displaySourceType": "Patent record",
+      "displaySourceName": "Google Patents",
+      "displayDate": "",
+      "whatItIs": "Company, patent, or biotech-field source.",
+      "conversationContext": "Covers howard lotsof, patent, opioid use disorder, heroin.",
+      "whyListed": "Useful for tracking commercial activity. Business claims do not prove clinical value.",
+      "searchText": "us4499096a: rapid method for interrupting the narcotic addiction syndrome patent record for lotsof's ibogaine-related method claim. useful for documenting advocacy and intellectual-property history; a patent is not proof of clinical efficacy or safety. companies_patents patent_record google patents  howard_lotsof patent ibogaine opioid_use_disorder heroin modern_history cataloged source primary-source record"
+    },
+    {
       "id": "source_radar-U2lsbyBQaGFybW",
       "title": "Silo Pharma files provisional patent for ibogaine-based TBI therapeutic",
       "category": "companies_patents",
@@ -6898,7 +7072,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -7186,7 +7360,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -7222,7 +7396,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -7255,7 +7429,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -7584,6 +7758,80 @@
       "searchText": "mindscape retreat emerges as global leader in ibogaine therapy for neurological and mental health disorders - prweb clinic-claim monitoring entry. ibogabase does not endorse clinics or provide referrals. clinics journalism prweb  clinics cataloged source primary-source record"
     },
     {
+      "id": "culture-origin-maps-roots-iboga-2023",
+      "title": "Returning to the Roots of Iboga",
+      "category": "culture_stewardship",
+      "sourceType": "cultural_source",
+      "sourceName": "MAPS Bulletin",
+      "url": "https://maps.org/news/bulletin/returning-to-the-roots-of-iboga/",
+      "summary": "Public Missoko Bwiti-linked account that includes an Iboga origin narrative in which the first woman to ingest the medicine did so accidentally and saw her ancestors. Use as public cultural context, not private instruction or medical evidence.",
+      "confidence": "Cultural source",
+      "status": "Cataloged source",
+      "people": [
+        "Chor Boogie",
+        "Elizabeth Bast",
+        "Binana"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "iboga",
+        "missoko",
+        "bwiti",
+        "origin_story",
+        "ancestors",
+        "gabon",
+        "reciprocity",
+        "stewardship"
+      ],
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Cultural source",
+      "displaySourceName": "MAPS Bulletin",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers missoko, bwiti, origin story, ancestors.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "returning to the roots of iboga public missoko bwiti-linked account that includes an iboga origin narrative in which the first woman to ingest the medicine did so accidentally and saw her ancestors. use as public cultural context, not private instruction or medical evidence. culture_stewardship cultural_source maps bulletin  iboga missoko bwiti origin_story ancestors gabon reciprocity stewardship cataloged source cultural source"
+    },
+    {
+      "id": "culture-origin-chacruna-conservation-2021",
+      "title": "Iboga Conservation",
+      "category": "culture_stewardship",
+      "sourceType": "cultural_source",
+      "sourceName": "Chacruna",
+      "url": "https://chacruna.net/iboga_conservation/",
+      "summary": "Conservation article describing Iboga as a cultural keystone species and summarizing public legends about discovering Iboga through observation of animals eating or digging for the roots. Use as conservation and origin-narrative context.",
+      "confidence": "Cultural source",
+      "status": "Cataloged source",
+      "people": [
+        "Anya Ermakova"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:31.336Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "iboga",
+        "conservation",
+        "bwiti",
+        "origin_story",
+        "animals",
+        "porcupines",
+        "hogs",
+        "parrots",
+        "gabon",
+        "sustainability"
+      ],
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Cultural source",
+      "displaySourceName": "Chacruna",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers conservation, bwiti, origin story, animals.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "iboga conservation conservation article describing iboga as a cultural keystone species and summarizing public legends about discovering iboga through observation of animals eating or digging for the roots. use as conservation and origin-narrative context. culture_stewardship cultural_source chacruna  iboga conservation bwiti origin_story animals porcupines hogs parrots gabon sustainability cataloged source cultural source"
+    },
+    {
       "id": "source_radar-SUNFRVJTIElib2",
       "title": "ICEERS Iboga Community Engagement Initiative Phase 3 report",
       "category": "culture_stewardship",
@@ -7595,7 +7843,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -7625,7 +7873,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-12T05:54:35.369Z",
+      "foundAt": "2026-06-12T06:08:31.336Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -10310,7 +10558,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:40.556Z",
+      "foundAt": "2026-06-12T06:08:35.129Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -10320,6 +10568,106 @@
       "conversationContext": "Covers bwiti, bwete, history, gabon.",
       "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
       "searchText": "bwiti history and public cultural context public-facing orientation to iboga's central african context, gabon, bwiti/bwete, misoko/missoko, fang contexts, stewardship, and protected knowledge boundaries. culture_stewardship culture_context ibogabase culture reference  bwiti bwete history gabon misoko missoko fang culture stewardship cataloged source culture context"
+    },
+    {
+      "id": "site-topic-iboga-origin-narratives",
+      "title": "Iboga origin narratives in public sources",
+      "category": "culture_stewardship",
+      "sourceType": "culture_context",
+      "sourceName": "IbogaBase culture reference",
+      "url": "/culture/",
+      "summary": "Public sources describe multiple Iboga origin narratives, including a Missoko Bwiti account of a first woman ingesting Iboga accidentally and seeing ancestors, and forest-observation accounts involving animals eating or digging for Iboga roots. These are cultural narratives, not medical evidence or private instruction.",
+      "confidence": "Culture context",
+      "status": "Cataloged source",
+      "tags": [
+        "iboga_origin",
+        "origin_story",
+        "missoko",
+        "misoko",
+        "bwiti",
+        "bwete",
+        "porcupine",
+        "ancestors",
+        "forest",
+        "animals",
+        "culture"
+      ],
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:35.129Z",
+      "sourceOrigin": "ibogabase_reference",
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Culture context",
+      "displaySourceName": "IbogaBase culture reference",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers iboga origin, origin story, missoko, misoko.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "iboga origin narratives in public sources public sources describe multiple iboga origin narratives, including a missoko bwiti account of a first woman ingesting iboga accidentally and seeing ancestors, and forest-observation accounts involving animals eating or digging for iboga roots. these are cultural narratives, not medical evidence or private instruction. culture_stewardship culture_context ibogabase culture reference  iboga_origin origin_story missoko misoko bwiti bwete porcupine ancestors forest animals culture cataloged source culture context"
+    },
+    {
+      "id": "site-topic-howard-lotsof",
+      "title": "Howard Lotsof and the 1962 Ibogaine observation",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase history reference",
+      "url": "/reference/ibogaine/",
+      "summary": "Howard Lotsof reported in 1962 that Ibogaine unexpectedly interrupted heroin withdrawal and craving. The story is foundational to modern Western Ibogaine addiction-treatment interest, but it is history and advocacy context, not proof of cure or safety.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "tags": [
+        "howard_lotsof",
+        "1962",
+        "heroin",
+        "ibogaine",
+        "addiction_history",
+        "modern_history"
+      ],
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:35.129Z",
+      "sourceOrigin": "ibogabase_reference",
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase history reference",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers howard lotsof, 1962, heroin, addiction history.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "howard lotsof and the 1962 ibogaine observation howard lotsof reported in 1962 that ibogaine unexpectedly interrupted heroin withdrawal and craving. the story is foundational to modern western ibogaine addiction-treatment interest, but it is history and advocacy context, not proof of cure or safety. reference_pages history_topic ibogabase history reference  howard_lotsof 1962 heroin ibogaine addiction_history modern_history cataloged source history topic"
+    },
+    {
+      "id": "site-topic-thompson-muskie-ibogaine-rumor",
+      "title": "Hunter S. Thompson, Ed Muskie, and the 1972 Ibogaine rumor",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase history reference",
+      "url": "/reference/ibogaine/",
+      "summary": "During the 1972 presidential campaign, Hunter S. Thompson circulated and reported a rumor that Senator Edmund Muskie was using Ibogaine. The episode belongs to political-media history and rumor dynamics, not clinical evidence.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "tags": [
+        "hunter_s_thompson",
+        "ed_muskie",
+        "edmund_muskie",
+        "1972",
+        "ibogaine",
+        "political_history",
+        "rumor",
+        "rolling_stone"
+      ],
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-06-12T06:08:35.129Z",
+      "sourceOrigin": "ibogabase_reference",
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase history reference",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers hunter s thompson, ed muskie, edmund muskie, 1972.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "hunter s. thompson, ed muskie, and the 1972 ibogaine rumor during the 1972 presidential campaign, hunter s. thompson circulated and reported a rumor that senator edmund muskie was using ibogaine. the episode belongs to political-media history and rumor dynamics, not clinical evidence. reference_pages history_topic ibogabase history reference  hunter_s_thompson ed_muskie edmund_muskie 1972 ibogaine political_history rumor rolling_stone cataloged source history topic"
     },
     {
       "id": "site-topic-cyp2d6",
@@ -10342,7 +10690,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:40.556Z",
+      "foundAt": "2026-06-12T06:08:35.129Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -10374,7 +10722,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-12T05:54:40.556Z",
+      "foundAt": "2026-06-12T06:08:35.129Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
