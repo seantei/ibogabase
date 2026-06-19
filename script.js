@@ -658,6 +658,10 @@ function hydrateMediaLibrary() {
   const dateTo = document.querySelector("[data-media-date-to]");
   const hostFilter = document.querySelector("[data-media-host-filter]");
   const guestFilter = document.querySelector("[data-media-guest-filter]");
+  const form = document.querySelector("[data-media-filter-form]");
+  const clear = document.querySelector("[data-media-clear]");
+  const results = document.querySelector("[data-media-results]");
+  const status = document.querySelector("[data-media-status]");
   const count = document.querySelector("[data-media-count]");
   const empty = document.querySelector("[data-media-empty]");
   const rows = Array.from(document.querySelectorAll(".media-library-row"));
@@ -709,6 +713,14 @@ function hydrateMediaLibrary() {
       });
   }
 
+  const hideResults = () => {
+    rows.forEach((row) => { row.hidden = true; });
+    if (results) results.hidden = true;
+    if (empty) empty.hidden = true;
+    if (count) count.textContent = "";
+    if (status) status.textContent = "Enter a keyword or optional filter, then search.";
+  };
+
   const apply = () => {
     const q = normalizeText(search?.value || "");
     const terms = q.split(/\s+/).filter(Boolean);
@@ -733,13 +745,40 @@ function hydrateMediaLibrary() {
       row.hidden = !show;
       if (show) shown += 1;
     });
-    if (count) count.textContent = `${shown} of ${rows.length}`;
+    if (results) results.hidden = false;
+    if (count) count.textContent = shown ? `${shown} of ${rows.length} records shown` : "";
+    if (status) status.textContent = shown ? `${shown} of ${rows.length} records shown` : "No matching records.";
     if (empty) empty.hidden = shown !== 0;
   };
 
-  [search, hostFilter, guestFilter].forEach((control) => control?.addEventListener("input", apply));
-  [filter, dateFrom, dateTo].forEach((control) => control?.addEventListener("change", apply));
-  apply();
+  const resetControls = () => {
+    [search, hostFilter, guestFilter].forEach((control) => {
+      if (control) control.value = "";
+    });
+    [dateFrom, dateTo].forEach((control) => {
+      if (control) control.value = "";
+    });
+    if (filter) filter.value = "all";
+    hideResults();
+    search?.focus();
+  };
+
+  form?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    apply();
+  });
+  clear?.addEventListener("click", resetControls);
+  [search, hostFilter, guestFilter].forEach((control) => {
+    control?.addEventListener("input", () => {
+      if (results?.hidden === false && status) status.textContent = "Click Search media to update results.";
+    });
+  });
+  [filter, dateFrom, dateTo].forEach((control) => {
+    control?.addEventListener("change", () => {
+      if (results?.hidden === false && status) status.textContent = "Click Search media to update results.";
+    });
+  });
+  hideResults();
 }
 
 hydrateMediaLibrary();
