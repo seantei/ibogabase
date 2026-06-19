@@ -706,6 +706,7 @@ function hydrateMediaLibrary() {
     [...typeCounts.entries()]
       .sort((a, b) => b[1].n - a[1].n)
       .forEach(([slug, { label, n }]) => {
+        if ([...filter.options].some((option) => option.value === slug)) return;
         const opt = document.createElement("option");
         opt.value = slug;
         opt.textContent = `${label} (${n})`;
@@ -713,12 +714,18 @@ function hydrateMediaLibrary() {
       });
   }
 
-  const hideResults = () => {
-    rows.forEach((row) => { row.hidden = true; });
-    if (results) results.hidden = true;
+  const applyDefault = () => {
+    let shown = 0;
+    rows.forEach((row) => {
+      const show = row.dataset.mediaType === "podcasts";
+      row.hidden = !show;
+      if (show) shown += 1;
+    });
+    if (filter) filter.value = "podcasts";
+    if (results) results.hidden = false;
     if (empty) empty.hidden = true;
-    if (count) count.textContent = "";
-    if (status) status.textContent = "Enter a keyword or optional filter, then search.";
+    if (count) count.textContent = shown ? `${shown} podcast and interview records shown` : "";
+    if (status) status.textContent = shown ? `${shown} podcast and interview records shown. Use search to narrow the list.` : "No podcast or interview records found.";
   };
 
   const apply = () => {
@@ -758,8 +765,7 @@ function hydrateMediaLibrary() {
     [dateFrom, dateTo].forEach((control) => {
       if (control) control.value = "";
     });
-    if (filter) filter.value = "all";
-    hideResults();
+    applyDefault();
     search?.focus();
   };
 
@@ -778,7 +784,7 @@ function hydrateMediaLibrary() {
       if (results?.hidden === false && status) status.textContent = "Click Search media to update results.";
     });
   });
-  hideResults();
+  applyDefault();
 }
 
 hydrateMediaLibrary();
