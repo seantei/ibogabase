@@ -654,10 +654,22 @@ document.querySelectorAll("[data-suggested-search]").forEach((link) => {
 function hydrateMediaLibrary() {
   const search = document.querySelector("[data-media-search]");
   const filter = document.querySelector("[data-media-filter]");
+  const dateFrom = document.querySelector("[data-media-date-from]");
+  const dateTo = document.querySelector("[data-media-date-to]");
+  const hostFilter = document.querySelector("[data-media-host-filter]");
+  const guestFilter = document.querySelector("[data-media-guest-filter]");
   const count = document.querySelector("[data-media-count]");
   const empty = document.querySelector("[data-media-empty]");
   const rows = Array.from(document.querySelectorAll(".media-library-row"));
-  if (!rows.length || (!search && !filter)) return;
+  if (!rows.length || (!search && !filter && !dateFrom && !dateTo && !hostFilter && !guestFilter)) return;
+
+  const normalizeText = (value = "") => String(value).toLowerCase().replace(/\s+/g, " ").trim();
+  const parseMediaDate = (value = "") => {
+    const raw = String(value || "").trim();
+    if (!raw) return null;
+    const parsed = new Date(raw);
+    return Number.isNaN(parsed.getTime()) ? null : parsed.getTime();
+  };
 
   const typeOf = (row) => {
     const meta = (row.querySelector(".source-meta-line")?.textContent || "").toLowerCase();
@@ -674,7 +686,14 @@ function hydrateMediaLibrary() {
   rows.forEach((row) => {
     const { slug, label } = typeOf(row);
     row.dataset.mediaType = slug;
-    row.dataset.mediaText = row.textContent.toLowerCase().replace(/\s+/g, " ");
+    row.dataset.mediaText = normalizeText([
+      row.dataset.mediaSearchText,
+      row.dataset.mediaTitle,
+      row.dataset.mediaHost,
+      row.dataset.mediaGuest,
+      row.dataset.mediaDate,
+      row.textContent,
+    ].filter(Boolean).join(" "));
     if (!typeCounts.has(slug)) typeCounts.set(slug, { label, n: 0 });
     typeCounts.get(slug).n += 1;
   });
@@ -691,14 +710,26 @@ function hydrateMediaLibrary() {
   }
 
   const apply = () => {
-    const q = (search?.value || "").trim().toLowerCase();
+    const q = normalizeText(search?.value || "");
     const terms = q.split(/\s+/).filter(Boolean);
     const type = filter?.value || "all";
+    const from = parseMediaDate(dateFrom?.value || "");
+    const to = parseMediaDate(dateTo?.value || "");
+    const toEnd = to === null ? null : to + 86_399_999;
+    const hostQ = normalizeText(hostFilter?.value || "");
+    const guestQ = normalizeText(guestFilter?.value || "");
     let shown = 0;
     rows.forEach((row) => {
+      const rowDate = parseMediaDate(row.dataset.mediaDate || "");
+      const hostText = normalizeText(row.dataset.mediaHost || "");
+      const guestText = normalizeText(row.dataset.mediaGuest || "");
       const matchType = type === "all" || row.dataset.mediaType === type;
       const matchText = !terms.length || terms.every((t) => row.dataset.mediaText.includes(t));
-      const show = matchType && matchText;
+      const matchFrom = from === null || (rowDate !== null && rowDate >= from);
+      const matchTo = toEnd === null || (rowDate !== null && rowDate <= toEnd);
+      const matchHost = !hostQ || hostText.includes(hostQ) || row.dataset.mediaText.includes(hostQ);
+      const matchGuest = !guestQ || guestText.includes(guestQ) || row.dataset.mediaText.includes(guestQ);
+      const show = matchType && matchText && matchFrom && matchTo && matchHost && matchGuest;
       row.hidden = !show;
       if (show) shown += 1;
     });
@@ -706,8 +737,8 @@ function hydrateMediaLibrary() {
     if (empty) empty.hidden = shown !== 0;
   };
 
-  search?.addEventListener("input", apply);
-  filter?.addEventListener("change", apply);
+  [search, hostFilter, guestFilter].forEach((control) => control?.addEventListener("input", apply));
+  [filter, dateFrom, dateTo].forEach((control) => control?.addEventListener("change", apply));
   apply();
 }
 

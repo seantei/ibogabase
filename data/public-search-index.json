@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T14:32:33.744Z",
-  "totalRecords": 403,
+  "generatedAt": "2026-06-19T14:43:01.440Z",
+  "totalRecords": 446,
   "categories": {
     "books_bibliographies": 14,
     "clinical_trials": 18,
@@ -9,9 +9,9 @@
     "culture_stewardship": 12,
     "documentaries_films": 2,
     "evidence_pages": 8,
-    "laws_policy": 59,
+    "laws_policy": 58,
     "news_articles_blogs": 68,
-    "podcasts_interviews": 88,
+    "podcasts_interviews": 132,
     "reference_pages": 4,
     "state_policy_coverage": 51,
     "studies_papers": 41,
@@ -37,7 +37,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -78,7 +78,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -117,7 +117,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -154,7 +154,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -186,7 +186,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -216,7 +216,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -245,7 +245,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -276,7 +276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -305,7 +305,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -333,7 +333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -403,29 +403,29 @@
     },
     {
       "id": "source_radar_archive-SWJvZ2FpbmUgYW",
-      "title": "Ibogaine and 5-MeO-DMT for addiction treatment with Garyth Moxey",
+      "title": "Ibogaine and Microdosing: New Frontiers in Managing Addiction and Mental Health in Mexico",
       "category": "studies_papers",
       "sourceType": "podcast_interview",
-      "sourceName": "Psychedelic Therapy Frontiers",
-      "url": "https://podcasts.apple.com/us/podcast/ibogaine-and-5-meo-dmt-for-addiction-treatment-with/id1573959330?i=1000659386149&uo=4",
-      "summary": "Research source from Psychedelic Therapy Frontiers. Study design, sample size, limitations, and safety signals matter.",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/ibogaine-and-microdosing-new-frontiers-in-managing/id1781351851?i=1000712497832&uo=4",
+      "summary": "Research source from Healing Horizons: Ibogaine Therapy in Mexico. Study design, sample size, limitations, and safety signals matter.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2024-06-18T11:00:00Z",
-      "foundAt": "2026-05-17T04:17:16.065Z",
+      "publishedAt": "2025-06-11T21:50:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
       ],
       "displayCategory": "Studies and papers",
       "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Psychedelic Therapy Frontiers",
-      "displayDate": "Jun 18, 2024",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Jun 11, 2025",
       "whatItIs": "Podcast Interview",
-      "conversationContext": "Covers Ibogaine and 5-MeO-DMT for addiction treatment with Garyth Moxey.",
+      "conversationContext": "Covers Ibogaine and Microdosing: New Frontiers in Managing Addiction and Mental Health in Mexico.",
       "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "ibogaine and 5-meo-dmt for addiction treatment with garyth moxey research source from psychedelic therapy frontiers. study design, sample size, limitations, and safety signals matter. studies_papers podcast_interview psychedelic therapy frontiers  media cataloged source media metadata"
+      "searchText": "ibogaine and microdosing: new frontiers in managing addiction and mental health in mexico research source from healing horizons: ibogaine therapy in mexico. study design, sample size, limitations, and safety signals matter. studies_papers podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-Q2FzZSByZXBvcn",
@@ -855,7 +855,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -881,7 +881,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -907,7 +907,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 23",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -933,7 +933,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -959,7 +959,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2017-12-15",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -985,7 +985,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 1",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1011,7 +1011,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1037,7 +1037,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1063,7 +1063,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1089,7 +1089,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 22",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1115,7 +1115,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 12",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1141,7 +1141,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 8",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1167,7 +1167,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1193,7 +1193,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1219,7 +1219,7 @@
       "status": "Recruiting",
       "people": [],
       "publishedAt": "2025-10-22",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1245,7 +1245,7 @@
       "status": "Unknown",
       "people": [],
       "publishedAt": "2022-07-18",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1271,7 +1271,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2024-06-19",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1297,7 +1297,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1323,7 +1323,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2019-06-27",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1349,7 +1349,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1378,7 +1378,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1407,7 +1407,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -1904,7 +1904,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1930,7 +1930,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -1960,7 +1960,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1989,7 +1989,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -3072,56 +3072,30 @@
       "searchText": "trip your way to better health? researchers see medical potential in ketamine, mushrooms and ibogaine - high times magazine law or policy source from high times magazine. read the exact source before drawing legal conclusions. laws_policy journalism high times magazine  law cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-TmV3IGxhdyBtYW",
-      "title": "New law makes room for state-funded psychedelics research in Oklahoma - KOSU",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "KOSU",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45RzdQLUZ6Q2s3YlBGdDNRT3FHVWtJM0pWUWs5S0xpNktxTDI4bEU2NmoweU84SFI3S3RoMVBWRFc1TW9va0pEX09sLUY2T3k3djAyZGFRbjY5bk5JRUE5OHpFNE8wTDhR?oc=5",
-      "summary": "Law or policy source from KOSU. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "research"
-      ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "KOSU",
-      "displayDate": "May 26, 2026",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers New law makes room for state-funded psychedelics research in Oklahoma.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "new law makes room for state-funded psychedelics research in oklahoma - kosu law or policy source from kosu. read the exact source before drawing legal conclusions. laws_policy journalism kosu  research cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-UHN5Y2hlZGVsaW",
-      "title": "Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+      "title": "Psychedelic Couples Therapy: How Plant Medicine for Relationships Works",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
-      "sourceName": "Huberman Lab",
-      "url": "https://podcasts.apple.com/us/podcast/psychedelics-neurostimulation-for-brain-rewiring-dr/id1545953110?i=1000582122440&uo=4",
-      "summary": "Covers Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams. This is a media source, not medical evidence.",
+      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "url": "https://podcasts.apple.com/us/podcast/psychedelic-couples-therapy-how-plant-medicine-for/id1825996943?i=1000718430607&uo=4",
+      "summary": "Covers Psychedelic Couples Therapy: How Plant Medicine for Relationships Works. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2022-10-10T08:00:00Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "publishedAt": "2025-07-22T08:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Huberman Lab",
-      "displayDate": "Oct 10, 2022",
+      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "displayDate": "Jul 22, 2025",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams.",
+      "conversationContext": "Topic from title: Psychedelic Couples Therapy: How Plant Medicine for Relationships Works.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "psychedelics & neurostimulation for brain rewiring | dr. nolan williams covers psychedelics & neurostimulation for brain rewiring | dr. nolan williams. this is a media source, not medical evidence. podcasts_interviews podcast_interview huberman lab  media cataloged source media metadata"
+      "searchText": "psychedelic couples therapy: how plant medicine for relationships works covers psychedelic couples therapy: how plant medicine for relationships works. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-VHJ1bXAgc2lnbn",
@@ -3135,7 +3109,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -3161,7 +3135,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3187,7 +3161,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3203,29 +3177,29 @@
     },
     {
       "id": "latest_scan-SHV4bGV5IEhlYW",
-      "title": "Huxley Health Inc. Introduces Aerasyn Biotech Division, Expands Leadership and Scalable IP Platform, Engages Capital Partner for Up to $15M Financing and Prepares to Go Public Amid Growing U.S. Policy and Public Discourse on Psychedelics - Taiwan News",
+      "title": "Huxley Health Inc. Introduces Aerasyn Biotech Division, Expands Leadership and Scalable IP Platform, Engages Capital Partner for Up to $15M Financing and Prepares to Go Public Amid Growing U.S. Policy and Public Discourse on Psychedelics - TMX Newsfile",
       "category": "laws_policy",
       "sourceType": "journalism",
-      "sourceName": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXY3lkNHFWc2otSUYtMFpPeFB2b3E3c2VXXy1PUEpEaXBXY29EeWhIWnlwek5wR3JrTE53OEdRWHB4c202VUxRWGxwWXNMckpXWmE3ZQ?oc=5",
-      "summary": "Law or policy source from Taiwan News. Read the exact source before drawing legal conclusions.",
+      "sourceName": "TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOUjhxSTI3RzZsYTBxZ3YwRmxRUjJ5aGJuUGtzS0p5M3U4Q2IyWV9DdzZwY0ZRbmZqck5EcXJ3cG9McUQ1OUkybFN4SkNtd3V6czNlaDRtV2V5NTlkUWMtbExVZXFNbVd1aGNtbDFkeHhGTXFvOXhORTNwMU9xb3dxTkhBbDEwS0UyNko0TWRrNjJLdGhaMFE3QnBIZ3Y2ZUJ4c2ZjYTVUQzZVQ3J3X2lxaldoOTdPTHdqWXpzYmktR3VvcWZrMVFBOFJNakl1MlhiTkszTnhMNDB0bUxYXzdreHZUYjJNZXVVSEotVnNzRVk0LXRwbmQ1b19KT2NzaW55Uk1wWjJrVVFfVUhQRE9HNzZ2dTRaTXRENGpLOUhsS05jNEdRQmdWOTByRWV0dnpmSWpCVGZ2U2FxNFJTUzhZU3gwZEtyZThsM0duUlNBQ3FDNVlQa2k2TUgyWlhCTElEbzlxQWZhZUdsaUhyQ013c1FwakFpODlaaUdzRWJObE55ajFZU29mbl9UQUpoVFk?oc=5",
+      "summary": "Law or policy source from TMX Newsfile. Read the exact source before drawing legal conclusions.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
-        "commercial"
+        "companies"
       ],
       "displayCategory": "Law and policy",
       "displaySourceType": "Journalism",
-      "displaySourceName": "Taiwan News",
+      "displaySourceName": "TMX Newsfile",
       "displayDate": "Apr 20, 2026",
       "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers commercial.",
+      "conversationContext": "Covers companies.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "huxley health inc. introduces aerasyn biotech division, expands leadership and scalable ip platform, engages capital partner for up to $15m financing and prepares to go public amid growing u.s. policy and public discourse on psychedelics - taiwan news law or policy source from taiwan news. read the exact source before drawing legal conclusions. laws_policy journalism taiwan news  commercial cataloged source primary-source record"
+      "searchText": "huxley health inc. introduces aerasyn biotech division, expands leadership and scalable ip platform, engages capital partner for up to $15m financing and prepares to go public amid growing u.s. policy and public discourse on psychedelics - tmx newsfile law or policy source from tmx newsfile. read the exact source before drawing legal conclusions. laws_policy journalism tmx newsfile  companies cataloged source primary-source record"
     },
     {
       "id": "latest_scan-QSBMb25nLCBTdH",
@@ -3239,7 +3213,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -3254,6 +3228,32 @@
       "searchText": "a long, strange trip: how the g.o.p. came to embrace psychedelic drugs - the new york times law or policy source from the new york times. read the exact source before drawing legal conclusions. laws_policy journalism the new york times  blogs cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-TmV3IGxhdyBtYW",
+      "title": "New law makes room for state-funded psychedelics research in Oklahoma - KOSU",
+      "category": "laws_policy",
+      "sourceType": "journalism",
+      "sourceName": "KOSU",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45RzdQLUZ6Q2s3YlBGdDNRT3FHVWtJM0pWUWs5S0xpNktxTDI4bEU2NmoweU84SFI3S3RoMVBWRFc1TW9va0pEX09sLUY2T3k3djAyZGFRbjY5bk5JRUE5OHpFNE8wTDhR?oc=5",
+      "summary": "Law or policy source from KOSU. Read the exact source before drawing legal conclusions.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "law"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "KOSU",
+      "displayDate": "May 26, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers law.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "new law makes room for state-funded psychedelics research in oklahoma - kosu law or policy source from kosu. read the exact source before drawing legal conclusions. laws_policy journalism kosu  law cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-RkRBIGV5ZXMgZX",
       "title": "FDA eyes expanding testosterone therapy for libido - statnews.com",
       "category": "laws_policy",
@@ -3265,7 +3265,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3280,32 +3280,6 @@
       "searchText": "fda eyes expanding testosterone therapy for libido - statnews.com law or policy source from statnews.com. read the exact source before drawing legal conclusions. laws_policy journalism statnews.com  companies cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-QnJlYWt0aHJvdW",
-      "title": "Breakthrough therapy designation for atai/Beckley 5-MeO-DMT drug; both ketamine and active placebo improve depression symptoms; and ketamine company to receive priority FDA review - The Microdose",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "The Microdose",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqcnVtUW80UURQM1U4VUVNby1FYlZucnVxTVVock1WLS1zU3hYdXBsRU5aQ0ViUEF6cWU3MkJaU3Fib0dYZ2o3X1F5MTZscWU5M0ZxT2dtbFFYejBlOHZwSEpyVHozVzVaSlREbkFBd2V0SG80aFg4?oc=5",
-      "summary": "Law or policy source from The Microdose. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "companies"
-      ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Microdose",
-      "displayDate": "Oct 24, 2025",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers companies.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "breakthrough therapy designation for atai/beckley 5-meo-dmt drug; both ketamine and active placebo improve depression symptoms; and ketamine company to receive priority fda review - the microdose law or policy source from the microdose. read the exact source before drawing legal conclusions. laws_policy journalism the microdose  companies cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-Q29tcGFzcywgVX",
       "title": "Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push - Fierce Biotech",
       "category": "laws_policy",
@@ -3317,7 +3291,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3343,7 +3317,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3372,7 +3346,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3402,7 +3376,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3433,7 +3407,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3464,7 +3438,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3493,7 +3467,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3527,7 +3501,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3560,7 +3534,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -3579,6 +3553,43 @@
       "conversationContext": "Main topics: ambio, ambio life sciences, jonathan dickinson, colorado. People named in the record: Andrea Dukakis, Jonathan Dickinson.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
       "searchText": "psychedelic offers new hope for treating addiction cpr news interview with jonathan dickinson, identified as founder of ambio life sciences. useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported. podcasts_interviews journalism_interview colorado public radio  ambio ambio_life_sciences jonathan_dickinson colorado addiction public_discussion clinic_claims cataloged source journalism"
+    },
+    {
+      "id": "youtube-rich-roll-iboga-therapy-13zelqi9kwe-2026",
+      "title": "Inside My Grueling 72-Hour Psychedelic Iboga Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_podcast_episode",
+      "sourceName": "Rich Roll",
+      "url": "https://www.youtube.com/watch?v=13ZElqI9KWE",
+      "summary": "YouTube episode from Rich Roll discussing a 72-hour Iboga therapy experience. Listed as media/public conversation, not clinical evidence; needs listen review and claim extraction before any claims are reused.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [
+        "Rich Roll",
+        "Julie Piatt"
+      ],
+      "publishedAt": "2026-05-21",
+      "foundAt": "2026-06-19T14:42:55.671Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "iboga",
+        "ibogaine",
+        "youtube",
+        "podcast",
+        "rich_roll",
+        "julie_piatt",
+        "media",
+        "first_person_account",
+        "needs_claim_extraction"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Podcast Episode",
+      "displaySourceName": "Rich Roll",
+      "displayDate": "May 21, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Main topics: youtube, rich roll, julie piatt, first person account. People named in the record: Rich Roll, Julie Piatt.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "inside my grueling 72-hour psychedelic iboga therapy youtube episode from rich roll discussing a 72-hour iboga therapy experience. listed as media/public conversation, not clinical evidence; needs listen review and claim extraction before any claims are reused. podcasts_interviews youtube_podcast_episode rich roll  iboga ibogaine youtube podcast rich_roll julie_piatt media first_person_account needs_claim_extraction cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-T25lIERvc2UgVG",
@@ -4284,17 +4295,17 @@
     },
     {
       "id": "source_radar_archive-UGxhbnRzIG9mIH",
-      "title": "Plants of the Gods: S3E7. Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris",
+      "title": "Plants of the Gods: S3E8. Part 2 — Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
       "sourceName": "Plants of the Gods: Hallucinogens, Healing, Culture and Conservation podcast",
-      "url": "https://podcasts.apple.com/us/podcast/plants-of-the-gods-s3e7-magic-frogs-iboga/id1549464922?i=1000574855131&uo=4",
-      "summary": "Covers Plants of the Gods: S3E7. Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris. This is a media source, not medical evidence.",
+      "url": "https://podcasts.apple.com/us/podcast/plants-of-the-gods-s3e8-part-2-magic-frogs-iboga/id1549464922?i=1000576347504&uo=4",
+      "summary": "Covers Plants of the Gods: S3E8. Part 2 — Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2022-08-03T06:05:12Z",
-      "foundAt": "2026-05-17T04:17:16.065Z",
+      "publishedAt": "2022-08-17T09:11:56Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
@@ -4302,11 +4313,11 @@
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
       "displaySourceName": "Plants of the Gods: Hallucinogens, Healing, Culture and Conservation podcast",
-      "displayDate": "Aug 3, 2022",
+      "displayDate": "Aug 17, 2022",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Plants of the Gods: S3E7. Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris.",
+      "conversationContext": "Topic from title: Plants of the Gods: S3E8. Part 2 — Magic Frogs, Iboga and the Magic of Hallucinogens: a Conversation with Hamilton Morris.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "plants of the gods: s3e7. magic frogs, iboga and the magic of hallucinogens: a conversation with hamilton morris covers plants of the gods: s3e7. magic frogs, iboga and the magic of hallucinogens: a conversation with hamilton morris. this is a media source, not medical evidence. podcasts_interviews podcast_interview plants of the gods: hallucinogens, healing, culture and conservation podcast  media cataloged source media metadata"
+      "searchText": "plants of the gods: s3e8. part 2 — magic frogs, iboga and the magic of hallucinogens: a conversation with hamilton morris covers plants of the gods: s3e8. part 2 — magic frogs, iboga and the magic of hallucinogens: a conversation with hamilton morris. this is a media source, not medical evidence. podcasts_interviews podcast_interview plants of the gods: hallucinogens, healing, culture and conservation podcast  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-IzUgLSBJYm9nYS",
@@ -5349,6 +5360,838 @@
       "searchText": "transformative journeys: the healing power of ibogaine therapy in mexico covers transformative journeys: the healing power of ibogaine therapy in mexico. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
     },
     {
+      "id": "source_radar_archive-TmF2aWdhdGluZy",
+      "title": "Navigating Recovery with Ibogaine Treatment for Veterans Battling Alcohol Addiction",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/navigating-recovery-with-ibogaine-treatment-for/id1781351851?i=1000714678719&uo=4",
+      "summary": "Covers Navigating Recovery with Ibogaine Treatment for Veterans Battling Alcohol Addiction. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-06-26T00:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Jun 26, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Navigating Recovery with Ibogaine Treatment for Veterans Battling Alcohol Addiction.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "navigating recovery with ibogaine treatment for veterans battling alcohol addiction covers navigating recovery with ibogaine treatment for veterans battling alcohol addiction. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SG93IHRvIENob2",
+      "title": "How to Choose the Right Ibogaine Therapy Clinic in Mexico",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/how-to-choose-the-right-ibogaine-therapy-clinic-in-mexico/id1781351851?i=1000681895323&uo=4",
+      "summary": "Covers How to Choose the Right Ibogaine Therapy Clinic in Mexico. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2024-12-27T21:53:34Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Dec 27, 2024",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: How to Choose the Right Ibogaine Therapy Clinic in Mexico.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "how to choose the right ibogaine therapy clinic in mexico covers how to choose the right ibogaine therapy clinic in mexico. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UmVpbnRlZ3JhdG",
+      "title": "Reintegration Strategies: How Veterans Can Successfully Transition Back to Civilian Life After Ibogaine Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/reintegration-strategies-how-veterans-can-successfully/id1781351851?i=1000761351308&uo=4",
+      "summary": "Covers Reintegration Strategies: How Veterans Can Successfully Transition Back to Civilian Life After Ibogaine Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-04-14T00:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Apr 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Reintegration Strategies: How Veterans Can Successfully Transition Back to Civilian Life After Ibogaine Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "reintegration strategies: how veterans can successfully transition back to civilian life after ibogaine therapy covers reintegration strategies: how veterans can successfully transition back to civilian life after ibogaine therapy. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RmFtaWx5IE1hdH",
+      "title": "Family Matters: How Loved Ones Can Support Veterans' Healing Journey After Ibogaine Treatment",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/family-matters-how-loved-ones-can-support-veterans/id1781351851?i=1000756105091&uo=4",
+      "summary": "Covers Family Matters: How Loved Ones Can Support Veterans' Healing Journey After Ibogaine Treatment. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-03-19T08:04:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Mar 19, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Family Matters: How Loved Ones Can Support Veterans' Healing Journey After Ibogaine Treatment.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "family matters: how loved ones can support veterans' healing journey after ibogaine treatment covers family matters: how loved ones can support veterans' healing journey after ibogaine treatment. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QSBWZXRlcmFu4o",
+      "title": "A Veteran’s Search for Healing Led to an Ibogaine Trip and an Epiphany: ‘I’ve Got to Let It Go’ - thewarhorse.org",
+      "category": "clinics",
+      "sourceType": "journalism",
+      "sourceName": "thewarhorse.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1bF9JSEVPVkJHT0IzeXdfZTAzNmUwaTBaN1BGcVA2ZHI4d3JWbUJuS0J6dmZiVXB2dmNKd0ZwNWJMOXVCb21JdmdZVTNUNDN5eWo2cWpKWEQtZ1NVOGlnNFQzcw?oc=5",
+      "summary": "Clinic-claim monitoring entry. IbogaBase does not endorse clinics or provide referrals.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "foundAt": "2026-05-21T15:20:47.421Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "clinics"
+      ],
+      "displayCategory": "Clinic claims",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "thewarhorse.org",
+      "displayDate": "Jan 8, 2026",
+      "whatItIs": "Clinic-claim monitoring entry.",
+      "conversationContext": "Covers clinics.",
+      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
+      "searchText": "a veteran’s search for healing led to an ibogaine trip and an epiphany: ‘i’ve got to let it go’ - thewarhorse.org clinic-claim monitoring entry. ibogabase does not endorse clinics or provide referrals. clinics journalism thewarhorse.org  clinics cataloged source primary-source record"
+    },
+    {
+      "id": "source_radar_archive-QmV5b25kIFRyYX",
+      "title": "Beyond Trauma: Exploring the Therapeutic Benefits of Ibogaine for Veterans with Anxiety Disorders",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/beyond-trauma-exploring-the-therapeutic-benefits/id1781351851?i=1000750633416&uo=4",
+      "summary": "Covers Beyond Trauma: Exploring the Therapeutic Benefits of Ibogaine for Veterans with Anxiety Disorders. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-02-20T08:46:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Feb 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Beyond Trauma: Exploring the Therapeutic Benefits of Ibogaine for Veterans with Anxiety Disorders.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "beyond trauma: exploring the therapeutic benefits of ibogaine for veterans with anxiety disorders covers beyond trauma: exploring the therapeutic benefits of ibogaine for veterans with anxiety disorders. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VmV0ZXJhbnMsIE",
+      "title": "Veterans, Addiction & Ibogaine in Mexico: A Healing Path Outside the System",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/veterans-addiction-ibogaine-in-mexico-a-healing/id1781351851?i=1000751886534&uo=4",
+      "summary": "Covers Veterans, Addiction & Ibogaine in Mexico: A Healing Path Outside the System. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-02-27T08:53:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Feb 27, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Veterans, Addiction & Ibogaine in Mexico: A Healing Path Outside the System.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "veterans, addiction & ibogaine in mexico: a healing path outside the system covers veterans, addiction & ibogaine in mexico: a healing path outside the system. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-V2hhdCBpcyBJYm",
+      "title": "What is Ibogaine? A Beginner's Guide to Healing",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/what-is-ibogaine-a-beginners-guide-to-healing/id1781351851?i=1000677962833&uo=4",
+      "summary": "Covers What is Ibogaine? A Beginner's Guide to Healing. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2024-11-22T23:48:35Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Nov 22, 2024",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: What is Ibogaine? A Beginner's Guide to Healing.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "what is ibogaine? a beginner's guide to healing covers what is ibogaine? a beginner's guide to healing. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QmV5b25kIHRoZS",
+      "title": "Beyond the Bottle: Ibogaine for Alcohol Recovery in Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/beyond-the-bottle-ibogaine-for-alcohol-recovery-in/id1781351851?i=1000685083897&uo=4",
+      "summary": "Covers Beyond the Bottle: Ibogaine for Alcohol Recovery in Veterans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-01-22T23:44:44Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Jan 22, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Beyond the Bottle: Ibogaine for Alcohol Recovery in Veterans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "beyond the bottle: ibogaine for alcohol recovery in veterans covers beyond the bottle: ibogaine for alcohol recovery in veterans. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SGVhbGluZyBUb2",
+      "title": "Healing Together: How Ibogaine Strengthens Veteran Family Bonds",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/healing-together-how-ibogaine-strengthens-veteran-family/id1781351851?i=1000699823761&uo=4",
+      "summary": "Covers Healing Together: How Ibogaine Strengthens Veteran Family Bonds. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-03-19T10:08:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Mar 19, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Healing Together: How Ibogaine Strengthens Veteran Family Bonds.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "healing together: how ibogaine strengthens veteran family bonds covers healing together: how ibogaine strengthens veteran family bonds. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RHVhbCBEaWFnbm",
+      "title": "Dual Diagnosis: Treating Addiction and Depression with Ibogaine",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/dual-diagnosis-treating-addiction-and-depression/id1781351851?i=1000688983119&uo=4",
+      "summary": "Covers Dual Diagnosis: Treating Addiction and Depression with Ibogaine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-02-06T00:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Feb 6, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Dual Diagnosis: Treating Addiction and Depression with Ibogaine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "dual diagnosis: treating addiction and depression with ibogaine covers dual diagnosis: treating addiction and depression with ibogaine. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UmVjbGFpbWluZy",
+      "title": "Reclaiming Sleep: Ibogaine for Insomnia and Nightmares in Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/reclaiming-sleep-ibogaine-for-insomnia-and-nightmares/id1781351851?i=1000694182013&uo=4",
+      "summary": "Covers Reclaiming Sleep: Ibogaine for Insomnia and Nightmares in Veterans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-02-20T00:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Feb 20, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Reclaiming Sleep: Ibogaine for Insomnia and Nightmares in Veterans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "reclaiming sleep: ibogaine for insomnia and nightmares in veterans covers reclaiming sleep: ibogaine for insomnia and nightmares in veterans. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QmV5b25kIFN1Yn",
+      "title": "Beyond Substance Abuse: Using Ibogaine for Emotional Resilience and Life Skills Development in Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/beyond-substance-abuse-using-ibogaine-for-emotional/id1781351851?i=1000740810850&uo=4",
+      "summary": "Covers Beyond Substance Abuse: Using Ibogaine for Emotional Resilience and Life Skills Development in Veterans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-12-11T08:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Dec 11, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Beyond Substance Abuse: Using Ibogaine for Emotional Resilience and Life Skills Development in Veterans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "beyond substance abuse: using ibogaine for emotional resilience and life skills development in veterans covers beyond substance abuse: using ibogaine for emotional resilience and life skills development in veterans. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QnVpbGRpbmcgUm",
+      "title": "Building Resilience: Aftercare Strategies for Veterans Post-Ibogaine Therapy in Mexico",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/building-resilience-aftercare-strategies-for-veterans/id1781351851?i=1000739647449&uo=4",
+      "summary": "Covers Building Resilience: Aftercare Strategies for Veterans Post-Ibogaine Therapy in Mexico. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-12-04T08:22:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Dec 4, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Building Resilience: Aftercare Strategies for Veterans Post-Ibogaine Therapy in Mexico.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "building resilience: aftercare strategies for veterans post-ibogaine therapy in mexico covers building resilience: aftercare strategies for veterans post-ibogaine therapy in mexico. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Q29waW5nIHdpdG",
+      "title": "Coping with Change: Life Skills and Growth After Ibogaine Therapy for Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "url": "https://podcasts.apple.com/us/podcast/coping-with-change-life-skills-and-growth-after/id1781351851?i=1000747328660&uo=4",
+      "summary": "Covers Coping with Change: Life Skills and Growth After Ibogaine Therapy for Veterans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-01-30T09:41:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing Horizons: Ibogaine Therapy in Mexico",
+      "displayDate": "Jan 30, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Coping with Change: Life Skills and Growth After Ibogaine Therapy for Veterans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "coping with change: life skills and growth after ibogaine therapy for veterans covers coping with change: life skills and growth after ibogaine therapy for veterans. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing horizons: ibogaine therapy in mexico  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGhlIFJpY2ggUm",
+      "title": "The Rich Roll Podcast: Iboga Therapy, Identity, and the Hard Work of Healing",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "AI Podcast Summaries from Transcripted.ai (VIDEO)",
+      "url": "https://podcasts.apple.com/us/podcast/the-rich-roll-podcast-iboga-therapy-identity-and/id1848404899?i=1000768933153&uo=4",
+      "summary": "Covers The Rich Roll Podcast: Iboga Therapy, Identity, and the Hard Work of Healing. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-21T13:44:59Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "AI Podcast Summaries from Transcripted.ai (VIDEO)",
+      "displayDate": "May 21, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: The Rich Roll Podcast: Iboga Therapy, Identity, and the Hard Work of Healing.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "the rich roll podcast: iboga therapy, identity, and the hard work of healing covers the rich roll podcast: iboga therapy, identity, and the hard work of healing. this is a media source, not medical evidence. podcasts_interviews podcast_interview ai podcast summaries from transcripted.ai (video)  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-WmFwcHkgWmFwb2",
+      "title": "Zappy Zapolin - Ketamine, Ibogaine, & Microdosing: A Path of Transformation",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Psychedelic Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/zappy-zapolin-ketamine-ibogaine-microdosing-a-path/id1200537009?i=1000662384699&uo=4",
+      "summary": "Covers Zappy Zapolin. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2024-07-16T08:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Psychedelic Podcast",
+      "displayDate": "Jul 16, 2024",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Zappy Zapolin.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "zappy zapolin - ketamine, ibogaine, & microdosing: a path of transformation covers zappy zapolin. this is a media source, not medical evidence. podcasts_interviews podcast_interview the psychedelic podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Sm9uYXRoYW4gRG",
+      "title": "Jonathan Dickinson (Ceiba Recovery): Iboga, Initiation, and Long-Haul Healing",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Psychedelic Therapy Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/jonathan-dickinson-ceiba-recovery-iboga-initiation/id1512493341?i=1000547930746&uo=4",
+      "summary": "Covers Jonathan Dickinson (Ceiba Recovery): Iboga, Initiation, and Long-Haul Healing. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2022-01-14T23:12:19Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Psychedelic Therapy Podcast",
+      "displayDate": "Jan 14, 2022",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Jonathan Dickinson (Ceiba Recovery): Iboga, Initiation, and Long-Haul Healing.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "jonathan dickinson (ceiba recovery): iboga, initiation, and long-haul healing covers jonathan dickinson (ceiba recovery): iboga, initiation, and long-haul healing. this is a media source, not medical evidence. podcasts_interviews podcast_interview the psychedelic therapy podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SGVhbGluZyBPQ0",
+      "title": "Healing OCD, Working with Iboga, Somatic Therapy and the importance of proper integration - STP 26",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Spiritual Teachers Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/healing-ocd-working-with-iboga-somatic-therapy/id1784813371?i=1000705830840&uo=4",
+      "summary": "Covers Healing OCD, Working with Iboga, Somatic Therapy and the importance of proper integration. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-05-02T11:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Spiritual Teachers Podcast",
+      "displayDate": "May 2, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Healing OCD, Working with Iboga, Somatic Therapy and the importance of proper integration.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "healing ocd, working with iboga, somatic therapy and the importance of proper integration - stp 26 covers healing ocd, working with iboga, somatic therapy and the importance of proper integration. this is a media source, not medical evidence. podcasts_interviews podcast_interview spiritual teachers podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-TGV0J3MgVGFsay",
+      "title": "Let's Talk Psychedelic Assisted Therapy: Healing with Ibogaine w/ Julia Blum",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Students of Mind",
+      "url": "https://podcasts.apple.com/us/podcast/lets-talk-psychedelic-assisted-therapy-healing-with/id1516105133?i=1000759939806&uo=4",
+      "summary": "Covers Let's Talk Psychedelic Assisted Therapy: Healing with Ibogaine w/ Julia Blum. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2023-02-23T08:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Students of Mind",
+      "displayDate": "Feb 23, 2023",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Let's Talk Psychedelic Assisted Therapy: Healing with Ibogaine w/ Julia Blum.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "let's talk psychedelic assisted therapy: healing with ibogaine w/ julia blum covers let's talk psychedelic assisted therapy: healing with ibogaine w/ julia blum. this is a media source, not medical evidence. podcasts_interviews podcast_interview students of mind  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RXBpc29kZSA1NC",
+      "title": "Episode 54 – Iboga Psychedelic Therapy – Mike Gathers",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Hilaritas Press Podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/episode-54-iboga-psychedelic-therapy-mike-gathers/id1591724806?i=1000750978950&uo=4",
+      "summary": "Covers Episode 54 – Iboga Psychedelic Therapy – Mike Gathers. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-02-23T08:01:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Hilaritas Press Podcasts",
+      "displayDate": "Feb 23, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Episode 54 – Iboga Psychedelic Therapy – Mike Gathers.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "episode 54 – iboga psychedelic therapy – mike gathers covers episode 54 – iboga psychedelic therapy – mike gathers. this is a media source, not medical evidence. podcasts_interviews podcast_interview hilaritas press podcasts  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2EsIEF5YW",
+      "title": "Iboga, Ayahuasca, Ketamine Therapy, Chronic Relapse - Fentanyl Awareness & PTSD w/ LPC Dusty Burrows",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "This Pink Cloud",
+      "url": "https://podcasts.apple.com/us/podcast/iboga-ayahuasca-ketamine-therapy-chronic-relapse-fentanyl/id1567053615?i=1000664147272&uo=4",
+      "summary": "Covers Iboga, Ayahuasca, Ketamine Therapy, Chronic Relapse. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2024-08-02T15:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "This Pink Cloud",
+      "displayDate": "Aug 2, 2024",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga, Ayahuasca, Ketamine Therapy, Chronic Relapse.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga, ayahuasca, ketamine therapy, chronic relapse - fentanyl awareness & ptsd w/ lpc dusty burrows covers iboga, ayahuasca, ketamine therapy, chronic relapse. this is a media source, not medical evidence. podcasts_interviews podcast_interview this pink cloud  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-S2V2aW4gRnJhbm",
+      "title": "Kevin Franciotti - Psychedelic Therapy, Iboga and Journalism",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Psychedelics Today",
+      "url": "https://podcasts.apple.com/us/podcast/kevin-franciotti-psychedelic-therapy-iboga-and/id1114398275?i=1000383250807&uo=4",
+      "summary": "Covers Kevin Franciotti. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2017-03-28T21:07:43Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Psychedelics Today",
+      "displayDate": "Mar 28, 2017",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Kevin Franciotti.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "kevin franciotti - psychedelic therapy, iboga and journalism covers kevin franciotti. this is a media source, not medical evidence. podcasts_interviews podcast_interview psychedelics today  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-IzkgLSBJbnNpZG",
+      "title": "#9 - Inside A Psychedelic Therapy Session: A Firsthand Experience of Healing Trauma With Psychedelics (LSD, Psilocybin, Ketamine, Iboga, MDMA and Cannabis)",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Evolving Earth Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/9-inside-a-psychedelic-therapy-session-a/id1468418263?i=1000451497957&uo=4",
+      "summary": "Covers #9. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2019-09-27T13:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Evolving Earth Podcast",
+      "displayDate": "Sep 27, 2019",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #9.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#9 - inside a psychedelic therapy session: a firsthand experience of healing trauma with psychedelics (lsd, psilocybin, ketamine, iboga, mdma and cannabis) covers #9. this is a media source, not medical evidence. podcasts_interviews podcast_interview evolving earth podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RXBpc29kZSAxOT",
+      "title": "Episode 196: Richie Ogulnick: Iboga/Synchronicity/Psychospiritual Healing/Holding Space/Addiction-Interruption Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "End of the Road Podcast (Immanence = Transcendence)",
+      "url": "https://podcasts.apple.com/us/podcast/episode-196-richie-ogulnick-iboga-synchronicity-psychospiritual/id1269885389?i=1000534976819&uo=4",
+      "summary": "Covers Episode 196: Richie Ogulnick: Iboga/Synchronicity/Psychospiritual Healing/Holding Space/Addiction-Interruption Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2021-09-10T16:41:22Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "End of the Road Podcast (Immanence = Transcendence)",
+      "displayDate": "Sep 10, 2021",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Episode 196: Richie Ogulnick: Iboga/Synchronicity/Psychospiritual Healing/Holding Space/Addiction-Interruption Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "episode 196: richie ogulnick: iboga/synchronicity/psychospiritual healing/holding space/addiction-interruption therapy covers episode 196: richie ogulnick: iboga/synchronicity/psychospiritual healing/holding space/addiction-interruption therapy. this is a media source, not medical evidence. podcasts_interviews podcast_interview end of the road podcast (immanence = transcendence)  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UFQ0Mzcg4oCTIE",
+      "title": "PT437 – Chase Hudson – Exploring Psychedelic Therapies: Iboga, CBD, and Cannabis Paired With Ketamine",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Psychedelics Today",
+      "url": "https://podcasts.apple.com/us/podcast/pt437-chase-hudson-exploring-psychedelic-therapies/id1114398275?i=1000626489526&uo=4",
+      "summary": "Covers PT437 – Chase Hudson – Exploring Psychedelic Therapies: Iboga, CBD, and Cannabis Paired With Ketamine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2023-09-01T18:35:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Psychedelics Today",
+      "displayDate": "Sep 1, 2023",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: PT437 – Chase Hudson – Exploring Psychedelic Therapies: Iboga, CBD, and Cannabis Paired With Ketamine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "pt437 – chase hudson – exploring psychedelic therapies: iboga, cbd, and cannabis paired with ketamine covers pt437 – chase hudson – exploring psychedelic therapies: iboga, cbd, and cannabis paired with ketamine. this is a media source, not medical evidence. podcasts_interviews podcast_interview psychedelics today  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SGVyb2luLVN1Y2",
+      "title": "Heroin-Sucht besiegt: Iboga-Experte Tobias Erny packt aus...",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "fliegenpilzking",
+      "url": "https://podcasts.apple.com/us/podcast/heroin-sucht-besiegt-iboga-experte-tobias-erny-packt-aus/id1785407179?i=1000738843654&uo=4",
+      "summary": "Covers Heroin-Sucht besiegt: Iboga-Experte Tobias Erny packt aus.... This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-11-28T21:49:54Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "fliegenpilzking",
+      "displayDate": "Nov 28, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Heroin-Sucht besiegt: Iboga-Experte Tobias Erny packt aus....",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "heroin-sucht besiegt: iboga-experte tobias erny packt aus... covers heroin-sucht besiegt: iboga-experte tobias erny packt aus.... this is a media source, not medical evidence. podcasts_interviews podcast_interview fliegenpilzking  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-IzIwIC0gQ29udH",
+      "title": "#20 - Contradictions surrounding Iboga, with Tobias Erny",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Catalyzing Radical Systemic Change - voted the No. 1 podcast on Systemic Change on Apple podcasts",
+      "url": "https://podcasts.apple.com/us/podcast/20-contradictions-surrounding-iboga-with-tobias-erny/id1596107095?i=1000576338415&uo=4",
+      "summary": "Covers #20. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2022-08-17T06:45:44Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Catalyzing Radical Systemic Change - voted the No. 1 podcast on Systemic Change on Apple podcasts",
+      "displayDate": "Aug 17, 2022",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #20.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#20 - contradictions surrounding iboga, with tobias erny covers #20. this is a media source, not medical evidence. podcasts_interviews podcast_interview catalyzing radical systemic change - voted the no. 1 podcast on systemic change on apple podcasts  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RXBpc29kZSA5MD",
+      "title": "Episode 902: Ibogaine – Veterans Exploring Treatment Solutions (VETS)",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Newt's World",
+      "url": "https://podcasts.apple.com/us/podcast/episode-902-ibogaine-veterans-exploring-treatment-solutions/id1452065072?i=1000732505034&uo=4",
+      "summary": "Covers Episode 902: Ibogaine – Veterans Exploring Treatment Solutions (VETS). This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-19T09:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Newt's World",
+      "displayDate": "Oct 19, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Episode 902: Ibogaine – Veterans Exploring Treatment Solutions (VETS).",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "episode 902: ibogaine – veterans exploring treatment solutions (vets) covers episode 902: ibogaine – veterans exploring treatment solutions (vets). this is a media source, not medical evidence. podcasts_interviews podcast_interview newt's world  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-IzQ1IC0gQ2xheX",
+      "title": "#45 - Clayton Smith: An Ibogaine Program for Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Ibogaine Uncovered",
+      "url": "https://podcasts.apple.com/us/podcast/45-clayton-smith-an-ibogaine-program-for-veterans/id1656800662?i=1000704018600&uo=4",
+      "summary": "Covers #45. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-04-18T15:55:07Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Ibogaine Uncovered",
+      "displayDate": "Apr 18, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #45.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#45 - clayton smith: an ibogaine program for veterans covers #45. this is a media source, not medical evidence. podcasts_interviews podcast_interview ibogaine uncovered  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UGFydCBUd286ID",
+      "title": "Part Two: 5-MeO-DMT, Ibogaine, Healing, Elk Hunting Retreat for Veterans | Tony Cowden",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Can You Survive This Podcast?",
+      "url": "https://podcasts.apple.com/us/podcast/part-two-5-meo-dmt-ibogaine-healing-elk-hunting-retreat/id1510862926?i=1000638292808&uo=4",
+      "summary": "Covers Part Two: 5-MeO-DMT, Ibogaine, Healing, Elk Hunting Retreat for Veterans | Tony Cowden. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2023-12-12T10:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Can You Survive This Podcast?",
+      "displayDate": "Dec 12, 2023",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Part Two: 5-MeO-DMT, Ibogaine, Healing, Elk Hunting Retreat for Veterans | Tony Cowden.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "part two: 5-meo-dmt, ibogaine, healing, elk hunting retreat for veterans | tony cowden covers part two: 5-meo-dmt, ibogaine, healing, elk hunting retreat for veterans | tony cowden. this is a media source, not medical evidence. podcasts_interviews podcast_interview can you survive this podcast?  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Q2FuIElib2dhaW",
+      "title": "Can Ibogaine Help Veterans Rediscover Joy?",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The MAHA Report",
+      "url": "https://podcasts.apple.com/us/podcast/can-ibogaine-help-veterans-rediscover-joy/id1863581270?i=1000770032376&uo=4",
+      "summary": "Covers Can Ibogaine Help Veterans Rediscover Joy?. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-28T16:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The MAHA Report",
+      "displayDate": "May 28, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Can Ibogaine Help Veterans Rediscover Joy?.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "can ibogaine help veterans rediscover joy? covers can ibogaine help veterans rediscover joy?. this is a media source, not medical evidence. podcasts_interviews podcast_interview the maha report  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-VHJ1bXAgb3JkZX",
       "title": "Trump orders FDA to fast-track reviews of psychedelic drugs after lobbying by podcaster - Fierce Biotech",
       "category": "podcasts_interviews",
@@ -5360,7 +6203,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -5386,7 +6229,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5412,7 +6255,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5438,7 +6281,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T16:38:43Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5464,7 +6307,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-02T22:02:50Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5490,7 +6333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5516,7 +6359,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-31T17:01:15Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5542,7 +6385,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03-08T02:30:36Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5568,7 +6411,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-19T09:00:00Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5594,7 +6437,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-17T09:46:46Z",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -5607,6 +6450,344 @@
       "conversationContext": "Topic from title: PREMIERE: We Are Eternal.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
       "searchText": "premiere: we are eternal - roots to cosmos [sofa beats] covers premiere: we are eternal. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-QSBQc3ljaGlhdH",
+      "title": "A Psychiatrist Reveals the Truth About Psychedelic Therapy: Benefits, Risks & Who Would Benefit and Who Should Avoid It with Dr. Will Van Derveer",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Dhru Purohit Show",
+      "url": "https://podcasts.apple.com/us/podcast/a-psychiatrist-reveals-the-truth-about/id1381257272?i=1000772012547&uo=4",
+      "summary": "Covers A Psychiatrist Reveals the Truth About Psychedelic Therapy: Benefits, Risks & Who Would Benefit and Who Should Avoid It with Dr. Will Van Derveer. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-10T10:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Dhru Purohit Show",
+      "displayDate": "Jun 10, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: A Psychiatrist Reveals the Truth About Psychedelic Therapy: Benefits, Risks & Who Would Benefit and Who Should Avoid It with Dr. Will Van Derveer.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "a psychiatrist reveals the truth about psychedelic therapy: benefits, risks & who would benefit and who should avoid it with dr. will van derveer covers a psychiatrist reveals the truth about psychedelic therapy: benefits, risks & who would benefit and who should avoid it with dr. will van derveer. this is a media source, not medical evidence. podcasts_interviews podcast_interview dhru purohit show  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-UHNpbG9jeWJpbi",
+      "title": "Psilocybin Magic Mushrooms, San Pedro and Peyote: Bridging Ancient Wisdom and Modern Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "url": "https://podcasts.apple.com/us/podcast/psilocybin-magic-mushrooms-san-pedro-and-peyote/id1825996943?i=1000716766188&uo=4",
+      "summary": "Covers Psilocybin Magic Mushrooms, San Pedro and Peyote: Bridging Ancient Wisdom and Modern Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-07-08T02:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "displayDate": "Jul 8, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Psilocybin Magic Mushrooms, San Pedro and Peyote: Bridging Ancient Wisdom and Modern Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "psilocybin magic mushrooms, san pedro and peyote: bridging ancient wisdom and modern therapy covers psilocybin magic mushrooms, san pedro and peyote: bridging ancient wisdom and modern therapy. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SG93IFBzeWNoZW",
+      "title": "How Psychedelic Therapy Heals Trauma and PTSD: Psilocybin, MDMA, San Pedro, Ketamine & More",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "url": "https://podcasts.apple.com/us/podcast/how-psychedelic-therapy-heals-trauma-and-ptsd/id1825996943?i=1000723563899&uo=4",
+      "summary": "Covers How Psychedelic Therapy Heals Trauma and PTSD: Psilocybin, MDMA, San Pedro, Ketamine & More. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-08-26T08:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "displayDate": "Aug 26, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: How Psychedelic Therapy Heals Trauma and PTSD: Psilocybin, MDMA, San Pedro, Ketamine & More.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "how psychedelic therapy heals trauma and ptsd: psilocybin, mdma, san pedro, ketamine & more covers how psychedelic therapy heals trauma and ptsd: psilocybin, mdma, san pedro, ketamine & more. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SXMgUHN5Y2hlZG",
+      "title": "Is Psychedelic Therapy Safe? Addressing Fears and Choosing the Right Psychedelic Retreat",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "url": "https://podcasts.apple.com/us/podcast/is-psychedelic-therapy-safe-addressing-fears-and/id1825996943?i=1000716766113&uo=4",
+      "summary": "Covers Is Psychedelic Therapy Safe? Addressing Fears and Choosing the Right Psychedelic Retreat. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-07-07T19:30:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Healing with Psychedelics: Plant Medicine, Ayahuasca, Psilocybin, San Pedro, Iboga & Trauma Recovery",
+      "displayDate": "Jul 7, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Is Psychedelic Therapy Safe? Addressing Fears and Choosing the Right Psychedelic Retreat.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "is psychedelic therapy safe? addressing fears and choosing the right psychedelic retreat covers is psychedelic therapy safe? addressing fears and choosing the right psychedelic retreat. this is a media source, not medical evidence. podcasts_interviews podcast_interview healing with psychedelics: plant medicine, ayahuasca, psilocybin, san pedro, iboga & trauma recovery  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-T1hJViwgWWFoZW",
+      "title": "OXIV, Yahel - Dance Movement Therapy (Original mix)- Out 28 July!",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Iboga Radio Show",
+      "url": "https://podcasts.apple.com/us/podcast/oxiv-yahel-dance-movement-therapy-original-mix-out-28-july/id1055641481?i=1000621747812&uo=4",
+      "summary": "Covers OXIV, Yahel - Dance Movement Therapy (Original mix)- Out 28 July!. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2023-07-20T10:04:39Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Iboga Radio Show",
+      "displayDate": "Jul 20, 2023",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: OXIV, Yahel - Dance Movement Therapy (Original mix)- Out 28 July!.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "oxiv, yahel - dance movement therapy (original mix)- out 28 july! covers oxiv, yahel - dance movement therapy (original mix)- out 28 july!. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SGVhbGluZyB3aX",
+      "title": "Healing with Psychedelics: Veterans, PTSD, and the Science of Mind-Altering Drugs",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Pulse",
+      "url": "https://podcasts.apple.com/us/podcast/healing-with-psychedelics-veterans-ptsd-and-the/id772127662?i=1000764640529&uo=4",
+      "summary": "Covers Healing with Psychedelics: Veterans, PTSD, and the Science of Mind-Altering Drugs. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-04-30T06:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Pulse",
+      "displayDate": "Apr 30, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Healing with Psychedelics: Veterans, PTSD, and the Science of Mind-Altering Drugs.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "healing with psychedelics: veterans, ptsd, and the science of mind-altering drugs covers healing with psychedelics: veterans, ptsd, and the science of mind-altering drugs. this is a media source, not medical evidence. podcasts_interviews podcast_interview the pulse  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-IzUyIC0gQWRhbS",
+      "title": "#52 - Adam Marr: Healing Veterans and Families",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Ibogaine Uncovered",
+      "url": "https://podcasts.apple.com/us/podcast/52-adam-marr-healing-veterans-and-families/id1656800662?i=1000732325360&uo=4",
+      "summary": "Covers #52. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-17T15:18:09Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Ibogaine Uncovered",
+      "displayDate": "Oct 17, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #52.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#52 - adam marr: healing veterans and families covers #52. this is a media source, not medical evidence. podcasts_interviews podcast_interview ibogaine uncovered  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-VmV0ZXJhbnMgQX",
+      "title": "Veterans Are Suffering Because of Government Red Tape",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Reason Interview With Nick Gillespie",
+      "url": "https://podcasts.apple.com/us/podcast/veterans-are-suffering-because-of-government-red-tape/id1485021241?i=1000735413670&uo=4",
+      "summary": "Covers Veterans Are Suffering Because of Government Red Tape. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-11-05T16:00:31Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Reason Interview With Nick Gillespie",
+      "displayDate": "Nov 5, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Veterans Are Suffering Because of Government Red Tape.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "veterans are suffering because of government red tape covers veterans are suffering because of government red tape. this is a media source, not medical evidence. podcasts_interviews podcast_interview the reason interview with nick gillespie  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-RHIgTWFydMOtbi",
+      "title": "Dr Martín Polanco and Marine Ryan Roberts: A Discussion on the Clinical Psychedelic Retreat Being Used to Treat Veterans and their Family Members",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Team Never Quit",
+      "url": "https://podcasts.apple.com/us/podcast/dr-mart%C3%ADn-polanco-and-marine-ryan-roberts-a/id1119435387?i=1000568099510&uo=4",
+      "summary": "Covers Dr Martín Polanco and Marine Ryan Roberts: A Discussion on the Clinical Psychedelic Retreat Being Used to Treat Veterans and their Family Members. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2022-06-29T10:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Team Never Quit",
+      "displayDate": "Jun 29, 2022",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Dr Martín Polanco and Marine Ryan Roberts: A Discussion on the Clinical Psychedelic Retreat Being Used to Treat Veterans and their Family Members.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "dr martín polanco and marine ryan roberts: a discussion on the clinical psychedelic retreat being used to treat veterans and their family members covers dr martín polanco and marine ryan roberts: a discussion on the clinical psychedelic retreat being used to treat veterans and their family members. this is a media source, not medical evidence. podcasts_interviews podcast_interview team never quit  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SW4gV2F2ZXMgJi",
+      "title": "In Waves & War: Marcus & Amber Capone On Psychedelic Treatment For Veteran PTSD, Rebuilding Life After War & The Mission To Heal A Generation",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Rich Roll Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/in-waves-war-marcus-amber-capone-on-psychedelic-treatment/id582272991?i=1000762368195&uo=4",
+      "summary": "Covers In Waves & War: Marcus & Amber Capone On Psychedelic Treatment For Veteran PTSD, Rebuilding Life After War & The Mission To Heal A Generation. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-04-20T09:00:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Rich Roll Podcast",
+      "displayDate": "Apr 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: In Waves & War: Marcus & Amber Capone On Psychedelic Treatment For Veteran PTSD, Rebuilding Life After War & The Mission To Heal A Generation.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "in waves & war: marcus & amber capone on psychedelic treatment for veteran ptsd, rebuilding life after war & the mission to heal a generation covers in waves & war: marcus & amber capone on psychedelic treatment for veteran ptsd, rebuilding life after war & the mission to heal a generation. this is a media source, not medical evidence. podcasts_interviews podcast_interview the rich roll podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-T25lIFJlcG9ydG",
+      "title": "One Reporter’s Life-Altering Psychedelic Trip - The New York Times",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDM5eVpWYjVDQXllZU9Wd0xNTjFPbVZocWNhcUFPdTV4QjV1VWc2bjNza2ZROUlNSVR5SzRtUlNHX2x0Uk5jMTUwakJWZVFPcDNranU2N0haUE52NFJ0TGNpSGNWbWtWRGRaanNOSTdkQzVBXy02V1JIWHRpMnE5NHVCTQ?oc=5",
+      "summary": "News or commentary from The New York Times. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "The New York Times",
+      "displayDate": "Apr 12, 2026",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers One Reporter’s Life-Altering Psychedelic Trip.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "one reporter’s life-altering psychedelic trip - the new york times news or commentary from the new york times. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the new york times  media cataloged source primary-source record"
+    },
+    {
+      "id": "latest_scan-NTAgTWlsbGlvbi",
+      "title": "50 Million in Funding, 10,000 New Clinics, and the Mistake That Could Kill the Psychedelic Revolution | Dr. Rick Doblin",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Mayim Bialik's Breakdown",
+      "url": "https://podcasts.apple.com/us/podcast/50-million-in-funding-10-000-new-clinics-and-the/id1546456269?i=1000770728579&uo=4",
+      "summary": "Covers 50 Million in Funding, 10,000 New Clinics, and the Mistake That Could Kill the Psychedelic Revolution | Dr. Rick Doblin. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-02T07:30:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Mayim Bialik's Breakdown",
+      "displayDate": "Jun 2, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: 50 Million in Funding, 10,000 New Clinics, and the Mistake That Could Kill the Psychedelic Revolution | Dr. Rick Doblin.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "50 million in funding, 10,000 new clinics, and the mistake that could kill the psychedelic revolution | dr. rick doblin covers 50 million in funding, 10,000 new clinics, and the mistake that could kill the psychedelic revolution | dr. rick doblin. this is a media source, not medical evidence. podcasts_interviews podcast_interview mayim bialik's breakdown  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-SG93IHRoZSByaW",
+      "title": "How the right embraced psychedelics",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Today, Explained",
+      "url": "https://podcasts.apple.com/us/podcast/how-the-right-embraced-psychedelics/id1346207297?i=1000768438797&uo=4",
+      "summary": "Covers How the right embraced psychedelics. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-18T18:31:00Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Today, Explained",
+      "displayDate": "May 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: How the right embraced psychedelics.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "how the right embraced psychedelics covers how the right embraced psychedelics. this is a media source, not medical evidence. podcasts_interviews podcast_interview today, explained  media cataloged source media metadata"
     },
     {
       "id": "documentary-wiki-0001",
@@ -5622,7 +6803,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -5654,7 +6835,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -5711,7 +6892,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -5746,7 +6927,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -5961,7 +7142,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -5987,7 +7168,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -6013,7 +7194,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -6046,7 +7227,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -6324,32 +7505,6 @@
       "conversationContext": "Covers blogs.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
       "searchText": "pα+ psychedelic bulletin #219: trump admin. vetoed compass priority voucher; ibogaine in focus; definium sued by former vendor; psychedelics feature in epstein files - psychedelic alpha news or commentary from psychedelic alpha. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism psychedelic alpha  blogs cataloged source primary-source record"
-    },
-    {
-      "id": "source_radar_archive-QSBWZXRlcmFu4o",
-      "title": "A Veteran’s Search for Healing Led to an Ibogaine Trip and an Epiphany: ‘I’ve Got to Let It Go’ - thewarhorse.org",
-      "category": "clinics",
-      "sourceType": "journalism",
-      "sourceName": "thewarhorse.org",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1bF9JSEVPVkJHT0IzeXdfZTAzNmUwaTBaN1BGcVA2ZHI4d3JWbUJuS0J6dmZiVXB2dmNKd0ZwNWJMOXVCb21JdmdZVTNUNDN5eWo2cWpKWEQtZ1NVOGlnNFQzcw?oc=5",
-      "summary": "Clinic-claim monitoring entry. IbogaBase does not endorse clinics or provide referrals.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Thu, 08 Jan 2026 08:00:00 GMT",
-      "foundAt": "2026-05-21T15:20:47.421Z",
-      "sourceOrigin": "source_radar_archive",
-      "tags": [
-        "clinics"
-      ],
-      "displayCategory": "Clinic claims",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "thewarhorse.org",
-      "displayDate": "Jan 8, 2026",
-      "whatItIs": "Clinic-claim monitoring entry.",
-      "conversationContext": "Covers clinics.",
-      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
-      "searchText": "a veteran’s search for healing led to an ibogaine trip and an epiphany: ‘i’ve got to let it go’ - thewarhorse.org clinic-claim monitoring entry. ibogabase does not endorse clinics or provide referrals. clinics journalism thewarhorse.org  clinics cataloged source primary-source record"
     },
     {
       "id": "source_radar_archive-VEhFIENSVUNJRk",
@@ -7080,32 +8235,6 @@
       "searchText": "a window of opportunity: reflections on ibogaine treatment for opiate addiction - multidisciplinary association for psychedelic studies – maps news or commentary from multidisciplinary association for psychedelic studies – maps. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism multidisciplinary association for psychedelic studies – maps  media cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-T25lIFJlcG9ydG",
-      "title": "One Reporter’s Life-Altering Psychedelic Trip - The New York Times",
-      "category": "news_articles_blogs",
-      "sourceType": "journalism",
-      "sourceName": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDM5eVpWYjVDQXllZU9Wd0xNTjFPbVZocWNhcUFPdTV4QjV1VWc2bjNza2ZROUlNSVR5SzRtUlNHX2x0Uk5jMTUwakJWZVFPcDNranU2N0haUE52NFJ0TGNpSGNWbWtWRGRaanNOSTdkQzVBXy02V1JIWHRpMnE5NHVCTQ?oc=5",
-      "summary": "News or commentary from The New York Times. Use it to understand public discussion and timing; verify important claims against primary sources.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "News and commentary",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The New York Times",
-      "displayDate": "Apr 12, 2026",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers One Reporter’s Life-Altering Psychedelic Trip.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "one reporter’s life-altering psychedelic trip - the new york times news or commentary from the new york times. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the new york times  media cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-SXTigJlzIGFuIE",
       "title": "It’s an Obscure Psychedelic Used to Treat Trauma. Could It Help Me? - The New York Times",
       "category": "news_articles_blogs",
@@ -7117,7 +8246,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7143,7 +8272,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7169,7 +8298,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7195,7 +8324,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7221,7 +8350,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 03 Mar 2026 10:22:03 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7247,7 +8376,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7273,7 +8402,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7299,7 +8428,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7325,7 +8454,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -7351,7 +8480,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -7377,7 +8506,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Jun 2026 15:24:43 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -7405,7 +8534,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -7436,7 +8565,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -7646,7 +8775,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -7672,7 +8801,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -7698,7 +8827,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -7724,7 +8853,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 14 Jul 2023 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -7750,7 +8879,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -7786,7 +8915,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -7819,7 +8948,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -8163,7 +9292,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -8198,7 +9327,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -8233,7 +9362,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -8263,7 +9392,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-19T14:32:27.172Z",
+      "foundAt": "2026-06-19T14:42:55.671Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -8370,7 +9499,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -8396,7 +9525,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 05 Feb 2024 08:00:00 GMT",
-      "foundAt": "2026-06-19T14:32:05.940Z",
+      "foundAt": "2026-06-19T14:37:44.728Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -10948,7 +12077,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -10984,7 +12113,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -11015,7 +12144,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -11048,7 +12177,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -11080,7 +12209,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -11112,7 +12241,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T14:32:33.744Z",
+      "foundAt": "2026-06-19T14:43:01.440Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
