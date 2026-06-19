@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T15:03:37.387Z",
-  "totalRecords": 447,
+  "generatedAt": "2026-06-19T15:19:11.715Z",
+  "totalRecords": 514,
   "categories": {
     "books_bibliographies": 14,
     "clinical_trials": 18,
@@ -9,12 +9,12 @@
     "culture_stewardship": 12,
     "documentaries_films": 2,
     "evidence_pages": 8,
-    "laws_policy": 59,
-    "news_articles_blogs": 68,
-    "podcasts_interviews": 132,
+    "laws_policy": 57,
+    "news_articles_blogs": 69,
+    "podcasts_interviews": 199,
     "reference_pages": 4,
     "state_policy_coverage": 51,
-    "studies_papers": 41,
+    "studies_papers": 42,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -37,7 +37,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -78,7 +78,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -117,7 +117,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -154,7 +154,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -186,7 +186,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -216,7 +216,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -245,7 +245,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -276,7 +276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -305,7 +305,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -333,7 +333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -844,6 +844,32 @@
       "searchText": "oxa-iboga alkaloids lack cardiac risk and disrupt opioid use in animal models - nature book or bibliography source from nature. interpret claims according to source type and evidence quality. books_bibliographies journalism nature  books cataloged source primary-source record"
     },
     {
+      "id": "source_radar_archive-TmV3IEZyb250aW",
+      "title": "New Frontiers in Psychedelic Research: Iboga Microdosing with Dr. Burton J. Tabaac &amp; Teresa Yung",
+      "category": "studies_papers",
+      "sourceType": "youtube_video",
+      "sourceName": "Psychedelic Vantage",
+      "url": "https://www.youtube.com/watch?v=CAuwS8cBguU",
+      "summary": "Research source from Psychedelic Vantage. Study design, sample size, limitations, and safety signals matter.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-10T15:00:07Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Psychedelic Vantage",
+      "displayDate": "Jun 10, 2026",
+      "whatItIs": "Youtube Video",
+      "conversationContext": "Covers New Frontiers in Psychedelic Research: Iboga Microdosing with Dr. Burton J. Tabaac &amp; Teresa Yung.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "new frontiers in psychedelic research: iboga microdosing with dr. burton j. tabaac &amp; teresa yung research source from psychedelic vantage. study design, sample size, limitations, and safety signals matter. studies_papers youtube_video psychedelic vantage  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-VGV4YXMgdG8gbG",
       "title": "Texas to launch independent psychedelic study after drug companies miss mark - FOX 7 Austin",
       "category": "studies_papers",
@@ -855,7 +881,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -881,7 +907,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -907,7 +933,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 23",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -933,7 +959,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -959,7 +985,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2017-12-15",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -985,7 +1011,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 1",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1011,7 +1037,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1037,7 +1063,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1063,7 +1089,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1089,7 +1115,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 22",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1115,7 +1141,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 12",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1141,7 +1167,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 8",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1167,7 +1193,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1193,7 +1219,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1219,7 +1245,7 @@
       "status": "Recruiting",
       "people": [],
       "publishedAt": "2025-10-22",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1245,7 +1271,7 @@
       "status": "Unknown",
       "people": [],
       "publishedAt": "2022-07-18",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1271,7 +1297,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2024-06-19",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1297,7 +1323,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1323,7 +1349,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2019-06-27",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1349,7 +1375,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1378,7 +1404,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1407,7 +1433,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -1904,7 +1930,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1930,7 +1956,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -1960,7 +1986,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1989,7 +2015,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -2085,29 +2111,29 @@
     },
     {
       "id": "source_radar_archive-SG93IElib2dhaW",
-      "title": "How Ibogaine Became the Darling of the Psychedelic Right - rollingstone.com",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzc5Z09BY29FM01NNVh5RUE5YnVUM0Q5THllZnZOU2pVRGo3dGhRd1dRNDRWQ0pDMExndUdsaC12dWFtM1ZxSklMaXVjOEVZWjhzakZSVkxXcmJpLW1UZVZBZmZPMFNYTHh4QjRSR3FPMGRkblVrNTJtVC1uQUR3ZVB5Y0JpWHZwRjVrS0FYZGxlaWhiTG5TNjYwMi04WUdXRzYybEkwVWVkcGRlN0wtTk43cw?oc=5",
-      "summary": "Law or policy source from rollingstone.com. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
+      "title": "How Ibogaine can help treat addiction",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Theo Von",
+      "url": "https://www.youtube.com/watch?v=q7v5RsWEnQ0",
+      "summary": "Covers How Ibogaine can help treat addiction. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-05-29T11:18:33.463Z",
+      "publishedAt": "2025-07-28T16:12:42Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
-        "culture"
+        "media"
       ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "rollingstone.com",
-      "displayDate": "Apr 22, 2026",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers culture.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "how ibogaine became the darling of the psychedelic right - rollingstone.com law or policy source from rollingstone.com. read the exact source before drawing legal conclusions. laws_policy journalism rollingstone.com  culture cataloged source primary-source record"
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Theo Von",
+      "displayDate": "Jul 28, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: How Ibogaine can help treat addiction.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "how ibogaine can help treat addiction covers how ibogaine can help treat addiction. this is a media source, not medical evidence. podcasts_interviews youtube_video theo von  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-U3VyZU5hbm8gU2",
@@ -3083,7 +3109,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3109,7 +3135,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-22T08:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3135,7 +3161,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -3161,7 +3187,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3187,7 +3213,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3203,29 +3229,29 @@
     },
     {
       "id": "latest_scan-SHV4bGV5IEhlYW",
-      "title": "Huxley Health Inc. Introduces Aerasyn Biotech Division, Expands Leadership and Scalable IP Platform, Engages Capital Partner for Up to $15M Financing and Prepares to Go Public Amid Growing U.S. Policy and Public Discourse on Psychedelics - Taiwan News",
+      "title": "Huxley Health Inc. Introduces Aerasyn Biotech Division, Expands Leadership and Scalable IP Platform, Engages Capital Partner for Up to $15M Financing and Prepares to Go Public Amid Growing U.S. Policy and Public Discourse on Psychedelics - TMX Newsfile",
       "category": "laws_policy",
       "sourceType": "journalism",
-      "sourceName": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXY3lkNHFWc2otSUYtMFpPeFB2b3E3c2VXXy1PUEpEaXBXY29EeWhIWnlwek5wR3JrTE53OEdRWHB4c202VUxRWGxwWXNMckpXWmE3ZQ?oc=5",
-      "summary": "Law or policy source from Taiwan News. Read the exact source before drawing legal conclusions.",
+      "sourceName": "TMX Newsfile",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOUjhxSTI3RzZsYTBxZ3YwRmxRUjJ5aGJuUGtzS0p5M3U4Q2IyWV9DdzZwY0ZRbmZqck5EcXJ3cG9McUQ1OUkybFN4SkNtd3V6czNlaDRtV2V5NTlkUWMtbExVZXFNbVd1aGNtbDFkeHhGTXFvOXhORTNwMU9xb3dxTkhBbDEwS0UyNko0TWRrNjJLdGhaMFE3QnBIZ3Y2ZUJ4c2ZjYTVUQzZVQ3J3X2lxaldoOTdPTHdqWXpzYmktR3VvcWZrMVFBOFJNakl1MlhiTkszTnhMNDB0bUxYXzdreHZUYjJNZXVVSEotVnNzRVk0LXRwbmQ1b19KT2NzaW55Uk1wWjJrVVFfVUhQRE9HNzZ2dTRaTXRENGpLOUhsS05jNEdRQmdWOTByRWV0dnpmSWpCVGZ2U2FxNFJTUzhZU3gwZEtyZThsM0duUlNBQ3FDNVlQa2k2TUgyWlhCTElEbzlxQWZhZUdsaUhyQ013c1FwakFpODlaaUdzRWJObE55ajFZU29mbl9UQUpoVFk?oc=5",
+      "summary": "Law or policy source from TMX Newsfile. Read the exact source before drawing legal conclusions.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
-        "commercial"
+        "companies"
       ],
       "displayCategory": "Law and policy",
       "displaySourceType": "Journalism",
-      "displaySourceName": "Taiwan News",
+      "displaySourceName": "TMX Newsfile",
       "displayDate": "Apr 20, 2026",
       "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers commercial.",
+      "conversationContext": "Covers companies.",
       "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "huxley health inc. introduces aerasyn biotech division, expands leadership and scalable ip platform, engages capital partner for up to $15m financing and prepares to go public amid growing u.s. policy and public discourse on psychedelics - taiwan news law or policy source from taiwan news. read the exact source before drawing legal conclusions. laws_policy journalism taiwan news  commercial cataloged source primary-source record"
+      "searchText": "huxley health inc. introduces aerasyn biotech division, expands leadership and scalable ip platform, engages capital partner for up to $15m financing and prepares to go public amid growing u.s. policy and public discourse on psychedelics - tmx newsfile law or policy source from tmx newsfile. read the exact source before drawing legal conclusions. laws_policy journalism tmx newsfile  companies cataloged source primary-source record"
     },
     {
       "id": "latest_scan-QSBMb25nLCBTdH",
@@ -3239,7 +3265,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -3265,7 +3291,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3280,32 +3306,6 @@
       "searchText": "fda eyes expanding testosterone therapy for libido - statnews.com law or policy source from statnews.com. read the exact source before drawing legal conclusions. laws_policy journalism statnews.com  companies cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-QnJlYWt0aHJvdW",
-      "title": "Breakthrough therapy designation for atai/Beckley 5-MeO-DMT drug; both ketamine and active placebo improve depression symptoms; and ketamine company to receive priority FDA review - The Microdose",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "The Microdose",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqcnVtUW80UURQM1U4VUVNby1FYlZucnVxTVVock1WLS1zU3hYdXBsRU5aQ0ViUEF6cWU3MkJaU3Fib0dYZ2o3X1F5MTZscWU5M0ZxT2dtbFFYejBlOHZwSEpyVHozVzVaSlREbkFBd2V0SG80aFg4?oc=5",
-      "summary": "Law or policy source from The Microdose. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Fri, 24 Oct 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "companies"
-      ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Microdose",
-      "displayDate": "Oct 24, 2025",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers companies.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "breakthrough therapy designation for atai/beckley 5-meo-dmt drug; both ketamine and active placebo improve depression symptoms; and ketamine company to receive priority fda review - the microdose law or policy source from the microdose. read the exact source before drawing legal conclusions. laws_policy journalism the microdose  companies cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-Q29tcGFzcywgVX",
       "title": "Compass, Usona and Transcend score FDA national priority vouchers amid Trump administration’s psychedelic push - Fierce Biotech",
       "category": "laws_policy",
@@ -3317,7 +3317,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3343,7 +3343,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3372,7 +3372,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3402,7 +3402,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3433,7 +3433,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3464,7 +3464,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3493,7 +3493,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3527,7 +3527,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3560,7 +3560,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -3595,7 +3595,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -3619,29 +3619,29 @@
     },
     {
       "id": "source_radar_archive-T25lIERvc2UgVG",
-      "title": "One Dose That Heals Addiction, PTSD, and Brain Injury? Dr. Nolan Williams on The Science of Ibogaine",
+      "title": "One Dose That Heals Addiction, PTSD, and Brain Injury | The Science of Ibogaine",
       "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "The Dr. Hyman Show",
-      "url": "https://podcasts.apple.com/us/podcast/one-dose-that-heals-addiction-ptsd-and-brain-injury/id1382804627?i=1000724720623&uo=4",
-      "summary": "Covers One Dose That Heals Addiction, PTSD, and Brain Injury? Dr. Nolan Williams on The Science of Ibogaine. This is a media source, not medical evidence.",
+      "sourceType": "youtube_video",
+      "sourceName": "Mark Hyman, MD",
+      "url": "https://www.youtube.com/watch?v=qwFhTkcUXog",
+      "summary": "Covers One Dose That Heals Addiction, PTSD, and Brain Injury | The Science of Ibogaine. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2025-09-03T10:00:00Z",
-      "foundAt": "2026-05-17T04:17:16.065Z",
+      "publishedAt": "2025-09-03T13:01:37Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "The Dr. Hyman Show",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Mark Hyman, MD",
       "displayDate": "Sep 3, 2025",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: One Dose That Heals Addiction, PTSD, and Brain Injury? Dr. Nolan Williams on The Science of Ibogaine.",
+      "conversationContext": "Topic from title: One Dose That Heals Addiction, PTSD, and Brain Injury | The Science of Ibogaine.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "one dose that heals addiction, ptsd, and brain injury? dr. nolan williams on the science of ibogaine covers one dose that heals addiction, ptsd, and brain injury? dr. nolan williams on the science of ibogaine. this is a media source, not medical evidence. podcasts_interviews podcast_interview the dr. hyman show  media cataloged source media metadata"
+      "searchText": "one dose that heals addiction, ptsd, and brain injury | the science of ibogaine covers one dose that heals addiction, ptsd, and brain injury | the science of ibogaine. this is a media source, not medical evidence. podcasts_interviews youtube_video mark hyman, md  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-TWVkaWNhbCBEb2",
@@ -3801,29 +3801,29 @@
     },
     {
       "id": "source_radar_archive-QSBOYXZ5IFNFQU",
-      "title": "A Navy SEAL Goes to Mexico to take Ibogaine",
+      "title": "A Navy SEAL on Five Psych Meds Did One Ibogaine Treatment. He&#39;s Been Off Everything Since.",
       "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Altered States",
-      "url": "https://podcasts.apple.com/us/podcast/a-navy-seal-goes-to-mexico-to-take-ibogaine/id1749548410?i=1000674122631&uo=4",
-      "summary": "Covers A Navy SEAL Goes to Mexico to take Ibogaine. This is a media source, not medical evidence.",
+      "sourceType": "youtube_video",
+      "sourceName": "The Mind Body Mushroom Podcast",
+      "url": "https://www.youtube.com/watch?v=ZCIoHBzYsRQ",
+      "summary": "Covers A Navy SEAL on Five Psych Meds Did One Ibogaine Treatment. He&#39;s Been Off Everything Since.. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2024-10-23T08:00:00Z",
-      "foundAt": "2026-05-17T04:17:16.065Z",
+      "publishedAt": "2026-06-14T07:00:28Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Altered States",
-      "displayDate": "Oct 23, 2024",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Mind Body Mushroom Podcast",
+      "displayDate": "Jun 14, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: A Navy SEAL Goes to Mexico to take Ibogaine.",
+      "conversationContext": "Topic from title: A Navy SEAL on Five Psych Meds Did One Ibogaine Treatment. He&#39;s Been Off Everything Since..",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "a navy seal goes to mexico to take ibogaine covers a navy seal goes to mexico to take ibogaine. this is a media source, not medical evidence. podcasts_interviews podcast_interview altered states  media cataloged source media metadata"
+      "searchText": "a navy seal on five psych meds did one ibogaine treatment. he&#39;s been off everything since. covers a navy seal on five psych meds did one ibogaine treatment. he&#39;s been off everything since.. this is a media source, not medical evidence. podcasts_interviews youtube_video the mind body mushroom podcast  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-NDgtSG91ciBNaX",
@@ -6193,55 +6193,1719 @@
     },
     {
       "id": "source_radar_archive-Q2FuIElib2dhaW",
-      "title": "Can Ibogaine Help Veterans Rediscover Joy?",
+      "title": "Can Ibogaine Help Parkinson&#39;s Disease? | Tobias Erny",
       "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "The MAHA Report",
-      "url": "https://podcasts.apple.com/us/podcast/can-ibogaine-help-veterans-rediscover-joy/id1863581270?i=1000770032376&uo=4",
-      "summary": "Covers Can Ibogaine Help Veterans Rediscover Joy?. This is a media source, not medical evidence.",
+      "sourceType": "youtube_video",
+      "sourceName": "Beond Ibogaine Treatment ",
+      "url": "https://www.youtube.com/watch?v=5BeK98TXjjY",
+      "summary": "Covers Can Ibogaine Help Parkinson&#39;s Disease? | Tobias Erny. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2026-05-28T16:00:00Z",
-      "foundAt": "2026-06-19T14:37:44.728Z",
+      "publishedAt": "2026-05-20T20:41:56Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "The MAHA Report",
-      "displayDate": "May 28, 2026",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Beond Ibogaine Treatment",
+      "displayDate": "May 20, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Can Ibogaine Help Veterans Rediscover Joy?.",
+      "conversationContext": "Topic from title: Can Ibogaine Help Parkinson&#39;s Disease? | Tobias Erny.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "can ibogaine help veterans rediscover joy? covers can ibogaine help veterans rediscover joy?. this is a media source, not medical evidence. podcasts_interviews podcast_interview the maha report  media cataloged source media metadata"
+      "searchText": "can ibogaine help parkinson&#39;s disease? | tobias erny covers can ibogaine help parkinson&#39;s disease? | tobias erny. this is a media source, not medical evidence. podcasts_interviews youtube_video beond ibogaine treatment  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-VHJ1bXAgb3JkZX",
-      "title": "Trump orders FDA to fast-track reviews of psychedelic drugs after lobbying by podcaster - Fierce Biotech",
+      "id": "source_radar_archive-aWJvZ2EgQ2hhcm",
+      "title": "iboga Charitra R4MPREET #bollywood",
       "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "RAMPREET CREATOR",
+      "url": "https://www.youtube.com/watch?v=N_gGk5Ylzn8",
+      "summary": "Covers iboga Charitra R4MPREET #bollywood. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-19T12:27:27Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "RAMPREET CREATOR",
+      "displayDate": "Jun 19, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: iboga Charitra R4MPREET #bollywood.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga charitra r4mpreet #bollywood covers iboga charitra r4mpreet #bollywood. this is a media source, not medical evidence. podcasts_interviews youtube_video rampreet creator  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Q29uaGXDp2EgYS",
+      "title": "Conheça a Tabernanthe iboga, planta responsável pela Ibogaína. #ibogaine",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Anderson Buffoni",
+      "url": "https://www.youtube.com/watch?v=GLkxlZhRh20",
+      "summary": "Covers Conheça a Tabernanthe iboga, planta responsável pela Ibogaína. #ibogaine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-19T11:36:55Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Anderson Buffoni",
+      "displayDate": "Jun 19, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Conheça a Tabernanthe iboga, planta responsável pela Ibogaína. #ibogaine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "conheça a tabernanthe iboga, planta responsável pela ibogaína. #ibogaine covers conheça a tabernanthe iboga, planta responsável pela ibogaína. #ibogaine. this is a media source, not medical evidence. podcasts_interviews youtube_video anderson buffoni  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-U2hlIG11c3Qgc3",
+      "title": "She must survive the smoke first… (Ancient Iboga Ritual)",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "AH3-Productions",
+      "url": "https://www.youtube.com/watch?v=txGn7SP5kkY",
+      "summary": "Covers She must survive the smoke first… (Ancient Iboga Ritual). This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-17T02:00:36Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "AH3-Productions",
+      "displayDate": "Jun 17, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: She must survive the smoke first… (Ancient Iboga Ritual).",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "she must survive the smoke first… (ancient iboga ritual) covers she must survive the smoke first… (ancient iboga ritual). this is a media source, not medical evidence. podcasts_interviews youtube_video ah3-productions  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-d2hhdCBpZiB0cm",
+      "title": "what if trauma doesn’t have to be a life sentence ? #iboga #ibogainetreatment #ibogaine #ibo",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Dr. Sharnael True TV",
+      "url": "https://www.youtube.com/watch?v=o31EziKjDho",
+      "summary": "Covers what if trauma doesn’t have to be a life sentence ? #iboga #ibogainetreatment #ibogaine #ibo. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-16T20:21:38Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Dr. Sharnael True TV",
+      "displayDate": "Jun 16, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: what if trauma doesn’t have to be a life sentence ? #iboga #ibogainetreatment #ibogaine #ibo.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "what if trauma doesn’t have to be a life sentence ? #iboga #ibogainetreatment #ibogaine #ibo covers what if trauma doesn’t have to be a life sentence ? #iboga #ibogainetreatment #ibogaine #ibo. this is a media source, not medical evidence. podcasts_interviews youtube_video dr. sharnael true tv  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUmIz",
+      "title": "Ibogaine&#39;s Shocking Impact on Trauma &amp; Addiction",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "bob the barn boy",
+      "url": "https://www.youtube.com/watch?v=HNIIAP7bm3g",
+      "summary": "Covers Ibogaine&#39;s Shocking Impact on Trauma &amp; Addiction. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-15T04:00:09Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "bob the barn boy",
+      "displayDate": "Jun 15, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine&#39;s Shocking Impact on Trauma &amp; Addiction.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine&#39;s shocking impact on trauma &amp; addiction covers ibogaine&#39;s shocking impact on trauma &amp; addiction. this is a media source, not medical evidence. podcasts_interviews youtube_video bob the barn boy  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2EgYW5kIF",
+      "title": "Iboga and Santa Maria",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "NoBullNOBU",
+      "url": "https://www.youtube.com/watch?v=3m19Nwvv3Lc",
+      "summary": "Covers Iboga and Santa Maria. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-14T16:00:37Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "NoBullNOBU",
+      "displayDate": "Jun 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga and Santa Maria.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga and santa maria covers iboga and santa maria. this is a media source, not medical evidence. podcasts_interviews youtube_video nobullnobu  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-aWJvZ2Egc3RhdH",
+      "title": "iboga stats for addictions #addictions #iboga #ibogaine #ibogainetreatment",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Dr. Sharnael True TV",
+      "url": "https://www.youtube.com/watch?v=VBmTwjEdkes",
+      "summary": "Covers iboga stats for addictions #addictions #iboga #ibogaine #ibogainetreatment. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-11T01:32:51Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Dr. Sharnael True TV",
+      "displayDate": "Jun 11, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: iboga stats for addictions #addictions #iboga #ibogaine #ibogainetreatment.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga stats for addictions #addictions #iboga #ibogaine #ibogainetreatment covers iboga stats for addictions #addictions #iboga #ibogaine #ibogainetreatment. this is a media source, not medical evidence. podcasts_interviews youtube_video dr. sharnael true tv  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SSBGaWxtZWQgYW",
+      "title": "I Filmed an Ibogaine Retreat to See What Everyone Is Talking About",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "StoneAgeMan",
+      "url": "https://www.youtube.com/watch?v=LImjMFUU_5I",
+      "summary": "Covers I Filmed an Ibogaine Retreat to See What Everyone Is Talking About. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-10T22:45:02Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "StoneAgeMan",
+      "displayDate": "Jun 10, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: I Filmed an Ibogaine Retreat to See What Everyone Is Talking About.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "i filmed an ibogaine retreat to see what everyone is talking about covers i filmed an ibogaine retreat to see what everyone is talking about. this is a media source, not medical evidence. podcasts_interviews youtube_video stoneageman  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-MTQgaWJvZ2EgYW",
+      "title": "14 iboga and treatment of addictions #sunnymuslim #mauritius #islamic_video #eidmubarak #trauma",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Sunny Muslim Coach and Consultant",
+      "url": "https://www.youtube.com/watch?v=HPkHEMueF50",
+      "summary": "Covers 14 iboga and treatment of addictions #sunnymuslim #mauritius #islamic_video #eidmubarak #trauma. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T12:47:25Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Sunny Muslim Coach and Consultant",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: 14 iboga and treatment of addictions #sunnymuslim #mauritius #islamic_video #eidmubarak #trauma.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "14 iboga and treatment of addictions #sunnymuslim #mauritius #islamic_video #eidmubarak #trauma covers 14 iboga and treatment of addictions #sunnymuslim #mauritius #islamic_video #eidmubarak #trauma. this is a media source, not medical evidence. podcasts_interviews youtube_video sunny muslim coach and consultant  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Q0VPcywgU0VBTH",
+      "title": "CEOs, SEALs, and ibogaine&#39;s moment #substack #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "April Pride",
+      "url": "https://www.youtube.com/watch?v=4UjkoLubQfI",
+      "summary": "Covers CEOs, SEALs, and ibogaine&#39;s moment #substack #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T09:28:38Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "April Pride",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: CEOs, SEALs, and ibogaine&#39;s moment #substack #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ceos, seals, and ibogaine&#39;s moment #substack #shorts covers ceos, seals, and ibogaine&#39;s moment #substack #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video april pride  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-R3JlZW4gQmVyZX",
+      "title": "Green Beret Tricks: Controlled Hypervigilance &amp; Ibogaine&#39;s Power #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Broken Brains with Bruce Parkman Podcast",
+      "url": "https://www.youtube.com/watch?v=EjSXK4Ersik",
+      "summary": "Covers Green Beret Tricks: Controlled Hypervigilance &amp; Ibogaine&#39;s Power #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-01T10:54:26Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Broken Brains with Bruce Parkman Podcast",
+      "displayDate": "Jun 1, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Green Beret Tricks: Controlled Hypervigilance &amp; Ibogaine&#39;s Power #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "green beret tricks: controlled hypervigilance &amp; ibogaine&#39;s power #shorts covers green beret tricks: controlled hypervigilance &amp; ibogaine&#39;s power #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video broken brains with bruce parkman podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-aWJvZ2FpbmUgcG",
+      "title": "ibogaine plant medicine",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Janvier Iboga supply",
+      "url": "https://www.youtube.com/watch?v=fNIIpKcRBSM",
+      "summary": "Covers ibogaine plant medicine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-31T14:12:08Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Janvier Iboga supply",
+      "displayDate": "May 31, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: ibogaine plant medicine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine plant medicine covers ibogaine plant medicine. this is a media source, not medical evidence. podcasts_interviews youtube_video janvier iboga supply  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SXJlbGFuZCYjMz",
+      "title": "Ireland&#39;s Trauma And Ibogaine&#39;s Promise",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "ReelsForShorts",
+      "url": "https://www.youtube.com/watch?v=QTEEDmZpq7k",
+      "summary": "Covers Ireland&#39;s Trauma And Ibogaine&#39;s Promise. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-30T19:55:32Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "ReelsForShorts",
+      "displayDate": "May 30, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ireland&#39;s Trauma And Ibogaine&#39;s Promise.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ireland&#39;s trauma and ibogaine&#39;s promise covers ireland&#39;s trauma and ibogaine&#39;s promise. this is a media source, not medical evidence. podcasts_interviews youtube_video reelsforshorts  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgan",
+      "title": "Ibogaine jumped the line! 🍃",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Kerry Hughes - The Ethnobotanical Explorer",
+      "url": "https://www.youtube.com/watch?v=1UoutI1_Nlk",
+      "summary": "Covers Ibogaine jumped the line! 🍃. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-29T14:40:01Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Kerry Hughes - The Ethnobotanical Explorer",
+      "displayDate": "May 29, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine jumped the line! 🍃.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine jumped the line! 🍃 covers ibogaine jumped the line! 🍃. this is a media source, not medical evidence. podcasts_interviews youtube_video kerry hughes - the ethnobotanical explorer  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgdH",
+      "title": "Ibogaine treatment for opioid use disorder: What you need to know - Healio",
+      "category": "news_articles_blogs",
       "sourceType": "journalism",
-      "sourceName": "Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczZGaXY0YXl4SUFpSWU4MFlyam9EbEFXYm5lRTJuLTFZWThyT2w0TUdrYVJCbVFFbHB4WXJqR0w2VFdoUUl6ZS1HN2FiaWh0TS1pdE9wa1hSZmZDUmNhYUdOS3AwVmFJWXFwcmxxcFh4aW5WOUN6bnJwNmVVemNDNDlma0pWUlY1M3o5Z1dUOUMtNVpVMElRdHpvTmMzQzFXMGNsNnA2QmdpV1FXM29pMFNyU1lucDg?oc=5",
-      "summary": "Covers companies. This is a media source, not medical evidence.",
+      "sourceName": "Healio",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzg0aGhxb3g4SkFtU3dpb3BXdGpsMmJlalRqS0NXVkU0NkFWNWJHX3RpRHFsT2g1WjRPM0JRbF92X1JGZldabzNBR05lMDV3cFd5Z3J6Z3RkOVd0bEJNRm9UMG0yQXlCc3VtSGtaMHl5TVVHTU1hazBiZ2g1Z3E1V2J5Vml6WHZvR0ZGYUFtcm4xNWY1TGppcDFna1Q4clFWYmhKRDJKUEdjdk4yYjV4c0F6LU0?oc=5",
+      "summary": "News or commentary from Healio. Use it to understand public discussion and timing; verify important claims against primary sources.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
-      "sourceOrigin": "latest_scan",
+      "publishedAt": "Thu, 05 Dec 2019 08:00:00 GMT",
+      "foundAt": "2026-05-31T02:55:06.883Z",
+      "sourceOrigin": "source_radar_archive",
       "tags": [
-        "companies"
+        "safety"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Healio",
+      "displayDate": "Dec 5, 2019",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers safety.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "ibogaine treatment for opioid use disorder: what you need to know - healio news or commentary from healio. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism healio  safety cataloged source primary-source record"
+    },
+    {
+      "id": "source_radar_archive-QWxsIGFib3V0IE",
+      "title": "All about Ibogaine, May 21: Addictive Substances and their Challenges w/Felipe Camino of Iboga Quest",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "awakenet",
+      "url": "https://www.youtube.com/watch?v=yb-AsEkNm5U",
+      "summary": "Covers All about Ibogaine, May 21: Addictive Substances and their Challenges w/Felipe Camino of Iboga Quest. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-27T15:06:55Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
       ],
       "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "Fierce Biotech",
-      "displayDate": "Apr 20, 2026",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "awakenet",
+      "displayDate": "May 27, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Main topics: companies.",
+      "conversationContext": "Topic from title: All about Ibogaine, May 21: Addictive Substances and their Challenges w/Felipe Camino of Iboga Quest.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "trump orders fda to fast-track reviews of psychedelic drugs after lobbying by podcaster - fierce biotech covers companies. this is a media source, not medical evidence. podcasts_interviews journalism fierce biotech  companies cataloged source primary-source record"
+      "searchText": "all about ibogaine, may 21: addictive substances and their challenges w/felipe camino of iboga quest covers all about ibogaine, may 21: addictive substances and their challenges w/felipe camino of iboga quest. this is a media source, not medical evidence. podcasts_interviews youtube_video awakenet  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2EgLSBHVE",
+      "title": "Iboga - GTA l&#39;Association Maranga Ma Nzambé - Akanda",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Gabon Terre Avenir",
+      "url": "https://www.youtube.com/watch?v=ILzaYZZh-Qs",
+      "summary": "Covers Iboga - GTA l&#39;Association Maranga Ma Nzambé. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-25T18:08:40Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Gabon Terre Avenir",
+      "displayDate": "May 25, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga - GTA l&#39;Association Maranga Ma Nzambé.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga - gta l&#39;association maranga ma nzambé - akanda covers iboga - gta l&#39;association maranga ma nzambé. this is a media source, not medical evidence. podcasts_interviews youtube_video gabon terre avenir  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-TWFyayBJcndpbj",
+      "title": "Mark Irwin: BKFC World Champion on Ayahuasca, Ibogaine &amp; Big Pharma | Justin McMillen Podcast #16",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Justin McMillen Podcast",
+      "url": "https://www.youtube.com/watch?v=S5uYtvkocXI",
+      "summary": "Covers Mark Irwin: BKFC World Champion on Ayahuasca, Ibogaine &amp; Big Pharma | Justin McMillen Podcast #16. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-18T12:00:24Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Justin McMillen Podcast",
+      "displayDate": "Jun 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Mark Irwin: BKFC World Champion on Ayahuasca, Ibogaine &amp; Big Pharma | Justin McMillen Podcast #16.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "mark irwin: bkfc world champion on ayahuasca, ibogaine &amp; big pharma | justin mcmillen podcast #16 covers mark irwin: bkfc world champion on ayahuasca, ibogaine &amp; big pharma | justin mcmillen podcast #16. this is a media source, not medical evidence. podcasts_interviews youtube_video justin mcmillen podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgdG",
+      "title": "Ibogaine therapy: the “worst” part may be the point",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "clipvault28",
+      "url": "https://www.youtube.com/watch?v=NGm22aWVR9A",
+      "summary": "Covers Ibogaine therapy: the “worst” part may be the point. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-18T03:53:18Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "clipvault28",
+      "displayDate": "Jun 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine therapy: the “worst” part may be the point.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine therapy: the “worst” part may be the point covers ibogaine therapy: the “worst” part may be the point. this is a media source, not medical evidence. podcasts_interviews youtube_video clipvault28  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Um9iZXJ0IEdhbG",
+      "title": "Robert Gallery on What Happens After Ibogaine",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Divergent States",
+      "url": "https://www.youtube.com/watch?v=qRC755z-gvs",
+      "summary": "Covers Robert Gallery on What Happens After Ibogaine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-11T16:33:20Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Divergent States",
+      "displayDate": "Jun 11, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Robert Gallery on What Happens After Ibogaine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "robert gallery on what happens after ibogaine covers robert gallery on what happens after ibogaine. this is a media source, not medical evidence. podcasts_interviews youtube_video divergent states  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RnJvbSBTdWljaW",
+      "title": "From Suicidal Firefighter to CEO │ How Ibogaine Therapy Saved Nate Morgans",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Resilient Warrior Nation",
+      "url": "https://www.youtube.com/watch?v=y1IGQNXfXFk",
+      "summary": "Covers From Suicidal Firefighter to CEO │ How Ibogaine Therapy Saved Nate Morgans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-11T23:00:08Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Resilient Warrior Nation",
+      "displayDate": "Jun 11, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: From Suicidal Firefighter to CEO │ How Ibogaine Therapy Saved Nate Morgans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "from suicidal firefighter to ceo │ how ibogaine therapy saved nate morgans covers from suicidal firefighter to ceo │ how ibogaine therapy saved nate morgans. this is a media source, not medical evidence. podcasts_interviews youtube_video the resilient warrior nation  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-THVpcyBhdCBJYm",
+      "title": "Luis at Ibogaine treatment at Rite of Passage Mexico and Eddie LeShure at &quot;A Mindful Emergence&quot;",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Rite of Passage",
+      "url": "https://www.youtube.com/watch?v=u-G9eVp8G64",
+      "summary": "Covers Luis at Ibogaine treatment at Rite of Passage Mexico and Eddie LeShure at &quot;A Mindful Emergence&quot;. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T22:25:24Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Rite of Passage",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Luis at Ibogaine treatment at Rite of Passage Mexico and Eddie LeShure at &quot;A Mindful Emergence&quot;.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "luis at ibogaine treatment at rite of passage mexico and eddie leshure at &quot;a mindful emergence&quot; covers luis at ibogaine treatment at rite of passage mexico and eddie leshure at &quot;a mindful emergence&quot;. this is a media source, not medical evidence. podcasts_interviews youtube_video rite of passage  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-V2h5IElib2dhaW",
+      "title": "Why Ibogaine Heals the Gut, Trauma &amp; Nervous System | Dr. Juan Moller Interview",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "IbogaQuest",
+      "url": "https://www.youtube.com/watch?v=LDj6inOdS80",
+      "summary": "Covers Why Ibogaine Heals the Gut, Trauma &amp; Nervous System | Dr. Juan Moller Interview. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-17T20:27:03Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "IbogaQuest",
+      "displayDate": "May 17, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Why Ibogaine Heals the Gut, Trauma &amp; Nervous System | Dr. Juan Moller Interview.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "why ibogaine heals the gut, trauma &amp; nervous system | dr. juan moller interview covers why ibogaine heals the gut, trauma &amp; nervous system | dr. juan moller interview. this is a media source, not medical evidence. podcasts_interviews youtube_video ibogaquest  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgY3",
+      "title": "Ibogaine cured cravings — but it was terrifying #substack #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "April Pride",
+      "url": "https://www.youtube.com/watch?v=bqqrfb4vy4Y",
+      "summary": "Covers Ibogaine cured cravings — but it was terrifying #substack #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T09:28:23Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "April Pride",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine cured cravings — but it was terrifying #substack #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine cured cravings — but it was terrifying #substack #shorts covers ibogaine cured cravings — but it was terrifying #substack #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video april pride  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgJm",
+      "title": "Ibogaine &amp; Recovery 🌿🧠",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Sayulita Wellness Retreat",
+      "url": "https://www.youtube.com/watch?v=X9T88mvPWrY",
+      "summary": "Covers Ibogaine &amp; Recovery 🌿🧠. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-20T19:01:23Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Sayulita Wellness Retreat",
+      "displayDate": "May 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine &amp; Recovery 🌿🧠.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine &amp; recovery 🌿🧠 covers ibogaine &amp; recovery 🌿🧠. this is a media source, not medical evidence. podcasts_interviews youtube_video sayulita wellness retreat  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-V2h5IE1lZGljYW",
+      "title": "Why Medical Supervision is Crucial for Ibogaine Treatment",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Ibogaine treatment by David Dardashti",
+      "url": "https://www.youtube.com/watch?v=BDGzlFVzgB4",
+      "summary": "Covers Why Medical Supervision is Crucial for Ibogaine Treatment. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-02T17:15:06Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Ibogaine treatment by David Dardashti",
+      "displayDate": "Jun 2, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Why Medical Supervision is Crucial for Ibogaine Treatment.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "why medical supervision is crucial for ibogaine treatment covers why medical supervision is crucial for ibogaine treatment. this is a media source, not medical evidence. podcasts_interviews youtube_video ibogaine treatment by david dardashti  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-TGFtYXIgT2RvbS",
+      "title": "Lamar Odom&#39;s Ibogaine Journey: A Powerful Intervention Story #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "A Swift Kick In The Ass Podcast Official",
+      "url": "https://www.youtube.com/watch?v=EV4rrHrmg1Y",
+      "summary": "Covers Lamar Odom&#39;s Ibogaine Journey: A Powerful Intervention Story #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-31T18:17:43Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "A Swift Kick In The Ass Podcast Official",
+      "displayDate": "May 31, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Lamar Odom&#39;s Ibogaine Journey: A Powerful Intervention Story #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "lamar odom&#39;s ibogaine journey: a powerful intervention story #shorts covers lamar odom&#39;s ibogaine journey: a powerful intervention story #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video a swift kick in the ass podcast official  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QSBEb2N0b3LigJ",
+      "title": "A Doctor’s Perspective: The Science Behind Ibogaine Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Ibogaine treatment by David Dardashti",
+      "url": "https://www.youtube.com/watch?v=wrhssICc1qA",
+      "summary": "Covers A Doctor’s Perspective: The Science Behind Ibogaine Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-28T04:00:07Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Ibogaine treatment by David Dardashti",
+      "displayDate": "May 28, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: A Doctor’s Perspective: The Science Behind Ibogaine Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "a doctor’s perspective: the science behind ibogaine therapy covers a doctor’s perspective: the science behind ibogaine therapy. this is a media source, not medical evidence. podcasts_interviews youtube_video ibogaine treatment by david dardashti  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-U3R1ZHkgUmVzdW",
+      "title": "Study Results Reveal Life-Changing Transformations: HRT, MR Therapy, Ibogaine Combined! #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Broken Brains with Bruce Parkman Podcast",
+      "url": "https://www.youtube.com/watch?v=MlhB9stOzWw",
+      "summary": "Covers Study Results Reveal Life-Changing Transformations: HRT, MR Therapy, Ibogaine Combined! #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-26T22:55:35Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Broken Brains with Bruce Parkman Podcast",
+      "displayDate": "May 26, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Study Results Reveal Life-Changing Transformations: HRT, MR Therapy, Ibogaine Combined! #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "study results reveal life-changing transformations: hrt, mr therapy, ibogaine combined! #shorts covers study results reveal life-changing transformations: hrt, mr therapy, ibogaine combined! #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video broken brains with bruce parkman podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SSBEaWQgSWJvZ2",
+      "title": "I Did Iboga Therapy And This Is A Lesson I Learned | Rich Roll Podcast",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Rich Roll",
+      "url": "https://www.youtube.com/watch?v=CAifhDyGdWE",
+      "summary": "Covers I Did Iboga Therapy And This Is A Lesson I Learned | Rich Roll Podcast. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-21T14:04:11Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Rich Roll",
+      "displayDate": "May 21, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: I Did Iboga Therapy And This Is A Lesson I Learned | Rich Roll Podcast.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "i did iboga therapy and this is a lesson i learned | rich roll podcast covers i did iboga therapy and this is a lesson i learned | rich roll podcast. this is a media source, not medical evidence. podcasts_interviews youtube_video rich roll  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGV4YXMgVmV0ZX",
+      "title": "Texas Veterans Get Ibogaine Treatment: Breakthrough or Risky? #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Clips",
+      "url": "https://www.youtube.com/watch?v=vHjpN3z5pOM",
+      "summary": "Covers Texas Veterans Get Ibogaine Treatment: Breakthrough or Risky? #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-20T12:04:24Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Clips",
+      "displayDate": "May 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Texas Veterans Get Ibogaine Treatment: Breakthrough or Risky? #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "texas veterans get ibogaine treatment: breakthrough or risky? #shorts covers texas veterans get ibogaine treatment: breakthrough or risky? #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video clips  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RHIuIE1hcmsgSH",
+      "title": "Dr. Mark Hyman&#39;s Ibogaine Experience",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Beond Ibogaine Treatment ",
+      "url": "https://www.youtube.com/watch?v=l60EzDvd1_8",
+      "summary": "Covers Dr. Mark Hyman&#39;s Ibogaine Experience. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-18T18:19:24Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Beond Ibogaine Treatment",
+      "displayDate": "May 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Dr. Mark Hyman&#39;s Ibogaine Experience.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "dr. mark hyman&#39;s ibogaine experience covers dr. mark hyman&#39;s ibogaine experience. this is a media source, not medical evidence. podcasts_interviews youtube_video beond ibogaine treatment  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-ODAlIG9mIFRyYX",
+      "title": "80% of Trauma Lives in Your Body, Not Your Mind&quot; | Navy SEAL Alex West on Ibogaine and Healing",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Mind Body Mushroom Podcast",
+      "url": "https://www.youtube.com/watch?v=vwctScYJVGo",
+      "summary": "Covers 80% of Trauma Lives in Your Body, Not Your Mind&quot; | Navy SEAL Alex West on Ibogaine and Healing. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-11T07:00:34Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Mind Body Mushroom Podcast",
+      "displayDate": "Jun 11, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: 80% of Trauma Lives in Your Body, Not Your Mind&quot; | Navy SEAL Alex West on Ibogaine and Healing.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "80% of trauma lives in your body, not your mind&quot; | navy seal alex west on ibogaine and healing covers 80% of trauma lives in your body, not your mind&quot; | navy seal alex west on ibogaine and healing. this is a media source, not medical evidence. podcasts_interviews youtube_video the mind body mushroom podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-I3N1cHBvcnQgI3",
+      "title": "#support #research #treatment #addictionrecovery #ibogaine #awareness #petition #hope #healing #fyp",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Gia Luciano",
+      "url": "https://www.youtube.com/watch?v=Clp2n_wzL-E",
+      "summary": "Covers #support #research #treatment #addictionrecovery #ibogaine #awareness #petition #hope #healing #fyp. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T02:25:33Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Gia Luciano",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #support #research #treatment #addictionrecovery #ibogaine #awareness #petition #hope #healing #fyp.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#support #research #treatment #addictionrecovery #ibogaine #awareness #petition #hope #healing #fyp covers #support #research #treatment #addictionrecovery #ibogaine #awareness #petition #hope #healing #fyp. this is a media source, not medical evidence. podcasts_interviews youtube_video gia luciano  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmU6IG",
+      "title": "Ibogaine: miracle treatment or the scariest experience of your life? 🤯",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Doubt & Devotion Podcast ",
+      "url": "https://www.youtube.com/watch?v=7rk0lpiw_Rw",
+      "summary": "Covers Ibogaine: miracle treatment or the scariest experience of your life? 🤯. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-30T13:26:23Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Doubt & Devotion Podcast",
+      "displayDate": "May 30, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine: miracle treatment or the scariest experience of your life? 🤯.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine: miracle treatment or the scariest experience of your life? 🤯 covers ibogaine: miracle treatment or the scariest experience of your life? 🤯. this is a media source, not medical evidence. podcasts_interviews youtube_video the doubt & devotion podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGV4YXMgRnVuZH",
+      "title": "Texas Funds $100M Ibogaine Initiative for Addiction Treatment (PowerfulJRE)",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Dodly",
+      "url": "https://www.youtube.com/watch?v=D4CU8A6sEaQ",
+      "summary": "Covers Texas Funds $100M Ibogaine Initiative for Addiction Treatment (PowerfulJRE). This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-18T04:19:29Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Dodly",
+      "displayDate": "May 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Texas Funds $100M Ibogaine Initiative for Addiction Treatment (PowerfulJRE).",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "texas funds $100m ibogaine initiative for addiction treatment (powerfuljre) covers texas funds $100m ibogaine initiative for addiction treatment (powerfuljre). this is a media source, not medical evidence. podcasts_interviews youtube_video dodly  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgSX",
+      "title": "Ibogaine Is Actually Two Drugs in One",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Love Conquers Fear",
+      "url": "https://www.youtube.com/watch?v=xZOI4FHMyrs",
+      "summary": "Covers Ibogaine Is Actually Two Drugs in One. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-05T18:00:32Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Love Conquers Fear",
+      "displayDate": "Jun 5, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Is Actually Two Drugs in One.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine is actually two drugs in one covers ibogaine is actually two drugs in one. this is a media source, not medical evidence. podcasts_interviews youtube_video love conquers fear  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QnJpZGdpbmcgUG",
+      "title": "Bridging Plant Medicine &amp; Modern Care in Ibogaine Recovery",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Ibogaine treatment by David Dardashti",
+      "url": "https://www.youtube.com/watch?v=0dfsWQJeCJE",
+      "summary": "Covers Bridging Plant Medicine &amp; Modern Care in Ibogaine Recovery. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-03T19:30:26Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Ibogaine treatment by David Dardashti",
+      "displayDate": "Jun 3, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Bridging Plant Medicine &amp; Modern Care in Ibogaine Recovery.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "bridging plant medicine &amp; modern care in ibogaine recovery covers bridging plant medicine &amp; modern care in ibogaine recovery. this is a media source, not medical evidence. podcasts_interviews youtube_video ibogaine treatment by david dardashti  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-RnJvbSBCYXIgUm",
+      "title": "From Bar Rafters to Ibogaine: Sharing Your Story Saves Lives! #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Broken Brains with Bruce Parkman Podcast",
+      "url": "https://www.youtube.com/watch?v=DV4hPlXVRos",
+      "summary": "Covers From Bar Rafters to Ibogaine: Sharing Your Story Saves Lives! #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-29T14:55:34Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Broken Brains with Bruce Parkman Podcast",
+      "displayDate": "May 29, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: From Bar Rafters to Ibogaine: Sharing Your Story Saves Lives! #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "from bar rafters to ibogaine: sharing your story saves lives! #shorts covers from bar rafters to ibogaine: sharing your story saves lives! #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video broken brains with bruce parkman podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgSW",
+      "title": "Ibogaine Initiative: Texas Veteran &amp; Police PTSD Breakthrough! #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Aye ProSomething ",
+      "url": "https://www.youtube.com/watch?v=I-LQd4g9ryQ",
+      "summary": "Covers Ibogaine Initiative: Texas Veteran &amp; Police PTSD Breakthrough! #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-28T18:03:35Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Aye ProSomething",
+      "displayDate": "May 28, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Initiative: Texas Veteran &amp; Police PTSD Breakthrough! #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine initiative: texas veteran &amp; police ptsd breakthrough! #shorts covers ibogaine initiative: texas veteran &amp; police ptsd breakthrough! #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video aye prosomething  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmU6ID",
+      "title": "Ibogaine: 6 Years Sober After Intense Grief &amp; Addiction #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Rabbit Hole: Conspiracy Theories",
+      "url": "https://www.youtube.com/watch?v=r6ZwvQpI4DY",
+      "summary": "Covers Ibogaine: 6 Years Sober After Intense Grief &amp; Addiction #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-26T01:42:59Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Rabbit Hole: Conspiracy Theories",
+      "displayDate": "May 26, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine: 6 Years Sober After Intense Grief &amp; Addiction #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine: 6 years sober after intense grief &amp; addiction #shorts covers ibogaine: 6 years sober after intense grief &amp; addiction #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video the rabbit hole: conspiracy theories  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgQ2",
+      "title": "Ibogaine Changed These Veterans&#39; Lives Forever",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "dg-mart",
+      "url": "https://www.youtube.com/watch?v=hJnAx5bR6mg",
+      "summary": "Covers Ibogaine Changed These Veterans&#39; Lives Forever. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-25T04:00:25Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "dg-mart",
+      "displayDate": "May 25, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Changed These Veterans&#39; Lives Forever.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine changed these veterans&#39; lives forever covers ibogaine changed these veterans&#39; lives forever. this is a media source, not medical evidence. podcasts_interviews youtube_video dg-mart  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-TU1BJiMzOTtzIE",
+      "title": "MMA&#39;s Dark Secret: Brain Damage &amp; Ibogaine Hope #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "ShowEditz",
+      "url": "https://www.youtube.com/watch?v=PzxsU7oJ26o",
+      "summary": "Covers MMA&#39;s Dark Secret: Brain Damage &amp; Ibogaine Hope #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-23T17:56:35Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "ShowEditz",
+      "displayDate": "May 23, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: MMA&#39;s Dark Secret: Brain Damage &amp; Ibogaine Hope #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "mma&#39;s dark secret: brain damage &amp; ibogaine hope #shorts covers mma&#39;s dark secret: brain damage &amp; ibogaine hope #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video showeditz  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Q2hvY29sYXQgZH",
+      "title": "Chocolat du Mayay à l’Iboga",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Gabon Terre Avenir",
+      "url": "https://www.youtube.com/watch?v=0xKKyGNLuPE",
+      "summary": "Covers Chocolat du Mayay à l’Iboga. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-23T14:05:48Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Gabon Terre Avenir",
+      "displayDate": "May 23, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Chocolat du Mayay à l’Iboga.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "chocolat du mayay à l’iboga covers chocolat du mayay à l’iboga. this is a media source, not medical evidence. podcasts_interviews youtube_video gabon terre avenir  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QmVuIEFmZmxlY2",
+      "title": "Ben Affleck, Matt Damon &amp; Joe Rogan on Ibogaine&#39;s Intense 24hr Trip #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "clarence william wiggons III",
+      "url": "https://www.youtube.com/watch?v=HdfGLhIMwK0",
+      "summary": "Covers Ben Affleck, Matt Damon &amp; Joe Rogan on Ibogaine&#39;s Intense 24hr Trip #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-20T23:04:22Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "clarence william wiggons III",
+      "displayDate": "May 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ben Affleck, Matt Damon &amp; Joe Rogan on Ibogaine&#39;s Intense 24hr Trip #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ben affleck, matt damon &amp; joe rogan on ibogaine&#39;s intense 24hr trip #shorts covers ben affleck, matt damon &amp; joe rogan on ibogaine&#39;s intense 24hr trip #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video clarence william wiggons iii  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgZG",
+      "title": "Ibogaine didn’t just interrupt the addiction.It forced me to confront myself.",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Inner Realms Center",
+      "url": "https://www.youtube.com/watch?v=8t5PHu2Exzw",
+      "summary": "Covers Ibogaine didn’t just interrupt the addiction.It forced me to confront myself.. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-20T20:10:55Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Inner Realms Center",
+      "displayDate": "May 20, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine didn’t just interrupt the addiction.It forced me to confront myself..",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine didn’t just interrupt the addiction.it forced me to confront myself. covers ibogaine didn’t just interrupt the addiction.it forced me to confront myself.. this is a media source, not medical evidence. podcasts_interviews youtube_video inner realms center  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGhlIFRydXRoIE",
+      "title": "The Truth About Ibogaine and Psychedelic Initiation | S.E.E.K. x Elkdonis Arts Interview",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "JoinSeek",
+      "url": "https://www.youtube.com/watch?v=LFJGMU15oXc",
+      "summary": "Covers The Truth About Ibogaine and Psychedelic Initiation | S.E.E.K. x Elkdonis Arts Interview. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-19T21:25:51Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "JoinSeek",
+      "displayDate": "May 19, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: The Truth About Ibogaine and Psychedelic Initiation | S.E.E.K. x Elkdonis Arts Interview.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "the truth about ibogaine and psychedelic initiation | s.e.e.k. x elkdonis arts interview covers the truth about ibogaine and psychedelic initiation | s.e.e.k. x elkdonis arts interview. this is a media source, not medical evidence. podcasts_interviews youtube_video joinseek  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGV4YXMgSW52ZX",
+      "title": "Texas Invests $50M in Ibogaine Research for Veterans&#39; PTSD #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Transform Your Mind Podcast",
+      "url": "https://www.youtube.com/watch?v=OFm8p1OaZf4",
+      "summary": "Covers Texas Invests $50M in Ibogaine Research for Veterans&#39; PTSD #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-17T11:44:24Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Transform Your Mind Podcast",
+      "displayDate": "May 17, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Texas Invests $50M in Ibogaine Research for Veterans&#39; PTSD #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "texas invests $50m in ibogaine research for veterans&#39; ptsd #shorts covers texas invests $50m in ibogaine research for veterans&#39; ptsd #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video transform your mind podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2E6IFRoZS",
+      "title": "Iboga: The Powerful Plant Medicine You Haven&#39;t Heard Of #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Broken and Healed TV - Michelle Katz ",
+      "url": "https://www.youtube.com/watch?v=UGh2GWDn3ng",
+      "summary": "Covers Iboga: The Powerful Plant Medicine You Haven&#39;t Heard Of #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-15T23:57:39Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Broken and Healed TV - Michelle Katz",
+      "displayDate": "May 15, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga: The Powerful Plant Medicine You Haven&#39;t Heard Of #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga: the powerful plant medicine you haven&#39;t heard of #shorts covers iboga: the powerful plant medicine you haven&#39;t heard of #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video broken and healed tv - michelle katz  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SlJFIENhbiBJYm",
+      "title": "JRE Can Ibogaine Reverse Brain Damage?",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Brainstorm",
+      "url": "https://www.youtube.com/watch?v=eGTilp3epQ4",
+      "summary": "Covers JRE Can Ibogaine Reverse Brain Damage?. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-14T20:30:55Z",
+      "foundAt": "2026-06-19T15:17:31.157Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Brainstorm",
+      "displayDate": "May 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: JRE Can Ibogaine Reverse Brain Damage?.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "jre can ibogaine reverse brain damage? covers jre can ibogaine reverse brain damage?. this is a media source, not medical evidence. podcasts_interviews youtube_video brainstorm  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-I2RydWdhZGRpY3",
+      "title": "#drugaddiction #ibogaine",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Need to know!",
+      "url": "https://www.youtube.com/watch?v=3VFBd_2DCnU",
+      "summary": "Covers #drugaddiction #ibogaine. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-23T23:22:14Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Need to know!",
+      "displayDate": "May 23, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #drugaddiction #ibogaine.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#drugaddiction #ibogaine covers #drugaddiction #ibogaine. this is a media source, not medical evidence. podcasts_interviews youtube_video need to know!  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QSBDb252ZXJzYX",
+      "title": "A Conversation with Barry: The Founder of IbogaQuest on Howard Lotsof, Ibogaine, &amp; Forgiveness",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "IbogaQuest",
+      "url": "https://www.youtube.com/watch?v=5z4LDzczZEg",
+      "summary": "Covers A Conversation with Barry: The Founder of IbogaQuest on Howard Lotsof, Ibogaine, &amp; Forgiveness. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-18T00:47:44Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "IbogaQuest",
+      "displayDate": "May 18, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: A Conversation with Barry: The Founder of IbogaQuest on Howard Lotsof, Ibogaine, &amp; Forgiveness.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "a conversation with barry: the founder of ibogaquest on howard lotsof, ibogaine, &amp; forgiveness covers a conversation with barry: the founder of ibogaquest on howard lotsof, ibogaine, &amp; forgiveness. this is a media source, not medical evidence. podcasts_interviews youtube_video ibogaquest  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QnVmbyBIZWFsaW",
+      "title": "Bufo Healing Sanctuary Educational Video /IBOGA TA-IBOGAINE",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Bufo Healing Sanctuary",
+      "url": "https://www.youtube.com/watch?v=LqZvcJSK_4Y",
+      "summary": "Covers Bufo Healing Sanctuary Educational Video /IBOGA TA-IBOGAINE. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-17T12:00:46Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Bufo Healing Sanctuary",
+      "displayDate": "May 17, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Bufo Healing Sanctuary Educational Video /IBOGA TA-IBOGAINE.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "bufo healing sanctuary educational video /iboga ta-ibogaine covers bufo healing sanctuary educational video /iboga ta-ibogaine. this is a media source, not medical evidence. podcasts_interviews youtube_video bufo healing sanctuary  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgRX",
+      "title": "Ibogaine Experience Reports: Trauma, Healing &amp; Recovery | Growers Show Episode 21",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Growers Podcast",
+      "url": "https://www.youtube.com/watch?v=xs0ZZ_2WCOM",
+      "summary": "Covers Ibogaine Experience Reports: Trauma, Healing &amp; Recovery | Growers Show Episode 21. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-11T23:06:00Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Growers Podcast",
+      "displayDate": "May 11, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Experience Reports: Trauma, Healing &amp; Recovery | Growers Show Episode 21.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine experience reports: trauma, healing &amp; recovery | growers show episode 21 covers ibogaine experience reports: trauma, healing &amp; recovery | growers show episode 21. this is a media source, not medical evidence. podcasts_interviews youtube_video growers podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmU_IF",
+      "title": "Ibogaine? The Controversial Treatment Helping Veterans",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Punk Rock Sober and Painful Lessons Podcast",
+      "url": "https://www.youtube.com/watch?v=1oJqtqBoC9A",
+      "summary": "Covers Ibogaine? The Controversial Treatment Helping Veterans. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-03-16T14:00:06Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Punk Rock Sober and Painful Lessons Podcast",
+      "displayDate": "Mar 16, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine? The Controversial Treatment Helping Veterans.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine? the controversial treatment helping veterans covers ibogaine? the controversial treatment helping veterans. this is a media source, not medical evidence. podcasts_interviews youtube_video punk rock sober and painful lessons podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UkZLICZhbXA7IE",
+      "title": "RFK &amp; Joe Rogan Talk Ibogaine Treatment",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Beond Ibogaine Treatment ",
+      "url": "https://www.youtube.com/watch?v=CUVw5RISC0E",
+      "summary": "Covers RFK &amp; Joe Rogan Talk Ibogaine Treatment. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-03-06T20:55:55Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Beond Ibogaine Treatment",
+      "displayDate": "Mar 6, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: RFK &amp; Joe Rogan Talk Ibogaine Treatment.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "rfk &amp; joe rogan talk ibogaine treatment covers rfk &amp; joe rogan talk ibogaine treatment. this is a media source, not medical evidence. podcasts_interviews youtube_video beond ibogaine treatment  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-QnJ5YW4gSHViYm",
+      "title": "Bryan Hubbard on Ibogaine and Addiction Treatment Reform | The Seano Show",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Seano Show",
+      "url": "https://www.youtube.com/watch?v=VpiT1d3LBPU",
+      "summary": "Covers Bryan Hubbard on Ibogaine and Addiction Treatment Reform | The Seano Show. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-03-02T13:00:50Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Seano Show",
+      "displayDate": "Mar 2, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Bryan Hubbard on Ibogaine and Addiction Treatment Reform | The Seano Show.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "bryan hubbard on ibogaine and addiction treatment reform | the seano show covers bryan hubbard on ibogaine and addiction treatment reform | the seano show. this is a media source, not medical evidence. podcasts_interviews youtube_video the seano show  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VGhlIFBvd2VyZn",
+      "title": "The Powerful Effects of Ibogaine Therapy | Men Talking Mindfulness",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "VALOR Media Network",
+      "url": "https://www.youtube.com/watch?v=u4900Jx9afQ",
+      "summary": "Covers The Powerful Effects of Ibogaine Therapy | Men Talking Mindfulness. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-11-20T18:01:54Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "VALOR Media Network",
+      "displayDate": "Nov 20, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: The Powerful Effects of Ibogaine Therapy | Men Talking Mindfulness.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "the powerful effects of ibogaine therapy | men talking mindfulness covers the powerful effects of ibogaine therapy | men talking mindfulness. this is a media source, not medical evidence. podcasts_interviews youtube_video valor media network  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-VHJlYXRpbmcgRG",
+      "title": "Treating Depression &amp; PTSD with Ibogaine &amp; DMT | DJ Shipley &amp; Dr. Andrew Huberman",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Huberman Lab Clips",
+      "url": "https://www.youtube.com/watch?v=JRQBOFK7t0A",
+      "summary": "Covers Treating Depression &amp; PTSD with Ibogaine &amp; DMT | DJ Shipley &amp; Dr. Andrew Huberman. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-31T17:27:25Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Huberman Lab Clips",
+      "displayDate": "Oct 31, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Treating Depression &amp; PTSD with Ibogaine &amp; DMT | DJ Shipley &amp; Dr. Andrew Huberman.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "treating depression &amp; ptsd with ibogaine &amp; dmt | dj shipley &amp; dr. andrew huberman covers treating depression &amp; ptsd with ibogaine &amp; dmt | dj shipley &amp; dr. andrew huberman. this is a media source, not medical evidence. podcasts_interviews youtube_video huberman lab clips  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgSm",
+      "title": "Ibogaine Journey: Overcoming Childhood &amp; Family Challenges #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Growth Mindset",
+      "url": "https://www.youtube.com/watch?v=mDq0Jz1mye4",
+      "summary": "Covers Ibogaine Journey: Overcoming Childhood &amp; Family Challenges #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-26T05:03:35Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Growth Mindset",
+      "displayDate": "Oct 26, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Journey: Overcoming Childhood &amp; Family Challenges #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine journey: overcoming childhood &amp; family challenges #shorts covers ibogaine journey: overcoming childhood &amp; family challenges #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video growth mindset  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2E6IGEgMj",
+      "title": "Iboga: a 24 hour dreamlike journey #iboga",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Miles Ahead Podcast: Strength For The Inner Life",
+      "url": "https://www.youtube.com/watch?v=NSmZSdqgqIU",
+      "summary": "Covers Iboga: a 24 hour dreamlike journey #iboga. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-24T12:00:48Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Miles Ahead Podcast: Strength For The Inner Life",
+      "displayDate": "Oct 24, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga: a 24 hour dreamlike journey #iboga.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga: a 24 hour dreamlike journey #iboga covers iboga: a 24 hour dreamlike journey #iboga. this is a media source, not medical evidence. podcasts_interviews youtube_video miles ahead podcast: strength for the inner life  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgVH",
+      "title": "Ibogaine Treatment: Funding Hope for Research and Wider Access #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Bodies by Brent Podcast",
+      "url": "https://www.youtube.com/watch?v=t-snjK6YJvE",
+      "summary": "Covers Ibogaine Treatment: Funding Hope for Research and Wider Access #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-13T17:56:36Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Bodies by Brent Podcast",
+      "displayDate": "Oct 13, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Treatment: Funding Hope for Research and Wider Access #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine treatment: funding hope for research and wider access #shorts covers ibogaine treatment: funding hope for research and wider access #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video bodies by brent podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-REogU2hpcGxleS",
+      "title": "DJ Shipley and Andrew Huberman Discuss Ibogaine and Mental Health on the Huberman Lab Podcast",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "VETS | Veterans Exploring Treatment Solutions",
+      "url": "https://www.youtube.com/watch?v=A7JI01-8068",
+      "summary": "Covers DJ Shipley and Andrew Huberman Discuss Ibogaine and Mental Health on the Huberman Lab Podcast. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-10-08T04:00:17Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "VETS | Veterans Exploring Treatment Solutions",
+      "displayDate": "Oct 8, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: DJ Shipley and Andrew Huberman Discuss Ibogaine and Mental Health on the Huberman Lab Podcast.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "dj shipley and andrew huberman discuss ibogaine and mental health on the huberman lab podcast covers dj shipley and andrew huberman discuss ibogaine and mental health on the huberman lab podcast. this is a media source, not medical evidence. podcasts_interviews youtube_video vets | veterans exploring treatment solutions  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgdn",
+      "title": "Ibogaine vs Iboga: The Truth About Addiction Treatment! #shorts",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Bodies by Brent Podcast",
+      "url": "https://www.youtube.com/watch?v=YAPY8-y1RT8",
+      "summary": "Covers Ibogaine vs Iboga: The Truth About Addiction Treatment! #shorts. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-09-28T19:00:35Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Bodies by Brent Podcast",
+      "displayDate": "Sep 28, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine vs Iboga: The Truth About Addiction Treatment! #shorts.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine vs iboga: the truth about addiction treatment! #shorts covers ibogaine vs iboga: the truth about addiction treatment! #shorts. this is a media source, not medical evidence. podcasts_interviews youtube_video bodies by brent podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-UmljayBQZXJyeS",
+      "title": "Rick Perry&#39;s Strong Support for Ibogaine Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Friends With Hippies ",
+      "url": "https://www.youtube.com/watch?v=2jjlymKLjF0",
+      "summary": "Covers Rick Perry&#39;s Strong Support for Ibogaine Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2025-08-14T04:26:13Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Friends With Hippies",
+      "displayDate": "Aug 14, 2025",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Rick Perry&#39;s Strong Support for Ibogaine Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "rick perry&#39;s strong support for ibogaine therapy covers rick perry&#39;s strong support for ibogaine therapy. this is a media source, not medical evidence. podcasts_interviews youtube_video friends with hippies  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-IzIzODUgLSBSaW",
@@ -6255,7 +7919,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6281,7 +7945,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6307,7 +7971,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T16:38:43Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6333,7 +7997,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-02T22:02:50Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6359,7 +8023,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6385,7 +8049,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-31T17:01:15Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6411,7 +8075,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03-08T02:30:36Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6437,7 +8101,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-19T09:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6463,7 +8127,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-17T09:46:46Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6489,7 +8153,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-10T10:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6515,7 +8179,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-08T02:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6541,7 +8205,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-08-26T08:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6567,7 +8231,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-07T19:30:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6593,7 +8257,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-07-20T10:04:39Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6619,7 +8283,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-30T06:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6645,7 +8309,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-10-17T15:18:09Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6671,7 +8335,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-11-05T16:00:31Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6697,7 +8361,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-06-29T10:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6723,7 +8387,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-20T09:00:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6749,7 +8413,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 12 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6775,7 +8439,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-02T07:30:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6801,7 +8465,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-18T18:31:00Z",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -6814,6 +8478,84 @@
       "conversationContext": "Topic from title: How the right embraced psychedelics.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
       "searchText": "how the right embraced psychedelics covers how the right embraced psychedelics. this is a media source, not medical evidence. podcasts_interviews podcast_interview today, explained  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-V2h5IFRoZSBQZW",
+      "title": "Why The Pentagon Started Taking Psychedelics Seriously | Rak Razam",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "I Call BS",
+      "url": "https://www.youtube.com/watch?v=-uRlReHTU2I",
+      "summary": "Covers Why The Pentagon Started Taking Psychedelics Seriously | Rak Razam. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-22T22:52:03Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "I Call BS",
+      "displayDate": "May 22, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Why The Pentagon Started Taking Psychedelics Seriously | Rak Razam.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "why the pentagon started taking psychedelics seriously | rak razam covers why the pentagon started taking psychedelics seriously | rak razam. this is a media source, not medical evidence. podcasts_interviews youtube_video i call bs  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-Q2xpZW50cyBCZW",
+      "title": "Clients Become Extremely Vulnerable During Psychedelic Therapy",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Critical Therapy Antidote Podcast",
+      "url": "https://www.youtube.com/watch?v=ycy4qiAz0_s",
+      "summary": "Covers Clients Become Extremely Vulnerable During Psychedelic Therapy. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-25T16:15:03Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Critical Therapy Antidote Podcast",
+      "displayDate": "May 25, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Clients Become Extremely Vulnerable During Psychedelic Therapy.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "clients become extremely vulnerable during psychedelic therapy covers clients become extremely vulnerable during psychedelic therapy. this is a media source, not medical evidence. podcasts_interviews youtube_video critical therapy antidote podcast  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-WW91IGVhdCB3b2",
+      "title": "You eat wood #selfaware #podcast",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "The Human Mask",
+      "url": "https://www.youtube.com/watch?v=oaIcA6zkZVY",
+      "summary": "Covers You eat wood #selfaware #podcast. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-14T14:56:26Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "The Human Mask",
+      "displayDate": "May 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: You eat wood #selfaware #podcast.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "you eat wood #selfaware #podcast covers you eat wood #selfaware #podcast. this is a media source, not medical evidence. podcasts_interviews youtube_video the human mask  media cataloged source media metadata"
     },
     {
       "id": "documentary-wiki-0001",
@@ -6829,7 +8571,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -6861,7 +8603,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -6918,7 +8660,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -6953,7 +8695,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -7168,7 +8910,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -7194,7 +8936,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -7220,7 +8962,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -7253,7 +8995,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -7583,32 +9325,6 @@
       "conversationContext": "Covers safety.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
       "searchText": "is ibogaine really a magic bullet for depression and ptsd? not exactly - scientific american news or commentary from scientific american. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism scientific american  safety cataloged source primary-source record"
-    },
-    {
-      "id": "source_radar_archive-SWJvZ2FpbmUgdH",
-      "title": "Ibogaine treatment for opioid use disorder: What you need to know - Healio",
-      "category": "news_articles_blogs",
-      "sourceType": "journalism",
-      "sourceName": "Healio",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzg0aGhxb3g4SkFtU3dpb3BXdGpsMmJlalRqS0NXVkU0NkFWNWJHX3RpRHFsT2g1WjRPM0JRbF92X1JGZldabzNBR05lMDV3cFd5Z3J6Z3RkOVd0bEJNRm9UMG0yQXlCc3VtSGtaMHl5TVVHTU1hazBiZ2g1Z3E1V2J5Vml6WHZvR0ZGYUFtcm4xNWY1TGppcDFna1Q4clFWYmhKRDJKUEdjdk4yYjV4c0F6LU0?oc=5",
-      "summary": "News or commentary from Healio. Use it to understand public discussion and timing; verify important claims against primary sources.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Thu, 05 Dec 2019 08:00:00 GMT",
-      "foundAt": "2026-05-31T02:55:06.883Z",
-      "sourceOrigin": "source_radar_archive",
-      "tags": [
-        "safety"
-      ],
-      "displayCategory": "News and commentary",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "Healio",
-      "displayDate": "Dec 5, 2019",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers safety.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "ibogaine treatment for opioid use disorder: what you need to know - healio news or commentary from healio. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism healio  safety cataloged source primary-source record"
     },
     {
       "id": "source_radar_archive-MjAyNTogVGhlIF",
@@ -8272,7 +9988,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8298,7 +10014,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8324,7 +10040,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8350,7 +10066,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8376,7 +10092,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 03 Mar 2026 10:22:03 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8402,7 +10118,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8428,7 +10144,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8454,7 +10170,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8480,7 +10196,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -8506,7 +10222,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -8521,6 +10237,32 @@
       "searchText": "a new executive order on psychedelics: q&amp;a with i. glenn cohen and mason marks - petrie-flom center news or commentary from petrie-flom center. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism petrie-flom center  blogs cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-QSBTY2hlZHVsZS",
+      "title": "A Schedule I drug is drawing White House interest, and Psyence is ready - Stock Titan",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism",
+      "sourceName": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYk1XVVZFR3BEdFZCNmQwQWVBVEdZN3Q0Y3Jqb21DSTJCOTZMWTBFeXFhbGdLRUJBem91clpRa2pya19vRkhzSjBxS3hGS0hOdDdxMFFRQkdUNmRqWnU3NVJoM2oxUmd3SG54Mk0wZ1F6bEh6U1oyUlp5ZkpfLWk4eGFWOGVoYWpTcGNpYm8yRzhkZW53MkMyWWVCM3NIcGlkUzRmbmE3dS15T0ozWXdzUWVCWF9QOC1oakN3?oc=5",
+      "summary": "News or commentary from Stock Titan. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "foundAt": "2026-06-19T15:18:42.531Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "companies"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Stock Titan",
+      "displayDate": "Apr 17, 2026",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers companies.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "a schedule i drug is drawing white house interest, and psyence is ready - stock titan news or commentary from stock titan. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism stock titan  companies cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-Q2FuIHRoaXMgcH",
       "title": "Can this psychedelic reset addicted brains? Here are 4 surprising facts - Ynetnews",
       "category": "news_articles_blogs",
@@ -8532,7 +10274,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Jun 2026 15:24:43 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -8560,7 +10302,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -8591,7 +10333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -8801,7 +10543,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -8827,7 +10569,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -8853,7 +10595,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -8879,7 +10621,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 14 Jul 2023 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -8905,7 +10647,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -8941,7 +10683,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -8974,7 +10716,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -9318,7 +11060,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -9353,7 +11095,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -9388,7 +11130,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -9418,7 +11160,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-19T15:03:30.408Z",
+      "foundAt": "2026-06-19T15:19:06.510Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -9525,7 +11267,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -9551,7 +11293,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 05 Feb 2024 08:00:00 GMT",
-      "foundAt": "2026-06-19T15:03:07.718Z",
+      "foundAt": "2026-06-19T15:18:42.531Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -12103,7 +13845,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -12139,7 +13881,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -12170,7 +13912,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -12203,7 +13945,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -12235,7 +13977,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -12267,7 +14009,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-19T15:03:37.387Z",
+      "foundAt": "2026-06-19T15:19:11.715Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
