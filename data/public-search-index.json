@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-20T15:27:04.160Z",
-  "totalRecords": 578,
+  "generatedAt": "2026-06-20T15:42:37.722Z",
+  "totalRecords": 577,
   "categories": {
     "books_bibliographies": 14,
-    "clinical_trials": 18,
+    "clinical_trials": 19,
     "clinics": 19,
     "companies_patents": 14,
     "culture_stewardship": 11,
     "documentaries_films": 2,
     "evidence_pages": 8,
     "laws_policy": 61,
-    "news_articles_blogs": 70,
+    "news_articles_blogs": 69,
     "podcasts_interviews": 260,
     "reference_pages": 4,
     "state_policy_coverage": 51,
-    "studies_papers": 41,
+    "studies_papers": 40,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -37,7 +37,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -78,7 +78,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -117,7 +117,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -154,7 +154,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -186,7 +186,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -216,7 +216,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -245,7 +245,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -276,7 +276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -305,7 +305,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -333,7 +333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -907,7 +907,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -922,32 +922,6 @@
       "searchText": "texas to launch independent psychedelic study after drug companies miss mark - fox 7 austin research source from fox 7 austin. study design, sample size, limitations, and safety signals matter. studies_papers journalism fox 7 austin  policy cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-TGVnaXNsYXRpdm",
-      "title": "Legislative updates in Mississippi, West Virginia, Oregon, and New Hampshire; Fast-tracked federal approval of Compass's synthetic psilocybin was vetoed; Federal bill proposes VA study psychedelics - The Microdose | Substack",
-      "category": "studies_papers",
-      "sourceType": "journalism",
-      "sourceName": "The Microdose | Substack",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DUmtrSU1jcEdXUEIyVVZmYzBNdUxnb1M0S01PeUZkOVU4XzcwVW1fV0p5MmtHcGMxWFhqbkNKS3l4anhmd291RU9zcHRCQzNUZzF2OUMwUXNWRXNhamsyam95cW03VUxucUVjM3d5UHkwWEN2eHpXWU9B?oc=5",
-      "summary": "Research source from The Microdose | Substack. Study design, sample size, limitations, and safety signals matter.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "blogs"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Microdose | Substack",
-      "displayDate": "Feb 6, 2026",
-      "whatItIs": "Journalism",
-      "conversationContext": "Covers blogs.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "legislative updates in mississippi, west virginia, oregon, and new hampshire; fast-tracked federal approval of compass's synthetic psilocybin was vetoed; federal bill proposes va study psychedelics - the microdose | substack research source from the microdose | substack. study design, sample size, limitations, and safety signals matter. studies_papers journalism the microdose | substack  blogs cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-RGlmZmVyZW50aW",
       "title": "Differential Impacts of Methadone and Buprenorphine/Naloxone on Pain-Related Outcomes Among People With Non-Heroin Opioid Use Disorder: Secondary Analyses From a Pragmatic Canadian Multisite Trial.",
       "category": "studies_papers",
@@ -959,7 +933,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -985,7 +959,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 23",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1011,7 +985,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1037,7 +1011,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2017-12-15",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1063,7 +1037,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 1",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1089,7 +1063,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1115,7 +1089,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1141,7 +1115,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1167,7 +1141,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 22",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1193,7 +1167,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 12",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1219,7 +1193,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 May 8",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1245,7 +1219,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1271,7 +1245,7 @@
       "status": "Recruiting",
       "people": [],
       "publishedAt": "2025-10-22",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1297,7 +1271,7 @@
       "status": "Unknown",
       "people": [],
       "publishedAt": "2022-07-18",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1323,7 +1297,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2024-06-19",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1349,7 +1323,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1375,7 +1349,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2019-06-27",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1401,7 +1375,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1430,7 +1404,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1459,7 +1433,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -1945,6 +1919,32 @@
       "searchText": "tn bill could create clinical trials for ibogaine - wkrn news 2 research or trial-status source from wkrn news 2. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism wkrn news 2  media cataloged source primary-source record"
     },
     {
+      "id": "source_radar_archive-Q2xpbmljYWwgVH",
+      "title": "Clinical Trial on Ibogaine for Opioid Dependence is Underway and Recruiting - ICEERS",
+      "category": "clinical_trials",
+      "sourceType": "journalism",
+      "sourceName": "ICEERS",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNl9Hbm1UaHUxMnVjYzdyM0lPUGp5MjBGVURYUF9SZnBZYjBERmMwT1NTZFdnRVJ5YnpMNEpQOXhQdFhoN0JNNnhRVjBSV0pRdldHaW5WcEFIelFaQ21HLWZHWEg1UFZDcEJFVWVacERRaDc2R1dFd1ZFZXVXdHZnaA?oc=5",
+      "summary": "Research or trial-status source from ICEERS. A listing or announcement does not prove safety, efficacy, approval, or availability.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Wed, 02 Nov 2022 07:00:00 GMT",
+      "foundAt": "2026-06-20T15:42:06.463Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "blogs"
+      ],
+      "displayCategory": "Clinical trials",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "ICEERS",
+      "displayDate": "Nov 2, 2022",
+      "whatItIs": "Trial, registry, agency, or research-status record.",
+      "conversationContext": "Covers blogs.",
+      "whyListed": "Useful for tracking research status. A trial listing or announcement is not proof that a treatment works.",
+      "searchText": "clinical trial on ibogaine for opioid dependence is underway and recruiting - iceers research or trial-status source from iceers. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism iceers  blogs cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-R09QIGJpbGwgd2",
       "title": "GOP bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment - Michigan Advance",
       "category": "clinical_trials",
@@ -1956,7 +1956,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1982,7 +1982,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -2012,7 +2012,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -2041,7 +2041,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -3213,7 +3213,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3239,7 +3239,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -3265,7 +3265,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-22T08:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -3291,7 +3291,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -3317,7 +3317,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3343,7 +3343,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -3369,7 +3369,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -3395,7 +3395,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3421,7 +3421,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3447,7 +3447,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -3473,7 +3473,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3502,7 +3502,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3532,7 +3532,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3563,7 +3563,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3594,7 +3594,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3623,7 +3623,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3657,7 +3657,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3690,7 +3690,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -3725,7 +3725,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -9635,7 +9635,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9661,7 +9661,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9687,7 +9687,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024-12-31T22:20:22Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9713,7 +9713,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-02T22:02:50Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9739,7 +9739,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9765,7 +9765,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-31T17:01:15Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9791,7 +9791,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03-08T02:30:36Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9817,7 +9817,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-19T09:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9843,7 +9843,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T16:38:43Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9869,7 +9869,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-10T10:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9895,7 +9895,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-08T02:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9921,7 +9921,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-08-26T08:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9947,7 +9947,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-07T19:30:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9973,7 +9973,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-07-20T10:04:39Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -9999,7 +9999,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-30T06:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10025,7 +10025,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-10-17T15:18:09Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10051,7 +10051,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-11-05T16:00:31Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10077,7 +10077,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-06-29T10:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10103,7 +10103,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-12T10:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10129,7 +10129,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-20T09:00:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10155,7 +10155,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-02T07:30:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10181,7 +10181,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-18T18:31:00Z",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -10209,7 +10209,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -10241,7 +10241,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -10298,7 +10298,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -10333,7 +10333,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -10548,7 +10548,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -10574,7 +10574,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -10600,7 +10600,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -10633,7 +10633,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -11652,7 +11652,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11678,7 +11678,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11704,7 +11704,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 20 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11730,7 +11730,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11756,7 +11756,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11782,7 +11782,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 03 Mar 2026 10:22:03 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11808,7 +11808,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11834,7 +11834,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11860,7 +11860,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -11886,7 +11886,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -11901,32 +11901,6 @@
       "searchText": "a new executive order on psychedelics: q&amp;a with i. glenn cohen and mason marks - petrie-flom center news or commentary from petrie-flom center. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism petrie-flom center  blogs cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-U2NpZW50aXN0cy",
-      "title": "Scientists engineered plants to produce five psychedelics at once; ‘Mega-analysis’ shows brain responses to five psychedelics share a “signature” - The Microdose | Substack",
-      "category": "news_articles_blogs",
-      "sourceType": "journalism",
-      "sourceName": "The Microdose | Substack",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVVidXJuNURWcUdxRnp1cDlFVXRzeXUtOWhlM3RicmNmazhCMW5yVTRRcDVBV3BWUWFFNlJSU21EUUhNTGowdVJnOGNyR3Z0akdQNzRrS0lXQ3J3Nzluem1mejE0LWxWanpjdGN0bnUwa09uSlRFUTBDU2xIcnpWYQ?oc=5",
-      "summary": "News or commentary from The Microdose | Substack. Use it to understand public discussion and timing; verify important claims against primary sources.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "blogs"
-      ],
-      "displayCategory": "News and commentary",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "The Microdose | Substack",
-      "displayDate": "Apr 10, 2026",
-      "whatItIs": "News or commentary.",
-      "conversationContext": "Covers blogs.",
-      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "scientists engineered plants to produce five psychedelics at once; ‘mega-analysis’ shows brain responses to five psychedelics share a “signature” - the microdose | substack news or commentary from the microdose | substack. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the microdose | substack  blogs cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-QSBTY2hlZHVsZS",
       "title": "A Schedule I drug is drawing White House interest, and Psyence is ready - Stock Titan",
       "category": "news_articles_blogs",
@@ -11938,7 +11912,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -11964,7 +11938,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -11992,7 +11966,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -12023,7 +11997,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -12233,7 +12207,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -12259,7 +12233,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 27 Mar 2025 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -12285,7 +12259,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -12311,7 +12285,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 14 Jul 2023 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -12337,7 +12311,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -12373,7 +12347,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -12406,7 +12380,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -12750,7 +12724,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -12785,7 +12759,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -12820,7 +12794,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -12850,7 +12824,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-20T15:26:56.722Z",
+      "foundAt": "2026-06-20T15:42:30.045Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -12957,7 +12931,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-06-20T15:26:33.943Z",
+      "foundAt": "2026-06-20T15:42:06.463Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -15509,7 +15483,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -15545,7 +15519,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -15576,7 +15550,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -15609,7 +15583,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -15641,7 +15615,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -15673,7 +15647,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-20T15:27:04.160Z",
+      "foundAt": "2026-06-20T15:42:37.722Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
