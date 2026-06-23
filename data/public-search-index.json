@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-23T01:20:34.487Z",
-  "totalRecords": 610,
+  "generatedAt": "2026-06-23T01:29:22.709Z",
+  "totalRecords": 613,
   "categories": {
     "books_bibliographies": 14,
     "clinical_trials": 19,
-    "clinics": 19,
+    "clinics": 18,
     "companies_patents": 14,
-    "culture_stewardship": 11,
+    "culture_stewardship": 12,
     "documentaries_films": 2,
     "evidence_pages": 8,
     "laws_policy": 61,
-    "news_articles_blogs": 74,
-    "podcasts_interviews": 288,
+    "news_articles_blogs": 76,
+    "podcasts_interviews": 290,
     "reference_pages": 4,
     "state_policy_coverage": 51,
-    "studies_papers": 40,
+    "studies_papers": 39,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -23,42 +23,6 @@
     "Ask IbogaBase must refuse dosing, provider referral, self-treatment, individualized medical/legal advice, and treatment instructions."
   ],
   "records": [
-    {
-      "id": "culture-origin-samorini-mythology-2024",
-      "title": "Studies on the iboga cults. III. Iboga and Bwiti mythology",
-      "category": "studies_papers",
-      "sourceType": "cultural_source",
-      "sourceName": "Antrocom Journal of Anthropology",
-      "url": "https://antrocom.net/archives/2024/volume-20-number-2/studies-on-the-iboga-cults-iii-iboga-and-bwiti-mythology/",
-      "summary": "Anthropology article on mythological origins of Iboga and Bwiti, including distinction among Mitsogho and Fang contexts and multiple versions of the Banzioku story. Use to avoid flattening public origin narratives into a single universal version.",
-      "confidence": "Cultural source",
-      "status": "Cataloged source",
-      "people": [
-        "Giorgio Samorini"
-      ],
-      "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
-      "sourceOrigin": "manual_seed",
-      "tags": [
-        "iboga",
-        "bwiti",
-        "bwete",
-        "mythology",
-        "origin_story",
-        "banzioku",
-        "fang",
-        "mitsogho",
-        "gabon"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Cultural source",
-      "displaySourceName": "Antrocom Journal of Anthropology",
-      "displayDate": "",
-      "whatItIs": "Cultural source",
-      "conversationContext": "Covers bwiti, bwete, mythology, origin story.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "studies on the iboga cults. iii. iboga and bwiti mythology anthropology article on mythological origins of iboga and bwiti, including distinction among mitsogho and fang contexts and multiple versions of the banzioku story. use to avoid flattening public origin narratives into a single universal version. studies_papers cultural_source antrocom journal of anthropology  iboga bwiti bwete mythology origin_story banzioku fang mitsogho gabon cataloged source cultural source"
-    },
     {
       "id": "ambio-research-nature-medicine-2024",
       "title": "Magnesium-ibogaine therapy in veterans with traumatic brain injuries",
@@ -78,7 +42,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -117,7 +81,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -154,7 +118,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -186,7 +150,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -216,7 +180,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -245,7 +209,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -276,7 +240,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -305,7 +269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -333,7 +297,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1401,7 +1365,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1430,7 +1394,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1459,7 +1423,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -2008,7 +1972,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -2038,7 +2002,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -2067,7 +2031,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -3499,7 +3463,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3528,7 +3492,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3558,7 +3522,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3589,7 +3553,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -3607,6 +3571,116 @@
       "searchText": "magic frogs, iboga and the magic of hallucinogens: a conversation with hamilton morris covers hamilton morris, hallucinogens. this is a media source, not medical evidence. podcasts_interviews podcast_interview plants of the gods  hamilton_morris iboga hallucinogens podcast cataloged source media metadata"
     },
     {
+      "id": "podcast-tim-ferriss-0511-hamilton-morris-iboga-2021",
+      "title": "Hamilton Morris on Iboga, 5-MeO-DMT, the Power of Ritual, New Frontiers in Psychedelics, Excellent Problems to Solve, and More (#511)",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview_show_page",
+      "sourceName": "The Tim Ferriss Show",
+      "url": "https://tim.blog/2021/04/27/hamilton-morris-2/",
+      "summary": "Official Tim Ferriss Show page for episode #511 with Hamilton Morris. The show notes explicitly include Iboga, Ibogaine discovery history, cardiac-health questions, sustainability, and psychedelic-commercialization concerns. Listed as media/public conversation, not clinical evidence.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Tim Ferriss",
+        "Hamilton Morris"
+      ],
+      "publishedAt": "2021-04-27",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "tim_ferriss",
+        "hamilton_morris",
+        "iboga",
+        "ibogaine",
+        "5_meo_dmt",
+        "ritual",
+        "sustainability",
+        "opioid_addiction_history",
+        "podcast"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview Show Page",
+      "displaySourceName": "The Tim Ferriss Show",
+      "displayDate": "Apr 27, 2021",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Main topics: tim ferriss, hamilton morris, 5 meo dmt, ritual. People named in the record: Tim Ferriss, Hamilton Morris.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "hamilton morris on iboga, 5-meo-dmt, the power of ritual, new frontiers in psychedelics, excellent problems to solve, and more (#511) official tim ferriss show page for episode #511 with hamilton morris. the show notes explicitly include iboga, ibogaine discovery history, cardiac-health questions, sustainability, and psychedelic-commercialization concerns. listed as media/public conversation, not clinical evidence. podcasts_interviews podcast_interview_show_page the tim ferriss show  tim_ferriss hamilton_morris iboga ibogaine 5_meo_dmt ritual sustainability opioid_addiction_history podcast cataloged source primary-source record"
+    },
+    {
+      "id": "podcast-tim-ferriss-0337-hamilton-morris-ibogaine-2018",
+      "title": "Hamilton Morris on Better Living Through Chemistry: Psychedelics, Smart Drugs, and More (#337)",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview_show_page",
+      "sourceName": "The Tim Ferriss Show",
+      "url": "https://tim.blog/2018/09/20/hamilton-morris/",
+      "summary": "Official Tim Ferriss Show page for episode #337 with Hamilton Morris. The transcript and show notes include an Ibogaine discussion. Listed as media/public conversation, not clinical evidence.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Tim Ferriss",
+        "Hamilton Morris"
+      ],
+      "publishedAt": "2018-09-20",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "tim_ferriss",
+        "hamilton_morris",
+        "ibogaine",
+        "psychedelics",
+        "smart_drugs",
+        "podcast"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview Show Page",
+      "displaySourceName": "The Tim Ferriss Show",
+      "displayDate": "Sep 20, 2018",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Main topics: tim ferriss, hamilton morris, psychedelics, smart drugs. People named in the record: Tim Ferriss, Hamilton Morris.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "hamilton morris on better living through chemistry: psychedelics, smart drugs, and more (#337) official tim ferriss show page for episode #337 with hamilton morris. the transcript and show notes include an ibogaine discussion. listed as media/public conversation, not clinical evidence. podcasts_interviews podcast_interview_show_page the tim ferriss show  tim_ferriss hamilton_morris ibogaine psychedelics smart_drugs podcast cataloged source primary-source record"
+    },
+    {
+      "id": "podcast-tim-ferriss-0605-hamilton-morris-mark-plotkin-2022",
+      "title": "Hamilton Morris and Dr. Mark Plotkin: Exploring the History of Psychoactive Substances, Synthetic vs. Natural Options, Microdosing, 5-MeO-DMT, The Drunken Monkey Hypothesis, Timothy Leary's Legacy, and More (#605)",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview_show_page",
+      "sourceName": "The Tim Ferriss Show",
+      "url": "https://tim.blog/2022/07/01/mark-plotkin-and-hamilton-morris/",
+      "summary": "Official Tim Ferriss Show page for episode #605, a Tim Ferriss feed presentation of Mark Plotkin interviewing Hamilton Morris. Relevant to IbogaBase for Hamilton Morris, ethnobotany, conservation, and synthetic-versus-natural framing; use as media context, not clinical evidence.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [
+        "Tim Ferriss",
+        "Hamilton Morris",
+        "Mark Plotkin"
+      ],
+      "publishedAt": "2022-07-01",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "tim_ferriss",
+        "hamilton_morris",
+        "mark_plotkin",
+        "plants_of_the_gods",
+        "psychoactive_substances",
+        "synthetic_vs_natural",
+        "conservation",
+        "iboga",
+        "ibogaine",
+        "podcast"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview Show Page",
+      "displaySourceName": "The Tim Ferriss Show",
+      "displayDate": "Jul 1, 2022",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Main topics: tim ferriss, hamilton morris, mark plotkin, plants of the gods. People named in the record: Tim Ferriss, Hamilton Morris, Mark Plotkin.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "hamilton morris and dr. mark plotkin: exploring the history of psychoactive substances, synthetic vs. natural options, microdosing, 5-meo-dmt, the drunken monkey hypothesis, timothy leary's legacy, and more (#605) official tim ferriss show page for episode #605, a tim ferriss feed presentation of mark plotkin interviewing hamilton morris. relevant to ibogabase for hamilton morris, ethnobotany, conservation, and synthetic-versus-natural framing; use as media context, not clinical evidence. podcasts_interviews podcast_interview_show_page the tim ferriss show  tim_ferriss hamilton_morris mark_plotkin plants_of_the_gods psychoactive_substances synthetic_vs_natural conservation iboga ibogaine podcast cataloged source primary-source record"
+    },
+    {
       "id": "podcast-apple-0004",
       "title": "Exploring Ibogaine: A Breakthrough in Addiction Therapy with Deborah Mash, PhD",
       "category": "podcasts_interviews",
@@ -3620,7 +3694,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3649,7 +3723,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3683,7 +3757,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3702,41 +3776,6 @@
       "searchText": "ibogaine: safety, ethics, and emerging neuroregenerative science - a conversation with jonathan dickinson covers safety, ethics, neuroregeneration. this is a media source, not medical evidence. podcasts_interviews podcast_interview intonicated  ibogaine safety ethics neuroregeneration podcast cataloged source media metadata"
     },
     {
-      "id": "ambio-news-cpr-2025",
-      "title": "Psychedelic offers new hope for treating addiction",
-      "category": "podcasts_interviews",
-      "sourceType": "journalism_interview",
-      "sourceName": "Colorado Public Radio",
-      "url": "https://www.cpr.org/2025/07/28/psychedelic-ibogaine-addiction-treatment-interview/",
-      "summary": "CPR News interview with Jonathan Dickinson, identified as founder of Ambio Life Sciences. Useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported.",
-      "confidence": "Journalism",
-      "status": "Cataloged source",
-      "people": [
-        "Andrea Dukakis",
-        "Jonathan Dickinson"
-      ],
-      "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
-      "sourceOrigin": "manual_seed",
-      "tags": [
-        "ambio",
-        "ambio_life_sciences",
-        "jonathan_dickinson",
-        "colorado",
-        "addiction",
-        "public_discussion",
-        "clinic_claims"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Journalism Interview",
-      "displaySourceName": "Colorado Public Radio",
-      "displayDate": "",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Main topics: ambio, ambio life sciences, jonathan dickinson, colorado. People named in the record: Andrea Dukakis, Jonathan Dickinson.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "psychedelic offers new hope for treating addiction cpr news interview with jonathan dickinson, identified as founder of ambio life sciences. useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported. podcasts_interviews journalism_interview colorado public radio  ambio ambio_life_sciences jonathan_dickinson colorado addiction public_discussion clinic_claims cataloged source journalism"
-    },
-    {
       "id": "youtube-rich-roll-iboga-therapy-13zelqi9kwe-2026",
       "title": "Inside My Grueling 72-Hour Psychedelic Iboga Therapy",
       "category": "podcasts_interviews",
@@ -3751,7 +3790,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -10989,7 +11028,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -11021,7 +11060,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -11078,7 +11117,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -11113,7 +11152,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -11380,7 +11419,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -11413,7 +11452,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -11431,6 +11470,73 @@
       "conversationContext": "Covers howard lotsof, history, 1962, heroin.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
       "searchText": "in memoriam: howard lotsof memorial article describing lotsof's 1962 observation and lifelong advocacy. useful as history and community context; confirm clinical claims with stronger evidence sources. news_articles_blogs memorial_article maps bulletin  howard_lotsof history 1962 ibogaine heroin advocacy cataloged source memorial article"
+    },
+    {
+      "id": "ambio-news-cpr-2025",
+      "title": "Psychedelic offers new hope for treating addiction",
+      "category": "news_articles_blogs",
+      "sourceType": "journalism_interview",
+      "sourceName": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2025/07/28/psychedelic-ibogaine-addiction-treatment-interview/",
+      "summary": "CPR News interview with Jonathan Dickinson, identified as founder of Ambio Life Sciences. Useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported.",
+      "confidence": "Journalism",
+      "status": "Cataloged source",
+      "people": [
+        "Andrea Dukakis",
+        "Jonathan Dickinson"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "jonathan_dickinson",
+        "colorado",
+        "addiction",
+        "public_discussion",
+        "clinic_claims"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Journalism Interview",
+      "displaySourceName": "Colorado Public Radio",
+      "displayDate": "",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers ambio, ambio life sciences, jonathan dickinson, colorado.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "psychedelic offers new hope for treating addiction cpr news interview with jonathan dickinson, identified as founder of ambio life sciences. useful for public-facing claims and policy context; statements in the interview should be treated as interview claims unless independently supported. news_articles_blogs journalism_interview colorado public radio  ambio ambio_life_sciences jonathan_dickinson colorado addiction public_discussion clinic_claims cataloged source journalism"
+    },
+    {
+      "id": "ambio-news-globenewswire-neurodegenerative-2025",
+      "title": "Ambio Life Sciences launches clinical ibogaine program for patients with neurodegenerative conditions",
+      "category": "news_articles_blogs",
+      "sourceType": "company_release",
+      "sourceName": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2025/06/09/3095856/0/en/Ambio-Life-Sciences-Launches-World-s-First-Clinical-Ibogaine-Program-for-Patients-With-Neurodegenerative-Conditions.html",
+      "summary": "Company-distributed press release about an Ambio neurodegenerative-conditions program. Use as a commercial/company claim record, not independent evidence of safety, efficacy, or access.",
+      "confidence": "Company release",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "ambio",
+        "ambio_life_sciences",
+        "neurodegenerative",
+        "parkinsons",
+        "multiple_sclerosis",
+        "clinic_claims",
+        "company_release"
+      ],
+      "displayCategory": "News and commentary",
+      "displaySourceType": "Company release",
+      "displaySourceName": "GlobeNewswire",
+      "displayDate": "",
+      "whatItIs": "News or commentary.",
+      "conversationContext": "Covers ambio, ambio life sciences, neurodegenerative, parkinsons.",
+      "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
+      "searchText": "ambio life sciences launches clinical ibogaine program for patients with neurodegenerative conditions company-distributed press release about an ambio neurodegenerative-conditions program. use as a commercial/company claim record, not independent evidence of safety, efficacy, or access. news_articles_blogs company_release globenewswire  ambio ambio_life_sciences neurodegenerative parkinsons multiple_sclerosis clinic_claims company_release cataloged source company release"
     },
     {
       "id": "source_radar_archive-V2hhdCBpcyB0aG",
@@ -12824,7 +12930,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -12855,7 +12961,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -13158,38 +13264,6 @@
       "searchText": "how an investor evaluates five leading psychedelic therapy companies - lucid.news company, patent, or biotech-field source from lucid.news. commercial claims need independent verification. companies_patents journalism lucid.news  commercial cataloged source primary-source record"
     },
     {
-      "id": "ambio-news-globenewswire-neurodegenerative-2025",
-      "title": "Ambio Life Sciences launches clinical ibogaine program for patients with neurodegenerative conditions",
-      "category": "clinics",
-      "sourceType": "company_release",
-      "sourceName": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2025/06/09/3095856/0/en/Ambio-Life-Sciences-Launches-World-s-First-Clinical-Ibogaine-Program-for-Patients-With-Neurodegenerative-Conditions.html",
-      "summary": "Company-distributed press release about an Ambio neurodegenerative-conditions program. Use as a commercial/company claim record, not independent evidence of safety, efficacy, or access.",
-      "confidence": "Company release",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
-      "sourceOrigin": "manual_seed",
-      "tags": [
-        "ambio",
-        "ambio_life_sciences",
-        "neurodegenerative",
-        "parkinsons",
-        "multiple_sclerosis",
-        "clinic_claims",
-        "company_release"
-      ],
-      "displayCategory": "Clinic claims",
-      "displaySourceType": "Company release",
-      "displaySourceName": "GlobeNewswire",
-      "displayDate": "",
-      "whatItIs": "Clinic-claim monitoring entry.",
-      "conversationContext": "Covers ambio, ambio life sciences, neurodegenerative, parkinsons.",
-      "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
-      "searchText": "ambio life sciences launches clinical ibogaine program for patients with neurodegenerative conditions company-distributed press release about an ambio neurodegenerative-conditions program. use as a commercial/company claim record, not independent evidence of safety, efficacy, or access. clinics company_release globenewswire  ambio ambio_life_sciences neurodegenerative parkinsons multiple_sclerosis clinic_claims company_release cataloged source company release"
-    },
-    {
       "id": "ambio-primary-company-site",
       "title": "Ambio Life Sciences public clinic and research claims",
       "category": "clinics",
@@ -13205,7 +13279,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -13238,7 +13312,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -13582,7 +13656,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -13604,6 +13678,42 @@
       "searchText": "returning to the roots of iboga public missoko bwiti-linked account that includes an iboga origin narrative in which the first woman to ingest the medicine did so accidentally and saw her ancestors. use as public cultural context, not private instruction or medical evidence. culture_stewardship cultural_source maps bulletin  iboga missoko bwiti origin_story ancestors gabon reciprocity stewardship cataloged source cultural source"
     },
     {
+      "id": "culture-origin-samorini-mythology-2024",
+      "title": "Studies on the iboga cults. III. Iboga and Bwiti mythology",
+      "category": "culture_stewardship",
+      "sourceType": "cultural_source",
+      "sourceName": "Antrocom Journal of Anthropology",
+      "url": "https://antrocom.net/archives/2024/volume-20-number-2/studies-on-the-iboga-cults-iii-iboga-and-bwiti-mythology/",
+      "summary": "Anthropology article on mythological origins of Iboga and Bwiti, including distinction among Mitsogho and Fang contexts and multiple versions of the Banzioku story. Use to avoid flattening public origin narratives into a single universal version.",
+      "confidence": "Cultural source",
+      "status": "Cataloged source",
+      "people": [
+        "Giorgio Samorini"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-06-23T01:29:07.183Z",
+      "sourceOrigin": "manual_seed",
+      "tags": [
+        "iboga",
+        "bwiti",
+        "bwete",
+        "mythology",
+        "origin_story",
+        "banzioku",
+        "fang",
+        "mitsogho",
+        "gabon"
+      ],
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Cultural source",
+      "displaySourceName": "Antrocom Journal of Anthropology",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers bwiti, bwete, mythology, origin story.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "studies on the iboga cults. iii. iboga and bwiti mythology anthropology article on mythological origins of iboga and bwiti, including distinction among mitsogho and fang contexts and multiple versions of the banzioku story. use to avoid flattening public origin narratives into a single universal version. culture_stewardship cultural_source antrocom journal of anthropology  iboga bwiti bwete mythology origin_story banzioku fang mitsogho gabon cataloged source cultural source"
+    },
+    {
       "id": "culture-origin-chacruna-conservation-2021",
       "title": "Iboga Conservation",
       "category": "culture_stewardship",
@@ -13617,7 +13727,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -13652,7 +13762,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -13682,7 +13792,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-23T01:20:25.887Z",
+      "foundAt": "2026-06-23T01:29:07.183Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -16341,7 +16451,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -16377,7 +16487,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -16408,7 +16518,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -16441,7 +16551,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -16473,7 +16583,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -16505,7 +16615,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-23T01:20:34.487Z",
+      "foundAt": "2026-06-23T01:29:22.709Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",

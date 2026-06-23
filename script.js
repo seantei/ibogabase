@@ -737,8 +737,11 @@ function hydrateMediaLibrary() {
     const toEnd = to === null ? null : to + 86_399_999;
     const hostQ = normalizeText(hostFilter?.value || "");
     const guestQ = normalizeText(guestFilter?.value || "");
-    let shown = 0;
-    rows.forEach((row) => {
+    const fieldedTerms = [hostQ, guestQ].flatMap((value) => value.split(/\s+/).filter(Boolean));
+    const allTextTerms = [...terms, ...fieldedTerms];
+    const canUseRelaxedSearch = allTextTerms.length > 0 && (hostQ || guestQ);
+
+    const rowMatches = (row, mode = "strict") => {
       const rowDate = parseMediaDate(row.dataset.mediaDate || "");
       const hostText = normalizeText(row.dataset.mediaHost || "");
       const guestText = normalizeText(row.dataset.mediaGuest || "");
@@ -748,14 +751,38 @@ function hydrateMediaLibrary() {
       const matchTo = toEnd === null || (rowDate !== null && rowDate <= toEnd);
       const matchHost = !hostQ || hostText.includes(hostQ) || row.dataset.mediaText.includes(hostQ);
       const matchGuest = !guestQ || guestText.includes(guestQ) || row.dataset.mediaText.includes(guestQ);
-      const show = matchType && matchText && matchFrom && matchTo && matchHost && matchGuest;
+      if (mode === "relaxed") {
+        const relaxedText = !allTextTerms.length || allTextTerms.every((t) => row.dataset.mediaText.includes(t));
+        return matchType && relaxedText && matchFrom && matchTo;
+      }
+      return matchType && matchText && matchFrom && matchTo && matchHost && matchGuest;
+    };
+
+    let mode = "strict";
+    let matches = rows.filter((row) => rowMatches(row, mode));
+    if (!matches.length && canUseRelaxedSearch) {
+      mode = "relaxed";
+      matches = rows.filter((row) => rowMatches(row, mode));
+    }
+
+    const matchedRows = new Set(matches);
+    let shown = 0;
+    rows.forEach((row) => {
+      const show = matchedRows.has(row);
       row.hidden = !show;
       if (show) shown += 1;
     });
     if (results) results.hidden = false;
     if (count) count.textContent = shown ? `${shown} of ${rows.length} records shown` : "";
-    if (status) status.textContent = shown ? `${shown} of ${rows.length} records shown` : "No matching records.";
-    if (empty) empty.hidden = shown !== 0;
+    if (status) {
+      status.textContent = shown
+        ? `${shown} of ${rows.length} records shown${mode === "relaxed" ? " (broadened across all record text because podcast metadata can be incomplete)" : ""}.`
+        : "No matching records.";
+    }
+    if (empty) {
+      empty.hidden = shown !== 0;
+      if (!shown) empty.textContent = "No media records match those filters. Try fewer fields or put the names together in Keyword.";
+    }
   };
 
   const resetControls = () => {
