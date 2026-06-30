@@ -57,7 +57,7 @@
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body class="reference-body">
-    <header class="site-header" data-sticky data-site-header>
+    <header class="site-header">
       <a class="brand" href="/" aria-label="IbogaBase home">
         <span class="brand-mark" aria-hidden="true">IB</span>
         <span>
@@ -65,49 +65,14 @@
           <small>The Iboga Evidence Base</small>
         </span>
       </a>
-
-      <button class="mobile-search-toggle" type="button" aria-expanded="false" aria-controls="mobile-search-panel" data-mobile-search-toggle>
-        <span aria-hidden="true">⌕</span>
-        <span class="sr-only">Open search</span>
-      </button>
-
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span class="sr-only">Open menu</span>
-      </button>
-
-      <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation" data-primary-nav>
-        <a href="/evidence/">Evidence</a>
+      <nav class="nav" aria-label="Reference navigation">
+        <a href="/">Home</a>
+        <a href="/#search">Search</a>
         <a href="/safety/">Safety</a>
-        <a href="/policy/">Policy</a>
-        <a href="/culture/">Culture</a>
-        <a href="/media/">Media</a>
-        <a href="/trackers/">Trackers</a>
-        <form class="header-search" action="/#search" role="search" data-header-search>
-          <label class="sr-only" for="header-search-input">Search IbogaBase</label>
-          <input id="header-search-input" type="search" placeholder="Search" data-header-search-input />
-          <button type="submit" aria-label="Search IbogaBase">⌕</button>
-        </form>
-        <a class="about-link" href="/index/">Index</a>
+        <a href="/evidence/">Evidence</a>
+        <a href="/#trackers">Trackers</a>
       </nav>
     </header>
-
-    <div class="mobile-search-panel" id="mobile-search-panel" hidden data-mobile-search-panel>
-      <form class="mobile-search-form" action="/#search" role="search">
-        <label for="mobile-search-input">Search IbogaBase</label>
-        <input id="mobile-search-input" type="search" placeholder="QT prolongation, Texas SB 2308, Bwiti..." data-mobile-search-input />
-        <button type="submit">Search</button>
-      </form>
-    </div>
-    <nav class="breadcrumbs" aria-label="Breadcrumb">
-      <a href="/">Home</a>
-      <span>/</span>
-      <a href="/index/">Index</a>
-      <span>/</span>
-      <span aria-current="page">Clinic Claims and Adverse Events</span>
-    </nav>
     <main class="reference-page">
       <p class="eyebrow">Accountability and safety signals</p>
       <h1>Clinic Claims and Adverse Events</h1>
@@ -173,6 +138,5 @@
       <p>Educational reference only; not medical advice and not legal advice. Last updated 2026-05-18.</p>
       <a class="back-top" href="/">Return home</a>
     </footer>
-    <script src="/script.js"></script>
   </body>
 </html>

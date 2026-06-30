@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-30T17:48:51.214Z",
-  "totalRecords": 704,
+  "generatedAt": "2026-06-30T18:00:48.939Z",
+  "totalRecords": 707,
   "categories": {
     "books_bibliographies": 15,
-    "clinical_trials": 21,
+    "clinical_trials": 22,
     "clinics": 18,
     "companies_patents": 13,
     "culture_stewardship": 12,
     "documentaries_films": 2,
     "evidence_pages": 8,
-    "laws_policy": 68,
+    "laws_policy": 69,
     "news_articles_blogs": 89,
     "podcasts_interviews": 355,
     "reference_pages": 4,
     "state_policy_coverage": 51,
-    "studies_papers": 43,
+    "studies_papers": 44,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -42,7 +42,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -81,7 +81,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -118,7 +118,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -139,6 +139,66 @@
       "searchText": "case report: significant lesion reduction and neural structural changes following ibogaine treatments for multiple sclerosis two-patient case report involving ambio-affiliated authors and ambio treatment records. treat as preliminary case-report evidence with prominent conflict-of-interest and funder-involvement labels, not proof of efficacy. studies_papers peer_reviewed_case_report frontiers in immunology  ambio ambio_life_sciences multiple_sclerosis neurodegenerative case_report conflict_of_interest clinic_claims cataloged source case report"
     },
     {
+      "id": "source_radar-TWFwcGluZyBJYm",
+      "title": "Mapping Ibogaine Neural Dynamics in Opioid Use Disorder",
+      "category": "studies_papers",
+      "sourceType": "clinical_trial_registry",
+      "sourceName": "source_radar",
+      "url": "https://clinicaltrials.gov/study/NCT07226570",
+      "summary": "ClinicalTrials.gov lists NCT07226570 as recruiting. A registry listing identifies a study and status; it is not safety, efficacy, approval, or treatment-access proof.",
+      "confidence": "Registry record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-15",
+      "foundAt": "2026-06-30T18:00:39.837Z",
+      "sourceOrigin": "source_radar",
+      "tags": [
+        "clinicaltrials_gov",
+        "oud",
+        "neural_dynamics",
+        "recruiting",
+        "registry_record"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Trial registry",
+      "displaySourceName": "ClinicalTrials.gov",
+      "displayDate": "May 15, 2026",
+      "whatItIs": "Trial registry",
+      "conversationContext": "Covers clinicaltrials gov, oud, neural dynamics, recruiting.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "mapping ibogaine neural dynamics in opioid use disorder clinicaltrials.gov lists nct07226570 as recruiting. a registry listing identifies a study and status; it is not safety, efficacy, approval, or treatment-access proof. studies_papers clinical_trial_registry source_radar  clinicaltrials_gov oud neural_dynamics recruiting registry_record cataloged source registry record"
+    },
+    {
+      "id": "source_radar-SWJvZ2FpbmU6IF",
+      "title": "Ibogaine: Therapeutic Potential, Cardiac Safety, and Translational Challenges",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_study",
+      "sourceName": "source_radar",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12899015/",
+      "summary": "Use as a synthesis source for therapeutic-potential claims, cardiac safety limits, and translational caution. It supports safety-first interpretation, not efficacy certainty.",
+      "confidence": "Peer-reviewed source",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026",
+      "foundAt": "2026-06-30T18:00:39.837Z",
+      "sourceOrigin": "source_radar",
+      "tags": [
+        "safety",
+        "cardiac",
+        "substance_use_disorder",
+        "scoping_review",
+        "translational_research"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer-reviewed paper",
+      "displaySourceName": "pmc.ncbi.nlm.nih.gov",
+      "displayDate": "2026",
+      "whatItIs": "Peer-reviewed paper",
+      "conversationContext": "Covers safety, cardiac, substance use disorder, scoping review.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "ibogaine: therapeutic potential, cardiac safety, and translational challenges use as a synthesis source for therapeutic-potential claims, cardiac safety limits, and translational caution. it supports safety-first interpretation, not efficacy certainty. studies_papers peer_reviewed_study source_radar  safety cardiac substance_use_disorder scoping_review translational_research cataloged source peer-reviewed source"
+    },
+    {
       "id": "source_radar-SWJvZ2FpbmUgZm",
       "title": "Ibogaine for the treatment of Parkinson's disease: a case report",
       "category": "studies_papers",
@@ -150,7 +210,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -180,7 +240,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -209,7 +269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -240,7 +300,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -269,7 +329,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -297,7 +357,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1380,32 +1440,6 @@
       "searchText": "rare but relevant: ibogaine and cardiovascular complications-prolonged qt interval and ventricular arrhythmias. research source from addiction (abingdon, england). study design, sample size, limitations, and safety signals matter. studies_papers peer_reviewed_study addiction (abingdon, england)  research cataloged source peer-reviewed paper"
     },
     {
-      "id": "latest_scan-TWFwcGluZyBJYm",
-      "title": "Mapping Ibogaine Neural Dynamics in Opioid Use Disorder",
-      "category": "studies_papers",
-      "sourceType": "clinical_trial_registry",
-      "sourceName": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT07226570",
-      "summary": "RECRUITING",
-      "confidence": "Registry record",
-      "status": "Recruiting",
-      "people": [],
-      "publishedAt": "2025-10-22",
-      "foundAt": "2026-06-30T17:48:15.027Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "trials"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Trial registry",
-      "displaySourceName": "ClinicalTrials.gov",
-      "displayDate": "Oct 22, 2025",
-      "whatItIs": "Trial registry",
-      "conversationContext": "Covers trials.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "mapping ibogaine neural dynamics in opioid use disorder recruiting studies_papers clinical_trial_registry clinicaltrials.gov  trials recruiting registry record"
-    },
-    {
       "id": "latest_scan-UHJlLXBvc3QgRX",
       "title": "Pre-post Evaluation of the Safety and Efficacy of Ibogaine-Magnesium Therapy in Veterans With Repeated Blast Exposure",
       "category": "studies_papers",
@@ -1536,6 +1570,36 @@
       "searchText": "multiple ascending dose noribogaine pk/pd in healthy volunteers completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
     },
     {
+      "id": "source_radar-VGV4YXMgSEhTIG",
+      "title": "Texas HHS ibogaine clinical trials implementation update",
+      "category": "clinical_trials",
+      "sourceType": "government_release",
+      "sourceName": "source_radar",
+      "url": "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/ibogaine-clinical-trials",
+      "summary": "HHSC selected UTHealth Houston as lead institution, began contract development, and says recent plans did not meet Chapter 491 requirements including matching funds and IP/revenue allocation. This is implementation status, not trial enrollment or treatment access.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-30",
+      "foundAt": "2026-06-30T18:00:39.837Z",
+      "sourceOrigin": "source_radar",
+      "tags": [
+        "texas",
+        "sb_2308",
+        "clinical_trials",
+        "implementation_watch",
+        "public_funding"
+      ],
+      "displayCategory": "Clinical trials",
+      "displaySourceType": "Government Release",
+      "displaySourceName": "hhs.texas.gov",
+      "displayDate": "Jun 30, 2026",
+      "whatItIs": "Trial, registry, agency, or research-status record.",
+      "conversationContext": "Covers texas, sb 2308, clinical trials, implementation watch.",
+      "whyListed": "Useful for tracking research status. A trial listing or announcement is not proof that a treatment works.",
+      "searchText": "texas hhs ibogaine clinical trials implementation update hhsc selected uthealth houston as lead institution, began contract development, and says recent plans did not meet chapter 491 requirements including matching funds and ip/revenue allocation. this is implementation status, not trial enrollment or treatment access. clinical_trials government_release source_radar  texas sb_2308 clinical_trials implementation_watch public_funding cataloged source primary-source record"
+    },
+    {
       "id": "source_radar-RkRBIGFsbG93cy",
       "title": "FDA allows early-phase noribogaine hydrochloride study for alcohol use disorder to proceed",
       "category": "clinical_trials",
@@ -1547,7 +1611,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1576,7 +1640,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1605,7 +1669,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -2232,7 +2296,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -2262,7 +2326,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -2291,7 +2355,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -3931,7 +3995,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3960,7 +4024,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -3990,7 +4054,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4021,7 +4085,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -4053,7 +4117,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2021-04-27",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4090,7 +4154,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2018-09-20",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4125,7 +4189,7 @@
         "Mark Plotkin"
       ],
       "publishedAt": "2022-07-01",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4162,7 +4226,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4191,7 +4255,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4225,7 +4289,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4258,7 +4322,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -13238,7 +13302,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -13270,7 +13334,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -13327,7 +13391,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -13362,7 +13426,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -13655,7 +13719,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -13688,7 +13752,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -13722,7 +13786,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -13754,7 +13818,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -15374,7 +15438,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -15405,7 +15469,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -15671,7 +15735,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -15704,7 +15768,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -16022,7 +16086,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -16057,7 +16121,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -16093,7 +16157,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -16128,7 +16192,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -16158,7 +16222,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-06-30T17:48:40.904Z",
+      "foundAt": "2026-06-30T18:00:39.837Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -16477,6 +16541,34 @@
     },
     {
       "id": "policy-3",
+      "title": "Texas: HHSC ibogaine clinical-trials implementation update",
+      "category": "laws_policy",
+      "sourceType": "policy_tracker_row",
+      "sourceName": "Texas Health and Human Services",
+      "url": "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/ibogaine-clinical-trials",
+      "summary": "Lead Institution Selected Contract Requirements Unresolved. Allows: Identifies UTHealth Houston as lead institution for SB 2308 implementation and says HHSC began contract development. Does not allow: Does not announce open enrollment, FDA approval, treatment access, or proof of clinical efficacy; HHSC also says recent plans did not meet Chapter 491 requirements involving matching funds and IP/revenue allocation. Caveat: Federal Schedule I status, FDA authorization, trial protocol approval, contract execution, and state requirements remain controlling.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-30",
+      "foundAt": "2026-06-30",
+      "sourceOrigin": "policy_tracker",
+      "tags": [
+        "policy",
+        "Texas",
+        "HHSC ibogaine clinical-trials implementation update"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Policy record",
+      "displaySourceName": "Texas Health and Human Services",
+      "displayDate": "Jun 30, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers policy, texas, hhsc ibogaine clinical-trials implementation update.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "texas: hhsc ibogaine clinical-trials implementation update lead institution selected contract requirements unresolved. allows: identifies uthealth houston as lead institution for sb 2308 implementation and says hhsc began contract development. does not allow: does not announce open enrollment, fda approval, treatment access, or proof of clinical efficacy; hhsc also says recent plans did not meet chapter 491 requirements involving matching funds and ip/revenue allocation. caveat: federal schedule i status, fda authorization, trial protocol approval, contract execution, and state requirements remain controlling. laws_policy policy_tracker_row texas health and human services  policy texas hhsc ibogaine clinical-trials implementation update cataloged source primary-source record"
+    },
+    {
+      "id": "policy-4",
       "title": "Arizona: HB 2871, appropriation for Ibogaine clinical research study",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16504,7 +16596,7 @@
       "searchText": "arizona: hb 2871, appropriation for ibogaine clinical research study 2025 bill dead or not carried forward in tracker. allows: the proposal would have appropriated state funds for a certified clinical research study on ibogaine for neurological diseases. does not allow: this tracker does not treat the proposal as current access or an enacted 2026 program without a newer official status source. caveat: federal schedule i and fda/dea/irb requirements would remain controlling. laws_policy policy_tracker_row arizona house bill summary  policy arizona hb 2871, appropriation for ibogaine clinical research study cataloged source primary-source record"
     },
     {
-      "id": "policy-4",
+      "id": "policy-5",
       "title": "Colorado: HB26-1325, Natural Medicine / Ibogaine research pilot program",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16532,7 +16624,7 @@
       "searchText": "colorado: hb26-1325, natural medicine / ibogaine research pilot program passed legislature awaiting enactment check. allows: creates an ibogaine research pilot program lane, allows up to five pilot sites, includes possible rulemaking around administration/manufacturing/use, and adds benefit-sharing language tied to indigenous communities. does not allow: does not make unsupervised ibogaine use lawful and should not be read as fda approval, proof of efficacy, or a provider referral pathway. caveat: any research or clinical activity remains constrained by federal law and applicable approvals. laws_policy policy_tracker_row colorado general assembly bill page  policy colorado hb26-1325, natural medicine / ibogaine research pilot program cataloged source primary-source record"
     },
     {
-      "id": "policy-5",
+      "id": "policy-6",
       "title": "Kentucky: SB 77, Ibogaine research in the Commonwealth",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16560,7 +16652,7 @@
       "searchText": "kentucky: sb 77, ibogaine research in the commonwealth enacted after veto override acts ch 158. allows: establishes a state framework for ibogaine research and intellectual-property development through a public-private partnership approach. does not allow: the enacted framework does not create general treatment access or fda approval. caveat: federal schedule i status and fda approval requirements remain central. laws_policy policy_tracker_row kentucky legislature bill record  policy kentucky sb 77, ibogaine research in the commonwealth cataloged source primary-source record"
     },
     {
-      "id": "policy-6",
+      "id": "policy-7",
       "title": "Louisiana: SB 43, psychedelic-assisted therapy / clinical research language",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16588,7 +16680,7 @@
       "searchText": "louisiana: sb 43, psychedelic-assisted therapy / clinical research language passed house returned for senate action check. allows: the bill record describes psychedelic-assisted therapy legislation and has included ibogaine-related clinical-study discussion in public tracking. does not allow: do not treat this as final law or treatment access until final enrollment/signature status is confirmed. caveat: federal law, fda authorization, and state implementation details remain controlling. laws_policy policy_tracker_row louisiana legislature bill page  policy louisiana sb 43, psychedelic-assisted therapy / clinical research language cataloged source primary-source record"
     },
     {
-      "id": "policy-7",
+      "id": "policy-8",
       "title": "Maryland: SB 527 / HB 1477, Ibogaine Clinical Research Grant Program",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16616,7 +16708,7 @@
       "searchText": "maryland: sb 527 / hb 1477, ibogaine clinical research grant program introduced with hearing activity. allows: would establish an ibogaine clinical research grant program and include it as an authorized use of opioid restitution fund money. does not allow: introduced/hearing activity is not enactment and does not authorize treatment access. caveat: any funded research would still need applicable federal authorization. laws_policy policy_tracker_row maryland general assembly bill text  policy maryland sb 527 / hb 1477, ibogaine clinical research grant program cataloged source primary-source record"
     },
     {
-      "id": "policy-8",
+      "id": "policy-9",
       "title": "Mississippi: HB 314, Ibogaine Drug Development Clinical Trial Act",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16644,7 +16736,7 @@
       "searchText": "mississippi: hb 314, ibogaine drug development clinical trial act approved by governor effective 2026 07 01. allows: creates a state framework for an ibogaine drug-development clinical trial consortium and coordination with a lead consortium in another state. does not allow: does not provide routine clinical access; treatment-administration provisions depend on fda approval or lawful federal authorization. caveat: federal waiver, authorization, ind, and fda approval language remains central. laws_policy policy_tracker_row mississippi legislature bill text as sent to governor  policy mississippi hb 314, ibogaine drug development clinical trial act cataloged source primary-source record"
     },
     {
-      "id": "policy-9",
+      "id": "policy-10",
       "title": "Ohio: Ibogaine Treatment Study Committee",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16672,7 +16764,7 @@
       "searchText": "ohio: ibogaine treatment study committee study committee current report due 2027 12 31. allows: creates and maintains a temporary study committee to evaluate ibogaine treatment issues and make legislative recommendations. does not allow: a study committee is not legalization, treatment access, a clinical trial authorization, or fda approval. caveat: federal schedule i status remains unchanged. laws_policy policy_tracker_row ohio legislative service commission board record  policy ohio ibogaine treatment study committee cataloged source primary-source record"
     },
     {
-      "id": "policy-10",
+      "id": "policy-11",
       "title": "Oklahoma: HB 3834, Oklahoma Breakthrough Therapy Act",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16700,7 +16792,7 @@
       "searchText": "oklahoma: hb 3834, oklahoma breakthrough therapy act approved by governor. allows: creates a state framework related to ibogaine clinical trials and drug-development requirements. does not allow: does not make ibogaine fda-approved and does not by itself authorize unsupervised treatment or provider referral. caveat: federal schedule i status and fda/dea/irb requirements remain central. laws_policy policy_tracker_row oklahoma legislature bill history  policy oklahoma hb 3834, oklahoma breakthrough therapy act cataloged source primary-source record"
     },
     {
-      "id": "policy-11",
+      "id": "policy-12",
       "title": "Oklahoma: HB 4293, Veterans Mental Health Innovation Act",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16728,7 +16820,7 @@
       "searchText": "oklahoma: hb 4293, veterans mental health innovation act introduced referred to rules. allows: would authorize scientific research and clinical trials related to ibogaine with registration and immunity language. does not allow: introduced/referred language is not enactment and does not create general treatment access. caveat: federal authorization and controlled-substance constraints remain central. laws_policy policy_tracker_row oklahoma legislature bill history  policy oklahoma hb 4293, veterans mental health innovation act cataloged source primary-source record"
     },
     {
-      "id": "policy-12",
+      "id": "policy-13",
       "title": "Oregon: HB 4110, physician-supervised Ibogaine proposal",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16756,7 +16848,7 @@
       "searchText": "oregon: hb 4110, physician-supervised ibogaine proposal in house committee. allows: would allow an attending physician to provide ibogaine to a patient for specified disorders and exempt specified use from controlled-substance definition if enacted. does not allow: as an in-committee bill, it does not create current legal access or override federal law. caveat: dea/fda constraints and federal schedule i status remain unresolved. laws_policy policy_tracker_row oregon legislative information system  policy oregon hb 4110, physician-supervised ibogaine proposal cataloged source primary-source record"
     },
     {
-      "id": "policy-13",
+      "id": "policy-14",
       "title": "Tennessee: HB 2075 / SB 2149, HOPE Treatment Act",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16784,7 +16876,7 @@
       "searchText": "tennessee: hb 2075 / sb 2149, hope treatment act passed both chambers senate concurred house amendment. allows: authorizes tennessee research institutions to participate in federally authorized clinical trials involving ibogaine under specified safety and compliance conditions. does not allow: does not authorize routine clinical treatment, non-research possession, or self-directed access. caveat: clinical work must comply with a valid fda ind or other federal authorization when required. laws_policy policy_tracker_row tennessee general assembly bill information  policy tennessee hb 2075 / sb 2149, hope treatment act cataloged source primary-source record"
     },
     {
-      "id": "policy-14",
+      "id": "policy-15",
       "title": "Texas: SB 2308, Ibogaine drug development clinical trials",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16812,7 +16904,7 @@
       "searchText": "texas: sb 2308, ibogaine drug development clinical trials enrolled law effective 2025. allows: creates a pathway for a selected consortium and interagency contract for ibogaine drug development clinical trials. does not allow: treatment-administration provisions apply only if fda approves ibogaine to treat a medical condition. caveat: implementation may require federal waiver or authorization; clinical work remains subject to federal law. laws_policy policy_tracker_row texas legislature enrolled bill text  policy texas sb 2308, ibogaine drug development clinical trials cataloged source primary-source record"
     },
     {
-      "id": "policy-15",
+      "id": "policy-16",
       "title": "Texas: State-funded IMPACT Ibogaine clinical trials program",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16840,7 +16932,7 @@
       "searchText": "texas: state-funded impact ibogaine clinical trials program state research program announced after partner search. allows: tracks texas' move toward state-run or state-funded clinical trials after difficulty finding a drug-company partner. does not allow: reporting about implementation does not mean treatment access, fda approval, or proof that trials are already enrolling. caveat: federal law and trial authorization remain central. laws_policy policy_tracker_row texas tribune reporting with state-program context  policy texas state-funded impact ibogaine clinical trials program cataloged source primary-source record"
     },
     {
-      "id": "policy-16",
+      "id": "policy-17",
       "title": "Vermont: H.859, psychedelic therapy and Ibogaine clinical drug development trials",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -16868,7 +16960,7 @@
       "searchText": "vermont: h.859, psychedelic therapy and ibogaine clinical drug development trials introduced. allows: would establish a psychedelic therapy advisory board and require the department of health to contract with a vermont entity for ibogaine clinical drug-development trials. does not allow: introduced bill language is not enactment and does not authorize treatment access. caveat: federal authorization remains required for clinical drug-development work. laws_policy policy_tracker_row vermont legislature bill text  policy vermont h.859, psychedelic therapy and ibogaine clinical drug development trials cataloged source primary-source record"
     },
     {
-      "id": "policy-17",
+      "id": "policy-18",
       "title": "West Virginia: HB 4626, grant program for FDA drug-development trials with Ibogaine",
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
@@ -18817,7 +18909,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -18853,7 +18945,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -18884,7 +18976,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -18917,7 +19009,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -18949,7 +19041,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -18981,7 +19073,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-06-30T17:48:51.214Z",
+      "foundAt": "2026-06-30T18:00:48.939Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",

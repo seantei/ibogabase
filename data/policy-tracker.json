@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T17:48:24.403Z",
-  "reviewStatus": "expanded_state_policy_tracker_primary_sources_prioritized",
+  "generatedAt": "2026-06-30T17:58:29.611Z",
+  "reviewStatus": "expanded_state_policy_tracker_with_texas_hhsc_implementation_update",
   "disclaimer": "Educational policy tracking only. This is not legal advice, medical advice, treatment access guidance, or a substitute for checking current law with qualified counsel.",
   "rows": [
     {
@@ -30,6 +30,20 @@
       "confidence": "high_primary_source",
       "lastChecked": "2026-06-30",
       "statusCategory": "federal_research"
+    },
+    {
+      "jurisdiction": "Texas",
+      "action": "HHSC ibogaine clinical-trials implementation update",
+      "status": "lead_institution_selected_contract_requirements_unresolved",
+      "lastActionDate": "2026-06-30",
+      "primarySource": "Texas Health and Human Services",
+      "primaryUrl": "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/ibogaine-clinical-trials",
+      "whatItPermits": "Identifies UTHealth Houston as lead institution for SB 2308 implementation and says HHSC began contract development.",
+      "whatItDoesNotPermit": "Does not announce open enrollment, FDA approval, treatment access, or proof of clinical efficacy; HHSC also says recent plans did not meet Chapter 491 requirements involving matching funds and IP/revenue allocation.",
+      "federalCaveat": "Federal Schedule I status, FDA authorization, trial protocol approval, contract execution, and state requirements remain controlling.",
+      "confidence": "high_primary_agency_source",
+      "lastChecked": "2026-06-30",
+      "statusCategory": "implementation_watch"
     },
     {
       "jurisdiction": "Arizona",

@@ -4283,3 +4283,45 @@ figcaption {
     grid-column: auto;
   }
 }
+
+.field-status-panel {
+  margin: 18px auto 0;
+  max-width: 980px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 16px 18px;
+  border: 1px solid rgba(36, 30, 22, 0.16);
+  border-radius: 18px;
+  background: rgba(255, 252, 245, 0.82);
+  box-shadow: 0 16px 50px rgba(36, 30, 22, 0.08);
+}
+
+.field-status-panel p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.field-status-panel strong {
+  color: var(--ink);
+}
+
+.field-status-panel a {
+  flex: 0 0 auto;
+  color: var(--ibogaine);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media (max-width: 720px) {
+  .field-status-panel {
+    display: block;
+  }
+
+  .field-status-panel a {
+    display: inline-block;
+    margin-top: 10px;
+  }
+}
