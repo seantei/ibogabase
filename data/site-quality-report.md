@@ -1,6 +1,6 @@
 # IbogaBase Site Quality Report
 
-Generated: 2026-07-03T05:27:56.499Z
+Generated: 2026-07-03T05:43:31.732Z
 Verdict: pass
 
 Scope: whole-site readability, navigation, accessibility, legal/medical boundaries, copyright discipline, source coverage, and Hermes reviewer coverage.
@@ -12,13 +12,13 @@ Scope: whole-site readability, navigation, accessibility, legal/medical boundari
 - Low-severity issues: 0
 - Internal anchors checked: 6
 - Section ids found: 33
-- Source records indexed: 1034
+- Source records indexed: 1033
 - Podcast/interview records indexed: 548
 - Public search records indexed: 729
 - UAT persona review: pass (6 personas)
 - State policy coverage: 51 jurisdictions; 13 with tracked state-specific activity
 - State policy lead scan: 244 candidates
-- Live source feed: 239 records
+- Live source feed: 241 records
 
 ## Findings
 
