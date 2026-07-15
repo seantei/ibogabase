@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-15T04:16:28.693Z",
-  "totalRecords": 798,
+  "generatedAt": "2026-07-15T04:32:06.441Z",
+  "totalRecords": 815,
   "categories": {
     "books_bibliographies": 16,
     "clinical_trials": 28,
     "clinics": 20,
-    "companies_patents": 15,
-    "culture_stewardship": 12,
+    "companies_patents": 17,
+    "culture_stewardship": 14,
     "documentaries_films": 2,
     "evidence_pages": 8,
-    "laws_policy": 73,
+    "laws_policy": 77,
     "news_articles_blogs": 96,
     "podcasts_interviews": 426,
-    "reference_pages": 4,
+    "reference_pages": 11,
     "state_policy_coverage": 51,
-    "studies_papers": 42,
+    "studies_papers": 44,
     "weekly_brief": 5
   },
   "guardrails": [
@@ -42,7 +42,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -81,7 +81,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -118,7 +118,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -150,7 +150,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-15",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "clinicaltrials_gov",
@@ -180,7 +180,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -210,7 +210,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -240,7 +240,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -269,7 +269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -300,7 +300,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -329,7 +329,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -357,7 +357,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1113,7 +1113,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -1139,7 +1139,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1165,7 +1165,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1191,7 +1191,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul 6",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1217,7 +1217,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1243,7 +1243,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul-Aug 01",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1269,7 +1269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul 1",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1295,7 +1295,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 26",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1321,7 +1321,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 24",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1347,7 +1347,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 23",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1373,7 +1373,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 22",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1399,7 +1399,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1425,7 +1425,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2017-12-15",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1451,7 +1451,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2021-12-17",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1477,7 +1477,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2019-06-27",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1503,7 +1503,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1529,7 +1529,7 @@
       "status": "Completed",
       "people": [],
       "publishedAt": "2024-06-19",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1555,7 +1555,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1581,7 +1581,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-30",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1611,7 +1611,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1640,7 +1640,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1669,7 +1669,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -2400,7 +2400,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -2426,7 +2426,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -2452,7 +2452,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -2482,7 +2482,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -2511,7 +2511,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -4177,7 +4177,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -4203,7 +4203,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4229,7 +4229,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -4255,7 +4255,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4281,7 +4281,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4296,6 +4296,84 @@
       "searchText": "a long, strange trip: how the g.o.p. came to embrace psychedelic drugs - the new york times law or policy source from the new york times. read the exact source before drawing legal conclusions. laws_policy journalism the new york times  blogs cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-QmlwYXJ0aXNhbi",
+      "title": "Bipartisan Congressional Bill Would Codify Trump’s Psychedelics Order Into Law - Marijuana Moment",
+      "category": "laws_policy",
+      "sourceType": "journalism",
+      "sourceName": "Marijuana Moment",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0NNTVI0cHRuN3lONjRtTHQtTnZqdmtqLVRBR0NjRG5zVVFOdHozWThhT1NQNUlrY3RwVzlZQVRWX3pZMmhkczF3VEZXQUVxZWRiWHQ2amVYTFdPZTk0bjRQSzdkeGM3THJ1VUdzMl90Q1RyZUJSTS0tTXJ5eWQwQWstcGhyeXRuVHNTTWM0SDZvZXJJRzEyUzczdkRoSG15Q1pkb2FpaEpXMEFPMGdr?oc=5",
+      "summary": "Law or policy source from Marijuana Moment. Read the exact source before drawing legal conclusions.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "foundAt": "2026-07-15T04:31:31.053Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "law"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Marijuana Moment",
+      "displayDate": "Jul 1, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers law.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "bipartisan congressional bill would codify trump’s psychedelics order into law - marijuana moment law or policy source from marijuana moment. read the exact source before drawing legal conclusions. laws_policy journalism marijuana moment  law cataloged source primary-source record"
+    },
+    {
+      "id": "latest_scan-TmV3IGxhdyBtYW",
+      "title": "New law makes room for state-funded psychedelics research in Oklahoma - KOSU",
+      "category": "laws_policy",
+      "sourceType": "journalism",
+      "sourceName": "KOSU",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45RzdQLUZ6Q2s3YlBGdDNRT3FHVWtJM0pWUWs5S0xpNktxTDI4bEU2NmoweU84SFI3S3RoMVBWRFc1TW9va0pEX09sLUY2T3k3djAyZGFRbjY5bk5JRUE5OHpFNE8wTDhR?oc=5",
+      "summary": "Law or policy source from KOSU. Read the exact source before drawing legal conclusions.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
+      "foundAt": "2026-07-15T04:31:31.053Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "law"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "KOSU",
+      "displayDate": "May 26, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers law.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "new law makes room for state-funded psychedelics research in oklahoma - kosu law or policy source from kosu. read the exact source before drawing legal conclusions. laws_policy journalism kosu  law cataloged source primary-source record"
+    },
+    {
+      "id": "latest_scan-R292ZXJub3IgUG",
+      "title": "Governor Polis Signs Laws Saving Coloradans Money on Homeowners Insurance, Supporting Students, and Expanding Pathways For Natural Medicine - governorsoffice.colorado.gov",
+      "category": "laws_policy",
+      "sourceType": "journalism",
+      "sourceName": "governorsoffice.colorado.gov",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVVNvd2ttWm1mT015Z2JjZm5nN2FaaTlBbGRhZHRDRnktYl91RF9WTVhzSEtENkc4dXFmblFYd05PeEJKa05DWktsY1ViNGhIVDVaQ1UyUEFwczF3b2t2a0Jab3NJMHpfVm1EZDZXOFpVWDd4WnRPREktMmtabnFDcHUwdms5SXdKSTV1VHg5dHRfYmdUM2EtNGI4bHoyMHY0WTRuNkMxUHdId3lLU3NyVVV4d3Q2YzFtak00eTB1ZjNIZ0lRanFzbmdVZF9HRHljdjBJVHhfclFkT0Ut?oc=5",
+      "summary": "Law or policy source from governorsoffice.colorado.gov. Read the exact source before drawing legal conclusions.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "foundAt": "2026-07-15T04:31:31.053Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "law"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "governorsoffice.colorado.gov",
+      "displayDate": "Jun 4, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers law.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "governor polis signs laws saving coloradans money on homeowners insurance, supporting students, and expanding pathways for natural medicine - governorsoffice.colorado.gov law or policy source from governorsoffice.colorado.gov. read the exact source before drawing legal conclusions. laws_policy journalism governorsoffice.colorado.gov  law cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-RkRBIGV5ZXMgZX",
       "title": "FDA eyes expanding testosterone therapy for libido - STAT",
       "category": "laws_policy",
@@ -4307,7 +4385,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -4333,7 +4411,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4362,7 +4440,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4392,7 +4470,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4423,7 +4501,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -4455,7 +4533,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2021-04-27",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4492,7 +4570,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2018-09-20",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4527,7 +4605,7 @@
         "Mark Plotkin"
       ],
       "publishedAt": "2022-07-01",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4564,7 +4642,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4593,7 +4671,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4627,7 +4705,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4660,7 +4738,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -14600,7 +14678,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -14626,7 +14704,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14652,7 +14730,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14678,7 +14756,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-12T09:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14704,7 +14782,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T18:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14730,7 +14808,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2020-11-05T11:41:54Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14756,7 +14834,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-29T00:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14782,7 +14860,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-12T14:08:42Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14808,7 +14886,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-12T18:18:04Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14834,7 +14912,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-07-01T01:44:33Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14860,7 +14938,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-09T08:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14886,7 +14964,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14912,7 +14990,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-15T16:52:09Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14938,7 +15016,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-10T10:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14964,7 +15042,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-08T02:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14990,7 +15068,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-07T19:30:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15016,7 +15094,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-08-26T08:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15042,7 +15120,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-07-20T10:04:39Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15068,7 +15146,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-11-03T13:53:14Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15094,7 +15172,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-30T06:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15120,7 +15198,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-06-29T10:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15146,7 +15224,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-06-25T08:30:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15172,7 +15250,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-20T09:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15198,7 +15276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-10-17T15:18:09Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15224,7 +15302,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-12T10:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15250,7 +15328,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-18T18:31:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15276,7 +15354,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-02T07:30:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15302,7 +15380,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-13T21:58:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15328,7 +15406,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-01-19T19:10:10Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15354,7 +15432,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 09 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15380,7 +15458,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-07-01T21:51:13Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15406,7 +15484,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-02-26T10:00:00Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15432,7 +15510,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-02-26T22:27:24Z",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15460,7 +15538,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -15492,7 +15570,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -15549,7 +15627,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -15584,7 +15662,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -15825,7 +15903,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15851,7 +15929,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15877,7 +15955,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15903,7 +15981,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -15936,7 +16014,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -15970,7 +16048,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -16002,7 +16080,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -17386,7 +17464,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 13 Jul 2026 19:30:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -17412,7 +17490,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17438,7 +17516,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17464,7 +17542,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 20 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17490,7 +17568,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17516,7 +17594,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17542,7 +17620,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17568,7 +17646,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17594,7 +17672,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17620,7 +17698,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17646,7 +17724,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -17672,7 +17750,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -17698,7 +17776,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -17724,7 +17802,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
@@ -17750,7 +17828,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -17778,7 +17856,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -17809,7 +17887,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -18019,7 +18097,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18045,7 +18123,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18071,7 +18149,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 06 May 2020 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18101,7 +18179,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -18134,7 +18212,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -18478,7 +18556,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18513,7 +18591,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18549,7 +18627,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18584,7 +18662,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -18614,7 +18692,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-07-15T04:16:15.974Z",
+      "foundAt": "2026-07-15T04:31:52.793Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -18721,7 +18799,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:15:53.899Z",
+      "foundAt": "2026-07-15T04:31:31.053Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -21273,7 +21351,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -21309,7 +21387,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -21340,7 +21418,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -21373,7 +21451,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -21405,7 +21483,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -21437,7 +21515,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:16:28.693Z",
+      "foundAt": "2026-07-15T04:32:06.441Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
@@ -21447,6 +21525,445 @@
       "conversationContext": "Covers cures addiction, claim check, opioid use disorder, withdrawal.",
       "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
       "searchText": "claim check: ibogaine cures addiction verdict: overstated. human evidence suggests possible effects on opioid withdrawal and craving in some settings, but cure language is unsupported and ignores relapse, safety risk, selection bias, and incomplete long-term data. reference_pages claim_check ibogabase claim check  ibogaine cures_addiction claim_check opioid_use_disorder withdrawal relapse limitations cataloged source claim record"
+    },
+    {
+      "id": "entity-dana-beal",
+      "title": "Dana Beal — Activism history",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Beal is a central figure in the U.S. ibogaine underground and its decades of public advocacy for ibogaine as an addiction-interruption tool. Dana Beal is a longtime political activist who, through the group Cures-not-Wars, helped organize and publicize ibogaine as a proposed treatment for opioid dependence from the 1980s onward. He is frequently described in journalism and reference sources as an ibogaine activist rather than a researcher or clinician. His advocacy is part of the movement history around ibogaine, separate from the peer-reviewed evidence and the safety literature. Related searches: Dana Beal; Cures-not-Wars; ibogaine activist. What this does not prove: Activist advocacy is not clinical evidence; his role in ibogaine history says nothing about whether ibogaine is safe or effective.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Dana Beal"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "dana beal",
+        "cures-not-wars",
+        "ibogaine activist"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, dana beal, cures-not-wars.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "dana beal — activism history beal is a central figure in the u.s. ibogaine underground and its decades of public advocacy for ibogaine as an addiction-interruption tool. dana beal is a longtime political activist who, through the group cures-not-wars, helped organize and publicize ibogaine as a proposed treatment for opioid dependence from the 1980s onward. he is frequently described in journalism and reference sources as an ibogaine activist rather than a researcher or clinician. his advocacy is part of the movement history around ibogaine, separate from the peer-reviewed evidence and the safety literature. related searches: dana beal; cures-not-wars; ibogaine activist. what this does not prove: activist advocacy is not clinical evidence; his role in ibogaine history says nothing about whether ibogaine is safe or effective. reference_pages history_topic ibogabase people and institutions  person people_and_institutions dana beal cures-not-wars ibogaine activist cataloged source history topic"
+    },
+    {
+      "id": "entity-norma-lotsof",
+      "title": "Norma Lotsof — Modern-history figure",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Norma Lotsof helped carry Howard Lotsof's ibogaine work forward, including through the Dora Weiner Foundation, and belongs in modern advocacy history. Norma Lotsof worked alongside Howard Lotsof and is associated with the Dora Weiner Foundation, the vehicle connected to Howard Lotsof's patents and advocacy. She is a figure in ibogaine advocacy history, not a clinical-research source. Related searches: Norma Lotsof; Dora Weiner Foundation; Howard Lotsof. What this does not prove: Stewardship of an advocate's legacy is not evidence about ibogaine's safety or effectiveness.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Norma Lotsof"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "norma lotsof",
+        "dora weiner foundation",
+        "howard lotsof"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, norma lotsof, dora weiner foundation.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "norma lotsof — modern-history figure norma lotsof helped carry howard lotsof's ibogaine work forward, including through the dora weiner foundation, and belongs in modern advocacy history. norma lotsof worked alongside howard lotsof and is associated with the dora weiner foundation, the vehicle connected to howard lotsof's patents and advocacy. she is a figure in ibogaine advocacy history, not a clinical-research source. related searches: norma lotsof; dora weiner foundation; howard lotsof. what this does not prove: stewardship of an advocate's legacy is not evidence about ibogaine's safety or effectiveness. reference_pages history_topic ibogabase people and institutions  person people_and_institutions norma lotsof dora weiner foundation howard lotsof cataloged source history topic"
+    },
+    {
+      "id": "entity-claudio-naranjo",
+      "title": "Claudio Naranjo — Clinical history",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Naranjo is an early Western figure in ibogaine-assisted psychotherapy and is cited for mid-20th-century psychotherapeutic use. Claudio Naranjo, a Chilean-born psychiatrist, described using ibogaine in psychotherapy in the 1960s, work summarized in his book The Healing Journey (1973). His writing is part of the early ibogaine psychotherapy record in the Western literature and is read as history, not as controlled clinical evidence. Careful reading keeps this early ibogaine-era practice separate from modern trial data. Related searches: Claudio Naranjo; ibogaine psychotherapy; early ibogaine. What this does not prove: Historical psychotherapeutic practice is not current medical evidence and establishes nothing about safety or efficacy today.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Claudio Naranjo"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "claudio naranjo",
+        "ibogaine psychotherapy",
+        "early ibogaine"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, claudio naranjo, ibogaine psychotherapy.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "claudio naranjo — clinical history naranjo is an early western figure in ibogaine-assisted psychotherapy and is cited for mid-20th-century psychotherapeutic use. claudio naranjo, a chilean-born psychiatrist, described using ibogaine in psychotherapy in the 1960s, work summarized in his book the healing journey (1973). his writing is part of the early ibogaine psychotherapy record in the western literature and is read as history, not as controlled clinical evidence. careful reading keeps this early ibogaine-era practice separate from modern trial data. related searches: claudio naranjo; ibogaine psychotherapy; early ibogaine. what this does not prove: historical psychotherapeutic practice is not current medical evidence and establishes nothing about safety or efficacy today. reference_pages history_topic ibogabase people and institutions  person people_and_institutions claudio naranjo ibogaine psychotherapy early ibogaine cataloged source history topic"
+    },
+    {
+      "id": "entity-robert-goutarel",
+      "title": "Robert Goutarel — Research history",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Goutarel is a mid-century French chemist linked to early iboga and ibogaine pharmacology and to later reviews of therapeutic applications. Robert Goutarel was a French natural-products chemist whose name appears in mid-century iboga and ibogaine research and in a later review of the pharmacodynamics and therapeutic applications of iboga and ibogaine (Goutarel, Gollnhofer and Sillans, 1993). His work is part of the mid-century ibogaine research trail that predates modern trials. Goutarel ibogaine references are read as research history tied to publications, not as current evidence. Related searches: Robert Goutarel; Goutarel ibogaine; mid-century ibogaine. What this does not prove: Mid-century pharmacology reviews are historical context, not proof of modern clinical safety or effectiveness.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Robert Goutarel"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "robert goutarel",
+        "goutarel ibogaine",
+        "mid-century ibogaine"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, robert goutarel, goutarel ibogaine.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "robert goutarel — research history goutarel is a mid-century french chemist linked to early iboga and ibogaine pharmacology and to later reviews of therapeutic applications. robert goutarel was a french natural-products chemist whose name appears in mid-century iboga and ibogaine research and in a later review of the pharmacodynamics and therapeutic applications of iboga and ibogaine (goutarel, gollnhofer and sillans, 1993). his work is part of the mid-century ibogaine research trail that predates modern trials. goutarel ibogaine references are read as research history tied to publications, not as current evidence. related searches: robert goutarel; goutarel ibogaine; mid-century ibogaine. what this does not prove: mid-century pharmacology reviews are historical context, not proof of modern clinical safety or effectiveness. reference_pages history_topic ibogabase people and institutions  person people_and_institutions robert goutarel goutarel ibogaine mid-century ibogaine cataloged source history topic"
+    },
+    {
+      "id": "entity-juliana-mulligan",
+      "title": "Juliana Mulligan — Safety advocacy",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Mulligan is a prominent lived-experience ibogaine advocate and safety educator whose public work centers cardiac risk and screening. Juliana Mulligan is an ibogaine advocate and safety educator who writes and speaks publicly about ibogaine safety, drawing on her own near-fatal experience. Her public work is categorized as advocacy, media, and public education, not as clinical evidence. She is frequently cited in coverage of ibogaine safety and harm-reduction discussion. Related searches: Juliana Mulligan; ibogaine safety; ibogaine advocate. What this does not prove: Advocacy and lived-experience education are public-education context, not clinical evidence, and do not establish outcomes.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Juliana Mulligan"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "juliana mulligan",
+        "ibogaine safety",
+        "ibogaine advocate"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, juliana mulligan, ibogaine safety.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "juliana mulligan — safety advocacy mulligan is a prominent lived-experience ibogaine advocate and safety educator whose public work centers cardiac risk and screening. juliana mulligan is an ibogaine advocate and safety educator who writes and speaks publicly about ibogaine safety, drawing on her own near-fatal experience. her public work is categorized as advocacy, media, and public education, not as clinical evidence. she is frequently cited in coverage of ibogaine safety and harm-reduction discussion. related searches: juliana mulligan; ibogaine safety; ibogaine advocate. what this does not prove: advocacy and lived-experience education are public-education context, not clinical evidence, and do not establish outcomes. reference_pages history_topic ibogabase people and institutions  person people_and_institutions juliana mulligan ibogaine safety ibogaine advocate cataloged source history topic"
+    },
+    {
+      "id": "entity-w-bryan-hubbard",
+      "title": "W. Bryan Hubbard — Policy advocacy",
+      "category": "laws_policy",
+      "sourceType": "policy_tracker_row",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Hubbard is the policy figure behind Kentucky's opioid-settlement ibogaine proposal and later Texas-facing advocacy. As chair and executive director of the Kentucky Opioid Abatement Advisory Commission, W. Bryan Hubbard proposed dedicating roughly $42 million in opioid-settlement funds to ibogaine research in 2023. Hubbard was asked to resign in December 2023, and the Kentucky ibogaine proposal was rejected by the reconstituted commission on January 4, 2024. Bryan Hubbard subsequently continued ibogaine advocacy nationally, including attention to Texas ibogaine policy efforts. Related searches: W. Bryan Hubbard; Bryan Hubbard; Kentucky ibogaine; Texas ibogaine. What this does not prove: A policy proposal, whether adopted or withdrawn, is not clinical proof and does not create legal treatment access.",
+      "confidence": "Policy record",
+      "status": "Cataloged source",
+      "people": [
+        "W. Bryan Hubbard"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "w. bryan hubbard",
+        "bryan hubbard",
+        "kentucky ibogaine",
+        "texas ibogaine"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Policy record",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers person, people and institutions, w. bryan hubbard, bryan hubbard.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "w. bryan hubbard — policy advocacy hubbard is the policy figure behind kentucky's opioid-settlement ibogaine proposal and later texas-facing advocacy. as chair and executive director of the kentucky opioid abatement advisory commission, w. bryan hubbard proposed dedicating roughly $42 million in opioid-settlement funds to ibogaine research in 2023. hubbard was asked to resign in december 2023, and the kentucky ibogaine proposal was rejected by the reconstituted commission on january 4, 2024. bryan hubbard subsequently continued ibogaine advocacy nationally, including attention to texas ibogaine policy efforts. related searches: w. bryan hubbard; bryan hubbard; kentucky ibogaine; texas ibogaine. what this does not prove: a policy proposal, whether adopted or withdrawn, is not clinical proof and does not create legal treatment access. laws_policy policy_tracker_row ibogabase people and institutions  person people_and_institutions w. bryan hubbard bryan hubbard kentucky ibogaine texas ibogaine cataloged source policy record"
+    },
+    {
+      "id": "entity-capones-vets",
+      "title": "Marcus and Amber Capone — Veterans advocacy",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "The Capones are anchor figures in the veteran ibogaine and TBI story and founded the advocacy and philanthropy organization VETS. Marcus Capone, a former U.S. Navy SEAL, and Amber Capone founded Veterans Exploring Treatment Solutions (VETS), which funds and advocates for veterans seeking psychedelic-assisted care abroad. VETS is a repeatedly cited organization in the veteran-TBI ibogaine coverage stream and helped connect veterans to the studied treatment settings. Their advocacy, philanthropy, and media presence are tracked separately from the observational study evidence. Related searches: Marcus Capone; Amber Capone; VETS; Veterans Exploring Treatment Solutions. What this does not prove: Founder advocacy and philanthropy are not clinical evidence and do not establish that ibogaine treats TBI.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [
+        "Marcus and Amber Capone"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "marcus capone",
+        "amber capone",
+        "vets",
+        "veterans exploring treatment solutions"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers person, people and institutions, marcus capone, amber capone.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "marcus and amber capone — veterans advocacy the capones are anchor figures in the veteran ibogaine and tbi story and founded the advocacy and philanthropy organization vets. marcus capone, a former u.s. navy seal, and amber capone founded veterans exploring treatment solutions (vets), which funds and advocates for veterans seeking psychedelic-assisted care abroad. vets is a repeatedly cited organization in the veteran-tbi ibogaine coverage stream and helped connect veterans to the studied treatment settings. their advocacy, philanthropy, and media presence are tracked separately from the observational study evidence. related searches: marcus capone; amber capone; vets; veterans exploring treatment solutions. what this does not prove: founder advocacy and philanthropy are not clinical evidence and do not establish that ibogaine treats tbi. reference_pages history_topic ibogabase people and institutions  person people_and_institutions marcus capone amber capone vets veterans exploring treatment solutions cataloged source history topic"
+    },
+    {
+      "id": "entity-org-vets",
+      "title": "Veterans Exploring Treatment Solutions (VETS) — Veterans organization",
+      "category": "reference_pages",
+      "sourceType": "history_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "VETS drives veteran-focused advocacy, philanthropy, and media context around ibogaine and TBI. Veterans Exploring Treatment Solutions (VETS), also referred to as VETS, is a nonprofit founded by Marcus and Amber Capone. VETS supports veterans seeking psychedelic-assisted therapies and funds related research and travel, and it appears throughout the veteran ibogaine media record. IbogaBase treats VETS material as advocacy and organizational context, separate from clinical-study evidence. Related searches: VETS; Veterans Exploring Treatment Solutions. What this does not prove: Organizational advocacy and funding are not study evidence and do not establish efficacy or safety.",
+      "confidence": "History topic",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "organization",
+        "people_and_institutions",
+        "vets",
+        "veterans exploring treatment solutions"
+      ],
+      "displayCategory": "Reference pages",
+      "displaySourceType": "History topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "History topic",
+      "conversationContext": "Covers organization, people and institutions, vets, veterans exploring treatment solutions.",
+      "whyListed": "Useful for orientation and search routing. Follow linked sources before relying on a claim.",
+      "searchText": "veterans exploring treatment solutions (vets) — veterans organization vets drives veteran-focused advocacy, philanthropy, and media context around ibogaine and tbi. veterans exploring treatment solutions (vets), also referred to as vets, is a nonprofit founded by marcus and amber capone. vets supports veterans seeking psychedelic-assisted therapies and funds related research and travel, and it appears throughout the veteran ibogaine media record. ibogabase treats vets material as advocacy and organizational context, separate from clinical-study evidence. related searches: vets; veterans exploring treatment solutions. what this does not prove: organizational advocacy and funding are not study evidence and do not establish efficacy or safety. reference_pages history_topic ibogabase people and institutions  organization people_and_institutions vets veterans exploring treatment solutions cataloged source history topic"
+    },
+    {
+      "id": "entity-nolan-williams",
+      "title": "Nolan Williams — Research figure",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_study",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Williams is the visible Stanford researcher associated with the veteran magnesium-ibogaine TBI study stream. Nolan Williams, a Stanford University psychiatrist, is the senior researcher associated with the 2024 Nature Medicine report on magnesium plus ibogaine in 30 special-operations veterans. Stanford ibogaine work in this stream is open-label observational research, which can generate hypotheses but cannot establish broad efficacy. His research profile is kept separate from endorsement or treatment access. Related searches: Nolan Williams; Stanford ibogaine. What this does not prove: Association with a small open-label study does not establish that ibogaine is an effective or safe TBI treatment.",
+      "confidence": "Peer-reviewed paper",
+      "status": "Cataloged source",
+      "people": [
+        "Nolan Williams"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "nolan williams",
+        "stanford ibogaine"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer-reviewed paper",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Peer-reviewed paper",
+      "conversationContext": "Covers person, people and institutions, nolan williams, stanford ibogaine.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "nolan williams — research figure williams is the visible stanford researcher associated with the veteran magnesium-ibogaine tbi study stream. nolan williams, a stanford university psychiatrist, is the senior researcher associated with the 2024 nature medicine report on magnesium plus ibogaine in 30 special-operations veterans. stanford ibogaine work in this stream is open-label observational research, which can generate hypotheses but cannot establish broad efficacy. his research profile is kept separate from endorsement or treatment access. related searches: nolan williams; stanford ibogaine. what this does not prove: association with a small open-label study does not establish that ibogaine is an effective or safe tbi treatment. studies_papers peer_reviewed_study ibogabase people and institutions  person people_and_institutions nolan williams stanford ibogaine cataloged source peer-reviewed paper"
+    },
+    {
+      "id": "entity-gita",
+      "title": "Global Ibogaine Therapy Alliance (GITA) — Guidelines and education",
+      "category": "culture_stewardship",
+      "sourceType": "safety_topic",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "GITA is a widely cited source of ibogaine safety and clinical-guideline material that a safety-first reference should track. The Global Ibogaine Therapy Alliance (GITA) published Clinical Guidelines for Ibogaine-Assisted Treatment, a frequently cited document in ibogaine safety discussion. Those clinical guidelines emphasize cardiac screening, medical monitoring, exclusion criteria, and emergency readiness. IbogaBase describes GITA guidelines as source material, not as an IbogaBase-endorsed or IbogaBase-published protocol. Related searches: GITA; Global Ibogaine Therapy Alliance; clinical guidelines. What this does not prove: Published guidelines are source material describing risk-management practice; they are not IbogaBase endorsement, not proof of efficacy, and not a protocol to follow.",
+      "confidence": "Safety topic",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "organization",
+        "people_and_institutions",
+        "gita",
+        "global ibogaine therapy alliance",
+        "clinical guidelines"
+      ],
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Safety topic",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers organization, people and institutions, gita, global ibogaine therapy alliance.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "global ibogaine therapy alliance (gita) — guidelines and education gita is a widely cited source of ibogaine safety and clinical-guideline material that a safety-first reference should track. the global ibogaine therapy alliance (gita) published clinical guidelines for ibogaine-assisted treatment, a frequently cited document in ibogaine safety discussion. those clinical guidelines emphasize cardiac screening, medical monitoring, exclusion criteria, and emergency readiness. ibogabase describes gita guidelines as source material, not as an ibogabase-endorsed or ibogabase-published protocol. related searches: gita; global ibogaine therapy alliance; clinical guidelines. what this does not prove: published guidelines are source material describing risk-management practice; they are not ibogabase endorsement, not proof of efficacy, and not a protocol to follow. culture_stewardship safety_topic ibogabase people and institutions  organization people_and_institutions gita global ibogaine therapy alliance clinical guidelines cataloged source safety topic"
+    },
+    {
+      "id": "entity-atai-life-sciences",
+      "title": "atai Life Sciences — Commercial development",
+      "category": "companies_patents",
+      "sourceType": "company_release",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/sources/",
+      "summary": "atai is a major psychedelic biotech whose ibogaine and noribogaine ventures shape the commercial and analog-development conversation. atai Life Sciences is a psychedelic biotech that, in January 2020, announced joint ventures with DemeRx to develop ibogaine and noribogaine for opioid use disorder. atai ibogaine activity is a commercial and drug-development signal within the wider psychedelic biotech field, not clinical proof. Business milestones and financing news are tracked separately from evidence and are not proof of effectiveness. Related searches: atai Life Sciences; atai ibogaine; psychedelic biotech. What this does not prove: Corporate investment, pipelines, and press releases do not establish clinical value, safety, or approval.",
+      "confidence": "Company release",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "company",
+        "people_and_institutions",
+        "atai life sciences",
+        "atai ibogaine",
+        "psychedelic biotech"
+      ],
+      "displayCategory": "Companies and patents",
+      "displaySourceType": "Company release",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Company, patent, or biotech-field source.",
+      "conversationContext": "Covers company, people and institutions, atai life sciences, atai ibogaine.",
+      "whyListed": "Useful for tracking commercial activity. Business claims do not prove clinical value.",
+      "searchText": "atai life sciences — commercial development atai is a major psychedelic biotech whose ibogaine and noribogaine ventures shape the commercial and analog-development conversation. atai life sciences is a psychedelic biotech that, in january 2020, announced joint ventures with demerx to develop ibogaine and noribogaine for opioid use disorder. atai ibogaine activity is a commercial and drug-development signal within the wider psychedelic biotech field, not clinical proof. business milestones and financing news are tracked separately from evidence and are not proof of effectiveness. related searches: atai life sciences; atai ibogaine; psychedelic biotech. what this does not prove: corporate investment, pipelines, and press releases do not establish clinical value, safety, or approval. companies_patents company_release ibogabase people and institutions  company people_and_institutions atai life sciences atai ibogaine psychedelic biotech cataloged source company release"
+    },
+    {
+      "id": "entity-savant-hwp",
+      "title": "Savant HWP — Analog development",
+      "category": "companies_patents",
+      "sourceType": "company_release",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/sources/",
+      "summary": "Savant HWP is central to the 18-MC development history in the ibogaine-analog lane. Savant HWP is the company associated with clinical-stage development of 18-MC (18-methoxycoronaridine), an ibogaine analog first characterized by Stanley Glick and Martin Kuehne. The Savant HWP 18-MC program is part of the analog-development history, distinct from ibogaine itself. Preclinical and early-stage analog work is not proof of human clinical benefit. Related searches: Savant HWP; 18-MC; 18-methoxycoronaridine. What this does not prove: Analog-development history does not make an analog interchangeable with iboga or ibogaine, and does not establish human efficacy.",
+      "confidence": "Company release",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "company",
+        "people_and_institutions",
+        "savant hwp",
+        "18-mc",
+        "18-methoxycoronaridine"
+      ],
+      "displayCategory": "Companies and patents",
+      "displaySourceType": "Company release",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Company, patent, or biotech-field source.",
+      "conversationContext": "Covers company, people and institutions, savant hwp, 18-mc.",
+      "whyListed": "Useful for tracking commercial activity. Business claims do not prove clinical value.",
+      "searchText": "savant hwp — analog development savant hwp is central to the 18-mc development history in the ibogaine-analog lane. savant hwp is the company associated with clinical-stage development of 18-mc (18-methoxycoronaridine), an ibogaine analog first characterized by stanley glick and martin kuehne. the savant hwp 18-mc program is part of the analog-development history, distinct from ibogaine itself. preclinical and early-stage analog work is not proof of human clinical benefit. related searches: savant hwp; 18-mc; 18-methoxycoronaridine. what this does not prove: analog-development history does not make an analog interchangeable with iboga or ibogaine, and does not establish human efficacy. companies_patents company_release ibogabase people and institutions  company people_and_institutions savant hwp 18-mc 18-methoxycoronaridine cataloged source company release"
+    },
+    {
+      "id": "entity-david-olson",
+      "title": "David Olson — Analog research",
+      "category": "studies_papers",
+      "sourceType": "peer_reviewed_study",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/people/",
+      "summary": "Olson's lab designed tabernanthalog, a non-hallucinogenic ibogaine-inspired analog widely discussed in the field. David Olson, a chemist and neuroscientist at the University of California, Davis, led work reported in Nature (2021) describing tabernanthalog (TBG), a non-hallucinogenic analog inspired by ibogaine. Tabernanthalog is a designed molecule with its own pharmacology; David Olson's findings are preclinical and are not evidence about ibogaine in humans. TBG is tracked in the analog lane, not treated as an ibogaine synonym. Related searches: David Olson; tabernanthalog; TBG. What this does not prove: Preclinical analog findings in animals are not human clinical proof and do not transfer to ibogaine itself.",
+      "confidence": "Peer-reviewed paper",
+      "status": "Cataloged source",
+      "people": [
+        "David Olson"
+      ],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "person",
+        "people_and_institutions",
+        "david olson",
+        "tabernanthalog",
+        "tbg"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Peer-reviewed paper",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Peer-reviewed paper",
+      "conversationContext": "Covers person, people and institutions, david olson, tabernanthalog.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "david olson — analog research olson's lab designed tabernanthalog, a non-hallucinogenic ibogaine-inspired analog widely discussed in the field. david olson, a chemist and neuroscientist at the university of california, davis, led work reported in nature (2021) describing tabernanthalog (tbg), a non-hallucinogenic analog inspired by ibogaine. tabernanthalog is a designed molecule with its own pharmacology; david olson's findings are preclinical and are not evidence about ibogaine in humans. tbg is tracked in the analog lane, not treated as an ibogaine synonym. related searches: david olson; tabernanthalog; tbg. what this does not prove: preclinical analog findings in animals are not human clinical proof and do not transfer to ibogaine itself. studies_papers peer_reviewed_study ibogabase people and institutions  person people_and_institutions david olson tabernanthalog tbg cataloged source peer-reviewed paper"
+    },
+    {
+      "id": "entity-yann-guignon-botf",
+      "title": "Yann Guignon / Blessings of the Forest — Conservation and stewardship",
+      "category": "culture_stewardship",
+      "sourceType": "cultural_source",
+      "sourceName": "IbogaBase people and institutions",
+      "url": "/culture/",
+      "summary": "Blessings of the Forest, associated with Yann Guignon, is a visible voice on Gabonese iboga conservation, cultivation, traceability, and benefit-sharing. Blessings of the Forest, a Gabon-focused initiative associated with Yann Guignon, works on iboga conservation, sustainable cultivation, traceability, and benefit-sharing. Its work is framed as conservation and stewardship, addressing wild-harvest pressure and access-and-benefit-sharing under the Nagoya Protocol. IbogaBase cites Blessings of the Forest as a conservation voice, not as a lineage or ceremonial authority. Related searches: Yann Guignon; Blessings of the Forest; iboga traceability; benefit-sharing. What this does not prove: Conservation advocacy does not confer lineage authority and is not a claim about ceremonial knowledge or medical outcomes.",
+      "confidence": "Cultural source",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "",
+      "foundAt": "2026-07-15T04:32:06.441Z",
+      "sourceOrigin": "ibogabase_entities",
+      "tags": [
+        "organization",
+        "people_and_institutions",
+        "yann guignon",
+        "blessings of the forest",
+        "iboga traceability",
+        "benefit-sharing"
+      ],
+      "displayCategory": "Culture and stewardship",
+      "displaySourceType": "Cultural source",
+      "displaySourceName": "IbogaBase people and institutions",
+      "displayDate": "",
+      "whatItIs": "Culture, stewardship, conservation, or reciprocity source.",
+      "conversationContext": "Covers organization, people and institutions, yann guignon, blessings of the forest.",
+      "whyListed": "Useful for cultural, ecological, and stewardship context. Community voices carry more authority than outsider summaries.",
+      "searchText": "yann guignon / blessings of the forest — conservation and stewardship blessings of the forest, associated with yann guignon, is a visible voice on gabonese iboga conservation, cultivation, traceability, and benefit-sharing. blessings of the forest, a gabon-focused initiative associated with yann guignon, works on iboga conservation, sustainable cultivation, traceability, and benefit-sharing. its work is framed as conservation and stewardship, addressing wild-harvest pressure and access-and-benefit-sharing under the nagoya protocol. ibogabase cites blessings of the forest as a conservation voice, not as a lineage or ceremonial authority. related searches: yann guignon; blessings of the forest; iboga traceability; benefit-sharing. what this does not prove: conservation advocacy does not confer lineage authority and is not a claim about ceremonial knowledge or medical outcomes. culture_stewardship cultural_source ibogabase people and institutions  organization people_and_institutions yann guignon blessings of the forest iboga traceability benefit-sharing cataloged source cultural source"
     }
   ]
 }
