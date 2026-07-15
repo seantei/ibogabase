@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T04:32:06.441Z",
-  "totalRecords": 815,
+  "generatedAt": "2026-07-15T18:50:22.358Z",
+  "totalRecords": 820,
   "categories": {
     "books_bibliographies": 16,
     "clinical_trials": 28,
@@ -11,7 +11,7 @@
     "evidence_pages": 8,
     "laws_policy": 77,
     "news_articles_blogs": 96,
-    "podcasts_interviews": 426,
+    "podcasts_interviews": 431,
     "reference_pages": 11,
     "state_policy_coverage": 51,
     "studies_papers": 44,
@@ -42,7 +42,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -81,7 +81,7 @@
         "Nolan R. Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -118,7 +118,7 @@
         "Jonathan E. Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -150,7 +150,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-15",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "clinicaltrials_gov",
@@ -180,7 +180,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -210,7 +210,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-06",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "parkinsons",
@@ -240,7 +240,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -269,7 +269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "ptsd",
@@ -300,7 +300,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "tbi",
@@ -329,7 +329,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "chemistry",
@@ -357,7 +357,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "oud",
@@ -1102,6 +1102,32 @@
       "searchText": "psychoactive drug ibogaine effectively treats traumatic brain injury in special ops military vets - stanford medicine news or commentary from stanford medicine. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism stanford medicine  media cataloged source primary-source record"
     },
     {
+      "id": "source_radar_archive-QW1lcmljYW5zIG",
+      "title": "Americans for Ibogaine Welcomes Milestone as Federal Government Mobilizes Multiple Agencies to Advance Ibogaine Research and Psychedelic Medicine - Fidelity",
+      "category": "laws_policy",
+      "sourceType": "journalism",
+      "sourceName": "Fidelity",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDN6aUlOdG9jczk0MnlINlVNZDAtaDd4RENiZ1A3RjJBc2RNN19IdFZmUmlmMW5zaDAyOFg1SHVkdWwxSHNYT0N3aEk1c2RQd1p5c3E2TFZRaHFIWGM3Qm50WHBUTXlXaGdYdHgwMGhncWdMLW5vN21vU2ZHeXdkNk11UjJvWHB4bWc?oc=5",
+      "summary": "Law or policy source from Fidelity. Read the exact source before drawing legal conclusions.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Tue, 14 Jul 2026 05:15:10 GMT",
+      "foundAt": "2026-07-15T02:26:24.385Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "policy"
+      ],
+      "displayCategory": "Law and policy",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Fidelity",
+      "displayDate": "Jul 14, 2026",
+      "whatItIs": "Law, policy, agency, or public-affairs source.",
+      "conversationContext": "Covers policy.",
+      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
+      "searchText": "americans for ibogaine welcomes milestone as federal government mobilizes multiple agencies to advance ibogaine research and psychedelic medicine - fidelity law or policy source from fidelity. read the exact source before drawing legal conclusions. laws_policy journalism fidelity  policy cataloged source primary-source record"
+    },
+    {
       "id": "latest_scan-VGV4YXMgdG8gbG",
       "title": "Texas to launch independent psychedelic study after drug companies miss mark - FOX 7 Austin",
       "category": "studies_papers",
@@ -1113,7 +1139,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -1139,7 +1165,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 06 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1165,7 +1191,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -1191,7 +1217,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul 6",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1217,7 +1243,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1243,7 +1269,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul-Aug 01",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1269,7 +1295,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jul 1",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1295,7 +1321,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 26",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1321,7 +1347,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 24",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1347,7 +1373,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 23",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1373,7 +1399,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026 Jun 22",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1399,7 +1425,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -1414,84 +1440,6 @@
       "searchText": "clinical improvement following an integrative iboga microdosing protocol in post-concussive and hypoxic brain injury syndromes: a case series. research source from frontiers in pharmacology. study design, sample size, limitations, and safety signals matter. studies_papers peer_reviewed_study frontiers in pharmacology  research cataloged source peer-reviewed paper"
     },
     {
-      "id": "latest_scan-SWJvZ2FpbmUgaW",
-      "title": "Ibogaine in the Treatment of Alcoholism: an Open-label Escalating-dose Trial",
-      "category": "studies_papers",
-      "sourceType": "clinical_trial_registry",
-      "sourceName": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT03380728",
-      "summary": "COMPLETED",
-      "confidence": "Registry record",
-      "status": "Completed",
-      "people": [],
-      "publishedAt": "2017-12-15",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "trials"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Trial registry",
-      "displaySourceName": "ClinicalTrials.gov",
-      "displayDate": "Dec 15, 2017",
-      "whatItIs": "Trial registry",
-      "conversationContext": "Covers trials.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "ibogaine in the treatment of alcoholism: an open-label escalating-dose trial completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
-    },
-    {
-      "id": "latest_scan-UGVyc29uYWxpdH",
-      "title": "Personality and Drug Use (PDU)",
-      "category": "studies_papers",
-      "sourceType": "clinical_trial_registry",
-      "sourceName": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT05180149",
-      "summary": "WITHDRAWN",
-      "confidence": "Registry record",
-      "status": "Withdrawn",
-      "people": [],
-      "publishedAt": "2021-12-17",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "trials"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Trial registry",
-      "displaySourceName": "ClinicalTrials.gov",
-      "displayDate": "Dec 17, 2021",
-      "whatItIs": "Trial registry",
-      "conversationContext": "Covers trials.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "personality and drug use (pdu) withdrawn studies_papers clinical_trial_registry clinicaltrials.gov  trials withdrawn registry record"
-    },
-    {
-      "id": "latest_scan-UHJlbGltaW5hcn",
-      "title": "Preliminary Efficacy and Safety of Ibogaine in the Treatment of Methadone Detoxification",
-      "category": "studies_papers",
-      "sourceType": "clinical_trial_registry",
-      "sourceName": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT04003948",
-      "summary": "COMPLETED",
-      "confidence": "Registry record",
-      "status": "Completed",
-      "people": [],
-      "publishedAt": "2019-06-27",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "trials"
-      ],
-      "displayCategory": "Studies and papers",
-      "displaySourceType": "Trial registry",
-      "displaySourceName": "ClinicalTrials.gov",
-      "displayDate": "Jun 27, 2019",
-      "whatItIs": "Trial registry",
-      "conversationContext": "Covers trials.",
-      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "preliminary efficacy and safety of ibogaine in the treatment of methadone detoxification completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
-    },
-    {
       "id": "latest_scan-UHJlLXBvc3QgRX",
       "title": "Pre-post Evaluation of the Safety and Efficacy of Ibogaine-Magnesium Therapy in Veterans With Repeated Blast Exposure",
       "category": "studies_papers",
@@ -1503,7 +1451,7 @@
       "status": "Active Not Recruiting",
       "people": [],
       "publishedAt": "2020-03-16",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1518,18 +1466,18 @@
       "searchText": "pre-post evaluation of the safety and efficacy of ibogaine-magnesium therapy in veterans with repeated blast exposure active_not_recruiting studies_papers clinical_trial_registry clinicaltrials.gov  trials active not recruiting registry record"
     },
     {
-      "id": "latest_scan-TXVsdGlwbGUgQX",
-      "title": "Multiple Ascending Dose Noribogaine PK/PD in Healthy Volunteers",
+      "id": "latest_scan-UGVyc29uYWxpdH",
+      "title": "Personality and Drug Use (PDU)",
       "category": "studies_papers",
       "sourceType": "clinical_trial_registry",
       "sourceName": "ClinicalTrials.gov",
-      "url": "https://clinicaltrials.gov/study/NCT06480981",
-      "summary": "COMPLETED",
+      "url": "https://clinicaltrials.gov/study/NCT05180149",
+      "summary": "WITHDRAWN",
       "confidence": "Registry record",
-      "status": "Completed",
+      "status": "Withdrawn",
       "people": [],
-      "publishedAt": "2024-06-19",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "publishedAt": "2021-12-17",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1537,11 +1485,11 @@
       "displayCategory": "Studies and papers",
       "displaySourceType": "Trial registry",
       "displaySourceName": "ClinicalTrials.gov",
-      "displayDate": "Jun 19, 2024",
+      "displayDate": "Dec 17, 2021",
       "whatItIs": "Trial registry",
       "conversationContext": "Covers trials.",
       "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
-      "searchText": "multiple ascending dose noribogaine pk/pd in healthy volunteers completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
+      "searchText": "personality and drug use (pdu) withdrawn studies_papers clinical_trial_registry clinicaltrials.gov  trials withdrawn registry record"
     },
     {
       "id": "latest_scan-VHJpZmVjdGEgUm",
@@ -1555,7 +1503,7 @@
       "status": "Withdrawn",
       "people": [],
       "publishedAt": "2025-01-24",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "trials"
@@ -1570,6 +1518,84 @@
       "searchText": "trifecta research study withdrawn studies_papers clinical_trial_registry clinicaltrials.gov  trials withdrawn registry record"
     },
     {
+      "id": "latest_scan-SWJvZ2FpbmUgaW",
+      "title": "Ibogaine in the Treatment of Alcoholism: an Open-label Escalating-dose Trial",
+      "category": "studies_papers",
+      "sourceType": "clinical_trial_registry",
+      "sourceName": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03380728",
+      "summary": "COMPLETED",
+      "confidence": "Registry record",
+      "status": "Completed",
+      "people": [],
+      "publishedAt": "2017-12-15",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "trials"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Trial registry",
+      "displaySourceName": "ClinicalTrials.gov",
+      "displayDate": "Dec 15, 2017",
+      "whatItIs": "Trial registry",
+      "conversationContext": "Covers trials.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "ibogaine in the treatment of alcoholism: an open-label escalating-dose trial completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
+    },
+    {
+      "id": "latest_scan-TXVsdGlwbGUgQX",
+      "title": "Multiple Ascending Dose Noribogaine PK/PD in Healthy Volunteers",
+      "category": "studies_papers",
+      "sourceType": "clinical_trial_registry",
+      "sourceName": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06480981",
+      "summary": "COMPLETED",
+      "confidence": "Registry record",
+      "status": "Completed",
+      "people": [],
+      "publishedAt": "2024-06-19",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "trials"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Trial registry",
+      "displaySourceName": "ClinicalTrials.gov",
+      "displayDate": "Jun 19, 2024",
+      "whatItIs": "Trial registry",
+      "conversationContext": "Covers trials.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "multiple ascending dose noribogaine pk/pd in healthy volunteers completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
+    },
+    {
+      "id": "latest_scan-UHJlbGltaW5hcn",
+      "title": "Preliminary Efficacy and Safety of Ibogaine in the Treatment of Methadone Detoxification",
+      "category": "studies_papers",
+      "sourceType": "clinical_trial_registry",
+      "sourceName": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT04003948",
+      "summary": "COMPLETED",
+      "confidence": "Registry record",
+      "status": "Completed",
+      "people": [],
+      "publishedAt": "2019-06-27",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "trials"
+      ],
+      "displayCategory": "Studies and papers",
+      "displaySourceType": "Trial registry",
+      "displaySourceName": "ClinicalTrials.gov",
+      "displayDate": "Jun 27, 2019",
+      "whatItIs": "Trial registry",
+      "conversationContext": "Covers trials.",
+      "whyListed": "Useful for evidence pages and claim checks. Read the design, sample size, limits, and safety signals.",
+      "searchText": "preliminary efficacy and safety of ibogaine in the treatment of methadone detoxification completed studies_papers clinical_trial_registry clinicaltrials.gov  trials completed registry record"
+    },
+    {
       "id": "source_radar-VGV4YXMgSEhTIG",
       "title": "Texas HHS ibogaine clinical trials implementation update",
       "category": "clinical_trials",
@@ -1581,7 +1607,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-30",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1611,7 +1637,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "fda",
@@ -1640,7 +1666,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-12-12",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -1669,7 +1695,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2024",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "noribogaine",
@@ -2389,32 +2415,6 @@
       "searchText": "texas partnering with university researchers for trials on ibogaine - yahoo research or trial-status source from yahoo. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism yahoo  policy cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-R09QIGJpbGwgd2",
-      "title": "GOP bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment - Michigan Advance",
-      "category": "clinical_trials",
-      "sourceType": "journalism",
-      "sourceName": "Michigan Advance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbGhvWVpONzgyYTNWM0UtbjVuUmx5ZThJZDZ1STNXMlNUbmdIcjRxWUlCT3JyWDZMVW1mSldPb19ua2N1QkpZajM4VGE0S3V4TzdWbU5EQi1ZT2RqanZyc1g0UXpoVEo3RlllMHhWWWZSS0dFSVRLcEIwQzRPamY3cVR1SG9XZE14NjhBTDFLamlWYnJpUTdCUl9pLUx0VkVJSVRpTjYxYXJSUW5rNmxoMjR3alkwelp5M3IwYjR4cFYxa0JDUm5PWFRueHVPazVJd3Rsbg?oc=5",
-      "summary": "Research or trial-status source from Michigan Advance. A listing or announcement does not prove safety, efficacy, approval, or availability.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "research"
-      ],
-      "displayCategory": "Clinical trials",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "Michigan Advance",
-      "displayDate": "Jun 3, 2026",
-      "whatItIs": "Trial, registry, agency, or research-status record.",
-      "conversationContext": "Covers GOP bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment.",
-      "whyListed": "Useful for tracking research status. A trial listing or announcement is not proof that a treatment works.",
-      "searchText": "gop bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment - michigan advance research or trial-status source from michigan advance. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism michigan advance  research cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-TWljaGlnYW4gSG",
       "title": "Michigan House pitches $50M fund covering psychedelic treatment trial for veterans - MLive.com",
       "category": "clinical_trials",
@@ -2426,7 +2426,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -2441,6 +2441,32 @@
       "searchText": "michigan house pitches $50m fund covering psychedelic treatment trial for veterans - mlive.com research or trial-status source from mlive.com. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism mlive.com  research cataloged source primary-source record"
     },
     {
+      "id": "latest_scan-R09QIGJpbGwgd2",
+      "title": "GOP bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment - Michigan Advance",
+      "category": "clinical_trials",
+      "sourceType": "journalism",
+      "sourceName": "Michigan Advance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbGhvWVpONzgyYTNWM0UtbjVuUmx5ZThJZDZ1STNXMlNUbmdIcjRxWUlCT3JyWDZMVW1mSldPb19ua2N1QkpZajM4VGE0S3V4TzdWbU5EQi1ZT2RqanZyc1g0UXpoVEo3RlllMHhWWWZSS0dFSVRLcEIwQzRPamY3cVR1SG9XZE14NjhBTDFLamlWYnJpUTdCUl9pLUx0VkVJSVRpTjYxYXJSUW5rNmxoMjR3alkwelp5M3IwYjR4cFYxa0JDUm5PWFRueHVPazVJd3Rsbg?oc=5",
+      "summary": "Research or trial-status source from Michigan Advance. A listing or announcement does not prove safety, efficacy, approval, or availability.",
+      "confidence": "Primary-source record",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "research"
+      ],
+      "displayCategory": "Clinical trials",
+      "displaySourceType": "Journalism",
+      "displaySourceName": "Michigan Advance",
+      "displayDate": "Jun 3, 2026",
+      "whatItIs": "Trial, registry, agency, or research-status record.",
+      "conversationContext": "Covers GOP bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment.",
+      "whyListed": "Useful for tracking research status. A trial listing or announcement is not proof that a treatment works.",
+      "searchText": "gop bill would use opioid funds to jump-start clinical trials on psychedelic-based trauma treatment - michigan advance research or trial-status source from michigan advance. a listing or announcement does not prove safety, efficacy, approval, or availability. clinical_trials journalism michigan advance  research cataloged source primary-source record"
+    },
+    {
       "id": "source_radar-U2NpZW50aWZpYy",
       "title": "Scientific American evaluates public claims about Ibogaine for PTSD and depression",
       "category": "laws_policy",
@@ -2452,7 +2478,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-24",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "mental_health",
@@ -2482,7 +2508,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-06-11",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "texas",
@@ -2511,7 +2537,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "law",
@@ -4140,32 +4166,6 @@
       "searchText": "growing demand for trusted ibogaine treatment information prompts launch of new patient education initiative - streetinsider law or policy source from streetinsider. read the exact source before drawing legal conclusions. laws_policy journalism streetinsider  policy cataloged source primary-source record"
     },
     {
-      "id": "source_radar_archive-QW1lcmljYW5zIG",
-      "title": "Americans for Ibogaine Welcomes Milestone as Federal Government Mobilizes Multiple Agencies to Advance Ibogaine Research and Psychedelic Medicine - Fidelity",
-      "category": "laws_policy",
-      "sourceType": "journalism",
-      "sourceName": "Fidelity",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDN6aUlOdG9jczk0MnlINlVNZDAtaDd4RENiZ1A3RjJBc2RNN19IdFZmUmlmMW5zaDAyOFg1SHVkdWwxSHNYT0N3aEk1c2RQd1p5c3E2TFZRaHFIWGM3Qm50WHBUTXlXaGdYdHgwMGhncWdMLW5vN21vU2ZHeXdkNk11UjJvWHB4bWc?oc=5",
-      "summary": "Law or policy source from Fidelity. Read the exact source before drawing legal conclusions.",
-      "confidence": "Primary-source record",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "Tue, 14 Jul 2026 05:15:10 GMT",
-      "foundAt": "2026-07-15T02:26:24.385Z",
-      "sourceOrigin": "source_radar_archive",
-      "tags": [
-        "policy"
-      ],
-      "displayCategory": "Law and policy",
-      "displaySourceType": "Journalism",
-      "displaySourceName": "Fidelity",
-      "displayDate": "Jul 14, 2026",
-      "whatItIs": "Law, policy, agency, or public-affairs source.",
-      "conversationContext": "Covers policy.",
-      "whyListed": "Useful for understanding policy movement. Current law depends on jurisdiction and exact source text.",
-      "searchText": "americans for ibogaine welcomes milestone as federal government mobilizes multiple agencies to advance ibogaine research and psychedelic medicine - fidelity law or policy source from fidelity. read the exact source before drawing legal conclusions. laws_policy journalism fidelity  policy cataloged source primary-source record"
-    },
-    {
       "id": "latest_scan-VHJ1bXDigJlzIH",
       "title": "Trump’s psychedelics executive order and how Texas inspired (and may benefit from) it - The Microdose",
       "category": "laws_policy",
@@ -4177,7 +4177,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -4203,7 +4203,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4229,7 +4229,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "policy"
@@ -4255,7 +4255,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -4281,7 +4281,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 03 May 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -4307,7 +4307,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -4333,7 +4333,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 26 May 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -4359,7 +4359,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "law"
@@ -4385,7 +4385,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -4411,7 +4411,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4440,7 +4440,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4470,7 +4470,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4501,7 +4501,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -4533,7 +4533,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2021-04-27",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4570,7 +4570,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "2018-09-20",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4605,7 +4605,7 @@
         "Mark Plotkin"
       ],
       "publishedAt": "2022-07-01",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "tim_ferriss",
@@ -4642,7 +4642,7 @@
         "Deborah Mash"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4671,7 +4671,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4705,7 +4705,7 @@
         "Kenneth Tupper"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -4738,7 +4738,7 @@
         "Julie Piatt"
       ],
       "publishedAt": "2026-05-21",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -9572,29 +9572,29 @@
     },
     {
       "id": "source_radar_archive-SWJvZ2FpbmUgUm",
-      "title": "Ibogaine Reversed Veterans Brain Age",
+      "title": "Ibogaine Recovery Journey",
       "category": "podcasts_interviews",
       "sourceType": "youtube_video",
-      "sourceName": "RELATED CONTENT",
-      "url": "https://www.youtube.com/watch?v=yzyA8tHz8qo",
-      "summary": "Covers Ibogaine Reversed Veterans Brain Age. This is a media source, not medical evidence.",
+      "sourceName": "Addiction Treatment Hotline USA",
+      "url": "https://www.youtube.com/watch?v=JFETyAhev-g",
+      "summary": "Covers Ibogaine Recovery Journey. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2026-06-21T14:15:39Z",
-      "foundAt": "2026-06-23T19:22:22.159Z",
+      "publishedAt": "2026-07-09T08:29:25Z",
+      "foundAt": "2026-07-15T07:07:17.000Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
       ],
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Youtube Video",
-      "displaySourceName": "RELATED CONTENT",
-      "displayDate": "Jun 21, 2026",
+      "displaySourceName": "Addiction Treatment Hotline USA",
+      "displayDate": "Jul 9, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Ibogaine Reversed Veterans Brain Age.",
+      "conversationContext": "Topic from title: Ibogaine Recovery Journey.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "ibogaine reversed veterans brain age covers ibogaine reversed veterans brain age. this is a media source, not medical evidence. podcasts_interviews youtube_video related content  media cataloged source media metadata"
+      "searchText": "ibogaine recovery journey covers ibogaine recovery journey. this is a media source, not medical evidence. podcasts_interviews youtube_video addiction treatment hotline usa  media cataloged source media metadata"
     },
     {
       "id": "source_radar_archive-QXlhaHVhc2NhLC",
@@ -14642,17 +14642,17 @@
     },
     {
       "id": "source_radar_archive-T3BpYXRlIFJlY2",
-      "title": "Opiate Recovery day 19. Iboga, ibogaine.",
+      "title": "Opiate Recovery day 19. Iboga, ibogaine. #nature",
       "category": "podcasts_interviews",
       "sourceType": "youtube_video",
       "sourceName": "Rough Draft Life ",
       "url": "https://www.youtube.com/watch?v=lqgYpCUAZ_8",
-      "summary": "Covers Opiate Recovery day 19. Iboga, ibogaine.. This is a media source, not medical evidence.",
+      "summary": "Covers Opiate Recovery day 19. Iboga, ibogaine. #nature. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-07-14T00:55:33Z",
-      "foundAt": "2026-07-14T07:05:47.792Z",
+      "foundAt": "2026-07-15T07:07:17.000Z",
       "sourceOrigin": "source_radar_archive",
       "tags": [
         "media"
@@ -14662,9 +14662,113 @@
       "displaySourceName": "Rough Draft Life",
       "displayDate": "Jul 14, 2026",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Opiate Recovery day 19. Iboga, ibogaine..",
+      "conversationContext": "Topic from title: Opiate Recovery day 19. Iboga, ibogaine. #nature.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "opiate recovery day 19. iboga, ibogaine. covers opiate recovery day 19. iboga, ibogaine.. this is a media source, not medical evidence. podcasts_interviews youtube_video rough draft life  media cataloged source media metadata"
+      "searchText": "opiate recovery day 19. iboga, ibogaine. #nature covers opiate recovery day 19. iboga, ibogaine. #nature. this is a media source, not medical evidence. podcasts_interviews youtube_video rough draft life  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2EgJmFtcD",
+      "title": "Iboga &amp; Ibogaine with Root &amp; Wisdom &amp; Basse Clinic hosted by Plant Medicine People",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Root & Wisdom",
+      "url": "https://www.youtube.com/watch?v=kqdn7F1xdo4",
+      "summary": "Covers Iboga &amp; Ibogaine with Root &amp; Wisdom &amp; Basse Clinic hosted by Plant Medicine People. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-07-14T22:58:00Z",
+      "foundAt": "2026-07-15T07:07:17.000Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Root & Wisdom",
+      "displayDate": "Jul 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Iboga &amp; Ibogaine with Root &amp; Wisdom &amp; Basse Clinic hosted by Plant Medicine People.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "iboga &amp; ibogaine with root &amp; wisdom &amp; basse clinic hosted by plant medicine people covers iboga &amp; ibogaine with root &amp; wisdom &amp; basse clinic hosted by plant medicine people. this is a media source, not medical evidence. podcasts_interviews youtube_video root & wisdom  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-SWJvZ2FpbmUgS2",
+      "title": "Ibogaine Kept Finding Me",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Aqsa Majeed",
+      "url": "https://www.youtube.com/watch?v=b6XAicde_Pw",
+      "summary": "Covers Ibogaine Kept Finding Me. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-07-14T15:51:44Z",
+      "foundAt": "2026-07-15T07:07:17.000Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Aqsa Majeed",
+      "displayDate": "Jul 14, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: Ibogaine Kept Finding Me.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "ibogaine kept finding me covers ibogaine kept finding me. this is a media source, not medical evidence. podcasts_interviews youtube_video aqsa majeed  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-Vy4gQnJ5YW4gSH",
+      "title": "W. Bryan Hubbard: Leading the Charge for Ibogaine Access &amp; Veteran Recovery",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "Refocused Network",
+      "url": "https://www.youtube.com/watch?v=raSy9cbAjPM",
+      "summary": "Covers W. Bryan Hubbard: Leading the Charge for Ibogaine Access &amp; Veteran Recovery. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-06-19T13:52:12Z",
+      "foundAt": "2026-07-15T07:07:17.000Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "Refocused Network",
+      "displayDate": "Jun 19, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: W. Bryan Hubbard: Leading the Charge for Ibogaine Access &amp; Veteran Recovery.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "w. bryan hubbard: leading the charge for ibogaine access &amp; veteran recovery covers w. bryan hubbard: leading the charge for ibogaine access &amp; veteran recovery. this is a media source, not medical evidence. podcasts_interviews youtube_video refocused network  media cataloged source media metadata"
+    },
+    {
+      "id": "source_radar_archive-TXkgUGFydG5lci",
+      "title": "My Partner Wasn’t the Problem—Ibogaine Showed Me What Was",
+      "category": "podcasts_interviews",
+      "sourceType": "youtube_video",
+      "sourceName": "TheHeatMethod",
+      "url": "https://www.youtube.com/watch?v=Mi0coWPFZmQ",
+      "summary": "Covers My Partner Wasn’t the Problem—Ibogaine Showed Me What Was. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-07-15T10:00:18Z",
+      "foundAt": "2026-07-15T10:14:19.396Z",
+      "sourceOrigin": "source_radar_archive",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Youtube Video",
+      "displaySourceName": "TheHeatMethod",
+      "displayDate": "Jul 15, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: My Partner Wasn’t the Problem—Ibogaine Showed Me What Was.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "my partner wasn’t the problem—ibogaine showed me what was covers my partner wasn’t the problem—ibogaine showed me what was. this is a media source, not medical evidence. podcasts_interviews youtube_video theheatmethod  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-VHJ1bXAgb3JkZX",
@@ -14678,7 +14782,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -14704,7 +14808,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-26T17:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14730,7 +14834,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-01T17:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14756,7 +14860,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-01-12T09:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14782,7 +14886,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-27T18:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14797,6 +14901,58 @@
       "searchText": "#2461 - robert f. kennedy, jr. covers #2461. this is a media source, not medical evidence. podcasts_interviews podcast_interview the joe rogan experience  media cataloged source media metadata"
     },
     {
+      "id": "latest_scan-IzYgLSBUcnVzdC",
+      "title": "#6 - Trust yourself in Motherhood/Fatherhood",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Get To The Root Iboga",
+      "url": "https://podcasts.apple.com/us/podcast/6-trust-yourself-in-motherhood-fatherhood/id1861195577?i=1000751949347&uo=4",
+      "summary": "Covers #6. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-02-27T16:38:43Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Get To The Root Iboga",
+      "displayDate": "Feb 27, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: #6.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "#6 - trust yourself in motherhood/fatherhood covers #6. this is a media source, not medical evidence. podcasts_interviews podcast_interview get to the root iboga  media cataloged source media metadata"
+    },
+    {
+      "id": "latest_scan-Ny4gQXRtb3MgLS",
+      "title": "7. Atmos - Staven (Original mix) [preview]",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Iboga Radio Show",
+      "url": "https://podcasts.apple.com/us/podcast/7-atmos-staven-original-mix-preview/id1055641481?i=1000774934812&uo=4",
+      "summary": "Covers 7. Atmos. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-07-01T01:44:33Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Iboga Radio Show",
+      "displayDate": "Jul 1, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: 7. Atmos.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "7. atmos - staven (original mix) [preview] covers 7. atmos. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-VmluaSBWaWNpIC",
       "title": "Vini Vici - Alteza (Phaxe Remix)",
       "category": "podcasts_interviews",
@@ -14808,7 +14964,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2020-11-05T11:41:54Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14834,7 +14990,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-29T00:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14849,32 +15005,6 @@
       "searchText": "premiere: takkra - ilyah (atlantis broadcast rework) [sofa beats] covers premiere: takkra. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-RW1vayAmIE1pY2",
-      "title": "Emok & Michael Banel - Fusion Festival Set 2025 - Sonnendeck",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Iboga Radio Show",
-      "url": "https://podcasts.apple.com/us/podcast/emok-michael-banel-fusion-festival-set-2025-sonnendeck/id1055641481?i=1000716955825&uo=4",
-      "summary": "Covers Emok & Michael Banel - Fusion Festival Set 2025. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2025-07-12T14:08:42Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Iboga Radio Show",
-      "displayDate": "Jul 12, 2025",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Emok & Michael Banel - Fusion Festival Set 2025.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "emok & michael banel - fusion festival set 2025 - sonnendeck covers emok & michael banel - fusion festival set 2025. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-RU1PSyAtIE9aT1",
       "title": "EMOK - OZORA FESTIVAL 2024 - FULL SET",
       "category": "podcasts_interviews",
@@ -14886,7 +15016,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-12T18:18:04Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14901,18 +15031,18 @@
       "searchText": "emok - ozora festival 2024 - full set covers emok - ozora festival 2024. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-Ny4gQXRtb3MgLS",
-      "title": "7. Atmos - Staven (Original mix) [preview]",
+      "id": "latest_scan-RW1vayAmIE1pY2",
+      "title": "Emok & Michael Banel - Fusion Festival Set 2025 - Sonnendeck",
       "category": "podcasts_interviews",
       "sourceType": "podcast_interview",
       "sourceName": "Iboga Radio Show",
-      "url": "https://podcasts.apple.com/us/podcast/7-atmos-staven-original-mix-preview/id1055641481?i=1000774934812&uo=4",
-      "summary": "Covers 7. Atmos. This is a media source, not medical evidence.",
+      "url": "https://podcasts.apple.com/us/podcast/emok-michael-banel-fusion-festival-set-2025-sonnendeck/id1055641481?i=1000716955825&uo=4",
+      "summary": "Covers Emok & Michael Banel - Fusion Festival Set 2025. This is a media source, not medical evidence.",
       "confidence": "Media metadata",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "2026-07-01T01:44:33Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "publishedAt": "2025-07-12T14:08:42Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14920,11 +15050,11 @@
       "displayCategory": "Podcasts and interviews",
       "displaySourceType": "Podcast Interview",
       "displaySourceName": "Iboga Radio Show",
-      "displayDate": "Jul 1, 2026",
+      "displayDate": "Jul 12, 2025",
       "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: 7. Atmos.",
+      "conversationContext": "Topic from title: Emok & Michael Banel - Fusion Festival Set 2025.",
       "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "7. atmos - staven (original mix) [preview] covers 7. atmos. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
+      "searchText": "emok & michael banel - fusion festival set 2025 - sonnendeck covers emok & michael banel - fusion festival set 2025. this is a media source, not medical evidence. podcasts_interviews podcast_interview iboga radio show  media cataloged source media metadata"
     },
     {
       "id": "latest_scan-SGVhbGluZyBDaG",
@@ -14938,7 +15068,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-09-09T08:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14964,7 +15094,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-02-02T09:55:51Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -14979,32 +15109,6 @@
       "searchText": "#3 — healing, acceptance and orientation with spencer “missambo” burton covers #3 — healing, acceptance and orientation with spencer “missambo” burton. this is a media source, not medical evidence. podcasts_interviews podcast_interview the iboga leadership summit podcast  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-IzEzIOKAlCBGaX",
-      "title": "#13 — Fishing for Harmonies: Kindling Research Cultures of Conviviality with Dr Andy Letcher",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "The Iboga Leadership Summit Podcast",
-      "url": "https://podcasts.apple.com/us/podcast/13-fishing-for-harmonies-kindling-research-cultures/id1873572601?i=1000772838628&uo=4",
-      "summary": "Covers #13 — Fishing for Harmonies: Kindling Research Cultures of Conviviality with Dr Andy Letcher. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2026-06-15T16:52:09Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "The Iboga Leadership Summit Podcast",
-      "displayDate": "Jun 15, 2026",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: #13 — Fishing for Harmonies: Kindling Research Cultures of Conviviality with Dr Andy Letcher.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "#13 — fishing for harmonies: kindling research cultures of conviviality with dr andy letcher covers #13 — fishing for harmonies: kindling research cultures of conviviality with dr andy letcher. this is a media source, not medical evidence. podcasts_interviews podcast_interview the iboga leadership summit podcast  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-QSBQc3ljaGlhdH",
       "title": "A Psychiatrist Reveals the Truth About Psychedelic Therapy: Benefits, Risks & Who Would Benefit and Who Should Avoid It with Dr. Will Van Derveer",
       "category": "podcasts_interviews",
@@ -15016,7 +15120,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-10T10:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15031,6 +15135,32 @@
       "searchText": "a psychiatrist reveals the truth about psychedelic therapy: benefits, risks & who would benefit and who should avoid it with dr. will van derveer covers a psychiatrist reveals the truth about psychedelic therapy: benefits, risks & who would benefit and who should avoid it with dr. will van derveer. this is a media source, not medical evidence. podcasts_interviews podcast_interview dhru purohit show  media cataloged source media metadata"
     },
     {
+      "id": "latest_scan-Qk9OVVMgRVBJU0",
+      "title": "BONUS EPISODE: How to take Pyschedelics for Your Mental Health with Dr. Will Van Derveer and Mike Pesca",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "Therapy in a Nutshell",
+      "url": "https://podcasts.apple.com/us/podcast/bonus-episode-how-to-take-pyschedelics-for-your-mental/id1514880062?i=1000767963031&uo=4",
+      "summary": "Covers BONUS EPISODE: How to take Pyschedelics for Your Mental Health with Dr. Will Van Derveer and Mike Pesca. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-05-15T13:44:00Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "Therapy in a Nutshell",
+      "displayDate": "May 15, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: BONUS EPISODE: How to take Pyschedelics for Your Mental Health with Dr. Will Van Derveer and Mike Pesca.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "bonus episode: how to take pyschedelics for your mental health with dr. will van derveer and mike pesca covers bonus episode: how to take pyschedelics for your mental health with dr. will van derveer and mike pesca. this is a media source, not medical evidence. podcasts_interviews podcast_interview therapy in a nutshell  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-UHNpbG9jeWJpbi",
       "title": "Psilocybin Magic Mushrooms, San Pedro and Peyote: Bridging Ancient Wisdom and Modern Therapy",
       "category": "podcasts_interviews",
@@ -15042,7 +15172,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-08T02:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15068,7 +15198,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-07-07T19:30:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15094,7 +15224,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-08-26T08:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15120,7 +15250,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2023-07-20T10:04:39Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15146,7 +15276,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-11-03T13:53:14Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15172,7 +15302,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-30T06:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15198,7 +15328,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-06-29T10:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15213,32 +15343,6 @@
       "searchText": "dr martín polanco and marine ryan roberts: a discussion on the clinical psychedelic retreat being used to treat veterans and their family members covers dr martín polanco and marine ryan roberts: a discussion on the clinical psychedelic retreat being used to treat veterans and their family members. this is a media source, not medical evidence. podcasts_interviews podcast_interview team never quit  media cataloged source media metadata"
     },
     {
-      "id": "latest_scan-UHJvbWlzZSAmIF",
-      "title": "Promise & Peril: Veterans Promote Psychedelics to Treat Addiction | 6.25.23",
-      "category": "podcasts_interviews",
-      "sourceType": "podcast_interview",
-      "sourceName": "Morning Wire",
-      "url": "https://podcasts.apple.com/us/podcast/promise-peril-veterans-promote-psychedelics-to-treat/id1576594336?i=1000618229972&uo=4",
-      "summary": "Covers Promise & Peril: Veterans Promote Psychedelics to Treat Addiction | 6.25.23. This is a media source, not medical evidence.",
-      "confidence": "Media metadata",
-      "status": "Cataloged source",
-      "people": [],
-      "publishedAt": "2023-06-25T08:30:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
-      "sourceOrigin": "latest_scan",
-      "tags": [
-        "media"
-      ],
-      "displayCategory": "Podcasts and interviews",
-      "displaySourceType": "Podcast Interview",
-      "displaySourceName": "Morning Wire",
-      "displayDate": "Jun 25, 2023",
-      "whatItIs": "Podcast or interview.",
-      "conversationContext": "Topic from title: Promise & Peril: Veterans Promote Psychedelics to Treat Addiction | 6.25.23.",
-      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
-      "searchText": "promise & peril: veterans promote psychedelics to treat addiction | 6.25.23 covers promise & peril: veterans promote psychedelics to treat addiction | 6.25.23. this is a media source, not medical evidence. podcasts_interviews podcast_interview morning wire  media cataloged source media metadata"
-    },
-    {
       "id": "latest_scan-SW4gV2F2ZXMgJi",
       "title": "In Waves & War: Marcus & Amber Capone On Psychedelic Treatment For Veteran PTSD, Rebuilding Life After War & The Mission To Heal A Generation",
       "category": "podcasts_interviews",
@@ -15250,7 +15354,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-20T09:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15276,7 +15380,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2025-10-17T15:18:09Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15302,7 +15406,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-04-12T10:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15328,7 +15432,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-18T18:31:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15354,7 +15458,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-06-02T07:30:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15380,7 +15484,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-13T21:58:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15395,6 +15499,32 @@
       "searchText": "ep. 60 • todd sharbutt • a warrior finds his way: from desert storm to devgru, to life beyond the teams covers ep. 60 • todd sharbutt • a warrior finds his way: from desert storm to devgru, to life beyond the teams. this is a media source, not medical evidence. podcasts_interviews podcast_interview liberty risk  media cataloged source media metadata"
     },
     {
+      "id": "latest_scan-VGhlIFJlZGlzdH",
+      "title": "The Redistricting War Is Escalating",
+      "category": "podcasts_interviews",
+      "sourceType": "podcast_interview",
+      "sourceName": "The Fox News Rundown",
+      "url": "https://podcasts.apple.com/us/podcast/the-redistricting-war-is-escalating/id1303660358?i=1000763395073&uo=4",
+      "summary": "Covers The Redistricting War Is Escalating. This is a media source, not medical evidence.",
+      "confidence": "Media metadata",
+      "status": "Cataloged source",
+      "people": [],
+      "publishedAt": "2026-04-24T09:00:00Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
+      "sourceOrigin": "latest_scan",
+      "tags": [
+        "media"
+      ],
+      "displayCategory": "Podcasts and interviews",
+      "displaySourceType": "Podcast Interview",
+      "displaySourceName": "The Fox News Rundown",
+      "displayDate": "Apr 24, 2026",
+      "whatItIs": "Podcast or interview.",
+      "conversationContext": "Topic from title: The Redistricting War Is Escalating.",
+      "whyListed": "Useful for hearing how people discuss Iboga/Ibogaine. Do not treat episode claims as medical evidence unless supported by stronger sources.",
+      "searchText": "the redistricting war is escalating covers the redistricting war is escalating. this is a media source, not medical evidence. podcasts_interviews podcast_interview the fox news rundown  media cataloged source media metadata"
+    },
+    {
       "id": "latest_scan-IzQ5MzogVGhlIF",
       "title": "#493: The Random Show — Bitcoin Pros and Cons, 2021 Resolutions, Fave Books, Lucid Dreaming, Couples Therapy, and More",
       "category": "podcasts_interviews",
@@ -15406,7 +15536,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-01-19T19:10:10Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15432,7 +15562,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 09 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15458,7 +15588,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2022-07-01T21:51:13Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15484,7 +15614,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-02-26T10:00:00Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15510,7 +15640,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2021-02-26T22:27:24Z",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -15538,7 +15668,7 @@
         "Hamilton Morris"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hamilton_morris",
@@ -15570,7 +15700,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ibogaine",
@@ -15627,7 +15757,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -15662,7 +15792,7 @@
         "Edmund Muskie"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "hunter_s_thompson",
@@ -15903,7 +16033,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 26 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15929,7 +16059,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15955,7 +16085,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 13 Jun 2023 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "books"
@@ -15981,7 +16111,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "news_archive",
@@ -16014,7 +16144,7 @@
         "Dimitri Mugianis"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -16048,7 +16178,7 @@
         "Jonathan Dickinson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -16080,7 +16210,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -17464,7 +17594,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 13 Jul 2026 19:30:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "research"
@@ -17490,7 +17620,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17516,7 +17646,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17542,7 +17672,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 20 Jun 2025 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17568,7 +17698,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 29 Jun 2024 10:57:34 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17594,7 +17724,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 28 Jan 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17620,7 +17750,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 17 Feb 2021 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17646,7 +17776,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 29 Apr 2022 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17672,7 +17802,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17698,7 +17828,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "media"
@@ -17724,7 +17854,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -17750,7 +17880,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "blogs"
@@ -17776,7 +17906,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "companies"
@@ -17791,30 +17921,30 @@
       "searchText": "trump's executive order may boost psychedelic stocks. here are 7 to buy in 2026 - u.s. news - money news or commentary from u.s. news - money. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism u.s. news - money  companies cataloged source primary-source record"
     },
     {
-      "id": "latest_scan-QWR2ZXJzZSBFdm",
-      "title": "Adverse Events and Psychedelics: Differences Across Substances and Context - Psychiatric Times",
+      "id": "latest_scan-UG93ZXJmdWwgUH",
+      "title": "Powerful Psychedelic Gains Renewed Attention as a Treatment for Opioid Addiction (Published 2024) - The New York Times",
       "category": "news_articles_blogs",
       "sourceType": "journalism",
-      "sourceName": "Psychiatric Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcElnRHU1cUVHeVQ3Wnd3RUVETng3Y2N2alNIa0NDUkdIU2dRUkZPYWZ2SFAwVnpGcFlxcUp1bllKMVk1LXlGdzJoMjREUEhtcFoxVHY5cllTd0oxR3dRRm92UG1IaVd2UHNtdGVMRnNZZm9hMVByNmkwblFrX2JvM3JIT253UGFTbjNLUElDdVVWSVQwZi1ITThHYTc5MFVYWHUwT0JuM2xuR044SnhycQ?oc=5",
-      "summary": "News or commentary from Psychiatric Times. Use it to understand public discussion and timing; verify important claims against primary sources.",
+      "sourceName": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemZra3UzMEpyY21MT2tnS3FpcnNkVUJlV2xXenkteU1qUV96YS1KRGt5MS1WbXh2TkRIX08tTlMwclNaME1neEhqVnA0UVdlNU5rQVRRcktMNkFtMDE3Skh2ZWxYNWtySXBwUXdVMnI1TU9RbWVmak00WThMclo2T3NacFQyRGxNNUJpYQ?oc=5",
+      "summary": "News or commentary from The New York Times. Use it to understand public discussion and timing; verify important claims against primary sources.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
       "people": [],
-      "publishedAt": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "publishedAt": "Tue, 05 Mar 2024 08:00:00 GMT",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "safety"
       ],
       "displayCategory": "News and commentary",
       "displaySourceType": "Journalism",
-      "displaySourceName": "Psychiatric Times",
-      "displayDate": "Feb 19, 2026",
+      "displaySourceName": "The New York Times",
+      "displayDate": "Mar 5, 2024",
       "whatItIs": "News or commentary.",
       "conversationContext": "Covers safety.",
       "whyListed": "Useful for public context and timelines. Confirm important claims with primary sources.",
-      "searchText": "adverse events and psychedelics: differences across substances and context - psychiatric times news or commentary from psychiatric times. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism psychiatric times  safety cataloged source primary-source record"
+      "searchText": "powerful psychedelic gains renewed attention as a treatment for opioid addiction (published 2024) - the new york times news or commentary from the new york times. use it to understand public discussion and timing; verify important claims against primary sources. news_articles_blogs journalism the new york times  safety cataloged source primary-source record"
     },
     {
       "id": "latest_scan-VHJ1bXAgdG8gc2",
@@ -17828,7 +17958,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "conditions"
@@ -17856,7 +17986,7 @@
         "Howard Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "howard_lotsof",
@@ -17887,7 +18017,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-05-07",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "commercial",
@@ -18097,7 +18227,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 14 Aug 2024 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18123,7 +18253,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sun, 09 May 2021 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18149,7 +18279,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Wed, 06 May 2020 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "commercial"
@@ -18179,7 +18309,7 @@
         "José Inzunza"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "ambio",
@@ -18212,7 +18342,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2015-2017",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "safety",
@@ -18556,7 +18686,7 @@
         "Binana"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18591,7 +18721,7 @@
         "Giorgio Samorini"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18627,7 +18757,7 @@
         "Anya Ermakova"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "manual_seed",
       "tags": [
         "iboga",
@@ -18662,7 +18792,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "2026-03",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "culture",
@@ -18692,7 +18822,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "current",
-      "foundAt": "2026-07-15T04:31:52.793Z",
+      "foundAt": "2026-07-15T18:50:10.571Z",
       "sourceOrigin": "source_radar",
       "tags": [
         "conservation",
@@ -18799,7 +18929,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "Sat, 10 May 2025 07:00:00 GMT",
-      "foundAt": "2026-07-15T04:31:31.053Z",
+      "foundAt": "2026-07-15T18:49:48.999Z",
       "sourceOrigin": "latest_scan",
       "tags": [
         "culture"
@@ -21308,7 +21438,7 @@
       "sourceName": "IbogaBase Clinic Observatory",
       "url": "#clinics",
       "summary": "Ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. This is not a referral, ranking, endorsement, or provider recommendation.",
-      "confidence": "Peer-reviewed source",
+      "confidence": "Claim record",
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
@@ -21326,7 +21456,7 @@
       "whatItIs": "Clinic-claim monitoring entry.",
       "conversationContext": "Covers clinics, claims, no referrals.",
       "whyListed": "Useful for non-promotional claim monitoring only. IbogaBase does not rank, recommend, or refer to clinics.",
-      "searchText": "ambio life sciences ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. this is not a referral, ranking, endorsement, or provider recommendation. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source peer-reviewed source"
+      "searchText": "ambio life sciences ambio is included as a clinic/company/research-site claim record because it appears in peer-reviewed research and public reporting. this is not a referral, ranking, endorsement, or provider recommendation. clinics clinic_observatory_schema ibogabase clinic observatory  clinics claims no_referrals cataloged source claim record"
     },
     {
       "id": "site-topic-bwiti-history",
@@ -21351,7 +21481,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -21387,7 +21517,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Culture and stewardship",
       "displaySourceType": "Culture context",
@@ -21418,7 +21548,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -21451,7 +21581,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "History topic",
@@ -21483,7 +21613,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Safety topic",
@@ -21515,7 +21645,7 @@
       ],
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_reference",
       "displayCategory": "Reference pages",
       "displaySourceType": "Claim check",
@@ -21540,7 +21670,7 @@
         "Dana Beal"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21572,7 +21702,7 @@
         "Norma Lotsof"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21604,7 +21734,7 @@
         "Claudio Naranjo"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21636,7 +21766,7 @@
         "Robert Goutarel"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21668,7 +21798,7 @@
         "Juliana Mulligan"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21700,7 +21830,7 @@
         "W. Bryan Hubbard"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21733,7 +21863,7 @@
         "Marcus and Amber Capone"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21764,7 +21894,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "organization",
@@ -21795,7 +21925,7 @@
         "Nolan Williams"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21824,7 +21954,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "organization",
@@ -21854,7 +21984,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "company",
@@ -21884,7 +22014,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "company",
@@ -21916,7 +22046,7 @@
         "David Olson"
       ],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "person",
@@ -21946,7 +22076,7 @@
       "status": "Cataloged source",
       "people": [],
       "publishedAt": "",
-      "foundAt": "2026-07-15T04:32:06.441Z",
+      "foundAt": "2026-07-15T18:50:22.358Z",
       "sourceOrigin": "ibogabase_entities",
       "tags": [
         "organization",

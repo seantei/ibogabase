@@ -88,6 +88,7 @@ async function sendQueryToSourceSearch(query) {
   }
   sourceSearch.value = value;
   await ensurePublicSearch();
+  populateSourceFilter();
   renderSearchResults();
   searchResults?.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
@@ -112,6 +113,22 @@ mobileSearchPanel?.querySelector("form")?.addEventListener("submit", (event) => 
 sourceSearch?.form?.addEventListener("submit", (event) => {
   event.preventDefault();
   sendQueryToSourceSearch(sourceSearch.value);
+});
+
+document.addEventListener("keydown", (event) => {
+  if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) return;
+  const target = event.target;
+  const isTyping =
+    target instanceof HTMLInputElement ||
+    target instanceof HTMLTextAreaElement ||
+    target instanceof HTMLSelectElement ||
+    target?.isContentEditable;
+  if (isTyping) return;
+  const searchTarget = sourceSearch || headerSearchInput;
+  if (!searchTarget) return;
+  event.preventDefault();
+  if (sourceSearch && searchResults) window.location.hash = "search";
+  searchTarget.focus();
 });
 
 function escapeHtml(value = "") {
@@ -603,6 +620,7 @@ async function ensurePublicSearch() {
       const index = await loadJson("data/public-search-index.json");
       publicSearchIndex = index.records || [];
       publicSearchReady = true;
+      populateSourceFilter();
       if (searchCount) searchCount.textContent = `${index.totalRecords || publicSearchIndex.length} records`;
       if (searchCountPlain) searchCountPlain.textContent = String(index.totalRecords || publicSearchIndex.length);
     } catch {
@@ -629,6 +647,7 @@ async function ensurePublicSearch() {
 
 sourceSearch?.addEventListener("input", async () => {
   if (sourceSearch.value.trim()) await ensurePublicSearch();
+  populateSourceFilter();
   renderSearchResults();
 });
 sourceFilter?.addEventListener("change", async () => {

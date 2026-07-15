@@ -2509,6 +2509,21 @@ figcaption {
   outline-offset: -2px;
 }
 
+.front-search select {
+  min-width: 168px;
+  border: 0;
+  border-left: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-2);
+  font: inherit;
+  padding: 0 14px;
+}
+
+.front-search select:focus {
+  outline: 2px solid var(--accent-deep);
+  outline-offset: -2px;
+}
+
 .front-search button {
   min-width: 98px;
   border: 0;
@@ -3598,6 +3613,12 @@ figcaption {
 
   .front-search {
     display: grid;
+  }
+
+  .front-search select {
+    min-height: 48px;
+    border-left: 0;
+    border-top: 1px solid var(--rule);
   }
 
   .front-search button {
