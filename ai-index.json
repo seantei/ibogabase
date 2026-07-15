@@ -43,11 +43,22 @@
       ]
     },
     {
-      "name": "Noribogaine and Analogs",
+      "name": "Noribogaine",
       "url": "https://www.ibogabase.com/reference/noribogaine-analogs/",
-      "description": "A plain-language distinction between Iboga, Ibogaine, Noribogaine, and related analogs, including investigational status and claim boundaries.",
+      "description": "A plain-language distinction between Iboga, Ibogaine, and Noribogaine, including investigational status and claim boundaries.",
       "keywords": [
         "noribogaine-analogs",
+        "Iboga",
+        "Ibogaine",
+        "IbogaBase"
+      ]
+    },
+    {
+      "name": "Analogs",
+      "url": "https://www.ibogabase.com/reference/analogs/",
+      "description": "A plain-language reference for Ibogaine-adjacent analogs and derivatives, including 18-MC, tabernanthalog, sponsor claims, evidence type, and clinical status.",
+      "keywords": [
+        "analogs",
         "Iboga",
         "Ibogaine",
         "IbogaBase"

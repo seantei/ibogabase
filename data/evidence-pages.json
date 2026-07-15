@@ -344,7 +344,7 @@
     {
       "id": "parkinsons",
       "condition": "Parkinson's disease",
-      "evidenceLevel": "no_direct_human_data",
+      "evidenceLevel": "case_report_only",
       "humanStudies": "A 2026 peer-reviewed case report describes one patient treated with low-dose Ibogaine hydrochloride over 80 days using validated Parkinson's instruments.",
       "sampleSizes": "One published case report in the current public watchlist.",
       "designQuality": "A single case cannot establish efficacy, generalizability, or safety.",
@@ -354,7 +354,7 @@
       "notProven": "Ibogaine is not proven as a Parkinson's treatment.",
       "bestNextSource": "Journal of Psychedelic Studies 2026 case report via University of Otago.",
       "studies": [],
-      "studiesNote": "No PubMed-indexed human studies of any design (verified). Single repository case report tracked at low confidence."
+      "studiesNote": "No PubMed-indexed clinical study record was found in this dataset. A single repository case report is tracked at low confidence."
     },
     {
       "id": "withdrawal_craving",
