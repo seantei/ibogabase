@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-08-12T22:40:00.000Z",
+  "lastFullEditorialReview": "2026-05-18",
+  "lastCompletenessCheck": "2026-06-30",
+  "lastCatalogRefresh": "2026-07-15",
+  "lastNavRefresh": "2026-07-15",
+  "catalogRecords": 815,
+  "publicSearchRecords": 820,
+  "claimChecksPublished": 4,
+  "correctionsLogged": 0,
+  "notes": [
+    "Last full editorial review remains 2026-05-18. The 2026-07-15 change was a navigation and public source-feed refresh, not a full content reread.",
+    "site-completeness.json lastReviewed 2026-06-30 is an automated/section completeness snapshot, not a full editorial review.",
+    "Catalog record count 815 is from data/source-type-counts.json. Public search index lists 820 searchable records.",
+    "Four published claim-check pages exist under /claims/. source-type-counts.json lists one catalog row typed Claim Check; the homepage stamp counts published claim-check pages.",
+    "No public correction-log file is published, so correctionsLogged is 0. The previous homepage stamp of 2 corrections was not backed by a public data file.",
+    "Ask IbogaBase is not a live public UI. Catalog search is the public finding aid."
+  ],
+  "pages": [
+    {
+      "page": "Home",
+      "anchor": "/",
+      "reviewStatus": "full_review_2026-05-18_catalog_refresh_2026-07-15",
+      "lastSourceCheck": "2026-07-15",
+      "confidence": "Catalog counts from source-type-counts.json; full review date is 2026-05-18",
+      "openQuestions": "A later full content review has not been published since 2026-05-18."
+    },
+    {
+      "page": "Policy and law",
+      "anchor": "/policy/",
+      "reviewStatus": "completeness_check_2026-06-30",
+      "lastSourceCheck": "2026-08-12",
+      "confidence": "FDA DemeRx/noribogaine row now cites the GlobeNewswire copy of the FDA announcement because the fda.gov press-announcement URL returned 404 on 2026-08-12",
+      "openQuestions": "Restore an fda.gov URL if the agency republishes the 2026-04-24 announcement under a durable path."
+    },
+    {
+      "page": "Safety desk",
+      "anchor": "/safety/",
+      "reviewStatus": "completeness_check_2026-06-30",
+      "lastSourceCheck": "2026-08-12",
+      "confidence": "GITA guidelines link updated from dead ibogainealliance.org DNS to live ibogaineguidelines.com / ibogaalliance.org",
+      "openQuestions": "GITA version 2 guidelines are described as in progress on the org page; keep labeling version 1 as historical source material, not current protocol."
+    },
+    {
+      "page": "Claim checks",
+      "anchor": "/claims/",
+      "reviewStatus": "full_review_2026-05-18",
+      "lastSourceCheck": "2026-08-12",
+      "confidence": "Four published claim-check pages",
+      "openQuestions": "No additional claim checks were added in this trust-hygiene pass."
+    }
+  ]
+}

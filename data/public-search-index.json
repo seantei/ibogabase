@@ -19,8 +19,8 @@
   },
   "guardrails": [
     "Search results are source leads, not medical or legal advice.",
-    "Ask IbogaBase answers from indexed records and shows citations.",
-    "Ask IbogaBase must refuse dosing, provider referral, self-treatment, individualized medical/legal advice, and treatment instructions."
+    "A citation-only Ask IbogaBase assistant is not live yet; use catalog search for source-backed records.",
+    "Search and any future assistant must refuse dosing, provider referral, self-treatment, individualized medical/legal advice, and treatment instructions."
   ],
   "records": [
     {
@@ -1631,7 +1631,7 @@
       "category": "clinical_trials",
       "sourceType": "regulatory_or_legal",
       "sourceName": "source_radar",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+      "url": "https://www.globenewswire.com/news-release/2026/04/24/3281062/0/en/FDA-Accelerates-Action-on-Treatments-for-Serious-Mental-Illness-Following-Executive-Order.html",
       "summary": "Important policy and research signal. FDA permission to proceed is not approval, safety proof, or efficacy proof.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",
@@ -18336,7 +18336,7 @@
       "category": "clinics",
       "sourceType": "clinical_guideline",
       "sourceName": "source_radar",
-      "url": "https://ibogaine.mindvox.com/wp-content/uploads/2020/08/Ibogaine-Assisted-Detoxification-Guidelines.pdf",
+      "url": "https://ibogaineguidelines.com/",
       "summary": "Valuable historical and clinical-practice reference; label age and avoid presenting as current regulatory protocol.",
       "confidence": "Clinical Guideline",
       "status": "Cataloged source",
@@ -18351,7 +18351,7 @@
       ],
       "displayCategory": "Clinic claims",
       "displaySourceType": "Clinical Guideline",
-      "displaySourceName": "ibogaine.mindvox.com",
+      "displaySourceName": "ibogaineguidelines.com",
       "displayDate": "2015-2017",
       "whatItIs": "Clinic-claim monitoring entry.",
       "conversationContext": "Covers safety, detoxification, clinical practice.",
@@ -18949,7 +18949,7 @@
       "category": "weekly_brief",
       "sourceType": "Regulatory",
       "sourceName": "FDA",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+      "url": "https://www.globenewswire.com/news-release/2026/04/24/3281062/0/en/FDA-Accelerates-Action-on-Treatments-for-Serious-Mental-Illness-Following-Executive-Order.html",
       "summary": "FDA announced that DemeRx NB may begin a closely monitored phase I noribogaine hydrochloride study for alcohol use disorder. What it does not mean: This is not drug approval, not a finding of safety or effectiveness, and not patient access guidance.",
       "confidence": "Primary-source record",
       "status": "Current brief item",
@@ -19117,7 +19117,7 @@
       "category": "laws_policy",
       "sourceType": "policy_tracker_row",
       "sourceName": "FDA press announcement",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
+      "url": "https://www.globenewswire.com/news-release/2026/04/24/3281062/0/en/FDA-Accelerates-Action-on-Treatments-for-Serious-Mental-Illness-Following-Executive-Order.html",
       "summary": "Early Phase Study Allowed To Proceed. Allows: DemeRx NB may begin a phase I noribogaine hydrochloride study in a closely monitored U.S. clinical setting. Does not allow: Not FDA approval, not proof of safety or effectiveness, and not a general treatment access pathway. Caveat: Noribogaine research language is separate from Ibogaine treatment access.",
       "confidence": "Primary-source record",
       "status": "Cataloged source",

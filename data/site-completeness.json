@@ -1,12 +1,13 @@
 {
   "lastReviewed": "2026-06-30",
+  "lastReviewedKind": "completeness_snapshot_not_full_editorial_review",
   "overall": 93,
   "standard": "Source-backed depth, visible uncertainty, medical caution, cultural stewardship, primary-source law, media literacy, and correction transparency.",
   "sections": [
     {
       "name": "Start Here",
       "score": 94,
-      "status": "reader pathways, source search, Ask IbogaBase, and clear clinical boundaries"
+      "status": "reader pathways, source search, and clear clinical boundaries; Ask IbogaBase is not a live public feature yet"
     },
     {
       "name": "Evidence",
@@ -71,7 +72,7 @@
     {
       "name": "Search and Ask IbogaBase",
       "score": 92,
-      "status": "faceted source search and citation-only assistant with dosing, referral, self-treatment, medical, and legal refusals"
+      "status": "faceted source search is live; citation-only Ask IbogaBase assistant is not a public UI yet"
     },
     {
       "name": "Site Readability and Legal Rules",
