@@ -2,7 +2,8 @@
   "name": "IbogaBase",
   "url": "https://www.ibogabase.com",
   "description": "Independent public-interest reference for Iboga and Ibogaine research, safety, policy, culture, conservation, media, clinics, and field developments.",
-  "dateModified": "2026-05-18",
+  "dateModified": "2026-07-15",
+  "lastReviewed": "2026-06-30",
   "audience": [
     "clinicians",
     "researchers",
@@ -159,7 +160,9 @@
     "https://www.ibogabase.com/data/policy-tracker.json",
     "https://www.ibogabase.com/data/clinic-observatory.json",
     "https://www.ibogabase.com/data/weekly-brief.json",
-    "https://www.ibogabase.com/data/review-metadata.json"
+    "https://www.ibogabase.com/data/review-metadata.json",
+    "https://www.ibogabase.com/data/site-stats.json",
+    "https://www.ibogabase.com/data/coverage-audit.json"
   ],
   "sitemap": "https://www.ibogabase.com/sitemap.xml",
   "llmsTxt": "https://www.ibogabase.com/llms.txt"

@@ -12,9 +12,10 @@ Scope: whole-site readability, navigation, accessibility, legal/medical boundari
 - Low-severity issues: 0
 - Internal anchors checked: 6
 - Section ids found: 14
-- Source records indexed: 1182
-- Podcast/interview records indexed: 643
-- Public search records indexed: 820
+- Catalog export records: 815 (`data/source-catalog.csv`)
+- Public search records indexed: 820 (`data/public-search-index.json`)
+- Podcast/interview records in the public search index: 431
+- Earlier unreproducible line items (1182 source records, 643 podcast/interview records) are not used on public pages
 - UAT persona review: pass (6 personas)
 - State policy coverage: 51 jurisdictions; 13 with tracked state-specific activity
 - State policy lead scan: 244 candidates

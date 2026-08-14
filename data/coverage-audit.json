@@ -1,0 +1,211 @@
+{
+  "generatedAt": "2026-08-14",
+  "lastReviewed": "2026-06-30",
+  "explanation": "The previous public widget showed Canonical topics 27 / Mapped 0 / Under review 1 / Sources 815. Mapped 0 was a hardcoded generator value, not an empty site. This audit lists the 27 published topic pages (12 reference, 8 evidence conditions, 5 desks, 1 claim-check index) and marks each mapped only when the HTML page exists. Under review is the standing named-reviewer gap, not an unmapped topic.",
+  "counts": {
+    "canonicalTopics": 27,
+    "mapped": 27,
+    "unmapped": 0,
+    "underReview": 1,
+    "publicSearchRecords": 820
+  },
+  "topics": [
+    {
+      "id": "iboga",
+      "name": "Iboga",
+      "group": "reference",
+      "path": "/reference/iboga/",
+      "status": "mapped"
+    },
+    {
+      "id": "ibogaine",
+      "name": "Ibogaine",
+      "group": "reference",
+      "path": "/reference/ibogaine/",
+      "status": "mapped"
+    },
+    {
+      "id": "noribogaine",
+      "name": "Noribogaine",
+      "group": "reference",
+      "path": "/reference/noribogaine-analogs/",
+      "status": "mapped"
+    },
+    {
+      "id": "analogs",
+      "name": "Analogs",
+      "group": "reference",
+      "path": "/reference/analogs/",
+      "status": "mapped"
+    },
+    {
+      "id": "safety-qtc",
+      "name": "Ibogaine safety and QTc",
+      "group": "reference",
+      "path": "/reference/ibogaine-safety-qtc/",
+      "status": "mapped"
+    },
+    {
+      "id": "evidence-by-condition",
+      "name": "Evidence by condition",
+      "group": "reference",
+      "path": "/reference/evidence-by-condition/",
+      "status": "mapped"
+    },
+    {
+      "id": "oud-reference",
+      "name": "Opioid use disorder (reference)",
+      "group": "reference",
+      "path": "/reference/opioid-use-disorder/",
+      "status": "mapped"
+    },
+    {
+      "id": "parkinsons-neurology",
+      "name": "Parkinson's, TBI, and neurology",
+      "group": "reference",
+      "path": "/reference/parkinsons-neurology/",
+      "status": "mapped"
+    },
+    {
+      "id": "policy-law",
+      "name": "Law and policy",
+      "group": "reference",
+      "path": "/reference/policy-law/",
+      "status": "mapped"
+    },
+    {
+      "id": "culture-stewardship",
+      "name": "Culture, history, and stewardship",
+      "group": "reference",
+      "path": "/reference/culture-stewardship/",
+      "status": "mapped"
+    },
+    {
+      "id": "podcasts-media",
+      "name": "Podcasts and media",
+      "group": "reference",
+      "path": "/reference/podcasts-media/",
+      "status": "mapped"
+    },
+    {
+      "id": "clinic-claims",
+      "name": "Clinic claims and adverse events",
+      "group": "reference",
+      "path": "/reference/clinic-claims-adverse-events/",
+      "status": "mapped"
+    },
+    {
+      "id": "oud",
+      "name": "Opioid use disorder (evidence)",
+      "group": "evidence",
+      "path": "/evidence/oud/",
+      "status": "mapped"
+    },
+    {
+      "id": "aud",
+      "name": "Alcohol use disorder",
+      "group": "evidence",
+      "path": "/evidence/aud/",
+      "status": "mapped"
+    },
+    {
+      "id": "tbi",
+      "name": "Traumatic brain injury",
+      "group": "evidence",
+      "path": "/evidence/tbi/",
+      "status": "mapped"
+    },
+    {
+      "id": "ptsd",
+      "name": "PTSD and trauma symptoms",
+      "group": "evidence",
+      "path": "/evidence/ptsd/",
+      "status": "mapped"
+    },
+    {
+      "id": "depression",
+      "name": "Depression and mood",
+      "group": "evidence",
+      "path": "/evidence/depression/",
+      "status": "mapped"
+    },
+    {
+      "id": "parkinsons",
+      "name": "Parkinson's disease",
+      "group": "evidence",
+      "path": "/evidence/parkinsons/",
+      "status": "mapped"
+    },
+    {
+      "id": "withdrawal",
+      "name": "Withdrawal",
+      "group": "evidence",
+      "path": "/evidence/withdrawal/",
+      "status": "mapped"
+    },
+    {
+      "id": "cravings",
+      "name": "Cravings",
+      "group": "evidence",
+      "path": "/evidence/cravings/",
+      "status": "mapped"
+    },
+    {
+      "id": "safety-desk",
+      "name": "Safety desk",
+      "group": "desk",
+      "path": "/safety/",
+      "status": "mapped"
+    },
+    {
+      "id": "culture-desk",
+      "name": "Culture desk",
+      "group": "desk",
+      "path": "/culture/",
+      "status": "mapped"
+    },
+    {
+      "id": "policy-desk",
+      "name": "Policy desk",
+      "group": "desk",
+      "path": "/policy/",
+      "status": "mapped"
+    },
+    {
+      "id": "media-desk",
+      "name": "Media library",
+      "group": "desk",
+      "path": "/media/",
+      "status": "mapped"
+    },
+    {
+      "id": "trials",
+      "name": "Clinical trials",
+      "group": "desk",
+      "path": "/trials/",
+      "status": "mapped"
+    },
+    {
+      "id": "trackers",
+      "name": "Trackers",
+      "group": "desk",
+      "path": "/trackers/",
+      "status": "mapped"
+    },
+    {
+      "id": "claim-checks",
+      "name": "Claim checks",
+      "group": "claims",
+      "path": "/claims/",
+      "status": "mapped"
+    }
+  ],
+  "underReview": [
+    {
+      "id": "named-reviewers",
+      "name": "Named external reviewers",
+      "status": "under_review",
+      "note": "Editorial board roles are public; named medical, cultural, and legal reviewers stay unpublished until consent."
+    }
+  ]
+}

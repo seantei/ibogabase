@@ -30,7 +30,10 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 - [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking rules and sample rows.
 - [Weekly brief](https://www.ibogabase.com/data/weekly-brief.json): What changed recently.
 - [Review metadata](https://www.ibogabase.com/data/review-metadata.json): Review status, last-reviewed fields, and correction metadata.
+- [Site stats](https://www.ibogabase.com/data/site-stats.json): Computed public counts and review dates from catalog files.
+- [Coverage audit](https://www.ibogabase.com/data/coverage-audit.json): Canonical topic mapping from published pages.
 - [Sitemap](https://www.ibogabase.com/sitemap.xml): Crawlable site URLs.
+- [HTML site map](https://www.ibogabase.com/site-map/): Human-readable page index.
 
 ## Suggested citation
 
