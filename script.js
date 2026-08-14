@@ -1080,3 +1080,37 @@ async function hydrateClinicObservatory() {
 }
 
 hydrateClinicObservatory();
+
+async function hydratePublicStats() {
+  const stamp = document.querySelector("[data-public-stats]");
+  const coverageDash = document.querySelector("[data-coverage-dashboard]");
+  if (!stamp && !coverageDash) return;
+
+  try {
+    const [stats, coverage] = await Promise.all([
+      loadJson("data/site-stats.json"),
+      loadJson("data/coverage-audit.json"),
+    ]);
+
+    const stampValues = {
+      lastReviewed: `Last full review · ${stats.lastReviewed}`,
+      catalogGeneratedAt: `Catalog generated · ${stats.catalogGeneratedAt}`,
+      publicSearchRecords: `${stats.publicSearchRecords} sources indexed`,
+      claimChecksPublished: `${stats.claimChecksPublished} claim checks`,
+    };
+    stamp?.querySelectorAll("[data-stat]").forEach((field) => {
+      const value = stampValues[field.dataset.stat];
+      if (value) field.textContent = value;
+    });
+
+    const coverageValues = coverage.counts || {};
+    coverageDash?.querySelectorAll("[data-coverage-stat]").forEach((field) => {
+      const value = coverageValues[field.dataset.coverageStat];
+      if (value !== undefined) field.textContent = String(value);
+    });
+  } catch {
+    // Keep the server-rendered catalog numbers.
+  }
+}
+
+hydratePublicStats();

@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-08-14",
+  "lastReviewed": "2026-06-30",
+  "completenessOverall": 93,
+  "catalogGeneratedAt": "2026-07-15",
+  "catalogRecords": 815,
+  "catalogSource": "data/source-catalog.csv",
+  "publicSearchRecords": 820,
+  "publicSearchSource": "data/public-search-index.json",
+  "podcastInterviewRecords": 431,
+  "claimChecksPublished": 4,
+  "claimCheckSlugs": [
+    "clinic-success-rate-proves-efficacy",
+    "ibogaine-cures-addiction",
+    "natural-means-safe",
+    "noribogaine-fda-approval"
+  ],
+  "correctionsLogged": 0,
+  "canonicalTopics": 27,
+  "mappedTopics": 27,
+  "unmappedTopics": 0,
+  "underReviewItems": 1,
+  "notes": [
+    "Display 'sources indexed' as publicSearchRecords. That is the file the public search box loads.",
+    "catalogRecords is the CSV/BibTeX export (815). It is 5 records behind the 2026-07-15 public search index (820).",
+    "site-quality-report.md previously listed 1182 source records and 643 podcast/interview records. Those totals are not reproducible from the published catalog files and are not shown on public pages.",
+    "lastReviewed comes from data/site-completeness.json. It is the latest published completeness snapshot, not a new medical review.",
+    "correctionsLogged is 0 because no public correction-log file is published."
+  ]
+}

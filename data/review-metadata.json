@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-08-14",
+  "lastFullEditorialReview": "2026-06-30",
+  "lastCompletenessCheck": "2026-06-30",
+  "lastCatalogRefresh": "2026-07-15",
+  "catalogRecords": 815,
+  "publicSearchRecords": 820,
+  "podcastInterviewRecords": 431,
+  "claimChecksPublished": 4,
+  "correctionsLogged": 0,
+  "completenessOverall": 93,
+  "canonicalTopics": 27,
+  "mappedTopics": 27,
+  "underReviewItems": 1,
+  "notes": [
+    "lastFullEditorialReview is data/site-completeness.json lastReviewed (2026-06-30). Public stamps no longer show 2026-05-18.",
+    "Sources indexed on public pages is publicSearchRecords (820) from data/public-search-index.json, the file the search box loads.",
+    "catalogRecords (815) is data/source-catalog.csv / source-catalog.bib. It is five records behind the public search index.",
+    "1182 source records and 643 podcast/interview records from an earlier quality-report line are not reproducible from the published catalog files and are not displayed.",
+    "Four published claim-check pages exist under /claims/. No public correction-log file is published, so correctionsLogged is 0.",
+    "Editorial board roles are visible. Named external medical, cultural, and legal reviewers remain pending consent."
+  ],
+  "pages": [
+    {
+      "page": "Home",
+      "anchor": "/",
+      "reviewStatus": "completeness_snapshot_2026-06-30",
+      "lastSourceCheck": "2026-07-15",
+      "confidence": "Counts computed from data/public-search-index.json and data/site-completeness.json",
+      "openQuestions": "A later full content reread has not been published since the 2026-06-30 completeness snapshot."
+    },
+    {
+      "page": "Coverage audit",
+      "anchor": "/visuals/",
+      "reviewStatus": "mapped_from_published_pages",
+      "lastSourceCheck": "2026-08-14",
+      "confidence": "27 canonical topic pages exist on disk and are marked mapped. Mapped 0 was a hardcoded widget value.",
+      "openQuestions": "Named reviewers are the standing under-review item, not an unmapped topic."
+    }
+  ]
+}

@@ -2846,6 +2846,21 @@ figcaption {
   line-height: 1.38;
 }
 
+.coverage-topic-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.35rem 1.5rem;
+  margin: 1rem 0 0;
+  padding-left: 1.15rem;
+  color: var(--ink-2);
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.coverage-topic-list a {
+  color: inherit;
+}
+
 .lane-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
@@ -3705,6 +3720,7 @@ figcaption {
   .risk-map,
   .history-timeline,
   .coverage-dashboard,
+  .coverage-topic-list,
   .answer-grid,
   .reader-path-grid,
   .lane-grid,
