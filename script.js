@@ -1080,3 +1080,13 @@ async function hydrateClinicObservatory() {
 }
 
 hydrateClinicObservatory();
+
+/* UX polish stylesheet (2026-09-22) */
+(function injectUxPolish() {
+  if (document.querySelector('link[data-ux-polish]')) return;
+  var link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = '/ux-polish.css';
+  link.setAttribute('data-ux-polish', '1');
+  document.head.appendChild(link);
+})();

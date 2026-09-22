@@ -20,10 +20,10 @@
   "lastReviewed": "2026-09-22",
   "meta": {
     "title": "IbogaBase Listening Library",
-    "status": "published-v1",
-    "entryCount": 51,
+    "status": "published-v1.1-sames",
+    "entryCount": 52,
     "needsVerifyCount": 2,
-    "verifiedCount": 49,
+    "verifiedCount": 50,
     "mergedFrom": "listening-library-merged-ready.json",
     "macSeedNote": "Existing Mac ops listening-library.json (tiny seed) was inaccessible from this agent environment (MachineId Shell/CopyFromBox unavailable). No seed rows merged. If a unique local seed exists on Sean's Mac, re-diff by id/url and keep unique rows.",
     "hardRules": [
@@ -330,6 +330,44 @@
       "notes": null,
       "verifiedAt": "2026-09-21T22:30:00-07:00",
       "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "giants-shoulders-139-dalibor-sames-2026",
+      "title": "Meet The Greatest Ibogaine Psychedelic Scientist You’ve Never Heard Of (Giant’s Shoulders #139)",
+      "url": "https://www.youtube.com/watch?v=K9whp_wtCoc",
+      "platform": "YouTube",
+      "date": "2026-07-20",
+      "people": [
+        "Dalibor Sames"
+      ],
+      "show": "Giant’s Shoulders",
+      "summary": "Researcher interview with Columbia chemist Dalibor Sames on iboga alkaloid science and oxa-iboga analog work. Treat episode discussion as media; pair with the Nature Communications primary paper on oxa-iboga alkaloids. Guest clinic mentions, if any, are context only — IbogaBase does not refer to clinics.",
+      "claimThemes": [
+        "researcher-interview",
+        "oxa-iboga-analogs",
+        "cardiac-risk-theme",
+        "oud-preclinical"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "researcher interview / media; related primary DOI 10.1038/s41467-024-51856-y",
+      "relatedIbogaBasePages": [
+        "/reference/noribogaine-analogs/",
+        "/reference/ibogaine-safety-qtc/",
+        "/evidence/oud/",
+        "/media/"
+      ],
+      "notes": "Faculty context: https://www.chem.columbia.edu/content/dalibor-sames — Cloudflare-gated from some bots; listed as related institutional page, not scraped. Omit Beond/clinic referral links even if mentioned in episode.",
+      "relatedPrimary": [
+        {
+          "label": "Oxa-Iboga alkaloids Nature Communications 2024",
+          "doi": "10.1038/s41467-024-51856-y",
+          "pmid": "39304653",
+          "url": "https://doi.org/10.1038/s41467-024-51856-y"
+        }
+      ],
+      "verifiedAt": "2026-09-22T09:55:00-07:00",
+      "verifyMethod": "YouTube oEmbed 200 + HEAD 200 from box"
     },
     {
       "id": "jre-2477-perry-hubbard-2026",
