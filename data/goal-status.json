@@ -1,80 +1,24 @@
 {
   "project": "IbogaBase",
   "lastSweep": "2026-09-22",
-  "lastSweepLabel": "2026-09-22 ~10:20 AM PT (LL landmark claim-extract batch x4; PD+depression thicken)",
-  "jevScore": 2.35,
-  "jevEstimateAfterThisShip": "\u22482.6\u20133.0 if live sync; still <3.5 without named reviewers",
+  "lastSweepLabel": "2026-09-22 ~10:45 AM PT (LL claim extracts +5; Schedule I FAQ; AUD/PTSD/withdrawal/cravings thicken)",
+  "jevScore": 2.43,
+  "jevEstimateAfterThisShip": "≈2.8–3.1 if live sync; still <3.5 without named reviewers",
   "target": 3.0,
   "ambitiousBar": 3.5,
   "claimReadiness": "do not claim #1 or best-in-field; ship synced pages only",
   "desks": {
-    "listeningLibrary": {
-      "status": "green",
-      "note": "52 curated; Sames Giant's Shoulders #139 added; 50 verified; 2 flagged"
-    },
-    "comparePage": {
-      "status": "green",
-      "note": "/reference/compare/ shipped"
-    },
-    "diyRefusal": {
-      "status": "green",
-      "note": "/safety/diy-self-treatment/ shipped"
-    },
-    "bicameralClaim": {
-      "status": "green",
-      "note": "/claims/bicameral-mind-theory/ shipped"
-    },
-    "dickinsonMap": {
-      "status": "green",
-      "note": "/reference/dickinson-bicameral-map/ shipped"
-    },
-    "neuropathicPain": {
-      "status": "green",
-      "note": "thickened with PMID 37720911/32540451/41898671 + Ambio COI"
-    },
-    "msEvidence": {
-      "status": "green",
-      "note": "thickened with PMID 39981248/41679899 + Ambio COI"
-    },
-    "namedReviewers": {
-      "status": "red",
-      "note": "blocks honest 3.5 public claims"
-    },
-    "macOpsSync": {
-      "status": "amber",
-      "note": "Mac TriggerCMD not connected this run; GitHub MCP seantei used for remote"
-    },
-    "stanfordCritique": {
-      "status": "green",
-      "note": "/claims/stanford-mg-ibogaine-study-critique/ shipped (PMID 42330793)"
-    },
-    "mortalityDenominators": {
-      "status": "green",
-      "note": "/safety/mortality-denominators/ shipped"
-    },
-    "tmzObservatory": {
-      "status": "green",
-      "note": "/claims/tmz-hubbard-gerber-2026-09-21/ shipped"
-    },
-    "landmarkClaimExtracts": {
-      "status": "green",
-      "note": "4 LL claim extracts: Williams/Ferriss, Sames oxa-iboga, Mash OUD, miracle-title literacy"
-    },
-    "parkinsonsEvidence": {
-      "status": "green",
-      "note": "thickened DOI 10.1556/2054.2025.00478 + PMID 28972153 preclinical label"
-    },
-    "depressionEvidence": {
-      "status": "green",
-      "note": "thickened secondary mood via Cherian PMID 38182784 + critique link"
-    }
+    "listeningLibrary": {"status": "green", "note": "52 curated; 50 verified; 2 flagged"},
+    "namedReviewers": {"status": "red", "note": "blocks honest 3.5 public claims"},
+    "macOpsSync": {"status": "amber", "note": "Mac path unavailable; push via GitHub-xai as seantei"},
+    "landmarkClaimExtracts": {"status": "green", "note": "9 LL claim extracts total (prior 4 + Hamilton, Capones, Perry/Hubbard, RFK, Lotsof/Alper pathway)"},
+    "scheduleIFaq": {"status": "green", "note": "/policy/schedule-i-vs-state-bills/ AEO FAQ shipped"},
+    "audEvidence": {"status": "green", "note": "thickened PMID 42520175 + 38377244; skipped RS preprint 41960323"},
+    "ptsdEvidence": {"status": "green", "note": "thickened Cherian + PMID 41687815"},
+    "withdrawalCravingsEvidence": {"status": "green", "note": "thickened Malcolm 29608409; Alper/Lotsof 10506904; Mash 11705106"}
   },
-  "macPathsNote": "MachineId Shell unavailable; ship via GitHub clone seantei/ibogabase",
+  "macPathsNote": "MachineId Shell unavailable; ship via GitHub-xai as seantei",
   "jevLevel": 2,
   "jevConfidence": 0.7,
-  "monitorQueue": [
-    "named-reviewers",
-    "ll-needsVerify-2",
-    "remote-sync-mac-or-mcp"
-  ]
+  "monitorQueue": ["named-reviewers", "ll-needsVerify-2", "live-200-verify-new-urls"]
 }
