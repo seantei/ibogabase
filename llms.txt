@@ -19,12 +19,21 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 - [Law and Policy](https://www.ibogabase.com/reference/policy-law/): A living policy reference for Ibogaine law, state activity, country status, clinical-trial funding, and agency actions.
 - [Iboga Culture, History, and Stewardship](https://www.ibogabase.com/reference/culture-stewardship/): A careful public guide to Iboga origins, Gabon, Bwiti and Bwete history, Misoko/Missoko and Fang contexts, conservation, sourcing ethics, reciprocity, and outsider limits.
 - [Podcasts and Media](https://www.ibogabase.com/reference/podcasts-media/): A directory-oriented reference for podcasts, interviews, documentaries, books, articles, videos, and media claims about Iboga and Ibogaine.
+
+- [Compare: Iboga vs Ibogaine vs Noribogaine vs Analogs](https://www.ibogabase.com/reference/compare/): Taxonomy page for plant, alkaloid, metabolite, analogs, and form labels. Not interchangeable. No dosing.
+- [Listening Library](https://www.ibogabase.com/media/listening-library/): Curated podcast/interview/AV shelf (51 landmarks) with original summaries and media labels; separate from the bulk media catalog. Data: `/data/listening-library.json`.
+- [DIY / self-treatment refusal](https://www.ibogabase.com/safety/diy-self-treatment/): Citeable boundary — no dosing, no sourcing, no referrals.
+- [Bicameral mind theory claim check](https://www.ibogabase.com/claims/bicameral-mind-theory/): Jaynes is contested theory, not established neuroscience; ibogaine links are interpretive/media.
+- [Dickinson bicameral field map](https://www.ibogabase.com/reference/dickinson-bicameral-map/): Living theme → page map around the 2026 monograph; not a hit piece.
+- [Neuropathic pain evidence](https://www.ibogabase.com/evidence/neuropathic-pain/): Very limited / not proven stub.
+- [Multiple sclerosis evidence](https://www.ibogabase.com/evidence/ms/): Case-report only with COI awareness.
 - [Clinic Claims and Adverse Events](https://www.ibogabase.com/reference/clinic-claims-adverse-events/): A plain-language reference for reading Ibogaine clinic claims, success-rate statements, adverse events, safety standards, and conflicts of interest.
 
 ## Machine-readable indexes
 
 - [AI index](https://www.ibogabase.com/ai-index.json): Site purpose, boundaries, audiences, topic URLs, and data endpoints.
 - [Public search index](https://www.ibogabase.com/data/public-search-index.json): Searchable public source and content records.
+- [Listening library JSON](https://www.ibogabase.com/data/listening-library.json): Curated Listening Library entries.
 - [Evidence pages](https://www.ibogabase.com/data/evidence-pages.json): Evidence-grade condition summaries.
 - [Policy tracker](https://www.ibogabase.com/data/policy-tracker.json): Law and policy rows.
 - [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking rules and sample rows.
