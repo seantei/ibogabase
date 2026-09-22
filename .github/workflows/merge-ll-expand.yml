@@ -1,0 +1,21 @@
+name: Merge LL expand patch
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/_ship_chunks/ll-expand-patch.json"
+      - "data/_ship_chunks/ll-expand-html-fragment.html"
+      - ".github/workflows/merge-ll-expand.yml"
+permissions:
+  contents: write
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Merge patch into Listening Library
+        run: python3 scripts/merge_ll_expand.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Listening Library: +8 verified entries (60 curated / 59 live OK / 1 dead)"
