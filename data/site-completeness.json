@@ -1,17 +1,17 @@
 {
-  "lastReviewed": "2026-06-30",
-  "overall": 93,
+  "lastReviewed": "2026-09-22",
+  "overall": 94,
   "standard": "Source-backed depth, visible uncertainty, medical caution, cultural stewardship, primary-source law, media literacy, and correction transparency.",
   "sections": [
     {
       "name": "Start Here",
       "score": 94,
-      "status": "reader pathways, source search, Ask IbogaBase, and clear clinical boundaries"
+      "status": "pathways plus new compare + DIY refusal + listening shelf wired into discovery indexes"
     },
     {
       "name": "Evidence",
       "score": 94,
-      "status": "condition matrix with human evidence, sample-size context, limits, safety signals, and not-proven labels"
+      "status": "condition matrix plus new neuropathic-pain and MS stubs (honest thin grades); OUD/TBI denser"
     },
     {
       "name": "Safety",
@@ -30,8 +30,8 @@
     },
     {
       "name": "Media and Clinics",
-      "score": 91,
-      "status": "podcast directory rules, claim extraction, copyright limits, clinic success-rate tests, and adverse-event reading rules"
+      "score": 92,
+      "status": "curated Listening Library shipped; bulk catalog still noisy; clinic observatory density still amber"
     },
     {
       "name": "Source Discipline",
@@ -46,7 +46,7 @@
     {
       "name": "Editorial Board",
       "score": 76,
-      "status": "review roles and public gate are visible; named external medical, pharmacology, cardiology, cultural, and legal reviewers require consent before publication"
+      "status": "review roles visible; named external medical/cultural/legal reviewers still require consent — blocks honest Jev 3.5+ “best” claims"
     },
     {
       "name": "Correction Log",
@@ -60,8 +60,8 @@
     },
     {
       "name": "Listening Library",
-      "score": 91,
-      "status": "podcast, interview, documentary, book, video, and media records use source labels and original summaries"
+      "score": 93,
+      "status": "amber→green-leaning: 51 curated Listening Library entries published (49 URL-checked, 2 needsVerify flagged); dedicated /media/listening-library/ page live; still separate from 431-row bulk catalog"
     },
     {
       "name": "Universal Catalog",
@@ -78,5 +78,19 @@
       "score": 91,
       "status": "readability review, legal/rules boundary, source checks, and automated quality checks run with each major edit"
     }
-  ]
+  ],
+  "shipNote2026_09_22": {
+    "jevBaseline": 2.05,
+    "jevEstimateAfterShip": "≈2.4–2.7 toward 3.0 (pages shipped; reviewers + mortality desk + claim-extract still missing for ≥3 / 3.5)",
+    "desks": {
+      "listeningLibrary": "green-leaning (51 curated)",
+      "compareAEO": "green (page live)",
+      "diyBoundary": "green (page live)",
+      "bicameralClaims": "green (claim + field map live)",
+      "neuropathicPain": "amber (honest stub)",
+      "msEvidence": "amber (honest stub + COI note)",
+      "namedReviewers": "red (still missing)",
+      "mortalityDenominator": "red/amber (not shipped this pass)"
+    }
+  }
 }
