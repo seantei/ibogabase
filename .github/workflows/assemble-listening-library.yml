@@ -1,0 +1,26 @@
+name: Assemble Listening Library
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/_ship_chunks/**"
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble parts
+        run: |
+          set -e
+          mkdir -p data media/listening-library
+          cat data/_ship_chunks/listening-library.json.part*.txt > data/listening-library.json
+          cat data/_ship_chunks/listening-library.html.part*.txt > media/listening-library/index.html
+          wc -c data/listening-library.json media/listening-library/index.html
+          python3 -c "import json; json.load(open('data/listening-library.json')); print('json ok')"
+          grep -q 'Listening Library' media/listening-library/index.html
+      - name: Commit assembled files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Assemble Listening Library full JSON + HTML from ship chunks"
