@@ -3,14 +3,15 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "data/_ship_chunks/ll-expand-patch.json"
-      - "data/_ship_chunks/ll-expand-patch.json.part0"
-      - "data/_ship_chunks/ll-expand-patch.json.part1"
-      - "data/_ship_chunks/ll-expand-html-fragment.html"
-      - "data/_ship_chunks/ll-expand-html-fragment.html.part0"
-      - "data/_ship_chunks/ll-expand-html-fragment.html.part1"
+      - "data/_ship_chunks/ll-expand-patch.json.b64.00"
+      - "data/_ship_chunks/ll-expand-patch.json.b64.01"
+      - "data/_ship_chunks/ll-expand-patch.json.b64.02"
+      - "data/_ship_chunks/ll-expand-patch.json.b64.03"
+      - "data/_ship_chunks/ll-expand-patch.json.b64.04"
+      - "data/_ship_chunks/ll-expand-html-fragment.html.b64.00"
+      - "data/_ship_chunks/ll-expand-html-fragment.html.b64.01"
+      - "data/_ship_chunks/ll-expand-html-fragment.html.b64.02"
       - "scripts/merge_ll_expand.py"
-      - ".github/workflows/merge-ll-expand.yml"
 permissions:
   contents: write
 jobs:
