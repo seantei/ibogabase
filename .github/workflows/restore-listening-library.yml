@@ -1,0 +1,103 @@
+name: restore-listening-library
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Restore listening-library.json from pre-break commit and apply verify flags
+        run: |
+          set -euo pipefail
+          git config user.name "seantei"
+          git config user.email "144167926+seantei@users.noreply.github.com"
+          # Restore last known-good full JSON (before accidental path-literal writes)
+          git checkout c4a55687 -- data/listening-library.json
+          python3 <<'PY'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+          p = Path("data/listening-library.json")
+          data = json.loads(p.read_text())
+          pt = timezone(timedelta(hours=-7))
+          now = datetime(2026, 9, 22, 11, 50, 0, tzinfo=pt).isoformat()
+          # meta
+          meta = data.setdefault("meta", {})
+          meta["needsVerifyCount"] = 0
+          meta["verifiedCount"] = 52
+          meta["linkDeadCount"] = 1
+          meta["lastVerifyPass"] = now
+          # find entries
+          by_id = {e["id"]: e for e in data["entries"]}
+          # GITA hub OK
+          g = by_id["gita-guidelines-media-adjacent"]
+          g["needsVerify"] = False
+          g["linkDead"] = False
+          g["linkStatus"] = "ok"
+          g["verifiedAt"] = now
+          g["verifyMethod"] = (
+              "WebFetch 200 HTML confirms Global Iboga Therapy Alliance hub + Clinical Guidelines "
+              "section (2026-09-22 PT). Box curl often SoftGuard HTTP 202 captcha — treat as bot friction, not dead host."
+          )
+          # Clare / Future Primitive dead — no invented replacement
+          c = by_id["clare-wilkins-future-primitive-2016"]
+          c["needsVerify"] = False
+          c["linkDead"] = True
+          c["linkStatus"] = "dead"
+          c["verifiedAt"] = now
+          c["verifyMethod"] = (
+              "HEAD/GET Cloudflare 522 from box + WebFetch timeout; Wayback availability API reports "
+              "snapshot 20260606164327 (historical only — not a live replacement)"
+          )
+          note = c.get("notes") or ""
+          flag = (
+              "LIVE HOST UNREACHABLE (2026-09-22 PT): ibogaineconference.org returns Cloudflare 522; "
+              "no replacement URL invented. Wayback snapshot noted historically only."
+          )
+          if flag not in note:
+              c["notes"] = (note + " | " + flag).strip(" |")
+          # verifySummary hygiene
+          vs = data.setdefault("verifySummary", {})
+          vs["stillNeedsVerify"] = []
+          log = vs.setdefault("log", [])
+          # append / update log rows for the two ids
+          def upsert(entry):
+              for i, row in enumerate(log):
+                  if row.get("id") == entry["id"]:
+                      log[i] = entry
+                      return
+              log.append(entry)
+          upsert({
+              "id": "gita-guidelines-media-adjacent",
+              "action": "verified-ok",
+              "url": g.get("url"),
+              "needsVerify": False,
+              "linkStatus": "ok",
+              "note": g["verifyMethod"],
+              "checkedAt": now,
+          })
+          upsert({
+              "id": "clare-wilkins-future-primitive-2016",
+              "action": "flagged-dead",
+              "url": c.get("url"),
+              "needsVerify": False,
+              "linkStatus": "dead",
+              "note": "Cloudflare 522 / unreachable live host; archive noted only; no invented replacement URL.",
+              "checkedAt": now,
+          })
+          vs["linkDead"] = ["clare-wilkins-future-primitive-2016"]
+          p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+          print("patched", meta["needsVerifyCount"], meta["linkDeadCount"])
+          PY
+          git add data/listening-library.json
+          if git diff --cached --quiet; then
+            echo "No change after patch"
+          else
+            git commit -m "Listening Library: restore JSON + verify GITA hub OK; flag Future Primitive dead (no invented replacement)"
+            git push
+          fi
