@@ -1,22 +1,68 @@
 {
   "project": "IbogaBase",
   "lastSweep": "2026-09-22",
-  "lastSweepLabel": "2026-09-22 PT",
-  "jevScore": 2.05,
-  "jevEstimateAfterThisShip": "2.4–2.7",
+  "lastSweepLabel": "2026-09-22 ~10:00 AM PT (Jev push: Stanford critique, Sames LL#52, NP/MS thicken, mortality denominators, TMZ observatory)",
+  "jevScore": 2.35,
+  "jevEstimateAfterThisShip": "≈2.5–2.9 if live sync completes; still <3 without named reviewers + denser desks",
   "target": 3.0,
   "ambitiousBar": 3.5,
-  "claimReadiness": "pages for compare/diy/bicameral/listening live; do not claim #1 or beats-monograph until reviewers + Jev≥3.5",
+  "claimReadiness": "do not claim #1 or best-in-field; ship synced pages only",
   "desks": {
-    "listeningLibrary": {"status": "green", "note": "51 curated entries; 49 verified; 2 flagged"},
-    "comparePage": {"status": "green", "note": "/reference/compare/ shipped"},
-    "diyRefusal": {"status": "green", "note": "/safety/diy-self-treatment/ shipped"},
-    "bicameralClaim": {"status": "green", "note": "/claims/bicameral-mind-theory/ shipped"},
-    "dickinsonMap": {"status": "green", "note": "/reference/dickinson-bicameral-map/ shipped"},
-    "neuropathicPain": {"status": "amber", "note": "stub page live; needs primary citation queue"},
-    "msEvidence": {"status": "amber", "note": "stub page live; COI labels noted"},
-    "namedReviewers": {"status": "red", "note": "blocks 3.5 public claims"},
-    "macOpsSync": {"status": "amber", "note": "Mac seed listening-library.json inaccessible remotely; box/GitHub ship complete"}
+    "listeningLibrary": {
+      "status": "green",
+      "note": "52 curated; Sames Giant's Shoulders #139 added; 50 verified; 2 flagged"
+    },
+    "comparePage": {
+      "status": "green",
+      "note": "/reference/compare/ shipped"
+    },
+    "diyRefusal": {
+      "status": "green",
+      "note": "/safety/diy-self-treatment/ shipped"
+    },
+    "bicameralClaim": {
+      "status": "green",
+      "note": "/claims/bicameral-mind-theory/ shipped"
+    },
+    "dickinsonMap": {
+      "status": "green",
+      "note": "/reference/dickinson-bicameral-map/ shipped"
+    },
+    "neuropathicPain": {
+      "status": "green",
+      "note": "thickened with PMID 37720911/32540451/41898671 + Ambio COI"
+    },
+    "msEvidence": {
+      "status": "green",
+      "note": "thickened with PMID 39981248/41679899 + Ambio COI"
+    },
+    "namedReviewers": {
+      "status": "red",
+      "note": "blocks honest 3.5 public claims"
+    },
+    "macOpsSync": {
+      "status": "amber",
+      "note": "Mac TriggerCMD not connected this run; GitHub MCP seantei used for remote"
+    },
+    "stanfordCritique": {
+      "status": "green",
+      "note": "/claims/stanford-mg-ibogaine-study-critique/ shipped (PMID 42330793)"
+    },
+    "mortalityDenominators": {
+      "status": "green",
+      "note": "/safety/mortality-denominators/ shipped"
+    },
+    "tmzObservatory": {
+      "status": "green",
+      "note": "/claims/tmz-hubbard-gerber-2026-09-21/ shipped"
+    }
   },
-  "macPathsNote": "MachineId Shell unavailable; ship via GitHub clone seantei/ibogabase"
+  "macPathsNote": "MachineId Shell unavailable; ship via GitHub clone seantei/ibogabase",
+  "jevLevel": 2,
+  "jevConfidence": 0.7,
+  "monitorQueue": [
+    "landmark-claim-extract-batch",
+    "named-reviewers",
+    "ll-needsVerify-2"
+  ]
 }
