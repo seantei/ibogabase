@@ -5,7 +5,12 @@ from pathlib import Path
 
 root = Path(".")
 data = json.loads((root / "data/listening-library.json").read_text())
-patch = json.loads((root / "data/_ship_chunks/ll-expand-patch.json").read_text())
+patch_path = root / "data/_ship_chunks/ll-expand-patch.json"
+if not patch_path.exists():
+    p0 = root / "data/_ship_chunks/ll-expand-patch.json.part0"
+    p1 = root / "data/_ship_chunks/ll-expand-patch.json.part1"
+    patch_path.write_text(p0.read_text() + p1.read_text())
+patch = json.loads(patch_path.read_text())
 existing = {e["id"] for e in data["entries"]}
 added = 0
 for e in patch["entries"]:
@@ -23,7 +28,12 @@ data.setdefault("verifySummary", {})["expandPass20260922"] = patch["expandPass"]
 
 html_path = root / "media/listening-library/index.html"
 html = html_path.read_text()
-frag = (root / "data/_ship_chunks/ll-expand-html-fragment.html").read_text()
+frag_path = root / "data/_ship_chunks/ll-expand-html-fragment.html"
+if not frag_path.exists():
+    f0 = root / "data/_ship_chunks/ll-expand-html-fragment.html.part0"
+    f1 = root / "data/_ship_chunks/ll-expand-html-fragment.html.part1"
+    frag_path.write_text(f0.read_text() + f1.read_text())
+frag = frag_path.read_text()
 if not any(f'id="{eid}"' in html for eid in patch["addedIds"]):
     m = re.search(
         r'(<article[^>]*id="ivy-fm-iboga-tag"[^>]*>.*?</article>)', html, flags=re.S
