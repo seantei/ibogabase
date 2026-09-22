@@ -1,9 +1,9 @@
 {
   "project": "IbogaBase",
   "lastSweep": "2026-09-22",
-  "lastSweepLabel": "2026-09-22 ~10:00 AM PT (Jev push: Stanford critique, Sames LL#52, NP/MS thicken, mortality denominators, TMZ observatory)",
+  "lastSweepLabel": "2026-09-22 ~10:20 AM PT (LL landmark claim-extract batch x4; PD+depression thicken)",
   "jevScore": 2.35,
-  "jevEstimateAfterThisShip": "≈2.5–2.9 if live sync completes; still <3 without named reviewers + denser desks",
+  "jevEstimateAfterThisShip": "\u22482.6\u20133.0 if live sync; still <3.5 without named reviewers",
   "target": 3.0,
   "ambitiousBar": 3.5,
   "claimReadiness": "do not claim #1 or best-in-field; ship synced pages only",
@@ -55,14 +55,26 @@
     "tmzObservatory": {
       "status": "green",
       "note": "/claims/tmz-hubbard-gerber-2026-09-21/ shipped"
+    },
+    "landmarkClaimExtracts": {
+      "status": "green",
+      "note": "4 LL claim extracts: Williams/Ferriss, Sames oxa-iboga, Mash OUD, miracle-title literacy"
+    },
+    "parkinsonsEvidence": {
+      "status": "green",
+      "note": "thickened DOI 10.1556/2054.2025.00478 + PMID 28972153 preclinical label"
+    },
+    "depressionEvidence": {
+      "status": "green",
+      "note": "thickened secondary mood via Cherian PMID 38182784 + critique link"
     }
   },
   "macPathsNote": "MachineId Shell unavailable; ship via GitHub clone seantei/ibogabase",
   "jevLevel": 2,
   "jevConfidence": 0.7,
   "monitorQueue": [
-    "landmark-claim-extract-batch",
     "named-reviewers",
-    "ll-needsVerify-2"
+    "ll-needsVerify-2",
+    "remote-sync-mac-or-mcp"
   ]
 }
