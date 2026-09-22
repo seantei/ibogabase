@@ -21,11 +21,14 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 - [Podcasts and Media](https://www.ibogabase.com/reference/podcasts-media/): A directory-oriented reference for podcasts, interviews, documentaries, books, articles, videos, and media claims about Iboga and Ibogaine.
 
 - [Compare: Iboga vs Ibogaine vs Noribogaine vs Analogs](https://www.ibogabase.com/reference/compare/): Taxonomy page for plant, alkaloid, metabolite, analogs, and form labels. Not interchangeable. No dosing.
-- [Listening Library](https://www.ibogabase.com/media/listening-library/): Curated podcast/interview/AV shelf (51 landmarks) with original summaries and media labels; separate from the bulk media catalog. Data: `/data/listening-library.json`.
+- [Listening Library](https://www.ibogabase.com/media/listening-library/): Curated podcast/interview/AV shelf (52 landmarks) with original summaries and media labels; separate from the bulk media catalog. Data: `/data/listening-library.json`.
 - [DIY / self-treatment refusal](https://www.ibogabase.com/safety/diy-self-treatment/): Citeable boundary — no dosing, no sourcing, no referrals.
 - [Bicameral mind theory claim check](https://www.ibogabase.com/claims/bicameral-mind-theory/): Jaynes is contested theory, not established neuroscience; ibogaine links are interpretive/media.
+- [Stanford Mg-ibogaine study critique](https://www.ibogabase.com/claims/stanford-mg-ibogaine-study-critique/): Gorman 2026 (PMID 42330793) — media overclaim risk + observational/registration limits; links TBI/PTSD evidence.
+- [Mortality denominators](https://www.ibogabase.com/safety/mortality-denominators/): How to read fatality case reports vs rates when exposure denominators are incomplete.
+- [TMZ Hubbard/Gerber observatory](https://www.ibogabase.com/claims/tmz-hubbard-gerber-2026-09-21/): Media-only card on “isn’t miracle cure” + cardiac context (2026-09-21).
 - [Dickinson bicameral field map](https://www.ibogabase.com/reference/dickinson-bicameral-map/): Living theme → page map around the 2026 monograph; not a hit piece.
-- [Neuropathic pain evidence](https://www.ibogabase.com/evidence/neuropathic-pain/): Very limited / not proven stub.
+- [Neuropathic pain evidence](https://www.ibogabase.com/evidence/neuropathic-pain/): Very limited / not proven; case report with Ambio COI + animal congener citations.
 - [Multiple sclerosis evidence](https://www.ibogabase.com/evidence/ms/): Case-report only with COI awareness.
 - [Clinic Claims and Adverse Events](https://www.ibogabase.com/reference/clinic-claims-adverse-events/): A plain-language reference for reading Ibogaine clinic claims, success-rate statements, adverse events, safety standards, and conflicts of interest.
 
@@ -33,7 +36,6 @@ Important boundaries: IbogaBase sources information, not Iboga, Ibogaine, treatm
 
 - [AI index](https://www.ibogabase.com/ai-index.json): Site purpose, boundaries, audiences, topic URLs, and data endpoints.
 - [Public search index](https://www.ibogabase.com/data/public-search-index.json): Searchable public source and content records.
-- [Listening library JSON](https://www.ibogabase.com/data/listening-library.json): Curated Listening Library entries.
 - [Evidence pages](https://www.ibogabase.com/data/evidence-pages.json): Evidence-grade condition summaries.
 - [Policy tracker](https://www.ibogabase.com/data/policy-tracker.json): Law and policy rows.
 - [Clinic observatory](https://www.ibogabase.com/data/clinic-observatory.json): Clinic-claim tracking rules and sample rows.
