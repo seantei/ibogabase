@@ -1,0 +1,22 @@
+{
+  "project": "IbogaBase",
+  "lastSweep": "2026-09-22",
+  "lastSweepLabel": "2026-09-22 PT",
+  "jevScore": 2.05,
+  "jevEstimateAfterThisShip": "2.4–2.7",
+  "target": 3.0,
+  "ambitiousBar": 3.5,
+  "claimReadiness": "pages for compare/diy/bicameral/listening live; do not claim #1 or beats-monograph until reviewers + Jev≥3.5",
+  "desks": {
+    "listeningLibrary": {"status": "green", "note": "51 curated entries; 49 verified; 2 flagged"},
+    "comparePage": {"status": "green", "note": "/reference/compare/ shipped"},
+    "diyRefusal": {"status": "green", "note": "/safety/diy-self-treatment/ shipped"},
+    "bicameralClaim": {"status": "green", "note": "/claims/bicameral-mind-theory/ shipped"},
+    "dickinsonMap": {"status": "green", "note": "/reference/dickinson-bicameral-map/ shipped"},
+    "neuropathicPain": {"status": "amber", "note": "stub page live; needs primary citation queue"},
+    "msEvidence": {"status": "amber", "note": "stub page live; COI labels noted"},
+    "namedReviewers": {"status": "red", "note": "blocks 3.5 public claims"},
+    "macOpsSync": {"status": "amber", "note": "Mac seed listening-library.json inaccessible remotely; box/GitHub ship complete"}
+  },
+  "macPathsNote": "MachineId Shell unavailable; ship via GitHub clone seantei/ibogabase"
+}
