@@ -15,12 +15,22 @@ jobs:
         run: |
           set -e
           mkdir -p data media/listening-library
-          cat data/_ship_chunks/listening-library.json.part*.txt > data/listening-library.json
-          cat data/_ship_chunks/listening-library.html.part*.txt > media/listening-library/index.html
+          # Drop legacy unpadded part5 if present (would corrupt cat order)
+          rm -f data/_ship_chunks/listening-library.html.part5.txt
+          rm -f data/_ship_chunks/listening-library.json.part5.txt
+          # Deterministic order: part00, part01, ...
+          shopt -s nullglob
+          json_parts=(data/_ship_chunks/listening-library.json.part*.txt)
+          html_parts=(data/_ship_chunks/listening-library.html.part*.txt)
+          IFS=$'\n' json_sorted=($(printf '%s\n' "${json_parts[@]}" | sort))
+          IFS=$'\n' html_sorted=($(printf '%s\n' "${html_parts[@]}" | sort))
+          cat "${json_sorted[@]}" > data/listening-library.json
+          cat "${html_sorted[@]}" > media/listening-library/index.html
           wc -c data/listening-library.json media/listening-library/index.html
-          python3 -c "import json; json.load(open('data/listening-library.json')); print('json ok')"
+          python3 -c "import json; d=json.load(open('data/listening-library.json')); print('json ok', d['meta']['entryCount'])"
           grep -q 'Listening Library' media/listening-library/index.html
+          grep -q '60 CURATED ENTRIES' media/listening-library/index.html
       - name: Commit assembled files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Assemble Listening Library full JSON + HTML from ship chunks"
+          commit_message: "Listening Library: assemble +8 verified entries (60 curated / 59 live OK / 1 dead)"
