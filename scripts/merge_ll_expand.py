@@ -9,16 +9,15 @@ root = Path(".")
 def load_text(path: Path, b64_path: Path, part0: Path, part1: Path) -> str:
     if path.exists():
         return path.read_text()
-    # reassembled b64 from numbered shards
+    if part0.exists() and part1.exists():
+        return part0.read_text() + part1.read_text()
     shards = sorted(path.parent.glob(b64_path.name + ".*"))
     shards = [s for s in shards if s.name.split(".")[-1].isdigit()]
     if shards:
-        b64 = "".join(s.read_text().strip() for s in shards)
+        b64 = "".join("".join(s.read_text().split()) for s in shards)
         return base64.b64decode(b64).decode("utf-8")
     if b64_path.exists():
-        return base64.b64decode(b64_path.read_text().strip()).decode("utf-8")
-    if part0.exists() and part1.exists():
-        return part0.read_text() + part1.read_text()
+        return base64.b64decode("".join(b64_path.read_text().split())).decode("utf-8")
     raise SystemExit(f"missing {path} / {b64_path} / parts")
 
 patch_raw = load_text(
