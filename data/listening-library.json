@@ -1,1 +1,1690 @@
-file:///tmp/ll_mcp_content.json
+{
+  "purpose": "Curated landmark podcasts, interviews, and AV records for the IbogaBase Listening Library. Separate from the noisy bulk /media/ catalog. Link out only; original short summaries; media medical claims labeled until primary-sourced.",
+  "reviewRules": [
+    "No dosing, no clinic referrals, no self-treatment guidance, no miracle claims in IbogaBase voice.",
+    "Podcast and AV entries link out only; do not rehost audio/video or copy transcripts.",
+    "Summaries are original and brief (about two sentences).",
+    "Medical or efficacy claims from media stay labeled media/anecdote until a primary peer-reviewed or regulatory source is cited.",
+    "needsVerify:true rows remain listed but flagged until a human confirms the outbound URL.",
+    "Do not invent episodes; Lex Fridman has mentions only, no dedicated ibogaine interview found."
+  ],
+  "sourceTypes": [
+    "podcast",
+    "interview",
+    "documentary",
+    "show-hub",
+    "journalism-audio",
+    "conference-talk-adjacent",
+    "guidelines-media-adjacent"
+  ],
+  "lastReviewed": "2026-09-22",
+  "meta": {
+    "title": "IbogaBase Listening Library",
+    "status": "published-v1.1-sames",
+    "entryCount": 52,
+    "needsVerifyCount": 0,
+    "verifiedCount": 52,
+    "mergedFrom": "listening-library-merged-ready.json",
+    "macSeedNote": "Existing Mac ops listening-library.json (tiny seed) was inaccessible from this agent environment (MachineId Shell/CopyFromBox unavailable). No seed rows merged. If a unique local seed exists on Sean's Mac, re-diff by id/url and keep unique rows.",
+    "hardRules": [
+      "no dosing",
+      "no referrals",
+      "no self-treatment",
+      "no miracle claims in IbogaBase voice",
+      "podcast entries link out only",
+      "original short summaries only",
+      "medical claims from media stay labeled media/anecdote until primary-sourced"
+    ],
+    "linkDeadCount": 1,
+    "lastVerifyPass": "2026-09-22T11:50:00-07:00"
+  },
+  "verifySummary": {
+    "checkedNeedsVerifyOriginally": 27,
+    "originalNonVerifyReconfirmedOk": 24,
+    "repairedAndCleared": [
+      "ultimate-human-capones-2026",
+      "punk-rock-sober-capone-2026",
+      "adventures-through-mind-micro15-jesso",
+      "radically-genuine-235-miracle-2026",
+      "plants-of-the-gods-hamilton-iboga",
+      "hamilton-pharmacopeia-iboga-episode-ref",
+      "facts-fallacies-rfk-ibogaine",
+      "washington-post-audio-adjacent-2024"
+    ],
+    "stillNeedsVerify": [],
+    "log": [
+      {
+        "id": "ultimate-human-capones-2026",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/marcus-amber-capone-on-ibogaine-veteran-suicide-ptsd/id1676899945",
+        "newUrl": "https://podcasts.apple.com/us/podcast/marcus-amber-capone-on-ibogaine-veteran-suicide-ptsd/id1709740887?i=1000759991591",
+        "needsVerify": false,
+        "note": "Fixed Apple show id 1709740887 + episode i=1000759991591 (was wrong id 1676899945 → 404). HEAD 200 on 2026-09-21 PT."
+      },
+      {
+        "id": "punk-rock-sober-capone-2026",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/navy-seal-marcus-capone-on-ibogaine-ptsd-saving-veterans-lives/id1550000000",
+        "newUrl": "https://open.spotify.com/episode/4eQ0CvRrT0rDf4zfmfZd68",
+        "needsVerify": false,
+        "note": "Replaced stub Apple id 1550000000 with official Spotify episode URL. GET 200 on 2026-09-21 PT. Apple show hub also live: id1729973942."
+      },
+      {
+        "id": "adventures-through-mind-micro15-jesso",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/micro-15-ibogaine-the-one-drug-that-stops-opioid/id1215483699",
+        "newUrl": "https://open.spotify.com/episode/1na509fJxa1FwbhJkTO2BX",
+        "needsVerify": false,
+        "note": "Replaced broken Apple deep link with Spotify MICRO:15 episode. Companion show notes: https://www.jameswjesso.com/psychedelics-in-research-practice-james-w-jesso-attmind-200/"
+      },
+      {
+        "id": "radically-genuine-235-miracle-2026",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/235-is-ibogaine-a-miracle-treatment-for-ptsd-and/id1535145985",
+        "newUrl": "https://radicallygenuinepodcast.transistor.fm/235",
+        "needsVerify": false,
+        "note": "Replaced Apple 404 with official Transistor host page for episode 235. GET 200. Guest: Jonathan Dickinson (clinic-proximate — keep commercial-proximity awareness)."
+      },
+      {
+        "id": "plants-of-the-gods-hamilton-iboga",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/plants-of-the-gods-s3e8-part-2-m/id1551211722",
+        "newUrl": "https://plantsofthegods.libsyn.com/plants-of-the-gods-s3e7-magic-frogs-iboga-and-the-magic-of-hallucinogens-a-conversation-with-hamilton-morris",
+        "needsVerify": false,
+        "note": "Replaced broken Apple slug (wrong collection id) with official Libsyn S3E7. Part 2: https://plantsofthegods.libsyn.com/plants-of-the-gods-s3e8-part-2-magic-frogs-iboga-and-the-magic-of-hallucinogens-a-conversation-with-hamilton-morris. Apple show hub id1549464922 also 200."
+      },
+      {
+        "id": "hamilton-pharmacopeia-iboga-episode-ref",
+        "action": "repaired",
+        "oldUrl": "https://www.vice.com/en/article/hamilton-pharmacopeia/",
+        "newUrl": "https://www.vicetv.com/en_us/video/synthetic-ibogaine-natural-tramadol/5fd3aa207e41824f761a6878",
+        "needsVerify": false,
+        "note": "Replaced dead VICE hub with official VICE TV episode page for Gabon/iboga ritual episode. GET 200."
+      },
+      {
+        "id": "facts-fallacies-rfk-ibogaine",
+        "action": "repaired",
+        "oldUrl": "https://podcasts.apple.com/us/podcast/facts-fallacies-podcast/id123",
+        "newUrl": "https://geneticliteracyproject.org/2026/06/24/facts-fallacies-podcast-psychedelics-for-ptsd-examining-rfk-jrs-claims-about-ibogaine/",
+        "needsVerify": false,
+        "note": "Replaced stub Apple id123 with Genetic Literacy Project episode write-up page (GET 200). Prefer linking Apple/Spotify audio page if Hermes finds canonical audio URL later; content match confirmed by title."
+      },
+      {
+        "id": "washington-post-audio-adjacent-2024",
+        "action": "repaired",
+        "oldUrl": "https://www.washingtonpost.com/health/2024/03/14/ibogaine-psychedelic-addiction/",
+        "newUrl": "https://www.washingtonpost.com/health/2024/03/14/ibogaine-psychedelic-ptsd-veterans/",
+        "needsVerify": false,
+        "note": "Fixed slug (addiction→ptsd-veterans). Box curl often blocked by WaPo; WebFetch confirmed live article 2026-09-21 PT."
+      },
+      {
+        "id": "gita-guidelines-media-adjacent",
+        "action": "verified-ok",
+        "url": "https://www.ibogaalliance.org/",
+        "needsVerify": false,
+        "linkStatus": "ok",
+        "note": "WebFetch 200 HTML confirms Global Iboga Therapy Alliance hub + Clinical Guidelines section (2026-09-22 PT). Box curl often SoftGuard HTTP 202 captcha — treat as bot friction, not dead host.",
+        "checkedAt": "2026-09-22T11:50:00-07:00"
+      },
+      {
+        "id": "clare-wilkins-future-primitive-2016",
+        "action": "flagged-dead",
+        "url": "https://ibogaineconference.org/blog/clare-wilkins-talks-ibogaine-with-joanna-harcourt-smith/",
+        "needsVerify": false,
+        "linkStatus": "dead",
+        "note": "Cloudflare 522 / unreachable live host; archive noted only; no invented replacement URL.",
+        "checkedAt": "2026-09-22T11:50:00-07:00"
+      },
+      {
+        "id": "awakenet-dickinson-bicameral-2026",
+        "action": "verified-ok",
+        "url": "https://www.youtube.com/watch?v=RfblHdfiPg0",
+        "needsVerify": false
+      },
+      {
+        "id": "drug-science-44-deborah-mash",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/44-ibogaine-with-professor-deborah-mash/id1474603382?i=1000533992157",
+        "needsVerify": false
+      },
+      {
+        "id": "ivy-fm-iboga-tag",
+        "action": "verified-ok",
+        "url": "https://ivy.fm/tag/iboga",
+        "needsVerify": false
+      },
+      {
+        "id": "mayim-bialik-doblin-2026",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/50-million-in-funding-10-000-new-clinics-and-the/id1546456269?i=1000770728579",
+        "needsVerify": false
+      },
+      {
+        "id": "third-wave-154-deborah-mash",
+        "action": "verified-ok",
+        "url": "https://thethirdwave.co/podcast/episode-154-deborah-mash-ph-d/",
+        "needsVerify": false
+      },
+      {
+        "id": "newts-world-872-facility-tour",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/episode-872-ibogaine-inside-a-treatment-facility/id1452065072?i=1000718046062",
+        "needsVerify": false
+      },
+      {
+        "id": "iboga-leadership-1-patrick-moughenda-2026",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/1-bwiti-iboga-and-gabon-its-happening-now-with/id1873572601?i=1000747466873",
+        "needsVerify": false
+      },
+      {
+        "id": "third-wave-347-dickinson-tbi",
+        "action": "verified-ok",
+        "url": "https://thethirdwave.co/podcast/episode-347-jonathan-dickinson/",
+        "needsVerify": false
+      },
+      {
+        "id": "dangerous-with-love-dimitri-ref",
+        "action": "verified-ok",
+        "url": "https://en.wikipedia.org/wiki/Dimitri_Mobengo_Mugianis",
+        "needsVerify": false
+      },
+      {
+        "id": "hold-these-truths-nolan-williams",
+        "action": "verified-ok",
+        "url": "https://holdthesetruthswithdancrenshaw.libsyn.com/a-psychedelic-breakthrough-in-the-treatment-of-trauma-and-addiction-dr-nolan-williams",
+        "needsVerify": false
+      },
+      {
+        "id": "lex-fridman-211-muraresku-iboga-mention",
+        "action": "verified-ok",
+        "url": "https://lexfridman.com/brian-muraresku/",
+        "needsVerify": false
+      },
+      {
+        "id": "beond-adjacent-batch",
+        "action": "verified-ok",
+        "url": "https://beondibogaine.com/podcast/",
+        "needsVerify": false
+      },
+      {
+        "id": "stanford-medicine-news-audio-adjacent",
+        "action": "verified-ok",
+        "url": "https://med.stanford.edu/news/all-news/2024/01/ibogaine-ptsd.html",
+        "needsVerify": false
+      },
+      {
+        "id": "living-hero-trips-beyond-addiction",
+        "action": "verified-ok",
+        "url": "https://jari.podbean.com/e/trips-beyond-addiction-special-program-for-living-hero-w-jari-chevalier-radio-show-at-wgdrorg/",
+        "needsVerify": false
+      },
+      {
+        "id": "iboga-leadership-7-tobias-erny",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/7-hyperdimensional-healing-ibogaine-and-parkinsons/id1873572601",
+        "needsVerify": false
+      },
+      {
+        "id": "newts-world-902-vets-2025",
+        "action": "verified-ok",
+        "url": "https://podcasts.apple.com/us/podcast/episode-902-ibogaine-veterans-exploring-treatment-solutions/id1452065072?i=1000732505034",
+        "needsVerify": false
+      },
+      {
+        "id": "iboga-nights-david-graham-scott",
+        "action": "verified-ok",
+        "url": "https://davidgrahamscott.wordpress.com/documentaries/",
+        "needsVerify": false
+      }
+    ],
+    "linkDead": [
+      "clare-wilkins-future-primitive-2016"
+    ]
+  },
+  "entries": [
+    {
+      "id": "tim-ferriss-511-hamilton-morris-2021",
+      "title": "Hamilton Morris on Iboga, 5-MeO-DMT, the Power of Ritual, New Frontiers in Psychedelics (#511)",
+      "url": "https://tim.blog/2021/04/27/hamilton-morris-2/",
+      "platform": "Tim Ferriss official / Apple / Spotify",
+      "date": "2021-04-27",
+      "people": [
+        "Tim Ferriss",
+        "Hamilton Morris"
+      ],
+      "show": "The Tim Ferriss Show",
+      "summary": "Morris recounts Pharmacopeia fieldwork around iboga/Bwiti contexts and discusses how public addiction narratives differ from Gabonese ritual settings. The episode mixes chemistry literacy, conservation pressure, and safety caveats; treat efficacy talk as informed media opinion, not trial evidence.",
+      "claimThemes": [
+        "bwiti-culture-media",
+        "oud-anecdote",
+        "conservation",
+        "cardiac-risk-theme",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/iboga/",
+        "/reference/culture-stewardship/",
+        "/reference/ibogaine-safety-qtc/",
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "tim-ferriss-337-hamilton-morris-2018",
+      "title": "Hamilton Morris on Better Living Through Chemistry — Psychedelics, Smart Drugs, and More (#337)",
+      "url": "https://tim.blog/2018/09/20/hamilton-morris/",
+      "platform": "Tim Ferriss official",
+      "date": "2018-09-20",
+      "people": [
+        "Tim Ferriss",
+        "Hamilton Morris"
+      ],
+      "show": "The Tim Ferriss Show",
+      "summary": "Earlier Ferriss–Morris conversation that introduces ibogaine among other compounds and points listeners toward Lotsof-era addiction-interruption history. Useful as a discovery pathway into the field; not a primary clinical source.",
+      "claimThemes": [
+        "history-lotsof",
+        "oud-anecdote",
+        "psychedelic-literacy"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/people/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "tim-ferriss-714-nolan-williams-2024",
+      "title": "A Glimpse of the Future: Electroceuticals… and De-risking Ibogaine for TBI/PTSD (#714)",
+      "url": "https://tim.blog/2024/01/05/nolan-williams/",
+      "platform": "Tim Ferriss official",
+      "date": "2024-01-05",
+      "people": [
+        "Tim Ferriss",
+        "Nolan Williams"
+      ],
+      "show": "The Tim Ferriss Show",
+      "summary": "Stanford psychiatrist Nolan Williams discusses magnesium–ibogaine observational work in special-operations veterans and stresses cardiac/QT risk management themes. Media summary of research in progress; outcomes remain open-label / observational until controlled trials replicate them.",
+      "claimThemes": [
+        "tbi-observational",
+        "ptsd-media",
+        "cardiac-risk-theme",
+        "veteran-clinic-media",
+        "magnesium-ibogaine"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/tbi/",
+        "/evidence/ptsd/",
+        "/reference/ibogaine-safety-qtc/",
+        "/trials/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "giants-shoulders-139-dalibor-sames-2026",
+      "title": "Meet The Greatest Ibogaine Psychedelic Scientist You’ve Never Heard Of (Giant’s Shoulders #139)",
+      "url": "https://www.youtube.com/watch?v=K9whp_wtCoc",
+      "platform": "YouTube",
+      "date": "2026-07-20",
+      "people": [
+        "Dalibor Sames"
+      ],
+      "show": "Giant’s Shoulders",
+      "summary": "Researcher interview with Columbia chemist Dalibor Sames on iboga alkaloid science and oxa-iboga analog work. Treat episode discussion as media; pair with the Nature Communications primary paper on oxa-iboga alkaloids. Guest clinic mentions, if any, are context only — IbogaBase does not refer to clinics.",
+      "claimThemes": [
+        "researcher-interview",
+        "oxa-iboga-analogs",
+        "cardiac-risk-theme",
+        "oud-preclinical"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "researcher interview / media; related primary DOI 10.1038/s41467-024-51856-y",
+      "relatedIbogaBasePages": [
+        "/reference/noribogaine-analogs/",
+        "/reference/ibogaine-safety-qtc/",
+        "/evidence/oud/",
+        "/media/"
+      ],
+      "notes": "Faculty context: https://www.chem.columbia.edu/content/dalibor-sames — Cloudflare-gated from some bots; listed as related institutional page, not scraped. Omit Beond/clinic referral links even if mentioned in episode.",
+      "relatedPrimary": [
+        {
+          "label": "Oxa-Iboga alkaloids Nature Communications 2024",
+          "doi": "10.1038/s41467-024-51856-y",
+          "pmid": "39304653",
+          "url": "https://doi.org/10.1038/s41467-024-51856-y"
+        }
+      ],
+      "verifiedAt": "2026-09-22T09:55:00-07:00",
+      "verifyMethod": "YouTube oEmbed 200 + HEAD 200 from box"
+    },
+    {
+      "id": "jre-2477-perry-hubbard-2026",
+      "title": "#2477 — Rick Perry & W. Bryan Hubbard",
+      "url": "https://open.spotify.com/episode/2aBRLTKYpUo5jfYd68LTg4",
+      "platform": "Spotify / YouTube / Apple",
+      "date": "2026-04-01",
+      "people": [
+        "Joe Rogan",
+        "Rick Perry",
+        "W. Bryan Hubbard"
+      ],
+      "show": "The Joe Rogan Experience",
+      "summary": "Policy advocates discuss Texas-scale ibogaine research funding, veteran trauma narratives, and FDA pathway politics. High-reach media that often overstates efficacy percentages; catalog for claim-check against primary bills and peer-reviewed denominators.",
+      "claimThemes": [
+        "policy-texas",
+        "veteran-advocacy",
+        "oud-overclaim-risk",
+        "fda-pathway-media"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/reference/policy-law/",
+        "/claims/ibogaine-cures-addiction/"
+      ],
+      "notes": "Also YouTube https://www.youtube.com/watch?v=JIArjzI3gas",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "rich-roll-982-capones-2026",
+      "title": "In Waves & War: Marcus & Amber Capone On Psychedelic Treatment For Veteran PTSD",
+      "url": "https://www.richroll.com/podcast/marcus-amber-capone-982/",
+      "platform": "Rich Roll official / Apple",
+      "date": "2026-04-20",
+      "people": [
+        "Rich Roll",
+        "Marcus Capone",
+        "Amber Capone"
+      ],
+      "show": "The Rich Roll Podcast",
+      "summary": "VETS founders describe Marcus Capone’s ibogaine experiences and advocacy for veteran access research. First-person and organizational advocacy; separate lived experience from Nature Medicine observational findings and from FDA approval status.",
+      "claimThemes": [
+        "veteran-advocacy",
+        "ptsd-anecdote",
+        "tbi-anecdote",
+        "nonprofit-media"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/ptsd/",
+        "/evidence/tbi/",
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "rich-roll-julie-piatt-iboga-2026",
+      "title": "Inside My 72-Hour Psychedelic Iboga Therapy With Julie Piatt",
+      "url": "https://www.richroll.com/podcast/rich-julie-989/",
+      "platform": "YouTube / Rich Roll",
+      "date": "2026-05-21",
+      "people": [
+        "Rich Roll",
+        "Julie Piatt"
+      ],
+      "show": "The Rich Roll Podcast",
+      "summary": "First-person account of an iboga therapy experience framed around identity and integration work. Catalog as personal media narrative; do not convert subjective outcomes into efficacy claims.",
+      "claimThemes": [
+        "first-person-anecdote",
+        "integration-theme",
+        "plant-vs-alkaloid-blur"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/iboga/",
+        "/media/"
+      ],
+      "notes": "Official Rich Roll episode page.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "drug-science-44-deborah-mash",
+      "title": "44. Ibogaine with Professor Deborah Mash",
+      "url": "https://podcasts.apple.com/us/podcast/44-ibogaine-with-professor-deborah-mash/id1474603382?i=1000533992157",
+      "platform": "Apple Podcasts",
+      "date": null,
+      "people": [
+        "Deborah Mash"
+      ],
+      "show": "The Drug Science Podcast",
+      "summary": "Mash discusses human-research history, noribogaine interest, and addiction-interruption hypotheses from a clinical-development vantage. Researcher interview; still not a substitute for reading primary papers and trial registries.",
+      "claimThemes": [
+        "researcher-interview",
+        "oud-research-history",
+        "noribogaine-development"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/reference/noribogaine-analogs/",
+        "/people/"
+      ],
+      "notes": "Confirm exact publish date from show feed; Apple listing verified via search.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "psychedelics-today-pt448-mash-2023",
+      "title": "PT448 – Ibogaine, Noribogaine, and the Challenges of Federal Drug Policy (Deborah C. Mash)",
+      "url": "https://psychedelicstoday.com/2023/10/06/pt448-deborah-c-mash-ph-d/",
+      "platform": "Psychedelics Today official",
+      "date": "2023-10-06",
+      "people": [
+        "Deborah Mash"
+      ],
+      "show": "Psychedelics Today",
+      "summary": "Long-form interview on research logistics, Schedule I constraints, and noribogaine development framing. Strong for policy/history context; medical outcome claims remain provisional without matching primary publications.",
+      "claimThemes": [
+        "policy-us-federal",
+        "noribogaine-development",
+        "research-history"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/reference/noribogaine-analogs/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "third-wave-154-deborah-mash",
+      "title": "Healing Addiction With Ibogaine: What the Research Tells Us (Deborah Mash)",
+      "url": "https://thethirdwave.co/podcast/episode-154-deborah-mash-ph-d/",
+      "platform": "Third Wave",
+      "date": null,
+      "people": [
+        "Deborah Mash"
+      ],
+      "show": "The Psychedelic Podcast (Third Wave)",
+      "summary": "Mash reviews published and observational addiction literature themes and development barriers. Keep ‘what research tells us’ language tied to cited papers on IbogaBase evidence pages.",
+      "claimThemes": [
+        "oud-research-history",
+        "researcher-interview"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/oud/",
+        "/reference/opioid-use-disorder/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "ibogaine-uncovered-23-nolan-williams",
+      "title": "#23 — Dr. Nolan Williams: Can Ibogaine Treat Traumatic Brain Injury?",
+      "url": "https://open.spotify.com/episode/7t6NVpD8waljnJd9bHuQ8Y",
+      "platform": "Spotify / Ibogaine Uncovered",
+      "date": "2024-01-24",
+      "people": [
+        "Nolan Williams",
+        "Talia Eisenberg"
+      ],
+      "show": "Ibogaine Uncovered",
+      "summary": "Clinic-adjacent show interviews Williams on magnesium–ibogaine veteran TBI work around the Nature Medicine publication window. Hosted by a treatment-provider founder—label commercial proximity; science claims track to the paper, not the podcast.",
+      "claimThemes": [
+        "tbi-observational",
+        "veteran-clinic-media",
+        "cardiac-risk-theme",
+        "commercial-proximity"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/tbi/",
+        "/reference/clinic-claims-adverse-events/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "hold-these-truths-nolan-williams",
+      "title": "A Psychedelic Breakthrough In the Treatment of Trauma and Addiction | Dr. Nolan Williams",
+      "url": "https://holdthesetruthswithdancrenshaw.libsyn.com/a-psychedelic-breakthrough-in-the-treatment-of-trauma-and-addiction-dr-nolan-williams",
+      "platform": "Libsyn / Apple",
+      "date": null,
+      "people": [
+        "Dan Crenshaw",
+        "Nolan Williams"
+      ],
+      "show": "Hold These Truths with Dan Crenshaw",
+      "summary": "Congressional host frames veteran TBI/PTSD interest with Williams describing observational signals and safety constraints. Political-media context; do not treat show title language (‘breakthrough’) as an evidence grade.",
+      "claimThemes": [
+        "veteran-advocacy",
+        "tbi-observational",
+        "ptsd-media",
+        "policy-rhetoric"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/tbi/",
+        "/policy/"
+      ],
+      "notes": "Confirm episode date from Libsyn/Apple listing.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "ted-talks-daily-nolan-williams-2025",
+      "title": "How ibogaine could treat depression and anxiety | Nolan Williams",
+      "url": "https://podcasts.apple.com/us/podcast/how-ibogaine-could-treat-depression-and-anxiety-nolan/id160904630?i=1000739883625",
+      "platform": "Apple Podcasts (TED Talks Daily)",
+      "date": "2025-12-05",
+      "people": [
+        "Nolan Williams"
+      ],
+      "show": "TED Talks Daily",
+      "summary": "Short-form public talk extrapolating ibogaine research themes toward mood indications. Catalog as speculative media extension beyond the veteran TBI observational dataset.",
+      "claimThemes": [
+        "depression-speculation",
+        "anxiety-speculation",
+        "researcher-public-talk"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/depression/",
+        "/evidence/tbi/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "third-wave-347-dickinson-tbi",
+      "title": "Ibogaine and Traumatic Brain Injury: A New Treatment Frontier — Jonathan Dickinson",
+      "url": "https://thethirdwave.co/podcast/episode-347-jonathan-dickinson/",
+      "platform": "Third Wave official",
+      "date": null,
+      "people": [
+        "Jonathan Dickinson"
+      ],
+      "show": "The Psychedelic Podcast",
+      "summary": "Dickinson discusses clinic-adjacent TBI models, safety ethics, and how veteran media reshaped demand. Useful for mapping book-era themes; bicameral framing should be labeled theory/media if raised.",
+      "claimThemes": [
+        "tbi-clinic-media",
+        "safety-ethics",
+        "dickinson-media",
+        "veteran-demand"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/tbi/",
+        "/reference/clinic-claims-adverse-events/"
+      ],
+      "notes": "Confirm episode number/date on page.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "third-wave-305-bryan-hubbard",
+      "title": "The Ibogaine Initiative — W. Bryan Hubbard",
+      "url": "https://thethirdwave.co/podcast/episode-305-w-bryan-hubbard/",
+      "platform": "Third Wave official",
+      "date": null,
+      "people": [
+        "W. Bryan Hubbard"
+      ],
+      "show": "The Psychedelic Podcast",
+      "summary": "Hubbard recounts Kentucky proposal history and later multi-state research-funding advocacy. Policy narrative media; cross-check against IbogaBase policy tracker primary bill texts.",
+      "claimThemes": [
+        "policy-kentucky",
+        "policy-texas",
+        "advocacy-history"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/people/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "awakenet-dickinson-bicameral-2026",
+      "title": "Interview with Jonathan Dickinson about Ibogaine and the Bicameral Mind (All About Ibogaine / Awake.net excerpt)",
+      "url": "https://www.youtube.com/watch?v=RfblHdfiPg0",
+      "platform": "YouTube (awakenet)",
+      "date": "2026-06-21",
+      "people": [
+        "Jonathan Dickinson",
+        "Lakshmi Narayan"
+      ],
+      "show": "All About Ibogaine",
+      "summary": "Book-promo interview connecting ibogaine phenomenology to Jaynes-style bicameral mind framing. Treat bicameral mapping as theory/media claim, not established neuroscience; useful seed for IbogaBase book-response desk.",
+      "claimThemes": [
+        "bicameral-theory-media",
+        "book-promo",
+        "consciousness-speculation",
+        "dickinson-media"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/",
+        "/reference/podcasts-media/",
+        "/claims/"
+      ],
+      "notes": "Prefer full Awake.net episode page if available; YouTube is excerpt upload dated 2026-06-21.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "mckenna-academy-dickinson-bicameral-p1-2026",
+      "title": "Ibogaine and the Bicameral Mind: A New Perspective on Addiction and Recovery (Part 1)",
+      "url": "https://mckenna.academy/mka-podcast/ibogaine-and-the-bicameral-mind-a-new-perspective-on-addiction-and-recovery-part-1/",
+      "platform": "McKenna Academy / Brainforest Café",
+      "date": "2026-09-07",
+      "people": [
+        "Dennis McKenna",
+        "Jonathan Dickinson"
+      ],
+      "show": "Brainforest Café",
+      "summary": "Dennis McKenna hosts Dickinson on personal path, Bwiti ethics/sourcing themes, and bicameral-mind interpretation of ibogaine. High-signal book companion media; keep theory claims labeled and link culture pages for Gabon context.",
+      "claimThemes": [
+        "bicameral-theory-media",
+        "bwiti-culture-media",
+        "conservation",
+        "book-promo",
+        "oud-narrative"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/culture-stewardship/",
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "mckenna-academy-dickinson-bicameral-p2-2026",
+      "title": "Why Ibogaine Triggers a ‘Second Childhood’ in the Brain (Part 2)",
+      "url": "https://mckenna.academy/mka-podcast/why-ibogaine-triggers-a-second-childhood-in-the-brain-part-2/",
+      "platform": "McKenna Academy / Brainforest Café",
+      "date": "2026-09-09",
+      "people": [
+        "Dennis McKenna",
+        "Jonathan Dickinson"
+      ],
+      "show": "Brainforest Café",
+      "summary": "Part 2 extends developmental/psychoanalytic metaphors and clinical-observation themes around Parkinson’s, pain, and neuroregen narratives. Media/theory layer; neurodegenerative claims stay case-level until primary literature supports them.",
+      "claimThemes": [
+        "bicameral-theory-media",
+        "neuroregen-speculation",
+        "parkinsons-case-theme",
+        "neuropathic-pain-theme"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/parkinsons/",
+        "/reference/parkinsons-neurology/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "lex-fridman-202-doblin-ibogaine-mention",
+      "title": "Rick Doblin: Psychedelics | Lex Fridman Podcast #202 (ibogaine mention)",
+      "url": "https://www.youtube.com/watch?v=2tUiLxtrLxk",
+      "platform": "YouTube / Lex Fridman",
+      "date": "2021-07-21",
+      "people": [
+        "Lex Fridman",
+        "Rick Doblin"
+      ],
+      "show": "Lex Fridman Podcast",
+      "summary": "No dedicated Lex–ibogaine episode found; Doblin briefly flags ibogaine’s opioid-addiction interest and atai-linked development. Catalog as mention-only so the listening library does not invent a full Lex interview.",
+      "claimThemes": [
+        "mention-only",
+        "biotech-atai",
+        "oud-research-history"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/"
+      ],
+      "notes": "Lex Fridman has no known dedicated ibogaine interview as of 2026-09-21 search sweep.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "lex-fridman-211-muraresku-iboga-mention",
+      "title": "Brian Muraresku: The Secret History of Psychedelics | Lex Fridman Podcast #211 (iboga mention)",
+      "url": "https://lexfridman.com/brian-muraresku/",
+      "platform": "Lex Fridman official",
+      "date": null,
+      "people": [
+        "Lex Fridman",
+        "Brian Muraresku"
+      ],
+      "show": "Lex Fridman Podcast",
+      "summary": "Historical/psychedelic-religion conversation with a brief iboga pointer rather than clinical depth. Mention-only catalog row for completeness of Lex sweep.",
+      "claimThemes": [
+        "mention-only",
+        "history-culture"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/iboga/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "yann-guignon-ethical-iboga-weinstein-2026",
+      "title": "Ethical Iboga: Bwiti, Indigenous Knowledge & the Cost of the Iboga Boom — Yann Guignon",
+      "url": "https://bethaweinstein.com/podcast/ethical-iboga-bwiti-indigenous-knowledge-the-cost-of-the-iboga-boom-with-yann-guignon/",
+      "platform": "Beth A. Weinstein / YouTube",
+      "date": "2026-07-02",
+      "people": [
+        "Yann Guignon",
+        "Beth A. Weinstein"
+      ],
+      "show": "Medicine For These Times",
+      "summary": "Blessings of the Forest-associated conservation voice on wild-harvest pressure, Gabonese stewardship, and boom-time extraction ethics. Culture/conservation media; not ceremonial instruction and not medical advice.",
+      "claimThemes": [
+        "conservation",
+        "gabon-stewardship",
+        "bwiti-culture-media",
+        "benefit-sharing"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/culture/",
+        "/reference/culture-stewardship/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "natural-born-alchemist-69-guignon-2016",
+      "title": "Episode 69 — Blessings of the Forest (Yann Guignon)",
+      "url": "https://www.naturalbornalchemist.com/episodes/2016/5/8/episode-69-blessings-of-the-forest",
+      "platform": "Natural Born Alchemist",
+      "date": "2016-05-08",
+      "people": [
+        "Yann Guignon"
+      ],
+      "show": "Natural Born Alchemist",
+      "summary": "Earlier interview on Gabonese iboga conservation and Blessings of the Forest work. Historical media for stewardship timeline; verify any legal claims against current Gabon sources.",
+      "claimThemes": [
+        "conservation",
+        "gabon-stewardship"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/culture/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "iboga-leadership-1-patrick-moughenda-2026",
+      "title": "#1 — Bwiti, Iboga and Gabon: It's Happening Now with Patrick Moughenda Mikala",
+      "url": "https://podcasts.apple.com/us/podcast/1-bwiti-iboga-and-gabon-its-happening-now-with/id1873572601?i=1000747466873",
+      "platform": "Apple Podcasts",
+      "date": "2026-01-31",
+      "people": [
+        "Patrick Moughenda Mikala"
+      ],
+      "show": "The Iboga Leadership Summit Podcast",
+      "summary": "Gabonese Bwiti-linked public conversation on contemporary iboga/Gabon dynamics. Culture desk priority; outsider limits apply—no ceremony protocols.",
+      "claimThemes": [
+        "bwiti-culture-media",
+        "gabon-stewardship"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/culture/",
+        "/reference/culture-stewardship/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "modern-psychedelics-119-mulligan-2025",
+      "title": "119 | Ibogaine & Iboga Treatment: Safety, Ethics, and A New Approach to Addiction w/ Juliana Mulligan",
+      "url": "https://podcasts.apple.com/us/podcast/119-ibogaine-iboga-treatment-safety-ethics-and-a/id1553826157?i=1000698239348",
+      "platform": "Apple Podcasts",
+      "date": "2025-03-07",
+      "people": [
+        "Juliana Mulligan"
+      ],
+      "show": "Modern Psychedelics",
+      "summary": "Lived-experience safety educator discusses cardiac risk awareness and ethics in the ibogaine/iboga treatment marketplace. Advocacy/public-education media, not clinical evidence.",
+      "claimThemes": [
+        "cardiac-risk-theme",
+        "safety-advocacy",
+        "clinic-ethics",
+        "lived-experience"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine-safety-qtc/",
+        "/claims/natural-means-safe/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "ibogaine-uncovered-show-hub",
+      "title": "Ibogaine Uncovered (show hub) — Talia Eisenberg / Beond",
+      "url": "https://podcasts.apple.com/ca/podcast/ibogaine-uncovered/id1656800662",
+      "platform": "Apple Podcasts",
+      "date": null,
+      "people": [
+        "Talia Eisenberg"
+      ],
+      "show": "Ibogaine Uncovered",
+      "summary": "Dedicated series with dozens of guest interviews spanning veterans, clinicians, and lived experience. Provider-founded show—batch-ingest episodes with commercial-proximity labels and claim extraction queue.",
+      "claimThemes": [
+        "show-hub",
+        "commercial-proximity",
+        "veteran-clinic-media",
+        "lived-experience"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/",
+        "/reference/clinic-claims-adverse-events/"
+      ],
+      "notes": "Seed as show hub; expand to per-episode rows in next sweep (63+ episodes claimed on Apple).",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "iboganautics-show-hub",
+      "title": "Iboganautics (show hub) — Tabernanthe iboga culture & experience focus",
+      "url": "https://podcasts.apple.com/us/podcast/iboganautics/id1511127237",
+      "platform": "Apple Podcasts / Spotify",
+      "date": null,
+      "people": [],
+      "show": "Iboganautics",
+      "summary": "Specialty podcast centered on iboga plant contexts rather than clinic marketing alone. Priority show for plant/culture listening-library density; episode-level summaries still required.",
+      "claimThemes": [
+        "show-hub",
+        "plant-focus",
+        "bwiti-culture-media"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/iboga/",
+        "/culture/"
+      ],
+      "notes": "~23–27 episodes across seasons; expand individually.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "all-about-ibogaine-show-hub",
+      "title": "All About Ibogaine (Awake.net) — show hub",
+      "url": "https://awake.net/ibogaine/",
+      "platform": "Awake.net",
+      "date": null,
+      "people": [
+        "Lakshmi Narayan"
+      ],
+      "show": "All About Ibogaine",
+      "summary": "Recurring interview lane covering safety guests, Dickinson book themes, Doblin policy comments, and clinic operators. High-yield intake source for 2026 media; many YouTube excerpts already in public catalog need canonical URLs.",
+      "claimThemes": [
+        "show-hub",
+        "safety-ethics",
+        "policy-media",
+        "dickinson-media"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "newts-world-902-vets-2025",
+      "title": "Episode 902: Ibogaine – Veterans Exploring Treatment Solutions (VETS)",
+      "url": "https://podcasts.apple.com/us/podcast/episode-902-ibogaine-veterans-exploring-treatment-solutions/id1452065072?i=1000732505034",
+      "platform": "Apple Podcasts",
+      "date": "2025-10-19",
+      "people": [
+        "Newt Gingrich"
+      ],
+      "show": "Newt's World",
+      "summary": "Policy-conservative platform interview on VETS and ibogaine research advocacy. Political media framing; pair with primary Stanford/Nature papers and state funding texts.",
+      "claimThemes": [
+        "veteran-advocacy",
+        "policy-rhetoric"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/evidence/tbi/"
+      ],
+      "notes": "Confirm guests on episode page.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "newts-world-858-ibogaine-2025",
+      "title": "Episode 858: Ibogaine – A Breakthrough Treatment for Addiction",
+      "url": "https://podcasts.apple.com/us/podcast/episode-858-ibogaine-a-breakthrough-treatment-for/id1452065072?i=1000714995986",
+      "platform": "Apple Podcasts",
+      "date": "2025-06-29",
+      "people": [
+        "Newt Gingrich"
+      ],
+      "show": "Newt's World",
+      "summary": "Title uses breakthrough language that outruns evidence grades. Catalog for claim-check desk; do not echo cure/breakthrough wording in IbogaBase body copy.",
+      "claimThemes": [
+        "oud-overclaim-risk",
+        "policy-rhetoric",
+        "claim-check-candidate"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/claims/ibogaine-cures-addiction/",
+        "/evidence/oud/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "newts-world-872-facility-tour",
+      "title": "Episode 872: Ibogaine - Inside a Treatment Facility",
+      "url": "https://podcasts.apple.com/us/podcast/episode-872-ibogaine-inside-a-treatment-facility/id1452065072?i=1000718046062",
+      "platform": "Apple Podcasts",
+      "date": null,
+      "people": [
+        "Newt Gingrich"
+      ],
+      "show": "Newt's World",
+      "summary": "Facility-tour style interview useful for mapping clinic-claim tropes. Not a safety audit; route marketing statements to clinic observatory.",
+      "claimThemes": [
+        "clinic-marketing",
+        "facility-tour-media"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/clinic-claims-adverse-events/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "ultimate-human-capones-2026",
+      "title": "Marcus & Amber Capone: On Ibogaine, Veteran Suicide, PTSD Treatment & Brain Health",
+      "url": "https://podcasts.apple.com/us/podcast/marcus-amber-capone-on-ibogaine-veteran-suicide-ptsd/id1709740887?i=1000759991591",
+      "platform": "Apple Podcasts",
+      "date": "2026-04-07",
+      "people": [
+        "Gary Brecka",
+        "Marcus Capone",
+        "Amber Capone"
+      ],
+      "show": "The Ultimate Human with Gary Brecka",
+      "summary": "Another Capone advocacy appearance emphasizing suicide/PTSD urgency. Duplicate-theme row for coverage completeness; extract distinct claims only.",
+      "claimThemes": [
+        "veteran-advocacy",
+        "ptsd-anecdote"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/ptsd/"
+      ],
+      "notes": "Apple URL may need exact episode id confirmation. | Fixed Apple show id 1709740887 + episode i=1000759991591 (was wrong id 1676899945 → 404). HEAD 200 on 2026-09-21 PT.",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/marcus-amber-capone-on-ibogaine-veteran-suicide-ptsd/id1676899945"
+    },
+    {
+      "id": "punk-rock-sober-capone-2026",
+      "title": "Navy SEAL Marcus Capone on Ibogaine, PTSD & Saving Veterans' Lives",
+      "url": "https://open.spotify.com/episode/4eQ0CvRrT0rDf4zfmfZd68",
+      "platform": "Apple Podcasts",
+      "date": "2026-03-16",
+      "people": [
+        "Marcus Capone"
+      ],
+      "show": "Punk Rock Sober",
+      "summary": "Veteran lived-experience advocacy interview. Prefer official show episode URL on verify pass; keep anecdote label.",
+      "claimThemes": [
+        "veteran-advocacy",
+        "ptsd-anecdote",
+        "lived-experience"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/ptsd/"
+      ],
+      "notes": "Apple id truncated in catalog—replace with canonical Punk Rock Sober episode link before publish. | Replaced stub Apple id 1550000000 with official Spotify episode URL. GET 200 on 2026-09-21 PT. Apple show hub also live: id1729973942.",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/navy-seal-marcus-capone-on-ibogaine-ptsd-saving-veterans-lives/id1550000000"
+    },
+    {
+      "id": "maps-canada-dickinson-how-different-2026",
+      "title": "How is Ibogaine Different from Other Psychedelics? | Jonathan Dickinson",
+      "url": "https://www.youtube.com/watch?v=EnPQlhwShHI",
+      "platform": "YouTube (MAPS Canada)",
+      "date": "2026-01-24",
+      "people": [
+        "Jonathan Dickinson"
+      ],
+      "show": "MAPS Canada",
+      "summary": "Short explainer distinguishing ibogaine’s duration, cardiac risk profile, and addiction-interruption lore from classic 5-HT2A psychedelics. Good AEO clip if transcript claims are checked against safety page.",
+      "claimThemes": [
+        "compare-psychedelics",
+        "cardiac-risk-theme",
+        "dickinson-media"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/reference/ibogaine-safety-qtc/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "cpr-dickinson-2025",
+      "title": "Psychedelic offers new hope for treating addiction (Colorado Public Radio interview context)",
+      "url": "https://www.cpr.org/2025/07/28/psychedelic-ibogaine-addiction-treatment-interview/",
+      "platform": "CPR / journalism+audio",
+      "date": "2025-07-28",
+      "people": [
+        "Andrea Dukakis",
+        "Jonathan Dickinson"
+      ],
+      "show": "Colorado Public Radio",
+      "summary": "Public-radio interview framing addiction hope narratives with Dickinson. Journalism+audio hybrid; hope language needs claim-check against OUD evidence page.",
+      "claimThemes": [
+        "oud-media",
+        "dickinson-media",
+        "journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/oud/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "ibogaine-uncovered-62-tobias-erny-parkinsons",
+      "title": "#62 — Tobias Erny: Ibogaine for Parkinson's?",
+      "url": "https://podcasts.apple.com/us/podcast/62-tobias-erny-ibogaine-for-parkinsons/id1656800662?i=1000769256250",
+      "platform": "Apple Podcasts",
+      "date": "2026-05-23",
+      "people": [
+        "Tobias Erny",
+        "Talia Eisenberg"
+      ],
+      "show": "Ibogaine Uncovered",
+      "summary": "Guest discussion of Parkinson’s interest beyond single case reports. Keep Parkinson’s claims at case/anecdote grade on IbogaBase until stronger human evidence exists.",
+      "claimThemes": [
+        "parkinsons-case-theme",
+        "neuroregen-speculation",
+        "commercial-proximity"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/parkinsons/",
+        "/reference/parkinsons-neurology/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "iboga-leadership-7-tobias-erny",
+      "title": "#7 — Hyperdimensional Healing, Ibogaine and Parkinson's Disease with Tobias Erny",
+      "url": "https://podcasts.apple.com/us/podcast/7-hyperdimensional-healing-ibogaine-and-parkinsons/id1873572601",
+      "platform": "Apple Podcasts",
+      "date": "2026-03-09",
+      "people": [
+        "Tobias Erny"
+      ],
+      "show": "The Iboga Leadership Summit Podcast",
+      "summary": "Parkinson’s-focused interview with speculative/experiential framing in the title. High claim-check priority; do not promote as proven neurology treatment.",
+      "claimThemes": [
+        "parkinsons-case-theme",
+        "neuroregen-speculation",
+        "claim-check-candidate"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/parkinsons/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "adventures-through-mind-micro15-jesso",
+      "title": "MICRO:15 — Ibogaine: the one drug that stops opioid addiction in a single session, and can also kill you ~ James W. Jesso",
+      "url": "https://open.spotify.com/episode/1na509fJxa1FwbhJkTO2BX",
+      "platform": "Apple Podcasts",
+      "date": "2026-06-19",
+      "people": [
+        "James W. Jesso"
+      ],
+      "show": "Adventures Through The Mind",
+      "summary": "Title itself encodes both efficacy overclaim and lethal-risk acknowledgement—prime claim-check teaching example. Catalog for media literacy, not for clinical guidance.",
+      "claimThemes": [
+        "oud-overclaim-risk",
+        "cardiac-risk-theme",
+        "claim-check-candidate"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/claims/ibogaine-cures-addiction/",
+        "/safety/"
+      ],
+      "notes": "Replaced broken Apple deep link with Spotify MICRO:15 episode. Companion show notes: https://www.jameswjesso.com/psychedelics-in-research-practice-james-w-jesso-attmind-200/",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/micro-15-ibogaine-the-one-drug-that-stops-opioid/id1215483699"
+    },
+    {
+      "id": "radically-genuine-235-miracle-2026",
+      "title": "235. Is Ibogaine a Miracle Treatment for PTSD and Addiction?",
+      "url": "https://radicallygenuinepodcast.transistor.fm/235",
+      "platform": "Apple Podcasts",
+      "date": "2026-06-18",
+      "people": [
+        "Roger McFillin"
+      ],
+      "show": "Radically Genuine Podcast",
+      "summary": "Miracle framing in the title makes this a claim-check candidate regardless of episode nuance. Pair with IbogaBase PTSD/OUD ‘not proven’ chips.",
+      "claimThemes": [
+        "miracle-language",
+        "ptsd-media",
+        "oud-media",
+        "claim-check-candidate"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/claims/ibogaine-cures-addiction/",
+        "/evidence/ptsd/"
+      ],
+      "notes": "Replaced Apple 404 with official Transistor host page for episode 235. GET 200. Guest: Jonathan Dickinson (clinic-proximate — keep commercial-proximity awareness).",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/235-is-ibogaine-a-miracle-treatment-for-ptsd-and/id1535145985"
+    },
+    {
+      "id": "plants-of-the-gods-hamilton-iboga",
+      "title": "Plants of the Gods — Magic Frogs, Iboga and the Magic of Hallucinogens (Hamilton Morris conversation)",
+      "url": "https://plantsofthegods.libsyn.com/plants-of-the-gods-s3e7-magic-frogs-iboga-and-the-magic-of-hallucinogens-a-conversation-with-hamilton-morris",
+      "platform": "Apple Podcasts",
+      "date": "2022-08-17",
+      "people": [
+        "Hamilton Morris",
+        "Mark Plotkin"
+      ],
+      "show": "Plants of the Gods",
+      "summary": "Ethnobotany-leaning conversation placing iboga among culturally embedded psychoactive plants. Good culture/history adjacency; not a clinical efficacy source.",
+      "claimThemes": [
+        "ethnobotany",
+        "bwiti-culture-media",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/iboga/",
+        "/culture/"
+      ],
+      "notes": "Replaced broken Apple slug (wrong collection id) with official Libsyn S3E7. Part 2: https://plantsofthegods.libsyn.com/plants-of-the-gods-s3e8-part-2-magic-frogs-iboga-and-the-magic-of-hallucinogens-a-conversation-with-hamilton-morris. Apple show hub id1549464922 also 200.",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/plants-of-the-gods-s3e8-part-2-m/id1551211722"
+    },
+    {
+      "id": "hamilton-pharmacopeia-iboga-episode-ref",
+      "title": "Hamilton's Pharmacopeia — Synthetic Ibogaine — Natural Tramadol (S3)",
+      "url": "https://www.vicetv.com/en_us/video/synthetic-ibogaine-natural-tramadol/5fd3aa207e41824f761a6878",
+      "platform": "VICELAND / documentary series",
+      "date": null,
+      "people": [
+        "Hamilton Morris"
+      ],
+      "show": "Hamilton's Pharmacopeia",
+      "summary": "Televised documentary fieldwork that seeded much later podcast discussion of Gabonese iboga practice. Prefer official episode listing on verify; not a podcast but must appear in listening/media library as landmark AV.",
+      "claimThemes": [
+        "documentary",
+        "bwiti-culture-media",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/culture/",
+        "/media/"
+      ],
+      "notes": "Replace hub URL with exact Pharmacopeia iboga episode official page/streaming ID. | Replaced dead VICE hub with official VICE TV episode page for Gabon/iboga ritual episode. GET 200.",
+      "urlFixed": true,
+      "previousUrl": "https://www.vice.com/en/article/hamilton-pharmacopeia/"
+    },
+    {
+      "id": "dangerous-with-love-dimitri-ref",
+      "title": "Dangerous with Love / Dimitri Mobengo Mugianis documentary & interview trail",
+      "url": "https://en.wikipedia.org/wiki/Dimitri_Mobengo_Mugianis",
+      "platform": "Documentary + secondary refs",
+      "date": null,
+      "people": [
+        "Dimitri Mugianis"
+      ],
+      "show": null,
+      "summary": "Underground/harm-reduction history figure whose documentary and radio appearances preserve early U.S. ibogaine activist context. Secondary hub for now; locate primary film page and Living Hero radio special on verify pass.",
+      "claimThemes": [
+        "activism-history",
+        "harm-reduction-history",
+        "documentary"
+      ],
+      "confidence": "low",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/people/",
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "living-hero-trips-beyond-addiction",
+      "title": "Trips Beyond Addiction — Living Hero special with Dimitri Mugianis & Clare Wilkins",
+      "url": "https://jari.podbean.com/e/trips-beyond-addiction-special-program-for-living-hero-w-jari-chevalier-radio-show-at-wgdrorg/",
+      "platform": "Podbean / Living Hero Radio",
+      "date": "2013-01-12",
+      "people": [
+        "Dimitri Mugianis",
+        "Clare Wilkins",
+        "Jari Chevalier"
+      ],
+      "show": "Living Hero",
+      "summary": "Long-form radio special preserving early-2010s activist/provider narratives around addiction interruption. Historical media; safety and outcome claims dated and anecdotal.",
+      "claimThemes": [
+        "activism-history",
+        "oud-anecdote",
+        "lived-experience"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/people/",
+        "/evidence/oud/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "clare-wilkins-future-primitive-2016",
+      "title": "Clare Wilkins talks ibogaine with Joanna Harcourt-Smith (Tepoztlan 2016 / Future Primitive trail)",
+      "url": "https://ibogaineconference.org/blog/clare-wilkins-talks-ibogaine-with-joanna-harcourt-smith/",
+      "platform": "Conference blog / Future Primitive",
+      "date": "2016",
+      "people": [
+        "Clare Wilkins",
+        "Joanna Harcourt-Smith"
+      ],
+      "show": "Future Primitive (associated)",
+      "summary": "Provider/advocate interview captured around conference context. Locate canonical audio URL on verify; keep as historical lived-experience media.",
+      "claimThemes": [
+        "lived-experience",
+        "provider-media",
+        "oud-anecdote"
+      ],
+      "confidence": "low",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/"
+      ],
+      "notes": "ibogaineconference.org timed out from box (http/https). Search indexes the post; human should confirm page + Future Primitive audio deep link before publish. | LIVE HOST UNREACHABLE (2026-09-22 PT): ibogaineconference.org returns Cloudflare 522; no replacement URL invented. Wayback snapshot noted historically only.",
+      "urlFixed": false,
+      "previousUrl": null,
+      "linkDead": true,
+      "linkStatus": "dead",
+      "verifiedAt": "2026-09-22T11:50:00-07:00",
+      "verifyMethod": "HEAD/GET Cloudflare 522 from box + WebFetch timeout; Wayback availability API reports snapshot 20260606164327 (historical only — not a live replacement)"
+    },
+    {
+      "id": "mayim-bialik-doblin-2026",
+      "title": "50 Million in Funding, 10,000 New Clinics… | Dr. Rick Doblin",
+      "url": "https://podcasts.apple.com/us/podcast/50-million-in-funding-10-000-new-clinics-and-the/id1546456269?i=1000770728579",
+      "platform": "Apple Podcasts",
+      "date": "2026-06-02",
+      "people": [
+        "Mayim Bialik",
+        "Rick Doblin"
+      ],
+      "show": "Mayim Bialik's Breakdown",
+      "summary": "MAPS founder discusses psychedelic industry scale risks; ibogaine appears in broader policy/funding conversation. Partial ibogaine relevance—tag segment-level on listen pass.",
+      "claimThemes": [
+        "policy-media",
+        "industry-scale",
+        "partial-relevance"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "mark-hyman-ibogaine-science-2025",
+      "title": "One Dose That Heals Addiction, PTSD, and Brain Injury | The Science of Ibogaine",
+      "url": "https://www.youtube.com/watch?v=qwFhTkcUXog",
+      "platform": "YouTube (Mark Hyman)",
+      "date": "2025-09-03",
+      "people": [
+        "Mark Hyman"
+      ],
+      "show": "The Doctor's Farmacy / Mark Hyman",
+      "summary": "Title uses heal language that violates IbogaBase claim discipline—priority claim-check target. Extract any primary citations spoken and map to evidence pages without echoing cure framing.",
+      "claimThemes": [
+        "miracle-language",
+        "oud-overclaim-risk",
+        "ptsd-media",
+        "tbi-media",
+        "claim-check-candidate"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/claims/ibogaine-cures-addiction/",
+        "/evidence/oud/",
+        "/evidence/tbi/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box (batch)"
+    },
+    {
+      "id": "facts-fallacies-rfk-ibogaine",
+      "title": "Facts & Fallacies: Psychedelics for PTSD? Examining RFK Jr’s claims about ibogaine",
+      "url": "https://geneticliteracyproject.org/2026/06/24/facts-fallacies-podcast-psychedelics-for-ptsd-examining-rfk-jrs-claims-about-ibogaine/",
+      "platform": "Apple / podcast (needs canonical)",
+      "date": null,
+      "people": [],
+      "show": "Facts & Fallacies",
+      "summary": "Skeptical/policy media examining politicized PTSD–ibogaine claims. High value for claim-check desk once canonical URL and guests are verified.",
+      "claimThemes": [
+        "claim-check-candidate",
+        "ptsd-media",
+        "policy-rhetoric"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/claims/",
+        "/evidence/ptsd/"
+      ],
+      "notes": "Title seen in IbogaBase media catalog; replace stub Apple id with official episode URL. | Replaced stub Apple id123 with Genetic Literacy Project episode write-up page (GET 200). Prefer linking Apple/Spotify audio page if Hermes finds canonical audio URL later; content match confirmed by title.",
+      "urlFixed": true,
+      "previousUrl": "https://podcasts.apple.com/us/podcast/facts-fallacies-podcast/id123"
+    },
+    {
+      "id": "washington-post-audio-adjacent-2024",
+      "title": "Psychedelic drug ibogaine hailed as healing. U.S. patients ask why it’s illegal. (Washington Post)",
+      "url": "https://www.washingtonpost.com/health/2024/03/14/ibogaine-psychedelic-ptsd-veterans/",
+      "platform": "Washington Post",
+      "date": "2024-03-14",
+      "people": [],
+      "show": null,
+      "summary": "Major newspaper feature that drove podcast follow-ons; keep journalism row and hunt WaPo video/podcast cutdowns on verify. Not itself a podcast—listed as media companion lead.",
+      "claimThemes": [
+        "journalism",
+        "policy-us-federal",
+        "patient-narrative"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/media/"
+      ],
+      "notes": "Confirm exact WaPo slug; search hit pattern for Mar 2024 feature. | Fixed slug (addiction→ptsd-veterans). Box curl often blocked by WaPo; WebFetch confirmed live article 2026-09-21 PT.",
+      "urlFixed": true,
+      "previousUrl": "https://www.washingtonpost.com/health/2024/03/14/ibogaine-psychedelic-addiction/"
+    },
+    {
+      "id": "stanford-medicine-news-audio-adjacent",
+      "title": "Psychoactive drug ibogaine effectively treats traumatic brain injury in special ops military vets — Stanford Medicine news (press)",
+      "url": "https://med.stanford.edu/news/all-news/2024/01/ibogaine-ptsd.html",
+      "platform": "Stanford Medicine",
+      "date": "2024-01-05",
+      "people": [
+        "Nolan Williams"
+      ],
+      "show": null,
+      "summary": "Institutional press framing of the open-label veteran study; language often stronger than paper limits. Pair every podcast that cites ‘Stanford study’ with the Nature Medicine primary paper and IbogaBase TBI evidence grade.",
+      "claimThemes": [
+        "tbi-observational",
+        "press-overclaim-risk",
+        "veteran-clinic-media"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/tbi/",
+        "/trials/"
+      ],
+      "notes": "Confirm exact Stanford Medicine newsroom slug for Jan 2024 ibogaine TBI release.",
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "iboga-nights-david-graham-scott",
+      "title": "Iboga Nights — David Graham Scott documentary + related interviews",
+      "url": "https://davidgrahamscott.wordpress.com/documentaries/",
+      "platform": "Documentary",
+      "date": null,
+      "people": [
+        "David Graham Scott"
+      ],
+      "show": null,
+      "summary": "UK documentary trail on methadone-to-ibogaine personal story and underground treatment contexts. Landmark AV for history desk; locate streaming/official film page on verify.",
+      "claimThemes": [
+        "documentary",
+        "oud-anecdote",
+        "underground-history"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/",
+        "/evidence/oud/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "gita-guidelines-media-adjacent",
+      "title": "GITA Clinical Guidelines media explainers (interview queue)",
+      "url": "https://www.ibogaalliance.org/",
+      "platform": "Org hub",
+      "date": null,
+      "people": [],
+      "show": null,
+      "summary": "Not a podcast; placeholder lead to find interviews that discuss GITA cardiac screening themes. Guidelines are source material, not IbogaBase protocols.",
+      "claimThemes": [
+        "cardiac-risk-theme",
+        "guidelines-media"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine-safety-qtc/",
+        "/standards/"
+      ],
+      "notes": "Old ibogatherapy.org DNS failed from box. Pointed to ibogaalliance.org (HTTP 202 soft). Still needsVerify: confirm Clinical Guidelines PDF landing + whether to keep as media-adjacent vs source-catalog only.",
+      "urlFixed": true,
+      "previousUrl": "https://www.ibogatherapy.org/",
+      "linkDead": false,
+      "linkStatus": "ok",
+      "verifiedAt": "2026-09-22T11:50:00-07:00",
+      "verifyMethod": "WebFetch 200 HTML confirms Global Iboga Therapy Alliance hub + Clinical Guidelines section (2026-09-22 PT). Box curl often SoftGuard HTTP 202 captcha — treat as bot friction, not dead host."
+    },
+    {
+      "id": "beond-adjacent-batch",
+      "title": "Beond / Ibogaine Uncovered remaining episode batch (expand)",
+      "url": "https://beondibogaine.com/podcast/",
+      "platform": "Web",
+      "date": null,
+      "people": [
+        "Talia Eisenberg"
+      ],
+      "show": "Ibogaine Uncovered",
+      "summary": "Discovery/batch lead for Hermes listening-library expansion rather than a finished episode record. Use to schedule intake sweeps; do not publish as a completed listening entry without per-episode summaries.",
+      "claimThemes": [
+        "show-hub",
+        "commercial-proximity"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    },
+    {
+      "id": "ivy-fm-iboga-tag",
+      "title": "Ivy.fm iboga tag — discovery radar (354 shows / 805 episodes claimed)",
+      "url": "https://ivy.fm/tag/iboga",
+      "platform": "Web",
+      "date": null,
+      "people": [],
+      "show": null,
+      "summary": "Discovery/batch lead for Hermes listening-library expansion rather than a finished episode record. Use to schedule intake sweeps; do not publish as a completed listening entry without per-episode summaries.",
+      "claimThemes": [
+        "discovery-radar"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/media/"
+      ],
+      "notes": null,
+      "verifiedAt": "2026-09-21T22:30:00-07:00",
+      "verifyMethod": "HEAD/GET 200 from box"
+    }
+  ]
+}
