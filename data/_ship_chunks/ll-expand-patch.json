@@ -1,0 +1,316 @@
+{
+  "addedIds": [
+    "science-friday-mash-hu-2026",
+    "truelife-779-deborah-mash-2025",
+    "newts-world-859-williams-2025",
+    "psychedelics-today-dickinson-millar-ambio-2025",
+    "third-wave-372-paije-alexandra-west-2026",
+    "telepathy-tapes-ibogaine-inquiries-p1-2026",
+    "telepathy-tapes-ibogaine-inquiries-p3-2026",
+    "telepathy-tapes-ibogaine-inquiries-p5-2026"
+  ],
+  "entries": [
+    {
+      "id": "science-friday-mash-hu-2026",
+      "title": "What is ibogaine, and why is it in the news?",
+      "url": "https://podcasts.apple.com/us/podcast/what-is-ibogaine-and-why-is-it-in-the-news/id73329284?i=1000764351096",
+      "platform": "Apple Podcasts / Science Friday",
+      "date": "2026-04-29",
+      "people": [
+        "Flora Lichtman",
+        "Deborah Mash",
+        "Jane Hu"
+      ],
+      "show": "Science Friday",
+      "summary": "Public-radio segment with pharmacologist Deborah Mash and Microdose journalist Jane Hu on ibogaine’s research history, recent U.S. policy attention, and how it sits inside broader psychedelic medicine coverage. Mash’s company role is disclosed on-air; treat efficacy framing as media, not trial evidence.",
+      "claimThemes": [
+        "history-mash",
+        "policy-media",
+        "oud-anecdote",
+        "cardiac-risk-theme",
+        "public-radio"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/policy/",
+        "/media/listening-library/",
+        "/people/"
+      ],
+      "notes": "Companion show page (also 200): https://www.sciencefriday.com/segments/ibogaine-psychadelics/ — note official slug spelling psychadelics.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "truelife-779-deborah-mash-2025",
+      "title": "Ibogaine for Addiction: What the Science Says About Treatment, Safety & the Future of Psychedelic Medicine | Dr. Deborah Mash",
+      "url": "https://truelife.transistor.fm/779",
+      "platform": "TrueLife / Transistor",
+      "date": "2025-06-03",
+      "people": [
+        "Deborah Mash"
+      ],
+      "show": "TrueLife",
+      "summary": "Long-form researcher interview with Deborah Mash on addiction-interruption research history, safety themes, noribogaine interest, and adjacent neurology questions. Company/developer role is relevant conflict context; keep medical claims labeled media until primary-sourced.",
+      "claimThemes": [
+        "researcher-interview",
+        "oud-anecdote",
+        "noribogaine-media",
+        "cardiac-risk-theme",
+        "history-mash"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/reference/noribogaine-analogs/",
+        "/evidence/",
+        "/media/listening-library/"
+      ],
+      "notes": "Transcript also live at /779/transcript (GET 200).",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "newts-world-859-williams-2025",
+      "title": "Episode 859: Ibogaine – The Science Behind How It Works",
+      "url": "https://podcasts.apple.com/us/podcast/episode-859-ibogaine-the-science-behind-how-it-works/id1452065072?i=1000715617055",
+      "platform": "Apple Podcasts / Newt's World",
+      "date": "2025-07-03",
+      "people": [
+        "Newt Gingrich",
+        "Nolan Williams"
+      ],
+      "show": "Newt's World",
+      "summary": "Stanford psychiatrist Nolan Williams discusses magnesium–ibogaine observational work in veterans with TBI, cardiac-risk mitigation themes, and research pathway talk. Distinct from Newt’s World 858/872/902 already catalogued. Pair efficacy percentages with the primary Nature Medicine paper — media paraphrase is not the trial record.",
+      "claimThemes": [
+        "tbi-observational",
+        "ptsd-media",
+        "cardiac-risk-theme",
+        "magnesium-ibogaine",
+        "veteran-advocacy"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/evidence/",
+        "/reference/ibogaine-safety-qtc/",
+        "/trials/",
+        "/media/listening-library/"
+      ],
+      "relatedPrimary": [
+        {
+          "label": "Magnesium–ibogaine therapy in veterans with TBI (Nature Medicine 2024)",
+          "doi": "10.1038/s41591-023-02705-w",
+          "pmid": "38182784",
+          "url": "https://doi.org/10.1038/s41591-023-02705-w"
+        }
+      ],
+      "notes": "Show notes mirror: https://gingrich360.com/2025/07/03/newts-world-episode-859-ibogaine-the-science-behind-how-it-works/ (GET 200).",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "psychedelics-today-dickinson-millar-ambio-2025",
+      "title": "Ibogaine and the Future of Healing: Trevor Millar & Jonathan Dickinson of Ambio Life Sciences",
+      "url": "https://psychedelicstoday.com/2025/06/16/ibogaine-and-the-future-of-healing-trevor-millar-jonathan-dickinson-of-ambio-life-sciences/",
+      "platform": "Psychedelics Today",
+      "date": "2025-06-16",
+      "people": [
+        "Jonathan Dickinson",
+        "Trevor Millar"
+      ],
+      "show": "Psychedelics Today",
+      "summary": "Interview with Ambio leaders on addiction/neuroregeneration framing, safety/ethics, and scaling questions ahead of Psychedelic Science 2025. Clinic-proximate guests — catalog for claim themes and culture/ethics talk; IbogaBase does not refer listeners to clinics.",
+      "claimThemes": [
+        "researcher-interview",
+        "tbi-observational",
+        "cardiac-risk-theme",
+        "ethics-scaling",
+        "clinic-proximate"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced; clinic-proximate",
+      "relatedIbogaBasePages": [
+        "/reference/ibogaine/",
+        "/reference/ibogaine-safety-qtc/",
+        "/standards/",
+        "/media/listening-library/"
+      ],
+      "notes": "Commercial-proximity awareness (Ambio). Omit clinic referral language in IbogaBase voice.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "third-wave-372-paije-alexandra-west-2026",
+      "title": "Iboga Initiation and the Wisdom of Discomfort — Paije Alexandra West",
+      "url": "https://thethirdwave.co/podcast/episode-372-paije-alexandra-west/",
+      "platform": "Third Wave / The Psychedelic Podcast",
+      "date": "2026-09-07",
+      "people": [
+        "Paul F. Austin",
+        "Paije Alexandra West"
+      ],
+      "show": "The Psychedelic Podcast (Third Wave)",
+      "summary": "Conversation on Bwiti initiation context, root bark versus total-alkaloid extract distinctions as discussed in media, and why ceremony/community framing differs from clinic-only alkaloid models. Guest is a retreat founder — clinic/retreat-proximate; keep as culture/media literacy, not a referral.",
+      "claimThemes": [
+        "bwiti-culture-media",
+        "conservation",
+        "ethics-scaling",
+        "clinic-proximate",
+        "field-journalism"
+      ],
+      "confidence": "medium",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced; clinic/retreat-proximate",
+      "relatedIbogaBasePages": [
+        "/reference/culture-stewardship/",
+        "/culture/",
+        "/reference/iboga/",
+        "/media/listening-library/"
+      ],
+      "notes": "datePublished 2026-09-07 from Third Wave page JSON-LD. Commercial/retreat-proximity awareness (ETÉREO). No dosing detail reproduced.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "telepathy-tapes-ibogaine-inquiries-p1-2026",
+      "title": "Ibogaine Inquiries Part I: Remember the Name",
+      "url": "https://thetelepathytapes.com/podcast/the-telepathy-tapes-s2-e39",
+      "platform": "The Telepathy Tapes official",
+      "date": "2026-07-22",
+      "people": [
+        "Ky Dickens",
+        "Katherine Ellis",
+        "Rick Perry",
+        "Jim Hancock",
+        "Martín Polanco"
+      ],
+      "show": "The Telepathy Tapes",
+      "summary": "Series opener tracing how ibogaine moved from Gabonese ceremonial contexts into U.S. veteran/advocacy and policy conversation after high-profile executive-order coverage. High-reach explainer; advocacy guests overstate efficacy at times — claim-check against primary sources.",
+      "claimThemes": [
+        "policy-media",
+        "veteran-advocacy",
+        "history-lotsof",
+        "oud-overclaim-risk",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/policy/",
+        "/media/listening-library/",
+        "/reference/ibogaine/",
+        "/claims/"
+      ],
+      "notes": "Official series page hub: https://thetelepathytapes.com/podcast (GET 200). Series includes Parts I–V; Parts II/IV not separately shelved this pass.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "telepathy-tapes-ibogaine-inquiries-p3-2026",
+      "title": "Ibogaine Inquiries Part III: The Sacred Roots of Iboga",
+      "url": "https://thetelepathytapes.com/podcast/the-telepathy-tapes-s2-e41",
+      "platform": "The Telepathy Tapes official",
+      "date": "2026-07-27",
+      "people": [
+        "Ky Dickens",
+        "Yann Guignon"
+      ],
+      "show": "The Telepathy Tapes",
+      "summary": "Culture/stewardship-focused episode on Gabonese Bwiti contexts and Blessings of the Forest conservation framing with Yann Guignon. Useful media literacy for indigenous-source pressure; IbogaBase does not reproduce sacred ritual instructions.",
+      "claimThemes": [
+        "bwiti-culture-media",
+        "conservation",
+        "ethics-scaling",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/culture-stewardship/",
+        "/culture/",
+        "/reference/iboga/",
+        "/media/listening-library/"
+      ],
+      "notes": "No sacred ritual detail copied into IbogaBase summaries.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    },
+    {
+      "id": "telepathy-tapes-ibogaine-inquiries-p5-2026",
+      "title": "Ibogaine Inquiries Part V: Before the Forest Is Gone",
+      "url": "https://thetelepathytapes.com/podcast/the-telepathy-tapes-s2-e43",
+      "platform": "The Telepathy Tapes official",
+      "date": "2026-07-31",
+      "people": [
+        "Ky Dickens",
+        "Yann Guignon",
+        "Christine Dindisi"
+      ],
+      "show": "The Telepathy Tapes",
+      "summary": "Conservation and commodification closer: wild harvest pressure, rising prices, and risks when ceremonies spread faster than stewardship capacity. Pair with culture-stewardship reference pages; treat as media advocacy, not a primary ecological survey.",
+      "claimThemes": [
+        "conservation",
+        "bwiti-culture-media",
+        "ethics-scaling",
+        "field-journalism"
+      ],
+      "confidence": "high",
+      "needsVerify": false,
+      "linkStatus": "ok",
+      "mediaClaimLabel": "media/anecdote until primary-sourced",
+      "relatedIbogaBasePages": [
+        "/reference/culture-stewardship/",
+        "/culture/",
+        "/reference/iboga/",
+        "/media/listening-library/"
+      ],
+      "notes": "Series ender; Blessings of the Forest org mentioned in episode notes — not a clinic referral.",
+      "verifiedAt": "2026-09-22T12:20:00-07:00",
+      "verifyMethod": "GET 200 from box (LL expand pass)"
+    }
+  ],
+  "metaUpdate": {
+    "status": "published-v1.2-ll-expand",
+    "entryCount": 60,
+    "verifiedCount": 60,
+    "needsVerifyCount": 0,
+    "linkDeadCount": 1,
+    "lastVerifyPass": "2026-09-22T12:20:00-07:00"
+  },
+  "expandPass": {
+    "addedIds": [
+      "science-friday-mash-hu-2026",
+      "truelife-779-deborah-mash-2025",
+      "newts-world-859-williams-2025",
+      "psychedelics-today-dickinson-millar-ambio-2025",
+      "third-wave-372-paije-alexandra-west-2026",
+      "telepathy-tapes-ibogaine-inquiries-p1-2026",
+      "telepathy-tapes-ibogaine-inquiries-p3-2026",
+      "telepathy-tapes-ibogaine-inquiries-p5-2026"
+    ],
+    "addedCount": 8,
+    "skipped": [
+      "psychedelics-today-feegel-beond-safety-2024 — clinic-promotional overlap with beond-adjacent-batch hub; not uniquely high-signal",
+      "telepathy-tapes Parts II/IV — series coverage via P1/P3/P5 landmarks; avoid padding",
+      "any URL invent / Wayback substitute — forbidden"
+    ],
+    "verifyMethod": "GET 200 from box (LL expand pass)"
+  },
+  "stamp": "LAST REVIEWED 2026-09-22 · 60 CURATED ENTRIES · 59 LIVE URLS OK · 1 DEAD LINK FLAGGED"
+}
